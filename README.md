@@ -11,11 +11,9 @@ then run:
 python main.py 
 ```
 
-It will generate a map (`axenda.html`) with the events for the next month, populated with the data from `gzmusica.geojson`. We provide a demo map of August 2021 (`axenda-demo.html`).
+It will generate a map (`axenda.html`) with the events for the next month, populated with the data from `gzmusica.geojson`. We provide a demo map of August 2021 that you can interact with: open the [raw version of `axenda-demo.html`](https://raw.githubusercontent.com/IgnacioHeredia/gzmusica-map/master/htmls/axenda-demo.html), download with right click + 'Save as' and then open the html file.
 
-_[Click on the image below to open an interactive map for August 01 2021]_
-
-<a href="https://htmlpreview.github.io/?https://github.com/ignacioheredia/gzmusica_map/htmls/axenda-demo.html"><img src="other/demo.png" alt="map"></a>
+![demo map](other/demo.png)
 
 
 Notes
