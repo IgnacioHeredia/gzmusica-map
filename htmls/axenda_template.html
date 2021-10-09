@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>GZmusica map</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="robots" content="noindex, nofollow" />
+      
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <!-- Bootstrap scripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    
+    <!-- FontAwesome-->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.0/css/all.css" integrity="sha384-73lvm+n3qtrHBHjfLuMY7kIL3CdwrRc5jqCtzWASs6MshmR6Tq2veVBC5OVkSwEF" crossorigin="anonymous">
+    
+    <!-- Mapbox-->
+    <script src="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.css" rel="stylesheet" />
+
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Raleway:400,300,700,500");
+
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: #D4DADC;
+        font-family: "Raleway", sans-serif !important;
+      }
+
+      #map {
+        position: absolute;
+        top: 45px;
+        bottom: 0;
+        width: 100%;
+      }
+
+      /* Marker tweaks */
+      .maplibregl-popup-close-button {
+        display: none;
+      }
+
+      .maplibregl-popup-content h4 {
+        font: 600 15px/22px 'Source Sans Pro', 'Helvetica Neue', sans-serif;
+        font-weight: 700;
+        margin-bottom: -15px;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div class="col text-center">
+      <button id="filter-today" class="btn btn-dark mt-1 mb-1">Today</button>
+      <button id="filter-tomorrow" class="btn btn-dark mt-1 mb-1">Tomorrow</button>
+      <button id="filter-week" class="btn btn-dark mt-1 mb-1">Next 7 days</button>
+      <button id="filter-month" class="btn btn-dark mt-1 mb-1">Next 30 days</button>
+    </div>
+    
+    <div id="map"></div>
+
+    <script>
+    
+      // Define the map syle (OpenStreetMap raster tiles)
+      const style = {
+        "version": 8,
+        "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf", // issue --> https://github.com/mapbox/mapbox-gl-js/issues/4808    
+        "sources": {
+          "osm": {
+            "type": "raster",
+            "tiles": [
+              // 'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png'
+              // 'https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'
+              'https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png'
+              // 'http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+              // 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+              // 'https://stamen-tiles-b.a.ssl.fastly.net/toner/{z}/{x}/{y}.png'
+            ],
+            "tileSize": 256,
+            "attribution": "&copy; Carto and OpenStreetMap Contributors",
+            "maxzoom": 19
+          }
+        },
+        "layers": [{
+          "id": "osm",
+          "type": "raster",
+          "source": "osm" // This must match the source key above
+        }]
+      };
+        
+      const map = new maplibregl.Map({
+        container: "map",
+        // style: "mapbox://styles/mapbox/dark-v10",
+        // style: 'https://demotiles.maplibre.org/style.json', 
+        // style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
+        // style: 'https://openmaptiles.github.io/positron-gl-style/style-cdn.json',
+        style: style,
+        center: [-7.857643, 42.871338],
+        zoom: 8
+      });
+
+      // Disable map rotation
+      map.dragRotate.disable();
+      map.touchZoomRotate.disableRotation();
+
+      // Avoid fractional zoom that makes maps blurry
+      map.scrollZoom.disable();
+      map.addControl(new maplibregl.NavigationControl());
+
+      // Add fullscreen button
+      map.addControl(new maplibregl.FullscreenControl());
+
+      map.on("load", () => {
+        map.addSource("earthquakes", {
+            type: "geojson",
+            data: {{ geojson }},
+            // data: "https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson",
+            cluster: !0,
+            clusterMaxZoom: 14,
+            clusterRadius: 50
+          }), map.addLayer({
+            id: "clusters",
+            type: "circle",
+            source: "earthquakes",
+            filter: ["has", "point_count"],
+            paint: {
+              "circle-color": ["step", ["get", "point_count"], "#51bbd6", 10, "#ed9f32", 20, "#f28cb1"],
+              "circle-radius": ["step", ["get", "point_count"], 20, 100, 30, 750, 40]
+            }
+          }), map.addLayer({
+            id: "cluster-count",
+            type: "symbol",
+            source: "earthquakes",
+            filter: ["has", "point_count"],
+            layout: {
+              "text-field": "{point_count_abbreviated}",
+              // "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
+              'text-font': ['Open Sans Bold'],
+              "text-size": 12
+            }
+          }), map.addLayer({
+            id: "unclustered-point",
+            type: "circle",
+            source: "earthquakes",
+            filter: ["!", ["has", "point_count"]],
+            paint: {
+              "circle-color": "#11b4da",
+              "circle-radius": 7,
+              "circle-stroke-width": 2,
+              "circle-stroke-color": "#0b5975"
+            }
+          }), map.on("click", "clusters", e => {
+            const t = map.queryRenderedFeatures(e.point, {
+                layers: ["clusters"]
+              }),
+              a = t[0].properties.cluster_id;
+            map.getSource("earthquakes").getClusterExpansionZoom(a, (e, a) => {
+              e || map.easeTo({
+                center: t[0].geometry.coordinates,
+                zoom: a
+              })
+            })
+          }), map.on("click", "unclustered-point", e => {
+            const t = e.features[0].geometry.coordinates.slice(),
+              name = e.features[0].properties.name,
+              location = e.features[0].properties.location,
+              link = e.features[0].properties.link,
+              dates = e.features[0].properties.dates;
+            for (; Math.abs(e.lngLat.lng - t[0]) > 180;) t[0] += e.lngLat.lng > t[0] ? 360 : -360;
+            (new maplibregl.Popup).setLngLat(t).setHTML(`            
+            <h4>${name}</h4><br>
+            <i class="fa fa-map-marker" aria-hidden="true"></i> ${location}<br>
+            <a href="${link}"><i class="fa fa-external-link" aria-hidden="true"></i> Webpage</a><br>
+            <i class="fa fa-calendar" aria-hidden="true"></i> ${dates}
+            `).addTo(map)
+          }), map.on("mouseenter", "clusters", () => {
+            map.getCanvas().style.cursor = "pointer"
+          }), map.on("mouseleave", "clusters", () => {
+            map.getCanvas().style.cursor = ""
+          }),
+
+          // Filter data by date buttons
+          document.getElementById('filter-today').addEventListener('click', function() {
+            map.getSource('earthquakes').setData({{ today_geojson }});
+          }),
+          document.getElementById('filter-tomorrow').addEventListener('click', function() {
+            map.getSource('earthquakes').setData({{ tomorrow_geojson }});
+          }),
+          document.getElementById('filter-week').addEventListener('click', function() {
+            map.getSource('earthquakes').setData({{ week_geojson }});
+          }),
+          document.getElementById('filter-month').addEventListener('click', function() {
+            map.getSource('earthquakes').setData({{ geojson }});
+          });
+      })
+    </script>
+  </body>
+</html>
