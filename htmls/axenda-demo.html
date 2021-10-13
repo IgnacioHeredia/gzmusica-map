@@ -106,8 +106,12 @@
       map.touchZoomRotate.disableRotation();
 
       // Avoid fractional zoom that makes maps blurry
-      map.scrollZoom.disable();
+      // related issue: https://github.com/mapbox/mapbox-gl-js/issues/1695#issuecomment-478392580
+      // --> suggested answer works but zooms on center of map, not on mouse pointer; therefore poor UX
+      // better setWheelZoomRate(1) and disable touch zoom  
       map.addControl(new maplibregl.NavigationControl());
+      map.scrollZoom.setWheelZoomRate(1);
+      map.touchZoomRotate.disable();
 
       // Add fullscreen button
       map.addControl(new maplibregl.FullscreenControl());
