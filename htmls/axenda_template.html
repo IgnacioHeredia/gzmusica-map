@@ -48,6 +48,12 @@
         font-weight: 700;
         margin-bottom: -15px;
       }
+      
+      /* Bootstrap button */
+      .btn.btn-dark:focus { 
+        background-color: #85001c
+      }
+
     </style>
 
   </head>
@@ -56,7 +62,7 @@
       <button id="filter-today" class="btn btn-dark mt-1 mb-1">Today</button>
       <button id="filter-tomorrow" class="btn btn-dark mt-1 mb-1">Tomorrow</button>
       <button id="filter-week" class="btn btn-dark mt-1 mb-1">Next 7 days</button>
-      <button id="filter-month" class="btn btn-dark mt-1 mb-1">Next 30 days</button>
+      <button id="filter-month" class="btn btn-dark mt-1 mb-1" autofocus="autofocus">Next 30 days</button>
     </div>
     
     <div id="map"></div>
@@ -79,7 +85,7 @@
               // 'https://stamen-tiles-b.a.ssl.fastly.net/toner/{z}/{x}/{y}.png'
             ],
             "tileSize": 256,
-            "attribution": "&copy; Carto and OpenStreetMap Contributors",
+            "attribution": "&copy; Carto and OpenStreetMap Contributors | Created by Ignacio Heredia",
             "maxzoom": 19
           }
         },

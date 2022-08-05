@@ -1,6 +1,5 @@
 import datetime
 import json
-import os
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
@@ -30,17 +29,17 @@ def filter_geojson(geojson, filter_dates):
 def format_dates(geojson):
     """
     Transform
-        [Sunday10 October, Monday11 October]
+        [Sunday 10 October, Monday 11 October]
     to
-        Sunday10, Monday 11 [October]
+        Sunday 10, Monday 11 [October]
     """
-    
+
     for feature in geojson['features']:
         dates = feature['properties']['dates']
 
         date_str = ''
-        days = [i.split(' ')[0] for i in dates]
-        months = [i.split(' ')[1] for i in dates] 
+        days = [' '.join(i.split(' ')[:2]) for i in dates]
+        months = [i.split(' ')[2] for i in dates]
 
         for i in range(len(days)):
             date_str += days[i]
@@ -49,9 +48,9 @@ def format_dates(geojson):
                 date_str += f' [{months[i]}] '
             else:
                 date_str += ', '
-                
+
         feature['properties']['dates'] = date_str
-        
+
     return geojson
 
 
@@ -66,20 +65,24 @@ def generate_html():
 #     today = datetime.date(2021, 8, 1)
 
     env = Environment(loader=FileSystemLoader(main_dir / 'htmls'),
-                             trim_blocks=True)
+                      trim_blocks=True)
     template = env.get_template('axenda_template.html')
-    html_str = template.render(geojson=geojson,
-                               today_geojson=filter_geojson(geojson,
-                                                            [today.strftime("%A%d")]),
-                               tomorrow_geojson=filter_geojson(geojson,
-                                                               [(today + datetime.timedelta(days=1)).strftime("%A%d")]),
-                               week_geojson=filter_geojson(geojson,
-                                                           [(today + datetime.timedelta(days=i)).strftime("%A%d") for i in range(0, 7)]),
-                              )
+    html_str = template.render(
+        geojson=geojson,
+        today_geojson=filter_geojson(
+            geojson,
+            [today.strftime("%A %d")]),
+        tomorrow_geojson=filter_geojson(
+            geojson,
+            [(today + datetime.timedelta(days=1)).strftime("%A %d")]),
+        week_geojson=filter_geojson(
+            geojson,
+            [(today + datetime.timedelta(days=i)).strftime("%A %d") for i in range(0, 7)]),
+    )
 
     with open(main_dir / 'htmls' / 'axenda.html', 'w') as f:
         f.write(html_str)
-        
+
 
 if __name__ == "__main__":
     generate_html()

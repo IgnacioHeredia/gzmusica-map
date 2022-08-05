@@ -2,7 +2,6 @@ import datetime
 import json
 import os
 from random import random
-import re
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -34,10 +33,10 @@ def randomize(*coord):
 
 def get_coord(place):
     url = 'https://nominatim.openstreetmap.org/search'
-    
+
     params = {'country': 'Spain',
               'state': 'Galicia',
-              'format': 'json',}    
+              'format': 'json',}
     plist = place.split('(')
     params['city'] = plist[0].split(',')[0].strip()
     if len(plist) == 2:
@@ -45,22 +44,22 @@ def get_coord(place):
 
     r = requests.get(url, params=params)
     r = r.json()
-    
+
     if not r:
         # try variation
         params['city'] = plist[0].split(',')[-1].strip()
         r = requests.get(url, params=params)
         r = r.json()
     if not r:
-        # try non-structured query 
+        # try non-structured query
         r = requests.get(url, params={'q': place, 'format': 'json',})
         r = r.json()
     if r:
         return r[0]['lat'], r[0]['lon']
     else:
-        raise Exception(f'{place} not found')  
+        raise Exception(f'{place} not found')
 
-            
+
 # import numpy as np
 # @randomize
 # def get_coord(place):
@@ -87,32 +86,38 @@ def download_events():
         places = {}
 
     s = requests.Session()
-    base_url = 'http://www.gzmusica.com'
-    headers={
+    base_url = 'https://www.gzmusica.com'
+    headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
             }
 
     for i in range(0, week_num + 1):
         print(f'Processing week {i+1} ...')
 
-        tmpdate = dstart + datetime.timedelta(days=7*i) 
+        tmpdate = dstart + datetime.timedelta(days=7*i)
         r = s.get(
-            url= base_url + f'/axenda/esta-semana/week.listevents/{tmpdate.year}/{tmpdate.month}/{tmpdate.day}/-.html', 
+            url=base_url + f'/axenda/eventsbyweek/{tmpdate.year}/{tmpdate.month}/{tmpdate.day}/-.html',
             headers=headers,
             )
         content = BeautifulSoup(r.text, 'lxml')
-        table = content.find('table', attrs={'class':'ev_table'}).findAll('tr')[1:]
+        # table = content.find('table', attrs={'class': 'ev_table'}).findAll('tr')[1:]
 
-        for row in table:
+        dates = content.findAll('a', attrs={'class': 'ev_link_weekday'})  # dates in the week
+        day_data = content.findAll('ul', attrs={'class': 'ev_ul'})  # events each day
 
-            date = row.text.split('\n')[0]
-            datef = datetime.datetime.strptime(date, "%A%d %B").date()
+        for date, day_data in zip(dates, day_data):
+
+            date = date.text.replace("\n", "").replace("\t", "")
+            datef = datetime.datetime.strptime(date, "%d %B").date()
             datef = datef.replace(year=dstart.year)
-            if datef < dstart or datef > dstart + datetime.timedelta(days=30):  # remove past days or days above 30+ limit
-                print(f'skipping {date}')
-                continue
+            date = f"{datef.strftime('%A')} {date}"  # add weekday to date
 
-            events = row.find_all('li', attrs={'class':'ev_td_li'})
+            if datef < dstart or datef > dstart + datetime.timedelta(days=30):  # remove past days or days above 30+ limit
+                print(f'  skipping {date}')
+                continue
+            print(f'  processing {date}')
+
+            events = day_data.find_all('li', attrs={'class': 'ev_td_li'})
             if not events:
                 continue
 
@@ -138,7 +143,7 @@ def download_events():
                             lat, lon = get_coord(location)
                             places[location] = {'lat': lat,
                                                 'lon': lon,
-                                               }
+                                                }
                         except Exception as e:
                             print(e)
                             continue
@@ -149,7 +154,7 @@ def download_events():
                                   'lat': lat,
                                   'lon': lon,
                                   'dates': [date],
-                                 }
+                                  }
 
     # Save places to database
     with open(main_dir / 'data' / 'places.json', 'w') as f:
@@ -176,7 +181,7 @@ def download_events():
 
     with open(main_dir / 'data' / 'gzmusica.geojson', 'w') as f:
         json.dump(geojson, f, ensure_ascii=False, indent=4)
-        
-        
+
+
 if __name__ == "__main__":
     download_events()
