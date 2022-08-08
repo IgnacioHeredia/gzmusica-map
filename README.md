@@ -1,5 +1,7 @@
 # Gzmusica map
 
+[![Daily map refresh](https://github.com/IgnacioHeredia/gzmusica-map/actions/workflows/main.yml/badge.svg)](https://github.com/IgnacioHeredia/gzmusica-map/actions/workflows/main.yml)
+
 This is the source code to generate a map of scheduled events from [Gzmusica](http://www.gzmusica.com/) (Galician folk music gigs). It uses [Maplibre](https://maplibre.org/), an open source fork of [Mapbox](https://www.mapbox.com/), and open raster tiles from Carto/OSM (more options, [here](https://codepen.io/epidemiks/full/vKZQOz) and [here](https://wiki.openstreetmap.org/wiki/Tile_servers)).
 
  To generate an up-to-date map, first install the requirements:
