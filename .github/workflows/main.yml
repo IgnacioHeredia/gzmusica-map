@@ -1,4 +1,4 @@
-name: Refresh map
+name: Daily map refresh
 on:
   schedule:
      # run everyday a 6am
