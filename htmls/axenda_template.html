@@ -5,21 +5,21 @@
     <title>GZmusica map</title>
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
     <meta name="robots" content="noindex, nofollow" />
-      
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
+
     <!-- Bootstrap scripts -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    
+
     <!-- FontAwesome-->
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.0/css/all.css" integrity="sha384-73lvm+n3qtrHBHjfLuMY7kIL3CdwrRc5jqCtzWASs6MshmR6Tq2veVBC5OVkSwEF" crossorigin="anonymous">
-    
+
     <!-- Mapbox-->
-    <script src="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.js"></script>
-    <link href="https://unpkg.com/maplibre-gl@1.15.2/dist/maplibre-gl.css" rel="stylesheet" />
+    <script src='https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.js'></script>
+    <link href='https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.css' rel='stylesheet' />
 
     <style>
       @import url("https://fonts.googleapis.com/css?family=Raleway:400,300,700,500");
@@ -48,9 +48,9 @@
         font-weight: 700;
         margin-bottom: -15px;
       }
-      
+
       /* Bootstrap button */
-      .btn.btn-dark:focus { 
+      .btn.btn-dark:focus {
         background-color: #85001c
       }
 
@@ -64,15 +64,15 @@
       <button id="filter-week" class="btn btn-dark mt-1 mb-1">Next 7 days</button>
       <button id="filter-month" class="btn btn-dark mt-1 mb-1" autofocus="autofocus">Next 30 days</button>
     </div>
-    
+
     <div id="map"></div>
 
     <script>
-    
+
       // Define the map syle (OpenStreetMap raster tiles)
       const style = {
         "version": 8,
-        "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf", // issue --> https://github.com/mapbox/mapbox-gl-js/issues/4808    
+        "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf", // issue --> https://github.com/mapbox/mapbox-gl-js/issues/4808
         "sources": {
           "osm": {
             "type": "raster",
@@ -95,11 +95,11 @@
           "source": "osm" // This must match the source key above
         }]
       };
-        
+
       const map = new maplibregl.Map({
         container: "map",
         // style: "mapbox://styles/mapbox/dark-v10",
-        // style: 'https://demotiles.maplibre.org/style.json', 
+        // style: 'https://demotiles.maplibre.org/style.json',
         // style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
         // style: 'https://openmaptiles.github.io/positron-gl-style/style-cdn.json',
         style: style,
@@ -114,7 +114,7 @@
       // Avoid fractional zoom that makes maps blurry
       // related issue: https://github.com/mapbox/mapbox-gl-js/issues/1695#issuecomment-478392580
       // --> suggested answer works but zooms on center of map, not on mouse pointer; therefore poor UX
-      // better setWheelZoomRate(1) and disable touch zoom  
+      // better setWheelZoomRate(1) and disable touch zoom
       map.addControl(new maplibregl.NavigationControl());
       map.scrollZoom.setWheelZoomRate(1);
       map.touchZoomRotate.disable();
@@ -147,7 +147,7 @@
             layout: {
               "text-field": "{point_count_abbreviated}",
               // "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
-              'text-font': ['Open Sans Bold'],
+              "text-font": ["Open Sans Bold"],
               "text-size": 12
             }
           }), map.addLayer({
@@ -179,7 +179,7 @@
               link = e.features[0].properties.link,
               dates = e.features[0].properties.dates;
             for (; Math.abs(e.lngLat.lng - t[0]) > 180;) t[0] += e.lngLat.lng > t[0] ? 360 : -360;
-            (new maplibregl.Popup).setLngLat(t).setHTML(`            
+            (new maplibregl.Popup).setLngLat(t).setHTML(`
             <h4>${name}</h4><br>
             <i class="fa fa-map-marker" aria-hidden="true"></i> ${location}<br>
             <a href="${link}"><i class="fa fa-external-link" aria-hidden="true"></i> Webpage</a><br>
