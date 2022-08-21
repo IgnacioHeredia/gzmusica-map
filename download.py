@@ -36,7 +36,7 @@ def get_coord(place):
 
     params = {'country': 'Spain',
               'state': 'Galicia',
-              'format': 'json',}
+              'format': 'json'}
     plist = place.split('(')
     params['city'] = plist[0].split(',')[0].strip()
     if len(plist) == 2:
@@ -50,10 +50,32 @@ def get_coord(place):
         params['city'] = plist[0].split(',')[-1].strip()
         r = requests.get(url, params=params)
         r = r.json()
+    if not r and 'county' in params.keys():
+        # try variation
+        params['city'] = params['county']
+        params['county'] = ''
+        r = requests.get(url, params=params)
+        r = r.json()
     if not r:
         # try non-structured query
-        r = requests.get(url, params={'q': place, 'format': 'json',})
+        r = requests.get(url, params={'q': place, 'format': 'json'})
         r = r.json()
+    if r:
+        # prioritize **places** in OSM results over **boundaries**
+        r1 = [i for i in r if i['class'] == 'place']
+        r2 = [i for i in r if i['class'] == 'boundary']
+        r = r1 + r2
+    if not r:
+        # try photon which is tolerant to typos
+        r = requests.get('https://photon.komoot.io/api',
+                         params={
+                             'q': place,
+                             'limit': 1,
+                         })
+        r = r.json()['features']
+        if r:
+            r = r[0]['geometry']['coordinates']
+            r = [{'lon': r[0], 'lat': r[1]}]
     if r:
         return r[0]['lat'], r[0]['lon']
     else:
@@ -126,10 +148,14 @@ def download_events():
                 href = base_url + event.find('a')['href']
                 dtext = event.text.split('::')
                 name = dtext[0].split('\t')[-1].split('\xa0')[0]
+
                 location = dtext[-1].split('\xa0')[1]
+                if not location:
+                    location = dtext[-2].split('\xa0')[1]  # try with first part of text
                 location = location.split(' - ')[-1]  # keep only city, as more detailed is usually not found in Nominatim
                 location = location.strip()
                 if not location:
+                    print(f'    Event not located: {dtext}')
                     continue
 
                 if name in data.keys():  # the event already exists, it's just new date
