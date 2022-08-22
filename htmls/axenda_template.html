@@ -24,18 +24,15 @@
     <style>
       @import url("https://fonts.googleapis.com/css?family=Raleway:400,300,700,500");
 
-      body {
-        margin: 0;
-        padding: 0;
-        background-color: #D4DADC;
-        font-family: "Raleway", sans-serif !important;
-      }
-
       #map {
         position: absolute;
-        top: 45px;
+        top: 0;
         bottom: 0;
         width: 100%;
+      }
+
+      #menu {
+        font-family: "Raleway", sans-serif !important;
       }
 
       /* Marker tweaks */
@@ -76,34 +73,37 @@
 
   </head>
   <body>
-    <div class="col text-center">
-
-      <!-- On big screens we show un-collapsed buttons -->
-      <div class="HideOnMobile">
-        <button class="btn btn-dark mt-1 mb-1 filter-today">Today</button>
-        <button class="btn btn-dark mt-1 mb-1 filter-tomorrow">Tomorrow</button>
-        <button class="btn btn-dark mt-1 mb-1 filter-week">Next 7 days</button>
-        <button class="btn btn-dark mt-1 mb-1 filter-month" autofocus="autofocus">Next 30 days</button>
-      </div>
-
-      <!-- On small screens we show buttons collapsed in a single dropdown -->
-      <div class="ShowOnMobile">
-        <div class="dropdown">
-          <button class="btn btn-dark mt-1 mb-1 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Time range
-          </button>
-          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <a class="dropdown-item filter-today">Today</a>
-            <a class="dropdown-item filter-tomorrow">Tomorrow</a>
-            <a class="dropdown-item filter-week">Next 7 days</a>
-            <a class="dropdown-item filter-month">Next 30 days</a>
-          </div>
-        </div>
-      </div>
-
-    </div>
 
     <div id="map"></div>
+
+    <div id="menu">
+      <div class="col text-center">
+
+        <!-- On big screens we show un-collapsed buttons -->
+        <div class="HideOnMobile">
+          <button class="btn btn-dark mt-1 mb-1 filter-today">Today</button>
+          <button class="btn btn-dark mt-1 mb-1 filter-tomorrow">Tomorrow</button>
+          <button class="btn btn-dark mt-1 mb-1 filter-week">Next 7 days</button>
+          <button class="btn btn-dark mt-1 mb-1 filter-month" autofocus="autofocus">Next 30 days</button>
+        </div>
+
+        <!-- On small screens we show buttons collapsed in a single dropdown -->
+        <div class="ShowOnMobile">
+          <div class="dropdown">
+            <button class="btn btn-dark mt-1 mb-1 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Time range
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item filter-today">Today</a>
+              <a class="dropdown-item filter-tomorrow">Tomorrow</a>
+              <a class="dropdown-item filter-week">Next 7 days</a>
+              <a class="dropdown-item filter-month">Next 30 days</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
 
     <script>
 
