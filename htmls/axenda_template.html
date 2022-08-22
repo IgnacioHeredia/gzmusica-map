@@ -54,10 +54,21 @@
         background-color: #85001c
       }
 
-      /* Make buttons smaller on smartphones */
       @media (max-width: 500px) {
-        .btn {
-            font-size: 10px;
+        .HideOnMobile {
+          display: none;
+        }
+        .ShowOnMobile {
+          display: initial;
+        }
+      }
+
+      @media (min-width: 500px) {
+        .HideOnMobile {
+          display: initial;
+        }
+        .ShowOnMobile {
+          display: none;
         }
       }
 
@@ -66,17 +77,49 @@
   </head>
   <body>
     <div class="col text-center">
-      <button id="filter-today" class="btn btn-dark mt-1 mb-1">Today</button>
-      <button id="filter-tomorrow" class="btn btn-dark mt-1 mb-1">Tomorrow</button>
-      <button id="filter-week" class="btn btn-dark mt-1 mb-1">Next 7 days</button>
-      <button id="filter-month" class="btn btn-dark mt-1 mb-1" autofocus="autofocus">Next 30 days</button>
+
+      <!-- On big screens we show un-collapsed buttons -->
+      <div class="HideOnMobile">
+        <button class="btn btn-dark mt-1 mb-1 filter-today">Today</button>
+        <button class="btn btn-dark mt-1 mb-1 filter-tomorrow">Tomorrow</button>
+        <button class="btn btn-dark mt-1 mb-1 filter-week">Next 7 days</button>
+        <button class="btn btn-dark mt-1 mb-1 filter-month" autofocus="autofocus">Next 30 days</button>
+      </div>
+
+      <!-- On small screens we show buttons collapsed in a single dropdown -->
+      <div class="ShowOnMobile">
+        <div class="dropdown">
+          <button class="btn btn-dark mt-1 mb-1 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Time range
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item filter-today">Today</a>
+            <a class="dropdown-item filter-tomorrow">Tomorrow</a>
+            <a class="dropdown-item filter-week">Next 7 days</a>
+            <a class="dropdown-item filter-month">Next 30 days</a>
+          </div>
+        </div>
+      </div>
+
     </div>
 
     <div id="map"></div>
 
     <script>
 
-      // Define the map syle (OpenStreetMap raster tiles)
+      // Responsiveness for smartphones
+      if (screen.width < 500) {
+        initial_zoom = 6;  // the smaller the smartphone, the smaller the initial zoom
+        button_group = 1;  // small screens use the dropdown to filter dates
+      } else if (screen.width < 1000) {
+        initial_zoom = 7;
+        button_group = 0;  // big screens use the un-collapsed buttons to filter dates
+      } else {
+        initial_zoom = 8;
+        button_group = 0;
+      }
+
+      // Define the map style (OpenStreetMap raster tiles)
       const style = {
         "version": 8,
         "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf", // issue --> https://github.com/mapbox/mapbox-gl-js/issues/4808
@@ -110,8 +153,8 @@
         // style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
         // style: 'https://openmaptiles.github.io/positron-gl-style/style-cdn.json',
         style: style,
-        center: [-7.857643, 42.871338],
-        zoom: 8
+        center: [-8.0, 42.756501],
+        zoom: initial_zoom
       });
 
       // Disable map rotation
@@ -199,16 +242,16 @@
           }),
 
           // Filter data by date buttons
-          document.getElementById('filter-today').addEventListener('click', function() {
+          document.getElementsByClassName('filter-today')[button_group].addEventListener('click', function() {
             map.getSource('earthquakes').setData({{ today_geojson }});
           }),
-          document.getElementById('filter-tomorrow').addEventListener('click', function() {
+          document.getElementsByClassName('filter-tomorrow')[button_group].addEventListener('click', function() {
             map.getSource('earthquakes').setData({{ tomorrow_geojson }});
           }),
-          document.getElementById('filter-week').addEventListener('click', function() {
+          document.getElementsByClassName('filter-week')[button_group].addEventListener('click', function() {
             map.getSource('earthquakes').setData({{ week_geojson }});
           }),
-          document.getElementById('filter-month').addEventListener('click', function() {
+          document.getElementsByClassName('filter-month')[button_group].addEventListener('click', function() {
             map.getSource('earthquakes').setData({{ geojson }});
           });
       })
