@@ -1,4 +1,1031 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.911538186909423",
+                    "43.2516807054495"
+                ]
+            },
+            "properties": {
+                "name": "40º Festiletras",
+                "location": "O Couto, Cospindo (Ponteceso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21626/-/40-festiletras.html",
+                "dates": [
+                    "Saturday 03 September",
+                    "Sunday 04 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.055775761947837",
+                    "42.77499823924929"
+                ]
+            },
+            "properties": {
+                "name": "Abril",
+                "location": "Muros",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22069/-/abril.html",
+                "dates": [
+                    "Saturday 03 September",
+                    "Friday 30 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.429334528679262",
+                    "42.97855087035709"
+                ]
+            },
+            "properties": {
+                "name": "Banda Xangai",
+                "location": "Neda",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22148/-/banda-xangai.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.623279907614279",
+                    "43.01511541798801"
+                ]
+            },
+            "properties": {
+                "name": "Devalo + Quant",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22151/-/devalo-quant.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.777802663136859",
+                    "42.26479207059698"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Cristo",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22229/-/festas-do-cristo.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.517548665845163",
+                    "42.9806128681666"
+                ]
+            },
+            "properties": {
+                "name": "Festival Céltico San Amaro",
+                "location": "San Amaro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22230/-/festival-celtico-san-amaro.html",
+                "dates": [
+                    "Saturday 03 September",
+                    "Sunday 04 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.93976588685599",
+                    "42.60465238943272"
+                ]
+            },
+            "properties": {
+                "name": "Festival Entre Bateas",
+                "location": "A Pobra do Caramiñal",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21304/-/festival-entre-bateas.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.357719732581229",
+                    "43.66228467428511"
+                ]
+            },
+            "properties": {
+                "name": "Festival Osa do Mar",
+                "location": "Burela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21367/-/festival-osa-do-mar.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.508833049027932",
+                    "42.52535207705927"
+                ]
+            },
+            "properties": {
+                "name": "Festival do Paradiso",
+                "location": "Monforte de Lemos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22223/-/festival-do-paradiso.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.62386471548306",
+                    "43.0140404356816"
+                ]
+            },
+            "properties": {
+                "name": "Flores Rock",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22136/-/flores-rock.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.619800907637497",
+                    "42.16282356131059"
+                ]
+            },
+            "properties": {
+                "name": "Los Jinetes del Trópico",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21868/-/los-jinetes-del-tropico.html",
+                "dates": [
+                    "Saturday 03 September",
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.83674187050212",
+                    "43.164016558442434"
+                ]
+            },
+            "properties": {
+                "name": "Parga Rock",
+                "location": "Parga (Guitiriz)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22166/-/parga-rock.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.218142846920882",
+                    "43.10737933669751"
+                ]
+            },
+            "properties": {
+                "name": "Susana Seivane + Andrés Balado",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22063/-/susana-seivane-andres-balado.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.75886151822296",
+                    "42.61560479246943"
+                ]
+            },
+            "properties": {
+                "name": "X Ameixa Rock",
+                "location": "O Carril (Vilagarcía de Arousa)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22102/-/x-ameixa-rock.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.910574594790022",
+                    "43.251673630120564"
+                ]
+            },
+            "properties": {
+                "name": "XL Festiletras",
+                "location": "O Couto, Cospindo (Ponteceso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21105/-/xl-festiletras.html",
+                "dates": [
+                    "Saturday 03 September",
+                    "Sunday 04 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.760155072360382",
+                    "41.97580436165944"
+                ]
+            },
+            "properties": {
+                "name": "I Serán de Outono",
+                "location": "Estás (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21931/-/i-seran-de-outono.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.497423932192575",
+                    "42.08329258985116"
+                ]
+            },
+            "properties": {
+                "name": "34 Festival da Poesía do Condado",
+                "location": "Salvaterra de Mño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21375/-/34-festival-da-poesia-do-condado.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.431294654194245",
+                    "43.25572123236768"
+                ]
+            },
+            "properties": {
+                "name": "III Festival Cultural Pozomouro ",
+                "location": "Muimenta (Cospeito)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22060/-/iii-festival-cultural-pozomouro.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.157624711302152",
+                    "43.4997652256537"
+                ]
+            },
+            "properties": {
+                "name": "Noite de Bolos",
+                "location": "Xuvia, Neda (Neda)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22228/-/noite-de-bolos.html",
+                "dates": [
+                    "Saturday 03 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.653018168430702",
+                    "42.19771217140102"
+                ]
+            },
+            "properties": {
+                "name": "XXIX Festa do Monte Tameiga-Mos e XXX Aniversario CSCD As Pedriñas",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22233/-/xxix-festa-do-monte-tameiga-mos-e-xxx-aniversario-cscd-as-pedrinas.html",
+                "dates": [
+                    "Sunday 04 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.982437836958835",
+                    "42.41726915069726"
+                ]
+            },
+            "properties": {
+                "name": "Magín Blanco",
+                "location": "O Barco de Valdeorras",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22155/-/magin-blanco.html",
+                "dates": [
+                    "Sunday 04 September",
+                    "Saturday 17 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.6084886245984",
+                    "42.284426677233284"
+                ]
+            },
+            "properties": {
+                "name": "Tanto Nos Ten",
+                "location": "Redondela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21928/-/tanto-nos-ten.html",
+                "dates": [
+                    "Sunday 04 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.787638865856625",
+                    "42.58882391770548"
+                ]
+            },
+            "properties": {
+                "name": "Revenidas 2022",
+                "location": "Vilaxoán, Sobrán (Vilagarcía de Arousa)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/20739/-/revenidas-2022.html",
+                "dates": [
+                    "Wednesday 07 September",
+                    "Thursday 08 September",
+                    "Friday 09 September",
+                    "Saturday 10 September",
+                    "Sunday 11 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.659347197734571",
+                    "43.13648150978681"
+                ]
+            },
+            "properties": {
+                "name": "Cru",
+                "location": "Carral",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22219/-/cru.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 17 September",
+                    "Saturday 01 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.50419841272261",
+                    "42.17594074116438"
+                ]
+            },
+            "properties": {
+                "name": "Dakidarría",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21980/-/dakidarria.html",
+                "dates": [
+                    "Friday 09 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.815962017068436",
+                    "42.649637549323316"
+                ]
+            },
+            "properties": {
+                "name": "Festas da Guadalupe",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22188/-/festas-da-guadalupe.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 10 September",
+                    "Sunday 11 September",
+                    "Monday 12 September",
+                    "Tuesday 13 September",
+                    "Wednesday 14 September",
+                    "Thursday 15 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.116641494074592",
+                    "42.51266607049847"
+                ]
+            },
+            "properties": {
+                "name": "Festival Céltico O Irixo",
+                "location": "O Irixo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22231/-/festival-celtico-o-irixo.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 10 September",
+                    "Sunday 11 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.80327145244507",
+                    "42.17286164022502"
+                ]
+            },
+            "properties": {
+                "name": "Picnic Sesións",
+                "location": "Saiáns (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21741/-/picnic-sesions.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.7597024693941457",
+                    "42.30165440852391"
+                ]
+            },
+            "properties": {
+                "name": "Sés",
+                "location": "Murcia (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21994/-/ses.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Wednesday 21 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.871191331850073",
+                    "43.655711397927675"
+                ]
+            },
+            "properties": {
+                "name": "V Serán Careco Solidario",
+                "location": "San Claudio (Ortigueira)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22126/-/v-seran-careco-solidario.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723104981925523",
+                    "42.17843218877785"
+                ]
+            },
+            "properties": {
+                "name": "XXIX Revoltallo",
+                "location": "Valadares (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22168/-/xxix-revoltallo.html",
+                "dates": [
+                    "Friday 09 September",
+                    "Saturday 10 September",
+                    "Sunday 11 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.668189505081363",
+                    "42.262281108931994"
+                ]
+            },
+            "properties": {
+                "name": "Arxe",
+                "location": "Chapela (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21927/-/arxe.html",
+                "dates": [
+                    "Friday 09 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.624881866647263",
+                    "43.014331154989385"
+                ]
+            },
+            "properties": {
+                "name": "981 United",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22033/-/981-united.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.822834841849016",
+                    "42.1452003957072"
+                ]
+            },
+            "properties": {
+                "name": "III Apertuke",
+                "location": "Panxón (Nigrán)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22218/-/iii-apertuke.html",
+                "dates": [
+                    "Saturday 10 September",
+                    "Sunday 11 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.04057372316848",
+                    "43.686744963633274"
+                ]
+            },
+            "properties": {
+                "name": "Minguante",
+                "location": "Cervo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22235/-/minguante.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.81648124348172",
+                    "42.64911329606481"
+                ]
+            },
+            "properties": {
+                "name": "Roi Casal",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21800/-/roi-casal.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723981385647333",
+                    "42.23934801199556"
+                ]
+            },
+            "properties": {
+                "name": "Son da Industria",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22178/-/son-da-industria.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.613901962699903",
+                    "42.808715752683796"
+                ]
+            },
+            "properties": {
+                "name": "Susana Seivane",
+                "location": "Portomarín",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21777/-/susana-seivane.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.454623085505152",
+                    "42.27610889119665"
+                ]
+            },
+            "properties": {
+                "name": "Ponte Farruca",
+                "location": "Laza",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22167/-/ponte-farruca.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.489451716670263",
+                    "42.68895819327203"
+                ]
+            },
+            "properties": {
+                "name": "Ouzande Rock",
+                "location": "A Estrada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22137/-/ouzande-rock.html",
+                "dates": [
+                    "Saturday 10 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.83670794048959",
+                    "42.28503055462703"
+                ]
+            },
+            "properties": {
+                "name": "Barbitúricos",
+                "location": "Pinténs, O Hío (Cangas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21556/-/barbituricos.html",
+                "dates": [
+                    "Sunday 11 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.9541909312576315",
+                    "42.168299790341116"
+                ]
+            },
+            "properties": {
+                "name": "Guezos",
+                "location": "Vilanova dos Infantes (Celanova)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22131/-/guezos.html",
+                "dates": [
+                    "Thursday 15 September",
+                    "Friday 30 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816220306591449",
+                    "42.648984599209655"
+                ]
+            },
+            "properties": {
+                "name": "Pan Sen Fron + Tres Pesos + Fiandola",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21801/-/pan-sen-fron-tres-pesos-fiandola.html",
+                "dates": [
+                    "Thursday 15 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.624357951090115",
+                    "43.01482589067881"
+                ]
+            },
+            "properties": {
+                "name": "Tándem",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21988/-/tandem.html",
+                "dates": [
+                    "Thursday 15 September",
+                    "Friday 16 September",
+                    "Saturday 17 September",
+                    "Sunday 18 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.623070875187972",
+                    "42.354186585432046"
+                ]
+            },
+            "properties": {
+                "name": "Canteira Fest",
+                "location": "Paredes, Vilaboa (Vilaboa)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/20764/-/canteira-fest.html",
+                "dates": [
+                    "Friday 16 September",
+                    "Saturday 17 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.162514327552477",
+                    "43.47371894026277"
+                ]
+            },
+            "properties": {
+                "name": "Fenerock Festival",
+                "location": "Fene",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21825/-/fenerock-festival.html",
+                "dates": [
+                    "Friday 16 September",
+                    "Saturday 17 September",
+                    "Sunday 18 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.55601714490614",
+                    "43.013685526570974"
+                ]
+            },
+            "properties": {
+                "name": "IV Caudal Fest",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21321/-/iv-caudal-fest.html",
+                "dates": [
+                    "Friday 16 September",
+                    "Saturday 17 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.490550275480185",
+                    "42.68813825524178"
+                ]
+            },
+            "properties": {
+                "name": "O Son dos Arrieiros",
+                "location": "A Estrada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21459/-/o-son-dos-arrieiros.html",
+                "dates": [
+                    "Friday 16 September",
+                    "Saturday 17 September",
+                    "Sunday 18 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.623747956097914",
+                    "43.01323333572457"
+                ]
+            },
+            "properties": {
+                "name": "Purple Rei",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22104/-/purple-rei.html",
+                "dates": [
+                    "Friday 23 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.09845337319241",
+                    "42.36419458491402"
+                ]
+            },
+            "properties": {
+                "name": "III Costeira Sonora",
+                "location": "Osmo (Cenlle)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21656/-/iii-costeira-sonora.html",
+                "dates": [
+                    "Saturday 24 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.097793553362541",
+                    "42.36541707388692"
+                ]
+            },
+            "properties": {
+                "name": "III Costeria Sonora",
+                "location": "Osmo (Cenlle)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21242/-/iii-costeria-sonora.html",
+                "dates": [
+                    "Saturday 24 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.736391581433184",
+                    "43.188407984328904"
+                ]
+            },
+            "properties": {
+                "name": "Monoulious DOP",
+                "location": "Coristanco",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22113/-/monoulious-dop.html",
+                "dates": [
+                    "Saturday 24 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.5443218864112",
+                    "42.882017365987394"
+                ]
+            },
+            "properties": {
+                "name": "Guadi Galego ",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21768/-/guadi-galego.html",
+                "dates": [
+                    "Saturday 24 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.041084820964727",
+                    "39.5912339819446"
+                ]
+            },
+            "properties": {
+                "name": "Luar na Lubre",
+                "location": "Quintanar de la Orden, Toledo (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22157/-/luar-na-lubre.html",
+                "dates": [
+                    "Friday 30 September"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.414423014399204",
+                    "42.77842617020762"
+                ]
+            },
+            "properties": {
+                "name": "X Festival Garitosis",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/21568/-/x-festival-garitosis.html",
+                "dates": [
+                    "Saturday 01 October"
+                ]
+            }
+        }
+    ]
 }
