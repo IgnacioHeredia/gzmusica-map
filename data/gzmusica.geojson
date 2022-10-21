@@ -6,86 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.362508232975436",
-                    "42.90630982178292"
-                ]
-            },
-            "properties": {
-                "name": "Fernando Barroso",
-                "location": "O Pino",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22368/-/fernando-barroso.html",
-                "dates": [
-                    "Thursday 20 October",
-                    "Friday 21 October",
-                    "Saturday 22 October",
-                    "Sunday 23 October"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.545730003615482",
-                    "42.882252203869406"
-                ]
-            },
-            "properties": {
-                "name": "David Regueiro Trío",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22457/-/david-regueiro-trio.html",
-                "dates": [
-                    "Thursday 20 October",
-                    "Friday 21 October",
-                    "Saturday 22 October",
-                    "Sunday 23 October"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.136487847328864",
-                    "38.708991060038386"
-                ]
-            },
-            "properties": {
-                "name": "Sheila Patricia",
-                "location": "Lisboa (Portugal)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22464/-/sheila-patricia.html",
-                "dates": [
-                    "Thursday 20 October"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.424781417678494",
-                    "43.353448790071845"
-                ]
-            },
-            "properties": {
-                "name": "Foliadas na Coruña",
-                "location": "A Grela, As Viñas (A Coruña)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22454/-/foliadas-na-coruna.html",
-                "dates": [
-                    "Thursday 20 October"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.109175214311382",
-                    "42.66312906795548"
+                    "-8.110697627570191",
+                    "42.66267002619222"
                 ]
             },
             "properties": {
@@ -103,14 +25,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723228653901124",
-                    "42.238668638367436"
+                    "-8.15925955338104",
+                    "42.92883878031895"
                 ]
             },
             "properties": {
-                "name": "Magosto As da Industria",
+                "name": "Fernando Barroso",
+                "location": "Arzúa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22369/-/fernando-barroso.html",
+                "dates": [
+                    "Friday 21 October",
+                    "Saturday 22 October",
+                    "Sunday 23 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723336425476296",
+                    "42.238629971067354"
+                ]
+            },
+            "properties": {
+                "name": "Magosto As da Industria-ADIADO",
                 "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22477/-/magosto-as-da-industria.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22477/-/magosto-as-da-industria-adiado.html",
                 "dates": [
                     "Friday 21 October"
                 ]
@@ -121,8 +63,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.401137444732208",
-                    "43.663494477786195"
+                    "-7.816639087612321",
+                    "43.4263679862136"
+                ]
+            },
+            "properties": {
+                "name": "Paco Nogueiras",
+                "location": "Ares",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22513/-/paco-nogueiras.html",
+                "dates": [
+                    "Friday 21 October",
+                    "Sunday 23 October",
+                    "Monday 24 October",
+                    "Wednesday 26 October",
+                    "Monday 31 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545840193061688",
+                    "42.882355498656324"
+                ]
+            },
+            "properties": {
+                "name": "Chaladura Rock",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22500/-/chaladura-rock.html",
+                "dates": [
+                    "Friday 21 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.400402641183945",
+                    "43.663851772994356"
                 ]
             },
             "properties": {
@@ -139,8 +121,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651406623619723",
-                    "42.198544615659316"
+                    "-8.141881661135711",
+                    "43.60881390647653"
+                ]
+            },
+            "properties": {
+                "name": "Minguante",
+                "location": "Valdoviño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22496/-/minguante.html",
+                "dates": [
+                    "Friday 21 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723805938716024",
+                    "42.23851787121183"
+                ]
+            },
+            "properties": {
+                "name": "David Regueiro Trío",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22458/-/david-regueiro-trio.html",
+                "dates": [
+                    "Friday 21 October",
+                    "Saturday 22 October",
+                    "Sunday 23 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651392779499055",
+                    "42.1984983774948"
                 ]
             },
             "properties": {
@@ -157,8 +177,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.624687996711028",
-                    "43.01511852901942"
+                    "-8.624392523246108",
+                    "43.01473380381618"
                 ]
             },
             "properties": {
@@ -175,8 +195,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012059027540154",
-                    "42.91620769544109"
+                    "-8.012276359997054",
+                    "42.91560577306496"
                 ]
             },
             "properties": {
@@ -193,8 +213,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.053405037181102",
-                    "43.33623669337252"
+                    "-8.053410715875392",
+                    "43.33502128671887"
                 ]
             },
             "properties": {
@@ -211,8 +231,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.87099072453552",
-                    "42.412171945848414"
+                    "-8.126780826086073",
+                    "43.008515157473695"
+                ]
+            },
+            "properties": {
+                "name": "I Festival da Chousa",
+                "location": "Boimorto",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22510/-/i-festival-da-chousa.html",
+                "dates": [
+                    "Saturday 22 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.8703548021223595",
+                    "42.41250150898307"
                 ]
             },
             "properties": {
@@ -229,8 +267,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.800401633318023",
-                    "42.18922269715006"
+                    "-8.7997491955196",
+                    "42.190647779515146"
                 ]
             },
             "properties": {
@@ -247,8 +285,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6529663191219",
-                    "42.42427131222891"
+                    "-8.65354433406128",
+                    "42.42438211981592"
                 ]
             },
             "properties": {
@@ -265,8 +303,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.760845956395794",
-                    "42.11270136042678"
+                    "-8.761130931975101",
+                    "42.11166581668978"
                 ]
             },
             "properties": {
@@ -283,8 +321,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.61271289714008",
-                    "43.1030229747834"
+                    "-7.612853570332527",
+                    "43.10264441499107"
                 ]
             },
             "properties": {
@@ -301,8 +339,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865554077153154",
-                    "42.345099939723866"
+                    "-7.866738646710066",
+                    "42.344051760210334"
                 ]
             },
             "properties": {
@@ -319,8 +357,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.401285796283391",
-                    "43.66491508623411"
+                    "-7.400696994540329",
+                    "43.66438025155292"
                 ]
             },
             "properties": {
@@ -337,8 +375,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.5440090148791",
-                    "42.88205840179437"
+                    "-8.545081749185686",
+                    "42.882331339969234"
                 ]
             },
             "properties": {
@@ -355,8 +393,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.163916642251197",
-                    "42.36767928479742"
+                    "-8.163321834548283",
+                    "42.367610530827626"
                 ]
             },
             "properties": {
@@ -373,8 +411,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.79323880262429",
-                    "42.08816585132483"
+                    "-7.4137778553794025",
+                    "42.7789002393386"
+                ]
+            },
+            "properties": {
+                "name": "Gallego Común",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22495/-/gallego-comun.html",
+                "dates": [
+                    "Saturday 22 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.400801933174497",
+                    "43.19288833094488"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz e Adufeiras de Salitre",
+                "location": "Pontoxo, As Encrobas (Cerceda)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22506/-/xabier-diaz-e-adufeiras-de-salitre.html",
+                "dates": [
+                    "Saturday 22 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794304048764526",
+                    "42.08874949349402"
                 ]
             },
             "properties": {
@@ -391,14 +465,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556013741422754",
-                    "43.01273711779518"
+                    "-7.5552652505258795",
+                    "43.013614062743095"
                 ]
             },
             "properties": {
-                "name": "Pakolas",
+                "name": "Pakolas e Laura Romero",
                 "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22483/-/pakolas.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22483/-/pakolas-e-laura-romero.html",
                 "dates": [
                     "Sunday 23 October"
                 ]
@@ -409,8 +483,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555320154494189",
-                    "43.01200835031758"
+                    "-7.556075531887488",
+                    "43.013076892948035"
                 ]
             },
             "properties": {
@@ -427,8 +501,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72435864832321",
-                    "42.23840050068169"
+                    "-8.723312213563775",
+                    "42.23825863611101"
                 ]
             },
             "properties": {
@@ -445,8 +519,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.844157181800238",
-                    "36.1374617620842"
+                    "-8.545092839794197",
+                    "42.880461911899005"
+                ]
+            },
+            "properties": {
+                "name": "Alfonso Medela Trío",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22511/-/alfonso-medela-trio.html",
+                "dates": [
+                    "Tuesday 25 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.845212656773675",
+                    "36.137545236774045"
                 ]
             },
             "properties": {
@@ -463,8 +555,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724486579625214",
-                    "42.23803868859182"
+                    "-8.64539545817383",
+                    "42.86325935112911"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "Bertamiráns, Ortoño (Ames)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22519/-/pakolas.html",
+                "dates": [
+                    "Friday 28 October",
+                    "Monday 31 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723415597476139",
+                    "42.23961631442638"
                 ]
             },
             "properties": {
@@ -481,8 +592,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.364659381102099",
-                    "43.31629366666674"
+                    "-8.364995521508362",
+                    "43.31599147345308"
                 ]
             },
             "properties": {
@@ -499,8 +610,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.457544608149348",
-                    "42.7592520026771"
+                    "-2.8443368915489744",
+                    "43.23460655133118"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz e Adufeiras de Salitre + Niko Etxart eta Hapa Hapa",
+                "location": "Galdakao, Bizkaia (Euskal Herria)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22502/-/xabier-diaz-e-adufeiras-de-salitre-niko-etxart-eta-hapa-hapa.html",
+                "dates": [
+                    "Friday 28 October"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.458179031643647",
+                    "42.75989940917752"
                 ]
             },
             "properties": {
@@ -518,8 +647,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.76893729579891",
-                    "42.88485599900321"
+                    "-8.768384084081902",
+                    "42.884782991560925"
                 ]
             },
             "properties": {
@@ -536,8 +665,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.033688116437187",
-                    "43.141021316373994"
+                    "-8.034560332034872",
+                    "43.14020315159424"
                 ]
             },
             "properties": {
@@ -554,8 +683,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.25065526060575",
-                    "42.54891832713064"
+                    "-7.25088504844086",
+                    "42.5495574091828"
                 ]
             },
             "properties": {
@@ -572,8 +701,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.133193635398516",
-                    "43.47404274578917"
+                    "-8.133696203228887",
+                    "43.474027625492724"
                 ]
             },
             "properties": {
@@ -590,8 +719,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.76899218414768",
-                    "42.88519630028977"
+                    "-8.769055747317704",
+                    "42.884763376986"
                 ]
             },
             "properties": {
@@ -608,8 +737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544197488969532",
-                    "42.88206448821492"
+                    "-8.544793360182034",
+                    "42.8821219704421"
                 ]
             },
             "properties": {
@@ -626,8 +755,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.119807981060704",
-                    "42.65668027580779"
+                    "-8.12001794256798",
+                    "42.65744611884344"
                 ]
             },
             "properties": {
@@ -644,8 +773,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7931981608859395",
-                    "42.08718525764211"
+                    "-7.793022382154385",
+                    "42.08820969992381"
                 ]
             },
             "properties": {
@@ -662,8 +791,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013080654383199",
-                    "42.916485161489604"
+                    "-8.01301329108333",
+                    "42.91462527881576"
                 ]
             },
             "properties": {
@@ -680,8 +809,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.657414385336544",
-                    "42.434304847645585"
+                    "-8.658703337568513",
+                    "42.4336626392395"
                 ]
             },
             "properties": {
@@ -698,8 +827,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.264063543855832",
-                    "42.850605275914624"
+                    "-8.263241914918948",
+                    "42.85087470583133"
                 ]
             },
             "properties": {
@@ -716,8 +845,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865678088598485",
-                    "42.34424012210874"
+                    "-8.55107073057116",
+                    "42.8721581670532"
+                ]
+            },
+            "properties": {
+                "name": "Pablo Balseiro",
+                "location": "Cornes, Conxo (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22501/-/pablo-balseiro.html",
+                "dates": [
+                    "Thursday 03 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.865440270846136",
+                    "42.344875311747806"
                 ]
             },
             "properties": {
@@ -735,8 +882,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.922296797343138",
-                    "42.70693022616448"
+                    "-6.9220305082699385",
+                    "42.70778854398938"
                 ]
             },
             "properties": {
@@ -754,8 +901,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54414774957791",
-                    "42.881428661736294"
+                    "-8.54506139485615",
+                    "42.88080403378427"
                 ]
             },
             "properties": {
@@ -772,8 +919,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545793752141943",
-                    "42.881186726133734"
+                    "-8.544169676027723",
+                    "42.881100025611666"
                 ]
             },
             "properties": {
@@ -790,8 +937,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.191945415007814",
-                    "42.58848827291235"
+                    "-7.192193419661115",
+                    "42.58885939488986"
                 ]
             },
             "properties": {
@@ -808,8 +955,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.25297872670896",
-                    "43.35332368386468"
+                    "-8.252751882964036",
+                    "43.35345198028578"
                 ]
             },
             "properties": {
@@ -826,8 +973,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.519807108194932",
-                    "42.51039568719061"
+                    "-8.519816187933918",
+                    "42.51135258414705"
                 ]
             },
             "properties": {
@@ -844,8 +991,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013274687306568",
-                    "42.915744823661406"
+                    "-8.013269838473747",
+                    "42.914599608106606"
                 ]
             },
             "properties": {
@@ -862,8 +1009,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.554958014356952",
-                    "43.01287355831489"
+                    "-7.556028996477024",
+                    "43.012243144153366"
                 ]
             },
             "properties": {
@@ -880,8 +1027,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65188024524308",
-                    "42.19720458109284"
+                    "-8.651985101177152",
+                    "42.197312788807956"
                 ]
             },
             "properties": {
@@ -898,8 +1045,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65134917944597",
-                    "42.19765409458506"
+                    "-8.541206390991377",
+                    "42.892970501485706"
+                ]
+            },
+            "properties": {
+                "name": "Dani Barreiro & Frineds",
+                "location": "Vite, Vista Alegre (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22498/-/dani-barreiro-frineds.html",
+                "dates": [
+                    "Thursday 10 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.65233865343066",
+                    "42.198399791140844"
                 ]
             },
             "properties": {
@@ -917,8 +1082,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.24042978210306",
-                    "36.48178418396411"
+                    "-5.238503859635702",
+                    "36.48155313316942"
                 ]
             },
             "properties": {
@@ -935,8 +1100,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.252645434590622",
-                    "43.35335820252549"
+                    "-8.544684724347944",
+                    "42.88067100280563"
+                ]
+            },
+            "properties": {
+                "name": "Virxilio da Silva e Pablo Seoane",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22512/-/virxilio-da-silva-e-pablo-seoane.html",
+                "dates": [
+                    "Tuesday 15 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-63.39037950054957",
+                    "-27.70225340231278"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz Trío",
+                "location": "Rosario (Arxentina)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22507/-/xabier-diaz-trio.html",
+                "dates": [
+                    "Wednesday 16 November",
+                    "Saturday 19 November",
+                    "Sunday 20 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.252369476771173",
+                    "43.35298351934943"
                 ]
             },
             "properties": {
@@ -953,8 +1156,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012324804179555",
-                    "42.91602806629661"
+                    "-8.558137356649235",
+                    "42.86431312977142"
+                ]
+            },
+            "properties": {
+                "name": "Blues do País",
+                "location": "Conxo (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22499/-/blues-do-pais.html",
+                "dates": [
+                    "Friday 18 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-56.190816317697674",
+                    "-34.90531198870004"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz",
+                "location": "Montevideo (Uruguai)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22503/-/xabier-diaz.html",
+                "dates": [
+                    "Friday 18 November"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012669287627096",
+                    "42.91483172176578"
                 ]
             },
             "properties": {
