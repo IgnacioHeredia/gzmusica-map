@@ -10,6 +10,21 @@ import requests
 
 main_dir = Path(__file__).resolve().parent
 
+month_map = {
+    'xaneiro': 'january',
+    'febreiro':'february',
+    'marzo': 'march',
+    'abril': 'april',
+    'maio': 'may',
+    'xuño': 'june',
+    'xullo': 'july',
+    'agosto': 'august',
+    'setembro': 'september',
+    'outubro': 'october',
+    'novembro': 'november',
+    'decembro': 'december',
+}
+
 
 def randomize(*coord):
     """
@@ -130,6 +145,13 @@ def download_events():
         for date, day_data in zip(dates, day_data):
 
             date = date.text.replace("\n", "").replace("\t", "")
+
+            # Transform month name from Galician to English
+            tmp_day, tmp_month = date.split(' ')
+            tmp_month = month_map[tmp_month]
+            date = f"{tmp_day} {tmp_month}"
+
+            # Date string to datetime object
             datef = datetime.datetime.strptime(date, "%d %B").date()
             datef = datef.replace(year=dstart.year)
             date = f"{datef.strftime('%A')} {date}"  # add weekday to date
