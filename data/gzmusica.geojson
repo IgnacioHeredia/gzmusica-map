@@ -6,135 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4367593119979265",
-                    "42.53116650822511"
-                ]
-            },
-            "properties": {
-                "name": "XI Latexos do Rural",
-                "location": "Riós",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22543/-/xi-latexos-do-rural.html",
-                "dates": [
-                    "Friday 18 november",
-                    "Saturday 19 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.724039263862975",
-                    "42.238065975419254"
-                ]
-            },
-            "properties": {
-                "name": "CostaEscura + Pompa e Boato",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22657/-/costaescura-pompa-e-boato.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.251995885508812",
-                    "43.351897218726606"
-                ]
-            },
-            "properties": {
-                "name": "Laura LaMontagne e PicoAmperio + Lúa Mosquetera e Pablo Seijas",
-                "location": "Sada",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/21811/-/laura-lamontagne-e-picoamperio-lua-mosquetera-e-pablo-seijas.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.557996391776257",
-                    "42.86468653457515"
-                ]
-            },
-            "properties": {
-                "name": "Blues do País",
-                "location": "Conxo (Santiago de Compostela)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22499/-/blues-do-pais.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-56.19041806647048",
-                    "-34.90423180744228"
-                ]
-            },
-            "properties": {
-                "name": "Xabier Díaz",
-                "location": "Montevideo (Uruguai)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22503/-/xabier-diaz.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.623616404249047",
-                    "43.01452892711151"
-                ]
-            },
-            "properties": {
-                "name": "Sandford Music Factory",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22617/-/sandford-music-factory.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.90793616065476",
-                    "38.57119091774722"
-                ]
-            },
-            "properties": {
-                "name": "Obal",
-                "location": "Évora (portugal)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22579/-/obal.html",
-                "dates": [
-                    "Friday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.21671837268243",
-                    "43.45955758054128"
+                    "-8.216812632458286",
+                    "43.45992770036394"
                 ]
             },
             "properties": {
@@ -152,8 +25,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54432388778141",
-                    "42.88087748979318"
+                    "-8.545001586104197",
+                    "42.88089518957771"
                 ]
             },
             "properties": {
@@ -172,8 +45,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.48021547332126",
-                    "42.77669097537823"
+                    "-8.481844670959106",
+                    "42.77821626981561"
                 ]
             },
             "properties": {
@@ -190,8 +63,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.634686200539027",
-                    "43.117666610948774"
+                    "-8.634275086117668",
+                    "43.1184913709311"
                 ]
             },
             "properties": {
@@ -211,8 +84,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816197151027154",
-                    "42.64984579681346"
+                    "-7.436880760084927",
+                    "42.53179820777545"
+                ]
+            },
+            "properties": {
+                "name": "XI Latexos do Rural",
+                "location": "Riós",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22543/-/xi-latexos-do-rural.html",
+                "dates": [
+                    "Saturday 19 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816439234720805",
+                    "42.6507901914144"
                 ]
             },
             "properties": {
@@ -229,8 +120,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792868457852921",
-                    "42.08777849575345"
+                    "-7.793539988573249",
+                    "42.08892749458884"
                 ]
             },
             "properties": {
@@ -247,8 +138,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.546206404872544",
-                    "42.75183217294121"
+                    "-8.546873355311805",
+                    "42.75140295426752"
                 ]
             },
             "properties": {
@@ -265,8 +156,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.497246661670847",
-                    "42.082467270113476"
+                    "-8.496205602692731",
+                    "42.08412219248178"
                 ]
             },
             "properties": {
@@ -283,8 +174,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.80657390858438",
-                    "42.29598583006929"
+                    "-8.80712540311463",
+                    "42.29541464790303"
                 ]
             },
             "properties": {
@@ -301,8 +192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.510509405502805",
-                    "43.68676551368193"
+                    "-7.510313194206318",
+                    "43.68644486186908"
                 ]
             },
             "properties": {
@@ -319,8 +210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-58.4351793328931",
-                    "-34.60687862710542"
+                    "-58.436508543420686",
+                    "-34.60608439396312"
                 ]
             },
             "properties": {
@@ -338,8 +229,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.62303458377284",
-                    "43.01430852544853"
+                    "-8.623126990074182",
+                    "43.014133469981"
                 ]
             },
             "properties": {
@@ -356,8 +247,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.733865263704226",
-                    "42.37337052672719"
+                    "-8.733213237808688",
+                    "42.37292820473362"
                 ]
             },
             "properties": {
@@ -374,8 +265,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724152392876633",
-                    "42.239365019752334"
+                    "-8.723712486292184",
+                    "42.23924474159528"
                 ]
             },
             "properties": {
@@ -392,8 +283,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792721374700318",
-                    "42.087834050800616"
+                    "-7.79434850046565",
+                    "42.08815282091527"
                 ]
             },
             "properties": {
@@ -410,8 +301,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.557430214273978",
-                    "42.10261631992066"
+                    "-8.557733786871736",
+                    "42.10301321172439"
                 ]
             },
             "properties": {
@@ -428,8 +319,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.813119596220554",
-                    "42.51556095182243"
+                    "-8.813657414547421",
+                    "42.514956904426825"
                 ]
             },
             "properties": {
@@ -446,8 +337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.41449198121514",
-                    "42.7793508398838"
+                    "-7.41408075624981",
+                    "42.780195270960945"
                 ]
             },
             "properties": {
@@ -464,8 +355,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012358473769803",
-                    "42.915421066643866"
+                    "-8.012344334651125",
+                    "42.91556896960086"
                 ]
             },
             "properties": {
@@ -482,8 +373,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7942919268696516",
-                    "42.08845320436524"
+                    "-7.794568134369706",
+                    "42.08844738514325"
                 ]
             },
             "properties": {
@@ -500,8 +391,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.66823723314169",
-                    "42.03584848856086"
+                    "-8.668649907370472",
+                    "42.03711994249953"
                 ]
             },
             "properties": {
@@ -518,8 +409,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724617329400424",
-                    "42.23951310804934"
+                    "-8.7243882032254",
+                    "42.239137534018894"
                 ]
             },
             "properties": {
@@ -536,8 +427,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.813431132766684",
-                    "42.515921478909554"
+                    "-8.812548723756597",
+                    "42.514481700592924"
                 ]
             },
             "properties": {
@@ -554,8 +445,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.624524580402353",
-                    "43.014669506652304"
+                    "-8.623983534250941",
+                    "43.0150475460709"
                 ]
             },
             "properties": {
@@ -572,8 +463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544740058453932",
-                    "42.880953783845136"
+                    "-8.545496361301447",
+                    "42.88132497955389"
                 ]
             },
             "properties": {
@@ -591,8 +482,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.624180533134478",
-                    "43.01454044921979"
+                    "-8.624588700948195",
+                    "43.01466669775126"
                 ]
             },
             "properties": {
@@ -609,8 +500,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1794044993706136",
-                    "41.38446950723166"
+                    "2.1779161364084847",
+                    "41.38350529826898"
                 ]
             },
             "properties": {
@@ -628,8 +519,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8056480756301193",
-                    "49.26910906665578"
+                    "-0.8073453112377603",
+                    "49.26907130877831"
                 ]
             },
             "properties": {
@@ -646,8 +537,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.719579449514429",
-                    "42.71497561785438"
+                    "-8.719821409259268",
+                    "42.715234255556375"
                 ]
             },
             "properties": {
@@ -664,8 +555,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64783006413187",
-                    "42.17410010238557"
+                    "-8.649466780534667",
+                    "42.17355339707565"
                 ]
             },
             "properties": {
@@ -682,8 +573,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65229305715497",
-                    "42.19767993121684"
+                    "-8.6530771384642",
+                    "42.19842010151723"
                 ]
             },
             "properties": {
@@ -700,8 +591,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.81321464634048",
-                    "42.51609725046114"
+                    "-8.812156363747327",
+                    "42.51480073859175"
                 ]
             },
             "properties": {
@@ -718,8 +609,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.769495757702343",
-                    "42.88612756893598"
+                    "-8.769200420304477",
+                    "42.886015996767895"
                 ]
             },
             "properties": {
@@ -736,8 +627,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722758998681561",
-                    "42.239171373225744"
+                    "-8.722768996260418",
+                    "42.239017052166"
                 ]
             },
             "properties": {
@@ -754,8 +645,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.767018750686368",
-                    "42.40702026107663"
+                    "-8.767001010918225",
+                    "42.406993661034605"
                 ]
             },
             "properties": {
@@ -772,8 +663,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.623579358674284",
-                    "43.01360441692878"
+                    "-8.624556535155715",
+                    "43.0147981233944"
                 ]
             },
             "properties": {
@@ -790,8 +681,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54498651471936",
-                    "42.88138490045133"
+                    "-8.545852135815055",
+                    "42.88161872205934"
                 ]
             },
             "properties": {
@@ -808,8 +699,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556396750204054",
-                    "43.01287655548105"
+                    "-7.55649130061934",
+                    "43.01288186995555"
                 ]
             },
             "properties": {
@@ -826,8 +717,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.693446629790099",
-                    "42.227953566049216"
+                    "-8.69202848556272",
+                    "42.22667705755438"
                 ]
             },
             "properties": {
@@ -844,8 +735,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778829918007187",
-                    "42.26562944560426"
+                    "-8.778676670142296",
+                    "42.26633434459386"
                 ]
             },
             "properties": {
@@ -862,8 +753,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65221611718531",
-                    "42.198105110706074"
+                    "-8.65158948903016",
+                    "42.1977618827266"
                 ]
             },
             "properties": {
@@ -880,8 +771,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778383311073584",
-                    "42.264884994363356"
+                    "-8.777999741603498",
+                    "42.265605018167754"
                 ]
             },
             "properties": {
@@ -898,8 +789,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.624833550040272",
-                    "43.013854898719416"
+                    "-8.624174938882298",
+                    "43.014947991249855"
                 ]
             },
             "properties": {
@@ -917,8 +808,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.01889974053155",
-                    "42.28395680840066"
+                    "-8.019314039111368",
+                    "42.2846931085125"
                 ]
             },
             "properties": {
@@ -938,8 +829,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544013942741048",
-                    "42.8820790078403"
+                    "-8.544621216859019",
+                    "42.88232012308357"
                 ]
             },
             "properties": {
@@ -956,8 +847,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724143721713231",
-                    "42.2392618827089"
+                    "-8.724196557497377",
+                    "42.23808968875427"
                 ]
             },
             "properties": {
@@ -974,8 +865,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.634437837538819",
-                    "43.11802450203448"
+                    "-8.633964269564544",
+                    "43.11762591786951"
                 ]
             },
             "properties": {
