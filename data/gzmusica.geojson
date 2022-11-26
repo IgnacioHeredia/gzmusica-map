@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.802763951568366",
-                    "43.18310033258547"
+                    "-7.802696576668142",
+                    "43.18145375296892"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Roca (Guitiriz)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/22668/-/festival-cine-de-roca.html",
                 "dates": [
-                    "Friday 25 november",
                     "Saturday 26 november"
                 ]
             }
@@ -25,82 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724468656944488",
-                    "42.239115002870165"
-                ]
-            },
-            "properties": {
-                "name": "O Amijo da Peluquera",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22679/-/o-amijo-da-peluquera.html",
-                "dates": [
-                    "Friday 25 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "2.179117769755552",
-                    "41.38318211043639"
-                ]
-            },
-            "properties": {
-                "name": "Xabier Díaz e Adufeiras de Salitre",
-                "location": "Barcelona (Catalunya)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22431/-/xabier-diaz-e-adufeiras-de-salitre.html",
-                "dates": [
-                    "Friday 25 november",
-                    "Saturday 26 november",
-                    "Sunday 27 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8071439874321344",
-                    "49.26879804449694"
-                ]
-            },
-            "properties": {
-                "name": "Galicia Trío",
-                "location": "A Crouña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22577/-/galicia-trio.html",
-                "dates": [
-                    "Friday 25 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.5444717679033",
-                    "42.880869175937356"
-                ]
-            },
-            "properties": {
-                "name": "Raiola + Os Xeitosos de Trazo + Do Rivés",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22682/-/raiola-os-xeitosos-de-trazo-do-rives.html",
-                "dates": [
-                    "Friday 25 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.19095468555694",
-                    "42.69933047140988"
+                    "-8.19174564005459",
+                    "42.69864812894463"
                 ]
             },
             "properties": {
@@ -118,8 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.436289508565217",
-                    "42.70282885102702"
+                    "-8.43664566508079",
+                    "42.702178498802894"
                 ]
             },
             "properties": {
@@ -136,8 +61,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.992159542402637",
-                    "42.557376361413674"
+                    "-1.4114071434391295",
+                    "41.917034190017276"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz e Adufeiras de Salitre",
+                "location": "Burgos (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22505/-/xabier-diaz-e-adufeiras-de-salitre.html",
+                "dates": [
+                    "Saturday 26 november",
+                    "Sunday 27 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.990745389853416",
+                    "42.55706050790224"
                 ]
             },
             "properties": {
@@ -154,8 +98,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.578596027075989",
-                    "42.44686300571847"
+                    "-8.578883167005374",
+                    "42.44704155525249"
                 ]
             },
             "properties": {
@@ -172,8 +116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.606536161710595",
-                    "42.268262408304025"
+                    "-8.606206574922023",
+                    "42.26734411092155"
                 ]
             },
             "properties": {
@@ -190,8 +134,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816135079183628",
-                    "42.64964070323771"
+                    "-8.817312888489173",
+                    "42.65041134661592"
                 ]
             },
             "properties": {
@@ -208,8 +152,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.7203721434865",
-                    "42.71523843798576"
+                    "-8.718916100740207",
+                    "42.71512791074109"
                 ]
             },
             "properties": {
@@ -226,14 +170,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.648747980610041",
-                    "42.173224751823696"
+                    "-8.648521182276415",
+                    "42.17310494581729"
                 ]
             },
             "properties": {
-                "name": "Foliadas Pereiras",
+                "name": "Foliada Pereiras",
                 "location": "Pereiras (Mos)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22652/-/foliadas-pereiras.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22652/-/foliada-pereiras.html",
                 "dates": [
                     "Saturday 26 november"
                 ]
@@ -244,8 +188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652090140521372",
-                    "42.198253253953084"
+                    "-8.652552068707651",
+                    "42.19725121034397"
                 ]
             },
             "properties": {
@@ -262,8 +206,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.23444356155758",
-                    "43.3199567031992"
+                    "-8.176030065448934",
+                    "43.2681052058815"
+                ]
+            },
+            "properties": {
+                "name": "Pablo Díaz",
+                "location": "Queirís, Colantres (Coirós)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22707/-/pablo-diaz.html",
+                "dates": [
+                    "Saturday 26 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.232622783764489",
+                    "43.32075832158145"
                 ]
             },
             "properties": {
@@ -280,8 +242,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.812065736379301",
-                    "42.51549653974897"
+                    "-8.812261479743448",
+                    "42.51619565691047"
                 ]
             },
             "properties": {
@@ -298,8 +260,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.624420019750099",
-                    "43.014921969299294"
+                    "-8.62451109507819",
+                    "43.013346981602744"
                 ]
             },
             "properties": {
@@ -316,8 +278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.768458141481501",
-                    "42.8858859855845"
+                    "-8.76988405707228",
+                    "42.885841610677744"
                 ]
             },
             "properties": {
@@ -334,8 +296,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544760051433668",
-                    "42.88102464659882"
+                    "-7.005789803467277",
+                    "42.96582037869417"
+                ]
+            },
+            "properties": {
+                "name": "II Polavila Eonaviega",
+                "location": "A Proba de Navia (Navia de Suarna)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22697/-/ii-polavila-eonaviega.html",
+                "dates": [
+                    "Saturday 26 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544078321742742",
+                    "42.88172647708472"
                 ]
             },
             "properties": {
@@ -352,8 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.400864000023709",
-                    "43.66353202586186"
+                    "-7.40094094961638",
+                    "43.6638588981149"
                 ]
             },
             "properties": {
@@ -370,8 +350,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722832181738273",
-                    "42.237784276562415"
+                    "-8.72273283883806",
+                    "42.23916889104436"
                 ]
             },
             "properties": {
@@ -388,8 +368,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.766747631368556",
-                    "42.40693352295116"
+                    "-8.766083347356956",
+                    "42.40809495750906"
                 ]
             },
             "properties": {
@@ -406,8 +386,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.62395549757505",
-                    "43.01341584488699"
+                    "-8.709714351925646",
+                    "42.21791338744065"
+                ]
+            },
+            "properties": {
+                "name": "II Serán da Salgueira",
+                "location": "A Salgueira, Sárdoma (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22699/-/ii-seran-da-salgueira.html",
+                "dates": [
+                    "Saturday 26 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.62451804450155",
+                    "43.01404044562586"
                 ]
             },
             "properties": {
@@ -424,8 +422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722979570742766",
-                    "42.239408806665224"
+                    "-8.723028342008202",
+                    "42.23885318887725"
                 ]
             },
             "properties": {
@@ -442,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545819174105755",
-                    "42.8804371530695"
+                    "-8.544379640779088",
+                    "42.88085829513811"
                 ]
             },
             "properties": {
@@ -460,8 +458,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555414324179367",
-                    "43.01357099343608"
+                    "-8.597436861911104",
+                    "42.11170312415202"
+                ]
+            },
+            "properties": {
+                "name": "XV Serán A Forna",
+                "location": "Budiño (O Porriño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22698/-/xv-seran-a-forna.html",
+                "dates": [
+                    "Saturday 26 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555332872782062",
+                    "43.012525456449545"
                 ]
             },
             "properties": {
@@ -478,8 +494,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413127808053163",
-                    "42.77847709817473"
+                    "-7.413238674424791",
+                    "42.779851404687655"
                 ]
             },
             "properties": {
@@ -496,8 +512,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012071069940486",
-                    "42.91651394188667"
+                    "-8.170538680231576",
+                    "43.40732185587448"
+                ]
+            },
+            "properties": {
+                "name": "Laura LaMontagne & PicoAmperio",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22700/-/laura-lamontagne-picoamperio.html",
+                "dates": [
+                    "Saturday 26 november",
+                    "Saturday 03 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012310744324003",
+                    "42.91534751824067"
                 ]
             },
             "properties": {
@@ -514,8 +549,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.805403954816832",
-                    "42.14204109357423"
+                    "-8.612309956224799",
+                    "42.0833783007112"
+                ]
+            },
+            "properties": {
+                "name": "Homenaxe aos Mártires de Sobredo",
+                "location": "Sobredo, Guillarei (Tui)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22708/-/homenaxe-aos-martires-de-sobredo.html",
+                "dates": [
+                    "Sunday 27 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.824779038490727",
+                    "42.39408208099966"
+                ]
+            },
+            "properties": {
+                "name": "Serán dos Jatos",
+                "location": "Portonovo, Adina (Sanxenxo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22695/-/seran-dos-jatos.html",
+                "dates": [
+                    "Sunday 27 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.805187672598132",
+                    "42.140684889298235"
                 ]
             },
             "properties": {
@@ -532,8 +603,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.692887125044178",
-                    "42.22644544758079"
+                    "-8.693386619658778",
+                    "42.22666891345072"
                 ]
             },
             "properties": {
@@ -550,8 +621,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779375982330402",
-                    "42.26596229817854"
+                    "-8.54542322394666",
+                    "42.88087562086814"
+                ]
+            },
+            "properties": {
+                "name": "Esclerotic Fest",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22694/-/esclerotic-fest.html",
+                "dates": [
+                    "Sunday 27 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.779209144316889",
+                    "42.26626151425051"
                 ]
             },
             "properties": {
@@ -568,8 +657,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54464281806217",
-                    "42.881556998649124"
+                    "-7.555427428751489",
+                    "43.01379897098052"
+                ]
+            },
+            "properties": {
+                "name": "Músicas Para a Igualdade",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22705/-/musicas-para-a-igualdade.html",
+                "dates": [
+                    "Tuesday 29 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544273601399382",
+                    "42.880797857661726"
                 ]
             },
             "properties": {
@@ -586,8 +693,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.769390610301487",
-                    "42.88536943495307"
+                    "-8.769065216968615",
+                    "42.884643121429924"
                 ]
             },
             "properties": {
@@ -606,8 +713,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793439439527607",
-                    "42.08896867955104"
+                    "-8.624476859396054",
+                    "43.0151592896316"
+                ]
+            },
+            "properties": {
+                "name": "Nani García Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22702/-/nani-garcia-trio.html",
+                "dates": [
+                    "Friday 02 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794365282400827",
+                    "42.08846715676803"
                 ]
             },
             "properties": {
@@ -624,8 +749,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.550385322256846",
-                    "43.15816496249515"
+                    "-8.01333842782199",
+                    "42.9148012806999"
+                ]
+            },
+            "properties": {
+                "name": "Carapaus + OCT Ultreia",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22704/-/carapaus-oct-ultreia.html",
+                "dates": [
+                    "Friday 02 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.550450177144452",
+                    "43.157889452885954"
                 ]
             },
             "properties": {
@@ -642,8 +785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.480465034222112",
-                    "42.77838630134573"
+                    "-8.481016182003074",
+                    "42.77676864284293"
                 ]
             },
             "properties": {
@@ -661,8 +804,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545499435083114",
-                    "42.88126292649936"
+                    "-8.54532521664432",
+                    "42.880833446875975"
                 ]
             },
             "properties": {
@@ -680,8 +823,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652725951095873",
-                    "42.19885581250539"
+                    "-8.65125861373437",
+                    "42.198208577865444"
                 ]
             },
             "properties": {
@@ -698,8 +841,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779070814062166",
-                    "42.265951277635374"
+                    "-8.777920788527634",
+                    "42.266690957274285"
                 ]
             },
             "properties": {
@@ -716,8 +859,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.727429153758631",
-                    "42.037822074380664"
+                    "-7.726268569653819",
+                    "42.03739946865026"
                 ]
             },
             "properties": {
@@ -734,8 +877,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556071626978536",
-                    "43.01359358860715"
+                    "-7.556414814310051",
+                    "43.01277569865736"
                 ]
             },
             "properties": {
@@ -753,8 +896,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793864670139768",
-                    "42.089145544399166"
+                    "-8.01358338155322",
+                    "42.91589853656569"
+                ]
+            },
+            "properties": {
+                "name": "Zenzar",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22709/-/zenzar.html",
+                "dates": [
+                    "Saturday 03 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793551593083586",
+                    "42.08842603396715"
                 ]
             },
             "properties": {
@@ -771,8 +932,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.067000945184631",
-                    "43.12650695651574"
+                    "-7.067047912766398",
+                    "43.12679704574089"
                 ]
             },
             "properties": {
@@ -791,8 +952,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865616438803097",
-                    "42.34446078505346"
+                    "-7.867128391161315",
+                    "42.34378285065705"
                 ]
             },
             "properties": {
@@ -809,8 +970,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.62489995660761",
-                    "43.0148055685502"
+                    "-8.624720241108164",
+                    "43.014744719379735"
                 ]
             },
             "properties": {
@@ -828,8 +989,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793626765243973",
-                    "42.088457397888114"
+                    "-7.794354978790593",
+                    "42.0890745912238"
                 ]
             },
             "properties": {
@@ -846,8 +1007,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.479209026429793",
-                    "42.474274733657886"
+                    "-8.479465252529712",
+                    "42.474635176052026"
                 ]
             },
             "properties": {
@@ -864,8 +1025,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793275719979807",
-                    "42.08905945748023"
+                    "-7.794309073521535",
+                    "42.088700931772436"
                 ]
             },
             "properties": {
@@ -882,8 +1043,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793905202173242",
-                    "42.087974991727066"
+                    "-7.794264685414119",
+                    "42.08802194179269"
                 ]
             },
             "properties": {
@@ -900,8 +1061,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.623446831554586",
-                    "43.013350224780815"
+                    "-8.624569665727783",
+                    "43.0135559333407"
                 ]
             },
             "properties": {
@@ -918,8 +1079,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.018139567461562",
-                    "42.283816074566104"
+                    "-8.018278718158816",
+                    "42.28452616811905"
                 ]
             },
             "properties": {
@@ -939,8 +1100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545839348006119",
-                    "42.88164705649635"
+                    "-8.544432678194802",
+                    "42.881285864743795"
                 ]
             },
             "properties": {
@@ -957,8 +1118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723430585454954",
-                    "42.238934828545176"
+                    "-8.724609775686055",
+                    "42.238583701006746"
                 ]
             },
             "properties": {
@@ -975,8 +1136,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724421734133552",
-                    "42.23916244199961"
+                    "-8.623063656058497",
+                    "43.015045117930605"
+                ]
+            },
+            "properties": {
+                "name": "Xangai!, Orquestra Bravú",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22703/-/xangai-orquestra-bravu.html",
+                "dates": [
+                    "Friday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723904342563891",
+                    "42.23915238129099"
                 ]
             },
             "properties": {
@@ -993,8 +1172,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.635675289274657",
-                    "43.117521016260305"
+                    "-7.866625971107055",
+                    "42.34511972294741"
+                ]
+            },
+            "properties": {
+                "name": "Tandub + Brigada Sound",
+                "location": "Ourenese",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22706/-/tandub-brigada-sound.html",
+                "dates": [
+                    "Saturday 17 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.635063039500135",
+                    "43.11708336813494"
                 ]
             },
             "properties": {
@@ -1011,8 +1208,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792764198120036",
-                    "42.08872757036421"
+                    "-7.792623045780278",
+                    "42.08745993056082"
                 ]
             },
             "properties": {
