@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723640647280059",
-                    "42.23782638012374"
+                    "-8.724102903924637",
+                    "42.238537693505734"
                 ]
             },
             "properties": {
@@ -24,8 +24,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72306767035426",
-                    "42.23769053273425"
+                    "-8.544618886200128",
+                    "42.88236425953733"
+                ]
+            },
+            "properties": {
+                "name": "Aí Vem o Apalpador!",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22796/-/ai-vem-o-apalpador.html",
+                "dates": [
+                    "Thursday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866655453134619",
+                    "42.34414896516099"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22795/-/a-gramola-gominola.html",
+                "dates": [
+                    "Thursday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.722990631771196",
+                    "42.238366313840565"
                 ]
             },
             "properties": {
@@ -42,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.834022711484863",
-                    "42.79243550300928"
+                    "-7.834094783851043",
+                    "42.79330046786561"
                 ]
             },
             "properties": {
@@ -61,8 +97,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.982748833827548",
-                    "42.41773668256162"
+                    "-6.98416039628846",
+                    "42.41828620249425"
                 ]
             },
             "properties": {
@@ -79,8 +115,100 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544806966518268",
-                    "42.881768728799585"
+                    "-8.635891313169797",
+                    "43.11732841988479"
+                ]
+            },
+            "properties": {
+                "name": "Ruada do Apalpador",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22773/-/ruada-do-apalpador.html",
+                "dates": [
+                    "Friday 23 december",
+                    "Friday 23 december",
+                    "Friday 30 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.733858496959764",
+                    "42.282366687996074"
+                ]
+            },
+            "properties": {
+                "name": "Música Miúda",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22794/-/musica-miuda.html",
+                "dates": [
+                    "Friday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.785510978305025",
+                    "42.327675773692995"
+                ]
+            },
+            "properties": {
+                "name": "A Revolta",
+                "location": "Bueu",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22781/-/a-revolta.html",
+                "dates": [
+                    "Friday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.866042801179537",
+                    "42.54786355424611"
+                ]
+            },
+            "properties": {
+                "name": "dOEN",
+                "location": "A Illa de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22735/-/doen.html",
+                "dates": [
+                    "Friday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.400317151298437",
+                    "43.664600956378216"
+                ]
+            },
+            "properties": {
+                "name": "Xenderal",
+                "location": "Sargadelos (Cervo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22790/-/xenderal.html",
+                "dates": [
+                    "Friday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545208005661427",
+                    "42.881110756750715"
                 ]
             },
             "properties": {
@@ -98,62 +226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.634744944179342",
-                    "43.11824695337316"
-                ]
-            },
-            "properties": {
-                "name": "Ruada do Apalpador",
-                "location": "Ferrol",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22773/-/ruada-do-apalpador.html",
-                "dates": [
-                    "Friday 23 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.785606378659772",
-                    "42.32907702507555"
-                ]
-            },
-            "properties": {
-                "name": "A Revolta",
-                "location": "Bueu",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22781/-/a-revolta.html",
-                "dates": [
-                    "Friday 23 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.867141435227298",
-                    "42.54761892098433"
-                ]
-            },
-            "properties": {
-                "name": "dOEN",
-                "location": "A Illa de Arousa",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22735/-/doen.html",
-                "dates": [
-                    "Friday 23 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.793614725867384",
-                    "42.08814285506812"
+                    "-7.792608832683288",
+                    "42.08794439071882"
                 ]
             },
             "properties": {
@@ -170,8 +244,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.01222481090599",
-                    "42.914818080759524"
+                    "-8.635120173713922",
+                    "43.11848986706359"
+                ]
+            },
+            "properties": {
+                "name": "Concerto Homenaxe a Txema Bitxobola",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22799/-/concerto-homenaxe-a-txema-bitxobola.html",
+                "dates": [
+                    "Friday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.01166329394388",
+                    "42.91490341371809"
                 ]
             },
             "properties": {
@@ -188,8 +280,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778705322110596",
-                    "42.265362109188395"
+                    "-8.777917002690216",
+                    "42.266146801828164"
                 ]
             },
             "properties": {
@@ -206,8 +298,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72378650231192",
-                    "42.238560784601205"
+                    "-8.722758723005958",
+                    "42.239465782314134"
                 ]
             },
             "properties": {
@@ -228,8 +320,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.623876907852019",
-                    "43.01337298694257"
+                    "-8.623052633942299",
+                    "43.01414222002799"
                 ]
             },
             "properties": {
@@ -248,8 +340,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.617742270511796",
-                    "42.258960139782424"
+                    "-8.617516371510055",
+                    "42.25866015704675"
                 ]
             },
             "properties": {
@@ -266,8 +358,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724054817604937",
-                    "42.23835271365516"
+                    "-8.722834783306746",
+                    "42.2377741447998"
                 ]
             },
             "properties": {
@@ -284,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6235035659276",
-                    "43.01355459460941"
+                    "-8.624260043385492",
+                    "43.01364225474487"
                 ]
             },
             "properties": {
@@ -302,8 +394,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865786281194212",
-                    "42.34498553861498"
+                    "-8.505019740357694",
+                    "42.17470801077738"
+                ]
+            },
+            "properties": {
+                "name": "As Punkiereteiras",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22793/-/as-punkiereteiras.html",
+                "dates": [
+                    "Thursday 29 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.86647021119433",
+                    "42.344970015523266"
                 ]
             },
             "properties": {
@@ -320,8 +430,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.557825171018164",
-                    "42.103959488075276"
+                    "-8.557209395064765",
+                    "42.10360814168477"
                 ]
             },
             "properties": {
@@ -338,8 +448,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544430714796013",
-                    "42.88185183863794"
+                    "-8.545708321537514",
+                    "42.88090907987681"
                 ]
             },
             "properties": {
@@ -356,8 +466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723028101264175",
-                    "42.23824780139912"
+                    "-8.7231473688386",
+                    "42.23846658640488"
                 ]
             },
             "properties": {
