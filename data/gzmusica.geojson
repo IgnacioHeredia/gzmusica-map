@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.607837171507194",
-                    "42.284509788650546"
+                    "-8.544231963489663",
+                    "42.8816797938046"
                 ]
             },
             "properties": {
-                "name": "Uxía Lambona e a Banda Molona",
-                "location": "Redondela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22809/-/uxia-lambona-e-a-banda-molona.html",
+                "name": "Pakolas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22761/-/pakolas.html",
                 "dates": [
-                    "Saturday 31 december"
+                    "Monday 02 january"
                 ]
             }
         },
@@ -24,16 +24,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.579554617166256",
-                    "42.44728387624145"
+                    "-8.62400412388268",
+                    "43.01433884261065"
                 ]
             },
             "properties": {
-                "name": "No Cómbaro + Charanga Os Celtas",
-                "location": "As Pontes",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22820/-/no-combaro-charanga-os-celtas.html",
+                "name": "Viruxe Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22822/-/viruxe-trio.html",
                 "dates": [
-                    "Saturday 31 december"
+                    "Wednesday 04 january"
                 ]
             }
         },
@@ -42,16 +42,324 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.579542911706321",
-                    "42.44702263946366"
+                    "-7.7938983333308105",
+                    "42.088194205572655"
                 ]
             },
             "properties": {
-                "name": "No Cómbaro + Chranga Os Celtas",
-                "location": "As Pontes",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22821/-/no-combaro-chranga-os-celtas.html",
+                "name": "Maskarpone",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22815/-/maskarpone.html",
                 "dates": [
-                    "Saturday 31 december"
+                    "Saturday 07 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555677106918396",
+                    "43.012592995908115"
+                ]
+            },
+            "properties": {
+                "name": "Sés-CANCELADO",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22469/-/ses-cancelado.html",
+                "dates": [
+                    "Saturday 14 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545178154094273",
+                    "42.8807148722074"
+                ]
+            },
+            "properties": {
+                "name": "VII Aniversario Inferno Rock Bar",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22641/-/vii-aniversario-inferno-rock-bar.html",
+                "dates": [
+                    "Saturday 14 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7927699349997335",
+                    "42.088224139225616"
+                ]
+            },
+            "properties": {
+                "name": "Iago Mourinho Trío",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22816/-/iago-mourinho-trio.html",
+                "dates": [
+                    "Saturday 14 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.986503338632108",
+                    "43.06766510611577"
+                ]
+            },
+            "properties": {
+                "name": "Píscore. Concerto Singular",
+                "location": "Serramo (Vimianzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22623/-/piscore-concerto-singular.html",
+                "dates": [
+                    "Sunday 15 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.624800264580418",
+                    "43.01371243490614"
+                ]
+            },
+            "properties": {
+                "name": "Martín Otero Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22823/-/martin-otero-trio.html",
+                "dates": [
+                    "Wednesday 18 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.79314689709077",
+                    "42.08812719066742"
+                ]
+            },
+            "properties": {
+                "name": "Obal",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22817/-/obal.html",
+                "dates": [
+                    "Friday 20 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.65185070529042",
+                    "42.19697103220211"
+                ]
+            },
+            "properties": {
+                "name": "SonDaRúa",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22567/-/sondarua.html",
+                "dates": [
+                    "Saturday 21 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.079140278563965",
+                    "42.43433429784613"
+                ]
+            },
+            "properties": {
+                "name": "Sés",
+                "location": "Auditorio Municipal -Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22470/-/ses.html",
+                "dates": [
+                    "Saturday 21 january",
+                    "Saturday 28 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.038377262830462",
+                    "43.09525404309998"
+                ]
+            },
+            "properties": {
+                "name": "Rilo & Penadique",
+                "location": "Cambeda (Vimianzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22624/-/rilo-penadique.html",
+                "dates": [
+                    "Saturday 21 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545814222020931",
+                    "42.88067911028194"
+                ]
+            },
+            "properties": {
+                "name": "Superoito e Convidadas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22763/-/superoito-e-convidadas.html",
+                "dates": [
+                    "Saturday 21 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794555829575283",
+                    "42.08901490942009"
+                ]
+            },
+            "properties": {
+                "name": "Maghúa",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22818/-/maghua.html",
+                "dates": [
+                    "Saturday 21 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.97451749988192",
+                    "43.111421316416305"
+                ]
+            },
+            "properties": {
+                "name": "Acordeireta",
+                "location": "Tines (Vimianzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22625/-/acordeireta.html",
+                "dates": [
+                    "Sunday 22 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.239136899412541",
+                    "36.482256530662994"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22558/-/baiuca.html",
+                "dates": [
+                    "Thursday 26 january",
+                    "Friday 27 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652008537552199",
+                    "42.198407080668076"
+                ]
+            },
+            "properties": {
+                "name": "Ollo, Lóstrego + The Black Wizards",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22802/-/ollo-lostrego-the-black-wizards.html",
+                "dates": [
+                    "Friday 27 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793020879623304",
+                    "42.087246426182716"
+                ]
+            },
+            "properties": {
+                "name": "Xackal",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22819/-/xackal.html",
+                "dates": [
+                    "Friday 27 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72381070608167",
+                    "42.237695189048786"
+                ]
+            },
+            "properties": {
+                "name": "Orquestra Vigo 430",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22792/-/orquestra-vigo-430.html",
+                "dates": [
+                    "Saturday 28 january"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.111590607522537",
+                    "43.11549125725691"
+                ]
+            },
+            "properties": {
+                "name": "Vero Rilo + Pandeireteiras de Carnés",
+                "location": "Carnés (Vimianzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22626/-/vero-rilo-pandeireteiras-de-carnes.html",
+                "dates": [
+                    "Sunday 29 january"
                 ]
             }
         }
