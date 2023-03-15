@@ -1,1370 +1,202 @@
 {
-    "Bilbo, Bizkaia (Euskal Herria)": {
-        "lat": 43.2630018,
-        "lon": -2.9350039
-    },
-    "Ribeira": {
-        "lat": "42.5564829",
-        "lon": "-8.9922031"
-    },
-    "Santiago de Compostela": {
-        "lat": "42.8804219",
-        "lon": "-8.5458608"
-    },
-    "A Bandeira, Manduás (Silleda)": {
-        "lat": "42.7289399",
-        "lon": "-8.3028999"
-    },
-    "Xinzo de Limia": {
-        "lat": "42.0637882",
-        "lon": "-7.7245498"
-    },
-    "Pontevedra": {
-        "lat": "42.8841976",
-        "lon": "-8.7701182"
-    },
-    "Melide": {
-        "lat": "42.9145741",
-        "lon": "-8.0136139"
-    },
-    "O Ribeiro": {
-        "lat": "42.9245728",
-        "lon": "-8.0031978"
-    },
-    "Graz (Austria)": {
-        "lat": "47.0708678",
-        "lon": "15.4382786"
-    },
-    "Moeche": {
-        "lat": "43.5618844",
-        "lon": "-8.0151551"
-    },
-    "Negreira": {
-        "lat": "42.9109711",
-        "lon": "-8.7349564"
-    },
-    "Miño": {
-        "lat": "43.3477455",
-        "lon": "-8.206297"
-    },
-    "Praia de Aguete (Marín)": {
-        "lat": "42.9578392",
-        "lon": "-8.0507422"
-    },
-    "Bueu": {
-        "lat": "42.3272768",
-        "lon": "-8.7863966"
-    },
-    "Vilagarcía de Arousa": {
-        "lat": "42.5947625",
-        "lon": "-8.7669178"
-    },
-    "Chantada": {
-        "lat": "42.6096223",
-        "lon": "-7.7705862"
-    },
-    "Doniños (Ferrol)": {
-        "lat": "43.4896673",
-        "lon": "-8.2976864"
-    },
-    "Ribadavia": {
-        "lat": "42.2880044",
-        "lon": "-8.1429521"
-    },
-    "Betanzos": {
-        "lat": "43.279239",
-        "lon": "-8.2105792"
-    },
-    "Logroño (España)": {
-        "lat": "42.4661196",
-        "lon": "-2.4396676"
-    },
-    "Foz": {
-        "lat": "43.5688659",
-        "lon": "-7.2550407"
-    },
-    "A Costa, Xerdiz (Ourol)": {
-        "lat": "43.5488939",
-        "lon": "-7.6218249"
-    },
-    "O Rebullón, Tameiga (Mos)": {
-        "lat": "42.1969505",
-        "lon": "-8.6531132"
-    },
-    "Cedeira": {
-        "lat": "42.2767809",
-        "lon": "-8.6244945"
-    },
-    "comarca de Pontevedra": {
-        "lat": "42.444630950000004",
-        "lon": "-8.534906717074893"
-    },
-    "Ferrol": {
-        "lat": "43.1170236",
-        "lon": "-8.6359245"
-    },
-    "Verín": {
-        "lat": "42.275254",
-        "lon": "-8.779747"
-    },
-    "Boimorto": {
-        "lat": "43.0074402",
-        "lon": "-8.1269242"
-    },
-    "Vilar de Mato, Cequeril (Cuntis)": {
-        "lat": "42.6028358",
-        "lon": "-8.5216065"
-    },
-    "Monterroso": {
-        "lat": "42.7918646",
-        "lon": "-7.8357837"
-    },
-    "Rubiós (As Neves)": {
-        "lat": "42.1119012",
-        "lon": "-8.4228624"
-    },
-    "A Illa de Arousa": {
-        "lat": "42.5475669",
-        "lon": "-8.8680023"
-    },
-    "Vilanova, O Hío (Cangas)": {
-        "lat": "42.2883131",
-        "lon": "-8.8447711"
-    },
-    "A Pobra do Caramiñal": {
-        "lat": "42.6046249",
-        "lon": "-8.9402045"
-    },
-    "Vilar de Santos": {
-        "lat": "42.0871643",
-        "lon": "-7.7945799"
-    },
-    "Sarria": {
-        "lat": "42.7784203",
-        "lon": "-7.4146607"
-    },
-    "Redondela": {
-        "lat": "42.284221",
-        "lon": "-8.6085992"
-    },
-    "Medina de Rioseco, Valladolid (España)": {
-        "lat": "41.8836792",
-        "lon": "-5.0433596"
-    },
-    "Pinténs, O Hío (Cangas)": {
-        "lat": "42.2842761",
-        "lon": "-8.836752"
-    },
-    "Pironedo, Donís (Cervantes)": {
-        "lat": "42.8598239",
-        "lon": "-6.8966144"
-    },
-    "Boiro": {
-        "lat": "42.6462941",
-        "lon": "-8.8858718"
-    },
-    "Praia América, San Pedro (Nigrán)": {
-        "lat": "42.1405445",
-        "lon": "-8.8070821"
-    },
-    "Noia": {
-        "lat": "42.7850763",
-        "lon": "-8.8877375"
-    },
-    "O Couto, Cospindo (Ponteceso)": {
-        "lat": "43.249711",
-        "lon": "-8.9119039"
-    },
-    "A Coruña": {
-        "lat": "43.013187",
-        "lon": "-8.6249125"
-    },
-    "Muxía": {
-        "lat": "43.1071193",
-        "lon": "-9.2181926"
-    },
-    "Burela": {
-        "lat": "43.6606329",
-        "lon": "-7.3587521"
-    },
-    "Parga (Guitiriz)": {
-        "lat": "43.1621033",
-        "lon": "-7.8385748"
-    },
-    "Cee": {
-        "lat": "42.9555564",
-        "lon": "-9.1900013"
-    },
-    "O Carril (Vilagarcía de Arousa)": {
-        "lat": "42.6144446",
-        "lon": "-8.7603136"
-    },
-    "Chapela (Redondela)": {
-        "lat": "42.2619318",
-        "lon": "-8.6698736"
-    },
-    "Padrón": {
-        "lat": "42.7390228",
-        "lon": "-8.6602504"
-    },
-    "Salvaterra de Mño": {
-        "lat": 42.0823773,
-        "lon": -8.497539
-    },
-    "O Porriño": {
-        "lat": "42.1618812",
-        "lon": "-8.6202683"
-    },
-    "Estás (Tomiño)": {
-        "lat": "41.9755525",
-        "lon": "-8.7613742"
-    },
-    "Muimenta (Cospeito)": {
-        "lat": "43.2544348",
-        "lon": "-7.4320883"
-    },
-    "O Barco de Valdeorras": {
-        "lat": "42.416462",
-        "lon": "-6.9843044"
-    },
-    "Vilaxoán, Sobrán (Vilagarcía de Arousa)": {
-        "lat": "42.587461",
-        "lon": "-8.7895931"
-    },
-    "Rianxo": {
-        "lat": "42.6488711",
-        "lon": "-8.8173676"
-    },
-    "Saiáns (Vigo)": {
-        "lat": "42.1718072",
-        "lon": "-8.8039514"
-    },
-    "San Claudio (Ortigueira)": {
-        "lat": "43.6548079",
-        "lon": "-7.872805"
-    },
-    "Valadares (Vigo)": {
-        "lat": "42.1776234",
-        "lon": "-8.7242345"
-    },
-    "Vigo": {
-        "lat": "42.2376602",
-        "lon": "-8.7247205"
-    },
-    "Laza": {
-        "lat": "42.2758148",
-        "lon": "-7.4557417"
-    },
-    "A Estrada": {
-        "lat": "42.6880102",
-        "lon": "-8.4907139"
-    },
-    "Vilanova dos Infantes (Celanova)": {
-        "lat": "42.1663025",
-        "lon": "-7.9552669"
-    },
-    "Paredes, Vilaboa (Vilaboa)": {
-        "lat": "42.3534882",
-        "lon": "-8.6250257"
-    },
-    "Fene": {
-        "lat": "43.473674",
-        "lon": "-8.1625614"
-    },
-    "Lugo": {
-        "lat": "43.0118437",
-        "lon": "-7.5565749"
-    },
-    "Viena (Austria)": {
-        "lat": "48.2083537",
-        "lon": "16.3725042"
-    },
-    "O Incio": {
-        "lat": "42.66639975",
-        "lon": "-7.3632244684035975"
-    },
-    "Ponteareas": {
-        "lat": "42.1740961",
-        "lon": "-8.5050963"
-    },
-    "Caión (A Laracha)": {
-        "lat": "43.3179968",
-        "lon": "-8.6059922"
-    },
-    "Munich (Alemaña)": {
-        "lat": "48.1371079",
-        "lon": "11.5753822"
-    },
-    "Combarro (Poio)": {
-        "lat": "42.4317048",
-        "lon": "-8.7051951"
-    },
-    "Monforte de Lemos": {
-        "lat": "42.5236693",
-        "lon": "-7.5096951"
-    },
-    "Carral": {
-        "lat": "43.136011",
-        "lon": "-7.6599205"
-    },
-    "Panxón (Nigrán)": {
-        "lat": "42.1443608",
-        "lon": "-8.8237242"
-    },
-    "Rad. Au": {
-        "lat": 48.3591457,
-        "lon": 4.506286
-    },
-    "Cangas": {
-        "lat": "42.2647235",
-        "lon": "-8.7796487"
-    },
-    "Dozón": {
-        "lat": "42.5698342",
-        "lon": "-8.0473394"
-    },
-    "San Amaro": {
-        "lat": "42.9805101",
-        "lon": "-7.5192094"
-    },
-    "Muros": {
-        "lat": "42.7744106",
-        "lon": "-9.0575351"
-    },
-    "Neda": {
-        "lat": "42.9780282",
-        "lon": "-7.4305294"
-    },
-    "Xuvia, Neda (Neda)": {
-        "lat": "43.4990563",
-        "lon": "-8.1586145"
-    },
-    "O Irixo": {
-        "lat": "42.5123164",
-        "lon": "-8.1182265"
-    },
-    "Murcia (España)": {
-        "lat": "42.2999786",
-        "lon": "-3.7610749"
-    },
-    "Osmo (Cenlle)": {
-        "lat": "42.3638125",
-        "lon": "-8.0994613"
-    },
-    "Coristanco": {
-        "lat": "43.187333",
-        "lon": "-8.7369979"
-    },
-    "Cervo": {
-        "lat": "43.6848619",
-        "lon": "-8.0417443"
-    },
-    "Portomarín": {
-        "lat": "42.808161",
-        "lon": "-7.6156139"
-    },
-    "Quintanar de la Orden, Toledo (España)": {
-        "lat": "39.5908125",
-        "lon": "-3.043053"
-    },
-    "Visantoña (Mesía)": {
-        "lat": "43.1345764",
-        "lon": "-8.3019326"
-    },
-    "Canido, Oia (Vigo)": {
-        "lat": "42.1889334",
-        "lon": "-8.801549"
-    },
-    "Carril (Vilagarcía de Arousa)": {
-        "lat": "42.6158965",
-        "lon": "-8.7728145"
-    },
-    "Arzúa": {
-        "lat": "42.9279921",
-        "lon": "-8.1605667"
-    },
-    "Merza (Vila de Cruces)": {
-        "lat": "42.7695769",
-        "lon": "-8.2601658"
-    },
-    "Castelló (País Valenciá)": {
-        "lat": "38.8609975",
-        "lon": "-0.8837258"
-    },
-    "Escairón, Vilasante (O Saviñao)": {
-        "lat": "42.5848708",
-        "lon": "-7.6399065"
-    },
-    "O Araño (Rianxo)": {
-        "lat": "42.7099149",
-        "lon": "-8.7850735"
-    },
-    "Fixón, Negros (Redondela)": {
-        "lat": "42.2533818",
-        "lon": "-8.6159125"
-    },
-    "Sigüeiro, Oroso (Oroso)": {
-        "lat": "42.9687859",
-        "lon": "-8.4417454"
-    },
-    "Getxo, Bizkaia (Euskal Herria)": {
-        "lat": 43.3489765,
-        "lon": -3.0096433
-    },
-    "Málaga (España)": {
-        "lat": "42.8154226",
-        "lon": "-2.5242664"
-    },
-    "Lucecú- Allariz": {
-        "lat": 42.1893161,
-        "lon": -7.8019484
-    },
-    "Ferrolterra": {
-        "lat": "43.61074025",
-        "lon": "-8.170220990575064"
-    },
-    "Teis (Vigo)": {
-        "lat": "42.2539207",
-        "lon": "-8.6805985"
-    },
-    "Seixas (As Somozas)": {
-        "lat": "43.5406204",
-        "lon": "-7.8923112"
-    },
-    "Alxén (Salvaterra de Miño)": {
-        "lat": "42.1081159",
-        "lon": "-8.528941"
-    },
-    "Vincios (Gondomar)": {
-        "lat": "42.1433872",
-        "lon": "-8.7266893"
-    },
-    "Varsovia (Polonia)": {
-        "lat": "52.2319581",
-        "lon": "21.0067249"
-    },
-    "Moaña": {
-        "lat": "42.2816553",
-        "lon": "-8.7356868"
-    },
-    "San Vicente do Mar, San Vicente do Grove (O Grove)": {
-        "lat": "42.4574139",
-        "lon": "-8.9229132"
-    },
-    "Carballo": {
-        "lat": "43.2134123",
-        "lon": "-8.6891286"
-    },
-    "Pincelo, A Sariña (Chanatada)": {
-        "lat": 42.5682038,
-        "lon": -7.7277648
-    },
-    "O Grove": {
-        "lat": "42.4693872",
-        "lon": "-8.8949654"
-    },
-    "A Bandeira, Manduás (Sileeda)": {
-        "lat": 42.736885,
-        "lon": -8.273377
-    },
-    "Redes, Caamouco (Ares)": {
-        "lat": "43.4240974",
-        "lon": "-8.2037064"
-    },
-    "Allariz": {
-        "lat": "42.1900729",
-        "lon": "-7.801298"
-    },
-    "Antiga Escola de Queirís (Coirós)": {
-        "lat": "43.2503652",
-        "lon": "-8.1659646"
-    },
-    "Celanova": {
-        "lat": "42.1523149",
-        "lon": "-7.9580863"
-    },
-    "Queirís, Colantres (Coirós)": {
-        "lat": "43.2673871",
-        "lon": "-8.1772662"
-    },
-    "Guimarei (A Estrada)": {
-        "lat": "42.68245",
-        "lon": "-8.4687449"
-    },
-    "Ourense": {
-        "lat": "42.3436415",
-        "lon": "-7.8674242"
-    },
-    "San Marcos, Bando (Santiago de Compostela)": {
-        "lat": "42.8916227",
-        "lon": "-8.4909024"
-    },
-    "Ordes": {
-        "lat": "43.076756",
-        "lon": "-8.407816"
-    },
-    "Lourenzá": {
-        "lat": "43.4337109",
-        "lon": "-7.2979429"
-    },
-    "Pedrouzos, Brión (Brión)": {
-        "lat": "42.8644917",
-        "lon": "-8.6796991"
-    },
-    "La Pecera -Vigo": {
-        "lat": 42.2311796,
-        "lon": -8.714708
-    },
-    "Brión": {
-        "lat": "42.8661707",
-        "lon": "-8.6784992"
-    },
-    "Chiclana, Cádiz (España)": {
-        "lat": 36.4191096,
-        "lon": -6.1460683
-    },
-    "Moala": {
-        "lat": "-18.610700950000002",
-        "lon": "179.86831232869991"
-    },
-    "Manselle, Laíño (Dodro)": {
-        "lat": "42.7303202",
-        "lon": "-8.7182693"
-    },
-    "Raxó (Poio)": {
-        "lat": "42.4032443",
-        "lon": "-8.7552749"
-    },
-    "Oia": {
-        "lat": "42.1889334",
-        "lon": "-8.801549"
-    },
-    "Campo Lameiro": {
-        "lat": "42.5379231",
-        "lon": "-8.510121544272"
-    },
-    "Vimianzo": {
-        "lat": "43.1102989",
-        "lon": "-9.0327488"
-    },
-    "Granada (España)": {
-        "lat": "41.1900611",
-        "lon": "-6.1197564"
-    },
-    "A Pobra do Brollón": {
-        "lat": "42.5564957",
-        "lon": "-7.3921684"
-    },
-    "Sisalde Barrañán (Arteixo)": {
-        "lat": "43.3045943",
-        "lon": "-8.508275"
-    },
-    "Souto, A Capela (Toques)": {
-        "lat": "42.9668163",
-        "lon": "-7.9727602"
-    },
-    "Cela (Bueu)": {
-        "lat": "42.327509",
-        "lon": "-8.7539668"
-    },
-    "Vilouchada (Trazo)": {
-        "lat": "42.9923875",
-        "lon": "-8.5247019"
-    },
-    "Eurocidade Tui-Valença": {
-        "lat": -17.168428,
-        "lon": -65.7743738
-    },
-    "Gapyeong (Corea do Sur)": {
-        "lat": "37.8314",
-        "lon": "127.5098"
-    },
-    "Pontedeume": {
-        "lat": "43.4072585",
-        "lon": "-8.1718823"
-    },
-    "O Rosal": {
-        "lat": "41.9026742",
-        "lon": "-7.4660277"
-    },
-    "A Guarda": {
-        "lat": "41.9012451",
-        "lon": "-8.8742166"
-    },
-    "Barcelona (Catalunya)": {
-        "lat": "41.3828939",
-        "lon": "2.1774322"
-    },
-    "Zahara de los Atunes, Cádiz (España)": {
-        "lat": "36.1361147",
-        "lon": "-5.845594"
-    },
-    "Grou (Lobios)": {
-        "lat": "41.9528283",
-        "lon": "-8.0645655"
-    },
-    "Matamá (Vigo)": {
-        "lat": "42.1992223",
-        "lon": "-8.7408952"
-    },
-    "Froxán, Vilamor (Folgoso do Courel)": {
-        "lat": "42.5477754",
-        "lon": "-7.2518208"
-    },
-    "Gangneung (Corea do Sur)": {
-        "lat": "37.7525313",
-        "lon": "128.8759523"
-    },
-    "Cornado (Touro)": {
-        "lat": "42.8504082",
-        "lon": "-8.2648274"
-    },
-    "Campelo, San Xoán de Poio (Poio)": {
-        "lat": "42.4307469",
-        "lon": "-8.6824736"
-    },
-    "Pazos, Cobres (Vilaboa)": {
-        "lat": "42.3207829",
-        "lon": "-8.6721427"
-    },
-    "O Pino": {
-        "lat": "42.9048517",
-        "lon": "-8.3626207"
-    },
-    "Monfero": {
-        "lat": "43.3343296",
-        "lon": "-8.0552976"
-    },
-    "Viveiro": {
-        "lat": "42.1839246",
-        "lon": "-7.9508095"
-    },
-    "Petelos (Mos)": {
-        "lat": "42.1874032",
-        "lon": "-8.6311607"
-    },
-    "O Burgo (Culleredo)": {
-        "lat": "43.3150062",
-        "lon": "-8.3652441"
-    },
-    "Teixeiro, Curtis (Curtis)": {
-        "lat": "43.1391079",
-        "lon": "-8.0353711"
-    },
-    "O Freixo, Valadares (Vigo)": {
-        "lat": "42.1776234",
-        "lon": "-8.7242345"
-    },
-    "Triacastela": {
-        "lat": "42.7563403",
-        "lon": "-7.2397461"
-    },
-    "O Milladoiro, Biduído (Ames)": {
-        "lat": "42.8475183",
-        "lon": "-8.5933957"
-    },
-    "O Valadouro": {
-        "lat": "43.53455905",
-        "lon": "-7.484287985193037"
-    },
-    "Arbo": {
-        "lat": "42.1122944",
-        "lon": "-8.3123868"
-    },
-    "Bergondo": {
-        "lat": "43.3194556",
-        "lon": "-8.2345741"
-    },
-    "Avilés (Asturies)": {
-        "lat": "43.5554436",
-        "lon": "-5.9222466"
-    },
-    "Santa Ana (Sandiás)": {
-        "lat": "42.1266661",
-        "lon": "-7.7482379"
-    },
     "Madrid (España)": {
-        "lat": "40.4168",
-        "lon": "-3.7038"
-    },
-    "Poio": {
-        "lat": "42.4332306",
-        "lon": "-8.6590994"
-    },
-    "Doade (Lalín)": {
-        "lat": "42.6063448",
-        "lon": "-8.1424756"
-    },
-    "Tomiño": {
-        "lat": "41.9915682",
-        "lon": "-8.7415024"
-    },
-    "Lalín": {
-        "lat": "42.6614127",
-        "lon": "-8.1109759"
-    },
-    "Couso (A Estrada)": {
-        "lat": "42.7513077",
-        "lon": "-8.5479706"
-    },
-    "Orega (Leiro)": {
-        "lat": "42.3665481",
-        "lon": "-8.1639298"
-    },
-    "San Miguel de Sarandón (Vedra)": {
-        "lat": "42.7581564",
-        "lon": "-8.4591711"
-    },
-    "San Xurxo de Sacos (Cerdedo-Cotobade)": {
-        "lat": "42.5099274",
-        "lon": "-8.5204179"
-    },
-    "Cáceres (España)": {
-        "lat": "40.9509009",
-        "lon": "-4.0604512"
-    },
-    "Cambeo (Coles)": {
-        "lat": "42.4109952",
-        "lon": "-7.871528"
-    },
-    "Donramiro (Lalín)": {
-        "lat": "42.655767",
-        "lon": "-8.1206552"
-    },
-    "Bembrive (Vigo)": {
-        "lat": "42.2056411",
-        "lon": "-8.6851664"
-    },
-    "Punxeiro (Viana do Bolo)": {
-        "lat": "42.1793084",
-        "lon": "-7.092738"
-    },
-    "Alcalá de Guadaíra, Sevilla (España)": {
-        "lat": "37.3397709",
-        "lon": "-5.8408396"
-    },
-    "A Grela, As Viñas (A Coruña)": {
-        "lat": "43.3520095",
-        "lon": "-8.4256935"
-    },
-    "Lisboa (Portugal)": {
-        "lat": "38.7077507",
-        "lon": "-9.1365919"
-    },
-    "Balboa (O Bierzo)": {
-        "lat": "42.7062532",
-        "lon": "-6.9228651"
-    },
-    "Folgoso do Courel": {
-        "lat": "42.5882486",
-        "lon": "-7.1925449"
-    },
-    "Mollavao, San Xosé (Pontevedra)": {
-        "lat": "42.4238",
-        "lon": "-8.6536693"
-    },
-    "Gondomar": {
-        "lat": "42.1107672",
-        "lon": "-8.7620688"
-    },
-    "Outeiro de Rei": {
-        "lat": "43.1024649",
-        "lon": "-7.6136338"
-    },
-    "Sada": {
-        "lat": "43.3515799",
-        "lon": "-8.2534683"
-    },
-    "Sargadelos (Cervo)": {
-        "lat": "43.6632203",
-        "lon": "-7.4021685"
-    },
-    "Sillobre (Fene)": {
-        "lat": "43.4723631",
-        "lon": "-8.1339339"
-    },
-    "Ares": {
-        "lat": "43.4247887",
-        "lon": "-7.8182921"
-    },
-    "Valdoviño": {
-        "lat": "43.6068643",
-        "lon": "-8.143537"
-    },
-    "Pontoxo, As Encrobas (Cerceda)": {
-        "lat": "43.1913945",
-        "lon": "-8.4026486"
-    },
-    "Bertamiráns, Ortoño (Ames)": {
-        "lat": "42.8620059",
-        "lon": "-8.647394256486791"
-    },
-    "Galdakao, Bizkaia (Euskal Herria)": {
-        "lat": 43.2332639,
-        "lon": -2.8453385
-    },
-    "Cornes, Conxo (Santiago de Compostela)": {
-        "lat": "42.8704751",
-        "lon": "-8.5516224"
-    },
-    "Vite, Vista Alegre (Santiago de Compostela)": {
-        "lat": "42.8923286",
-        "lon": "-8.5414148"
-    },
-    "Rosario (Arxentina)": {
-        "lat": "-27.7034987",
-        "lon": "-63.3908894"
-    },
-    "Conxo (Santiago de Compostela)": {
-        "lat": "42.8630135",
-        "lon": "-8.5593966"
-    },
-    "Montevideo (Uruguai)": {
-        "lat": "-34.9058916",
-        "lon": "-56.1913095"
-    },
-    "Rúa de Francos, Calo (Teo)": {
-        "lat": "42.8144271",
-        "lon": "-8.6208025"
-    },
-    "Madrid": {
-        "lat": "9.2617815",
-        "lon": "125.9637534"
-    },
-    "Coruxo (Vigo)": {
-        "lat": "42.190952",
-        "lon": "-8.7815601"
-    },
-    "Cambados": {
-        "lat": "42.51439",
-        "lon": "-8.8138414"
-    },
-    "A Rúa": {
-        "lat": "43.5884893",
-        "lon": "-7.2987355"
-    },
-    "Maceda": {
-        "lat": "42.9521575",
-        "lon": "-8.0709138"
-    },
-    "Moraña": {
-        "lat": "42.5891302",
-        "lon": "-8.5909801"
-    },
-    "Paraños (Covelo)": {
-        "lat": "42.2017725",
-        "lon": "-8.3882077"
-    },
-    "Yuncler, Toledo (España)": {
-        "lat": "40.0440004",
-        "lon": "-3.9008053"
-    },
-    "Riós": {
-        "lat": "42.5308998",
-        "lon": "-7.4381369"
-    },
-    "Évora (portugal)": {
-        "lat": "38.5707742",
-        "lon": "-7.9092808"
-    },
-    "O Seixo, Franza (Mugardos)": {
-        "lat": "43.4584934",
-        "lon": "-8.2173692"
-    },
-    "Salvaterra de Miño": {
-        "lat": "42.0823773",
-        "lon": "-8.497539"
-    },
-    "Gandón, Aldán (Cangas)": {
-        "lat": "42.2951101",
-        "lon": "-8.8075498"
-    },
-    "Xove": {
-        "lat": "43.6851765",
-        "lon": "-7.5115144"
-    },
-    "Aguete, Seixo (Marín)": {
-        "lat": "42.3721401",
-        "lon": "-8.734477"
-    },
-    "A Crouña": {
-        "lat": 49.2677693,
-        "lon": -0.8075023
-    },
-    "Vilar-Gandarón, Lavadores (Vigo)": {
-        "lat": "42.2261625",
-        "lon": "-8.6936076"
-    },
-    "Barouta, Ames (Ames)": {
-        "lat": "42.9094042",
-        "lon": "-8.6542843"
-    },
-    "Dorrón (Sanxenxo)": {
-        "lat": "42.4064782",
-        "lon": "-8.767699"
-    },
-    "La Lata de Zinc- Uviéu (Asturies)": {
-        "lat": 43.3542068,
-        "lon": -5.8403988
-    },
-    "Entrimo": {
-        "lat": "41.9323691",
-        "lon": "-8.1164912"
-    },
-    "Sobrado dos Monxes": {
-        "lat": "43.0404996",
-        "lon": "-8.02238"
-    },
-    "Areas (tui)": {
-        "lat": "42.0351503",
-        "lon": "-8.668813"
-    },
-    "Andeiro (Cambre)": {
-        "lat": "43.2595966",
-        "lon": "-8.3362964"
-    },
-    "aREAS (TUI)": {
-        "lat": "42.0351503",
-        "lon": "-8.668813"
-    },
-    "Imos, San Xoán de Laíño (Dodro)": {
-        "lat": "42.714816",
-        "lon": "-8.7204793"
-    },
-    "Pereiras (Mos)": {
-        "lat": "42.1722804",
-        "lon": "-8.6497081"
-    },
-    "Salceda de Caselas": {
-        "lat": "42.1021279",
-        "lon": "-8.5579472"
-    },
-    "Ramirás, Celanova e Ourense": {
-        "lat": "42.282902",
-        "lon": "-8.0197852"
-    },
-    "Bos Aires (Arxentina)": {
-        "lat": "-34.6075682",
-        "lon": "-58.4370894"
-    },
-    "Vedra": {
-        "lat": "42.7765527",
-        "lon": "-8.4821723"
-    },
-    "Bariloche (Arxentina)": {
-        "lat": "-41.1334421",
-        "lon": "-71.3098425"
-    },
-    "Roca (Guitiriz)": {
-        "lat": "43.1812478",
-        "lon": "-7.8045944"
-    },
-    "Noceda (Lalín)": {
-        "lat": "42.6985009",
-        "lon": "-8.1927699"
-    },
-    "Callobre (A Estrada)": {
-        "lat": "42.7016581",
-        "lon": "-8.4378918"
-    },
-    "As Pontes": {
-        "lat": "42.4458005",
-        "lon": "-8.5803994"
-    },
-    "Quintela (Redondela)": {
-        "lat": "42.2669669",
-        "lon": "-8.6075128"
-    },
-    "Nigrán": {
-        "lat": "42.1405445",
-        "lon": "-8.8070821"
-    },
-    "Mos": {
-        "lat": "43.1573433",
-        "lon": "-7.5511218"
-    },
-    "A Limia": {
-        "lat": "42.03647945",
-        "lon": "-7.727479644738379"
-    },
-    "A Fonsagrada": {
-        "lat": "43.1248311",
-        "lon": "-7.0676605"
-    },
-    "A Chan, Carballedo (Cerdedo-Cotobade)": {
-        "lat": "42.4728588",
-        "lon": "-8.4805247"
-    },
-    "Burgos (España)": {
-        "lat": "41.9155811",
-        "lon": "-1.4122987"
-    },
-    "A Proba de Navia (Navia de Suarna)": {
-        "lat": "42.9643369",
-        "lon": "-7.0060186"
-    },
-    "A Salgueira, Sárdoma (Vigo)": {
-        "lat": "42.2166704",
-        "lon": "-8.7111975"
-    },
-    "Budiño (O Porriño)": {
-        "lat": "42.1101213",
-        "lon": "-8.5975628"
-    },
-    "Sobredo, Guillarei (Tui)": {
-        "lat": "42.0820629",
-        "lon": "-8.6137887"
-    },
-    "Portonovo, Adina (Sanxenxo)": {
-        "lat": "42.3936685",
-        "lon": "-8.8254748"
-    },
-    "Ourenese": {
-        "lat": 42.3436415,
-        "lon": -7.8674242
-    },
-    "Valladolid (España)": {
-        "lat": "41.9367267",
-        "lon": "-5.760629"
-    },
-    "Palas de Rei": {
-        "lat": "42.8739125",
-        "lon": "-7.8697964"
-    },
-    "Camabdos": {
-        "lat": 42.51439,
-        "lon": -8.8138414
-    },
-    "Luou (Teo)": {
-        "lat": "42.8032489",
-        "lon": "-8.5842649"
-    },
-    "San Vicente (O Grove)": {
-        "lat": "42.4693961",
-        "lon": "-8.9202835"
-    },
-    "Nerga, O Hío (Cangas)": {
-        "lat": "42.2602034",
-        "lon": "-8.825151"
-    },
-    "Negros (Redondela)": {
-        "lat": "42.2577485",
-        "lon": "-8.6191615"
-    },
-    "Taboada": {
-        "lat": "42.7156699",
-        "lon": "-7.7629848"
-    },
-    "Narón": {
-        "lat": "42.818495",
-        "lon": "-7.7417475"
-    },
-    "Silleda": {
-        "lat": "42.697981",
-        "lon": "-8.2466373"
-    },
-    "Teo": {
-        "lat": "42.7953649",
-        "lon": "-8.5483664"
-    },
-    "Serramo (Vimianzo)": {
-        "lat": "43.0657808",
-        "lon": "-8.9880432"
-    },
-    "Auditorio Municipal -Ourense": {
-        "lat": 42.43345255,
-        "lon": -8.080623299188709
-    },
-    "Cambeda (Vimianzo)": {
-        "lat": "43.0940724",
-        "lon": "-9.0401218"
-    },
-    "Tines (Vimianzo)": {
-        "lat": "43.1106475",
-        "lon": "-8.9748685"
-    },
-    "Carnés (Vimianzo)": {
-        "lat": "43.1141378",
-        "lon": "-9.1124526"
-    },
-    "Meaño": {
-        "lat": "42.4452125",
-        "lon": "-8.7825181"
-    },
-    "Andoain, Gipuzkoa (Euskal Herria)": {
-        "lat": 43.2183411,
-        "lon": -2.0199432
-    },
-    "Bexo, Laíño (Dodro)": {
-        "lat": "42.6980139",
-        "lon": "-8.7345119"
-    },
-    "Fun House -Madrid": {
-        "lat": 40.4302893,
-        "lon": -3.7031406
-    },
-    "Burlata, Nafarroa (Euskal Herria)": {
-        "lat": 42.8316625,
-        "lon": -1.637573560032942
-    },
-    "Cabarcos (Barreiros)": {
-        "lat": "43.5005147",
-        "lon": "-7.2315692"
-    },
-    "Caamouco (Ares)": {
-        "lat": "43.4297163",
-        "lon": "-8.211576"
-    },
-    "Tenorio (Cerdedo-Cotobade)": {
-        "lat": "42.4663155",
-        "lon": "-8.5526122"
-    },
-    "Salcedo (Pontevedra)": {
-        "lat": "42.4127255",
-        "lon": "-8.6475734"
-    },
-    "Toutón (Mondariz)": {
-        "lat": "42.2563297",
-        "lon": "-8.4931681"
-    },
-    "Ponte de Lima (Portugal)": {
-        "lat": "41.7675021",
-        "lon": "-8.5830992"
-    },
-    "Treos (Vimianzo)": {
-        "lat": "43.0927675",
-        "lon": "-8.9697791"
-    },
-    "fERROL": {
-        "lat": "43.1170236",
-        "lon": "-8.6359245"
-    },
-    "Berdoias (Vimianzo)": {
-        "lat": "43.0560983",
-        "lon": "-9.0851723"
-    },
-    "Vilariño, O Hío (Cangas)": {
-        "lat": "42.275888",
-        "lon": "-8.8170189"
-    },
-    "Goián (Tomiño)": {
-        "lat": "41.9465344",
-        "lon": "-8.7731114"
-    },
-    "Lestedo (Boqueixón)": {
-        "lat": "42.8074741",
-        "lon": "-8.4716553"
-    },
-    "Comarca de Lugo": {
-        "lat": "42.9612742",
-        "lon": "-7.52438887749525"
-    },
-    "Salto (Vimianzo)": {
-        "lat": "43.1118448",
-        "lon": "-8.9987782"
-    },
-    "Perillo (Oleiros)": {
-        "lat": "43.3324589",
-        "lon": "-8.373683"
-    },
-    "Carantoña (Vimianzo)": {
-        "lat": "43.1379652",
-        "lon": "-9.0933307"
-    },
-    "Sala Filomatic- A Coruña": {
-        "lat": 43.3578243,
-        "lon": -8.2776562
+        "lat": "40.4167047",
+        "lon": "-3.7035825"
     },
     "Uvieú (Asturies)": {
         "lat": "43.3604218",
         "lon": "-5.8450534"
     },
-    "O Porto do Barqueiro, Mogor (Mañón)": {
-        "lat": "43.7361797",
-        "lon": "-7.7060578"
+    "Montevideo (Uruguai)": {
+        "lat": "-34.9058916",
+        "lon": "-56.1913095"
     },
-    "Pías, San Miguel de Tabagón (O Rosal)": {
-        "lat": "41.9163264",
-        "lon": "-8.8320792"
+    "Jazz I Am -Barcelona (Catalunya)": {
+        "lat": 41.4295999,
+        "lon": 2.1749782
     },
-    "Llangréu (Asturies)": {
-        "lat": "43.2950131",
-        "lon": "-5.683431"
-    },
-    "Baiñas (Vimianzo)": {
-        "lat": "43.02829",
-        "lon": "-9.0194624"
-    },
-    "Cariño": {
-        "lat": "43.4716032",
-        "lon": "-8.3164268"
-    },
-    "Xuvia (Narón)": {
-        "lat": "43.5161494",
-        "lon": "-8.1581209"
-    },
-    "A Pastoriza": {
-        "lat": "43.3000026",
-        "lon": "-7.3511022"
-    },
-    "Lleida (Catalunya)": {
-        "lat": "41.6147605",
-        "lon": "0.6267842"
-    },
-    "Cubillos del Sil (O Bierzo)": {
-        "lat": "42.6240882",
-        "lon": "-6.5629162"
-    },
-    "Vilalba": {
-        "lat": "43.2138726",
-        "lon": "-7.0546653"
-    },
-    "Sant Boi de Llobregat,. Barcelona (Catalunya)": {
-        "lat": "41.3459033",
-        "lon": "2.0413673"
-    },
-    "Ribadeo": {
-        "lat": "43.5361589",
-        "lon": "-7.0436775"
-    },
-    "Castelo (Vimianzo)": {
-        "lat": "43.1102989",
-        "lon": "-9.0327488"
-    },
-    "Santa Cruz de Ribadulla (Vedra)": {
-        "lat": "42.7682994",
-        "lon": "-8.4209509"
-    },
-    "Barce,lona (Catalunya)": {
-        "lat": 41.3828939,
-        "lon": 2.1774322
-    },
-    "Vilanova de Arousa": {
-        "lat": "42.5622257",
-        "lon": "-8.8265651"
-    },
-    "Baralla": {
-        "lat": "43.1606014",
-        "lon": "-8.6374451"
-    },
-    "San Cibrao, Lieiro (Cervo)": {
-        "lat": "43.693983",
-        "lon": "-7.4416367"
-    },
-    "Pazos de Borbén": {
-        "lat": "42.2656185",
-        "lon": "-8.5944268"
-    },
-    "Sedes (Narón)": {
-        "lat": "43.5503851",
-        "lon": "-8.13985"
-    },
-    "Piornedo, Donís (Cervantes)": {
-        "lat": "42.8566891",
-        "lon": "-6.8757849"
-    },
-    "Seaia, Malpica (Malpica)": {
-        "lat": "43.3209571",
-        "lon": "-8.8278927"
-    },
-    "A Grela, San Cristovo das Viñas (A Coruña)": {
-        "lat": "43.3520095",
-        "lon": "-8.4256935"
-    },
-    "Castromil, Salto (Vimianzo)": {
-        "lat": "43.1348976",
-        "lon": "-9.0058048"
-    },
-    "O Mesón do Vento, Ardemil (Ordes)": {
-        "lat": "43.1278907",
-        "lon": "-8.3781733"
-    },
-    "Carballedo (Cerdedo-Cotobade)": {
-        "lat": "42.4824693",
-        "lon": "-8.4827011"
-    },
-    "Guillade (Ponteareas)": {
-        "lat": "42.1745375",
-        "lon": "-8.42811"
-    },
-    "Ortigueira": {
-        "lat": "43.6844371",
-        "lon": "-7.8549174"
-    },
-    "Sobrada (Tomiño)": {
-        "lat": "42.0208135",
-        "lon": "-8.6780012"
-    },
-    "Oliveira (Ponteareas)": {
-        "lat": "42.180131",
-        "lon": "-8.4523598"
-    },
-    "Marín": {
-        "lat": "42.9578392",
-        "lon": "-8.0507422"
-    },
-    "As Neves": {
-        "lat": "43.5918465",
-        "lon": "-7.8305604"
-    },
-    "Santiago de Compòstela": {
+    "Santiago de Compostela": {
         "lat": "42.8804219",
         "lon": "-8.5458608"
     },
-    "A Pontraga, Numide (Tordoia)": {
-        "lat": "43.0519239",
-        "lon": "-8.4556298"
+    "A Coruña": {
+        "lat": "43.3709703",
+        "lon": "-8.3959425"
     },
-    "O Predouzo, Arca (O Pino)": {
-        "lat": "42.9014829",
-        "lon": "-8.3629956"
-    },
-    "A Telleira, Arceo (Boimorto)": {
-        "lat": "43.0444978",
-        "lon": "-8.1699002"
-    },
-    "Begonte": {
-        "lat": "43.150149",
-        "lon": "-7.6851632"
-    },
-    "Arcade (Soutomaior)": {
-        "lat": "42.3422183",
-        "lon": "-8.6084756"
-    },
-    "Vilela, Son (Navia de Suarna)": {
-        "lat": "42.8858269",
-        "lon": "-7.0052036"
+    "Xinzo de Limia": {
+        "lat": "42.0637882",
+        "lon": "-7.7245498"
     },
     "Vina do Bolo e Vilariño de Conso": {
         "lat": 42.1661767,
         "lon": -7.1826752
     },
+    "Vigo": {
+        "lat": "42.2376602",
+        "lon": "-8.7247205"
+    },
+    "Lalín": {
+        "lat": "42.6614127",
+        "lon": "-8.1109759"
+    },
+    "Melide": {
+        "lat": "42.9145741",
+        "lon": "-8.0136139"
+    },
+    "Barcelona (Catalunya)": {
+        "lat": "41.3828939",
+        "lon": "2.1774322"
+    },
+    "Avilés (Asturies)": {
+        "lat": "43.5554436",
+        "lon": "-5.9222466"
+    },
+    "Ponteareas": {
+        "lat": "42.1740961",
+        "lon": "-8.5050963"
+    },
     "Merlán (Palas de Rei)": {
-        "lat": "42.9422827",
-        "lon": "-7.8728087"
+        "lat": "42.9556608",
+        "lon": "-7.8892155"
+    },
+    "Ortigueira": {
+        "lat": "43.6843141",
+        "lon": "-7.8543679"
+    },
+    "Gondomar": {
+        "lat": "42.1107672",
+        "lon": "-8.7620688"
+    },
+    "Arcade (Soutomaior)": {
+        "lat": "42.3363282",
+        "lon": "-8.6022929"
+    },
+    "Vilela, Son (Navia de Suarna)": {
+        "lat": "42.8858269",
+        "lon": "-7.0052036"
+    },
+    "Llangréu (Asturies)": {
+        "lat": "43.2950131",
+        "lon": "-5.683431"
+    },
+    "Sobrada (Tomiño)": {
+        "lat": "42.0207839",
+        "lon": "-8.6766433"
+    },
+    "O Freixo, Valadares (Vigo)": {
+        "lat": "42.174438",
+        "lon": "-8.7256611"
+    },
+    "Oliveira (Ponteareas)": {
+        "lat": "42.180131",
+        "lon": "-8.4523598"
+    },
+    "Vilar de Santos": {
+        "lat": "42.0871643",
+        "lon": "-7.7945799"
+    },
+    "Pontevedra": {
+        "lat": "42.4318876",
+        "lon": "-8.6431592"
+    },
+    "O Rebullón, Tameiga (Mos)": {
+        "lat": "42.1969505",
+        "lon": "-8.6531132"
+    },
+    "O Carril (Vilagarcía de Arousa)": {
+        "lat": "42.6144446",
+        "lon": "-8.7603136"
+    },
+    "Allariz": {
+        "lat": "42.1893161",
+        "lon": "-7.8019484"
+    },
+    "O Couso, O Rosal (O Rosal)": {
+        "lat": "41.9328035",
+        "lon": "-8.8330015"
+    },
+    "Sarria": {
+        "lat": "42.7784203",
+        "lon": "-7.4146607"
+    },
+    "Baiñas (Vimianzo)": {
+        "lat": "43.0305579",
+        "lon": "-9.019264"
+    },
+    "Lleida (Catalunya)": {
+        "lat": "41.6147605",
+        "lon": "0.6267842"
+    },
+    "Marín": {
+        "lat": "42.3922393",
+        "lon": "-8.7029421"
+    },
+    "Salceda de Caselas": {
+        "lat": "42.1021279",
+        "lon": "-8.5579472"
+    },
+    "Ferrol": {
+        "lat": "43.4846862",
+        "lon": "-8.233162"
+    },
+    "Lugo": {
+        "lat": "43.0118437",
+        "lon": "-7.5565749"
+    },
+    "Castelo (Vimianzo)": {
+        "lat": "43.1102989",
+        "lon": "-9.0327488"
+    },
+    "Cambados": {
+        "lat": "42.51439",
+        "lon": "-8.8138414"
+    },
+    "Arzúa": {
+        "lat": "42.9279921",
+        "lon": "-8.1605667"
+    },
+    "San Cibrao, Lieiro (Cervo)": {
+        "lat": "43.693983",
+        "lon": "-7.4416367"
     },
     "Traspielas (Fornelos de Montes)": {
-        "lat": "42.3100183",
-        "lon": "-8.4680313"
+        "lat": "42.3035073",
+        "lon": "-8.4637868"
     },
-    "Cervantes": {
-        "lat": "42.8270064",
-        "lon": "-6.961766500773647"
+    "Meirol (Mondariz)": {
+        "lat": "42.2087534",
+        "lon": "-8.4157784"
+    },
+    "Boiro": {
+        "lat": "42.6462941",
+        "lon": "-8.8858718"
+    },
+    "Cangas": {
+        "lat": "42.2647235",
+        "lon": "-8.7796487"
     },
     "Carnota": {
         "lat": "42.821959",
         "lon": "-9.0878032"
     },
-    "Jazz I Am -Barcelona (Catalunya)": {
-        "lat": 41.4296143,
-        "lon": 2.1750178
+    "As Neves": {
+        "lat": "42.0871129",
+        "lon": "-8.4150653"
     },
-    "Meirol (Mondariz)": {
-        "lat": "42.2118883",
-        "lon": "-8.4165301"
+    "Cervantes": {
+        "lat": "42.8270064",
+        "lon": "-6.961766500773647"
     },
-    "O Couso, O Rosal (O Rosal)": {
-        "lat": "41.9328035",
-        "lon": "-8.8330015"
+    "Vilanova de Arousa": {
+        "lat": "42.5622257",
+        "lon": "-8.8265651"
+    },
+    "Burgos (España)": {
+        "lat": "42.343926",
+        "lon": "-3.696977"
+    },
+    "Nigrán": {
+        "lat": "42.1405445",
+        "lon": "-8.8070821"
     }
 }
