@@ -76,11 +76,11 @@ def get_coord(place):
         r = requests.get(url, params={'q': place, 'format': 'jsonv2'})
         r = r.json()
     if r:
-        # prioritize cities in OSM results over anything else
+        # prioritize cities/villages in OSM results over anything else
         # https://nominatim.org/release-docs/latest/customize/Ranking/
         r1, r2 = [], []
         for i in r:
-            if 13 <= i['place_rank'] <= 16:  # city
+            if 13 <= i['place_rank'] <= 24:  # city/village
                 r1.append(i)
             else:
                 r2.append(i)
