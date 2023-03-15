@@ -51,7 +51,7 @@ def get_coord(place):
 
     params = {'country': 'Spain',
               'state': 'Galicia',
-              'format': 'json'}
+              'format': 'jsonv2'}
     plist = place.split('(')
     params['city'] = plist[0].split(',')[0].strip()
     if len(plist) == 2:
@@ -73,12 +73,17 @@ def get_coord(place):
         r = r.json()
     if not r:
         # try non-structured query
-        r = requests.get(url, params={'q': place, 'format': 'json'})
+        r = requests.get(url, params={'q': place, 'format': 'jsonv2'})
         r = r.json()
     if r:
-        # prioritize **places** in OSM results over **boundaries**
-        r1 = [i for i in r if i['class'] == 'place']
-        r2 = [i for i in r if i['class'] == 'boundary']
+        # prioritize cities in OSM results over anything else
+        # https://nominatim.org/release-docs/latest/customize/Ranking/
+        r1, r2 = [], []
+        for i in r:
+            if 13 <= i['place_rank'] <= 16:  # city
+                r1.append(i)
+            else:
+                r2.append(i)
         r = r1 + r2
     if not r:
         # try photon which is tolerant to typos
