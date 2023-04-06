@@ -6,26 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.005804683954722",
-                    "43.22294368654867"
-                ]
-            },
-            "properties": {
-                "name": "Belém Tajes + Nastasia Zürcher",
-                "location": "Laxe",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23337/-/belem-tajes-nastasia-zuercher.html",
-                "dates": [
-                    "Wednesday 05 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.899726759214015",
-                    "43.24425424838162"
+                    "-8.899015117881252",
+                    "43.243208018049614"
                 ]
             },
             "properties": {
@@ -45,8 +27,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.800394855153839",
-                    "42.19113753662175"
+                    "-8.015233476001843",
+                    "42.91502122046504"
+                ]
+            },
+            "properties": {
+                "name": "Festa Aniversario A Boa Viña",
+                "location": "Boa Viña -Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23187/-/festa-aniversario-a-boa-vina.html",
+                "dates": [
+                    "Thursday 06 april",
+                    "Friday 07 april",
+                    "Saturday 08 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.801396967603671",
+                    "42.189402825875305"
                 ]
             },
             "properties": {
@@ -66,8 +68,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778690596214075",
-                    "42.26608943312605"
+                    "-8.778054143510074",
+                    "42.26659517557703"
                 ]
             },
             "properties": {
@@ -85,8 +87,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.763395466955596",
-                    "43.58993485853483"
+                    "-7.762811426781531",
+                    "43.589555779739136"
                 ]
             },
             "properties": {
@@ -103,14 +105,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.016283266911316",
-                    "42.91507768046463"
+                    "-8.722665927752903",
+                    "42.21095207898022"
                 ]
             },
             "properties": {
-                "name": "Minguante",
-                "location": "Boa Viña -Melide",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23187/-/minguante.html",
+                "name": "Seráns en Castrelos",
+                "location": "Castrelos (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23392/-/serans-en-castrelos.html",
+                "dates": [
+                    "Thursday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.813227389544396",
+                    "42.51600549778217"
+                ]
+            },
+            "properties": {
+                "name": "Igmig",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23397/-/igmig.html",
+                "dates": [
+                    "Thursday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.41357689502255",
+                    "42.08754619002871"
+                ]
+            },
+            "properties": {
+                "name": "A Roda",
+                "location": "As Neves",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23393/-/a-roda.html",
                 "dates": [
                     "Friday 07 april"
                 ]
@@ -121,65 +159,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866500353968702",
-                    "42.34470586990056"
-                ]
-            },
-            "properties": {
-                "name": "Brais Morán & Nasaufunk",
-                "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23106/-/brais-moran-nasaufunk.html",
-                "dates": [
-                    "Saturday 08 april",
-                    "Saturday 22 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.086350595419182",
-                    "42.8236426438434"
-                ]
-            },
-            "properties": {
-                "name": "Leilía",
-                "location": "Carnota",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23080/-/leilia.html",
-                "dates": [
-                    "Saturday 08 april",
-                    "Sunday 23 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.723544714647275",
-                    "42.23914043788427"
-                ]
-            },
-            "properties": {
-                "name": "Superoito + Grilo",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23258/-/superoito-grilo.html",
-                "dates": [
-                    "Saturday 08 april",
-                    "Friday 21 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.6285549590548465",
-                    "42.31966084031172"
+                    "-7.6284880885168045",
+                    "42.319755865745705"
                 ]
             },
             "properties": {
@@ -197,8 +178,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.415026427951386",
-                    "42.087883919560106"
+                    "-8.41328202921201",
+                    "42.088843600286296"
                 ]
             },
             "properties": {
@@ -215,8 +196,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.9602171353349656",
-                    "42.82887959590939"
+                    "-6.959845135753704",
+                    "42.82834411157268"
                 ]
             },
             "properties": {
@@ -233,8 +214,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.098073234113566",
-                    "42.30795453454946"
+                    "-8.13319496595779",
+                    "41.95480918108272"
+                ]
+            },
+            "properties": {
+                "name": "Blues do País",
+                "location": "Entrimo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23404/-/blues-do-pais.html",
+                "dates": [
+                    "Saturday 08 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.0981874069243425",
+                    "42.30786271253617"
                 ]
             },
             "properties": {
@@ -251,8 +250,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792790150536438",
-                    "42.08823517948866"
+                    "-7.792767666758511",
+                    "42.08904899175755"
                 ]
             },
             "properties": {
@@ -260,7 +259,8 @@
                 "location": "Vilar de Santos",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/23364/-/aila.html",
                 "dates": [
-                    "Saturday 08 april"
+                    "Saturday 08 april",
+                    "Monday 10 april"
                 ]
             }
         },
@@ -269,8 +269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.746572692723991",
-                    "42.1284845239594"
+                    "-7.747799354118102",
+                    "42.12680038871875"
                 ]
             },
             "properties": {
@@ -287,8 +287,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7035310405116064",
-                    "40.4180236307424"
+                    "-3.7016780948132215",
+                    "40.417797951571586"
                 ]
             },
             "properties": {
@@ -305,8 +305,100 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.786222877622462",
-                    "42.32886046572206"
+                    "-8.724611373850879",
+                    "42.239106612904315"
+                ]
+            },
+            "properties": {
+                "name": "Superoito + Grilo",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23258/-/superoito-grilo.html",
+                "dates": [
+                    "Saturday 08 april",
+                    "Friday 21 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.86571522448555",
+                    "42.345073640244834"
+                ]
+            },
+            "properties": {
+                "name": "Brais Morán & Nasaufunk",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23106/-/brais-moran-nasaufunk.html",
+                "dates": [
+                    "Saturday 08 april",
+                    "Saturday 22 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.086045511376252",
+                    "42.823555651619515"
+                ]
+            },
+            "properties": {
+                "name": "Leilía + Quinkillada",
+                "location": "Carnota",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23080/-/leilia-quinkillada.html",
+                "dates": [
+                    "Saturday 08 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.076164376770143",
+                    "42.4304443581745"
+                ]
+            },
+            "properties": {
+                "name": "Pelepàu",
+                "location": "O Carballiño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23386/-/pelepau.html",
+                "dates": [
+                    "Saturday 08 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.01222552312585",
+                    "42.91496255299703"
+                ]
+            },
+            "properties": {
+                "name": "Marela",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23381/-/marela.html",
+                "dates": [
+                    "Saturday 08 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.784711560217175",
+                    "42.328497675181275"
                 ]
             },
             "properties": {
@@ -323,27 +415,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.898993756225483",
-                    "43.24426450348335"
-                ]
-            },
-            "properties": {
-                "name": "Los Jinetes del Trópico",
-                "location": "Ponteceso",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23296/-/los-jinetes-del-tropico.html",
-                "dates": [
-                    "Sunday 09 april",
-                    "Sunday 16 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.825158896707205",
-                    "42.56410391994546"
+                    "-8.825700301359195",
+                    "42.56323053649279"
                 ]
             },
             "properties": {
@@ -351,6 +424,7 @@
                 "location": "Vilanova de Arousa",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/23251/-/udra.html",
                 "dates": [
+                    "Sunday 09 april",
                     "Sunday 09 april"
                 ]
             }
@@ -360,8 +434,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.8438719396825665",
-                    "43.36133912211615"
+                    "-5.844934185165591",
+                    "43.361571075696276"
                 ]
             },
             "properties": {
@@ -379,8 +453,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689374244284162",
-                    "42.15665954411454"
+                    "-8.688065507666888",
+                    "42.15755763223615"
                 ]
             },
             "properties": {
@@ -397,8 +471,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39534049594569",
-                    "43.371590253520466"
+                    "-8.395734954748853",
+                    "43.37107140918444"
                 ]
             },
             "properties": {
@@ -417,8 +491,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-13.635967290812575",
-                    "29.041619939846004"
+                    "-13.635268658982604",
+                    "29.0402755388304"
                 ]
             },
             "properties": {
@@ -436,8 +510,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545099954549208",
-                    "42.881033296818686"
+                    "-8.544699824754728",
+                    "42.880622045154254"
                 ]
             },
             "properties": {
@@ -454,8 +528,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.6955795045206794",
-                    "42.34510406171738"
+                    "-3.6959466739816946",
+                    "42.345382908173946"
                 ]
             },
             "properties": {
@@ -476,8 +550,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.806746802611782",
-                    "42.14221693383104"
+                    "-8.806000555342994",
+                    "42.14086094926433"
                 ]
             },
             "properties": {
@@ -494,8 +568,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395900006908025",
-                    "43.37273970379713"
+                    "-7.865514019124885",
+                    "42.34474871645605"
+                ]
+            },
+            "properties": {
+                "name": "O Sonoro Maxín",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23387/-/o-sonoro-maxin.html",
+                "dates": [
+                    "Friday 14 april",
+                    "Saturday 15 april",
+                    "Sunday 23 april",
+                    "Friday 28 april",
+                    "Friday 28 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394027111342695",
+                    "43.37098923687703"
                 ]
             },
             "properties": {
@@ -512,16 +608,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642558782054916",
-                    "42.43202755423032"
+                    "-8.81261422559601",
+                    "42.51625737226856"
                 ]
             },
             "properties": {
-                "name": "Gallego Común",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23084/-/gallego-comun.html",
+                "name": "Speedbombs + Los Mortales",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23398/-/speedbombs-los-mortales.html",
                 "dates": [
-                    "Saturday 15 april"
+                    "Friday 14 april"
                 ]
             }
         },
@@ -530,8 +626,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8015986094819",
-                    "42.18985593522304"
+                    "-8.641487021799724",
+                    "42.43316850416855"
+                ]
+            },
+            "properties": {
+                "name": "Gallego Común",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23084/-/gallego-comun.html",
+                "dates": [
+                    "Saturday 15 april",
+                    "Saturday 06 may"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.801154720677387",
+                    "42.19037217814124"
                 ]
             },
             "properties": {
@@ -548,8 +663,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.376258532710764",
-                    "42.34841757050983"
+                    "-8.48024959446257",
+                    "42.7777017495054"
+                ]
+            },
+            "properties": {
+                "name": "XLI Festa do Viño da Ulla",
+                "location": "Vedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23379/-/xli-festa-do-vino-da-ulla.html",
+                "dates": [
+                    "Saturday 15 april",
+                    "Sunday 16 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.375441788103076",
+                    "42.347749166865995"
                 ]
             },
             "properties": {
@@ -566,8 +700,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651952957190861",
-                    "42.19788269675093"
+                    "-8.179196124591545",
+                    "43.22751930308464"
+                ]
+            },
+            "properties": {
+                "name": "III de Foliada con Donaire",
+                "location": "Oza (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23391/-/iii-de-foliada-con-donaire.html",
+                "dates": [
+                    "Saturday 15 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641929724233945",
+                    "42.43211324947569"
+                ]
+            },
+            "properties": {
+                "name": "Arte e Parte",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23383/-/arte-e-parte.html",
+                "dates": [
+                    "Saturday 15 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652121792747959",
+                    "42.197106039315045"
                 ]
             },
             "properties": {
@@ -584,8 +754,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723103249026607",
-                    "42.239254104932"
+                    "-8.723565292603636",
+                    "42.23860967317712"
                 ]
             },
             "properties": {
@@ -602,8 +772,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.593451405773654",
-                    "42.54657562103442"
+                    "-6.593095197022181",
+                    "42.546837392732556"
                 ]
             },
             "properties": {
@@ -620,8 +790,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724517464774598",
-                    "42.239449112204746"
+                    "-8.723953161223994",
+                    "42.23946787914071"
                 ]
             },
             "properties": {
@@ -638,8 +808,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88458745980794",
-                    "42.64741307497162"
+                    "-8.884008151980195",
+                    "42.64702774983401"
                 ]
             },
             "properties": {
@@ -657,8 +827,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.022446672562839",
-                    "39.857346959865865"
+                    "-4.022485973720216",
+                    "39.85702199799558"
                 ]
             },
             "properties": {
@@ -676,8 +846,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.747776641999717",
-                    "42.12677710476261"
+                    "-7.746769957033307",
+                    "42.12732504787123"
                 ]
             },
             "properties": {
@@ -694,8 +864,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394057488603684",
-                    "43.37279342275248"
+                    "-8.39587758283411",
+                    "43.37214058729258"
                 ]
             },
             "properties": {
@@ -712,8 +882,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.618623875371608",
-                    "42.16375824576623"
+                    "-8.646313649228395",
+                    "42.05202023023659"
+                ]
+            },
+            "properties": {
+                "name": "Los Jinetes del Trópico",
+                "location": "Tui",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23297/-/los-jinetes-del-tropico.html",
+                "dates": [
+                    "Sunday 16 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.619609675440847",
+                    "42.16271011539181"
                 ]
             },
             "properties": {
@@ -730,8 +918,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544091084513342",
-                    "42.8809201787546"
+                    "-8.545266058845513",
+                    "42.88069248417746"
                 ]
             },
             "properties": {
@@ -748,8 +936,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545696517933994",
-                    "42.88064028120496"
+                    "-8.544340908107225",
+                    "42.88104515399679"
+                ]
+            },
+            "properties": {
+                "name": "Zeltia Irevire + Michu da Rocha e Banda",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23384/-/zeltia-irevire-michu-da-rocha-e-banda.html",
+                "dates": [
+                    "Thursday 20 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544768753327675",
+                    "42.881237176040386"
                 ]
             },
             "properties": {
@@ -767,8 +973,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.892513777796264",
-                    "43.18109641559449"
+                    "-7.893601664667231",
+                    "43.18097890902558"
                 ]
             },
             "properties": {
@@ -785,8 +991,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651259435535016",
-                    "42.1972893381339"
+                    "-8.65250171463378",
+                    "42.19699262797314"
                 ]
             },
             "properties": {
@@ -803,16 +1009,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724320635520156",
-                    "42.23825484498111"
+                    "-8.769745515090852",
+                    "42.49521316119656"
                 ]
             },
             "properties": {
-                "name": "Rebeliom do Inframundo",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/22775/-/rebeliom-do-inframundo.html",
+                "name": "Xenderal",
+                "location": "Barrantes (Ribadumia)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23399/-/xenderal.html",
                 "dates": [
-                    "Saturday 22 april"
+                    "Friday 21 april"
                 ]
             }
         },
@@ -821,8 +1027,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.801931617691213",
-                    "42.190479979900935"
+                    "-8.723962317939865",
+                    "42.23879001246762"
+                ]
+            },
+            "properties": {
+                "name": "Rebeliom do Inframundo",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/22775/-/rebeliom-do-inframundo.html",
+                "dates": [
+                    "Saturday 22 april",
+                    "Saturday 06 may"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.801861849965295",
+                    "42.189692143486084"
                 ]
             },
             "properties": {
@@ -839,8 +1064,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232606274590687",
-                    "43.485646706746216"
+                    "-8.607653230199496",
+                    "42.28502212224128"
+                ]
+            },
+            "properties": {
+                "name": "Zeltia Irevire",
+                "location": "Redondela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23385/-/zeltia-irevire.html",
+                "dates": [
+                    "Saturday 22 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.232736382749543",
+                    "43.48529884653569"
                 ]
             },
             "properties": {
@@ -857,8 +1100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413949140948862",
-                    "42.77847533114333"
+                    "-7.413024923636952",
+                    "42.77851718105437"
                 ]
             },
             "properties": {
@@ -875,8 +1118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652178015394579",
-                    "42.19858663593943"
+                    "-8.652943149691527",
+                    "42.19785333805757"
                 ]
             },
             "properties": {
@@ -893,8 +1136,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793313191923",
-                    "42.08913361886574"
+                    "-8.608207327832448",
+                    "42.20440589402055"
+                ]
+            },
+            "properties": {
+                "name": "Nosa Terra",
+                "location": "Mos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23403/-/nosa-terra.html",
+                "dates": [
+                    "Saturday 22 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794391420372134",
+                    "42.087910583776285"
                 ]
             },
             "properties": {
@@ -911,8 +1172,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.664141208872575",
-                    "42.264109727402186"
+                    "-8.394573636612435",
+                    "43.37116223991336"
+                ]
+            },
+            "properties": {
+                "name": "Istmo. Proxecto Enlace entre a Arte e a Rúa",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23396/-/istmo-proxecto-enlace-entre-a-arte-e-a-rua.html",
+                "dates": [
+                    "Saturday 22 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.66468984254913",
+                    "42.26303301182919"
                 ]
             },
             "properties": {
@@ -929,8 +1208,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.412693040746736",
-                    "43.119194339618126"
+                    "-2.411662141526944",
+                    "43.11917919280319"
                 ]
             },
             "properties": {
@@ -947,8 +1226,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.67803456613594",
-                    "43.29744619006608"
+                    "-8.813003344672055",
+                    "42.51546125307559"
+                ]
+            },
+            "properties": {
+                "name": "Mascada + Bala",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23400/-/mascada-bala.html",
+                "dates": [
+                    "Saturday 22 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.886455892405984",
+                    "42.785312852562996"
+                ]
+            },
+            "properties": {
+                "name": "Leilía",
+                "location": "Noia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23081/-/leilia.html",
+                "dates": [
+                    "Sunday 23 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.812382066296461",
+                    "42.51520858446396"
+                ]
+            },
+            "properties": {
+                "name": "MJ Pérez",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23401/-/mj-perez.html",
+                "dates": [
+                    "Sunday 23 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.676351899199498",
+                    "43.29720320998628"
                 ]
             },
             "properties": {
@@ -967,26 +1300,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794558130533411",
-                    "42.08797003405655"
-                ]
-            },
-            "properties": {
-                "name": "O Sonoro Maxín",
-                "location": "Vilar de Santos",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23366/-/o-sonoro-maxin.html",
-                "dates": [
-                    "Friday 28 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.395640719591649",
-                    "43.37119390375719"
+                    "-8.394642668074892",
+                    "43.37107924864228"
                 ]
             },
             "properties": {
@@ -1003,8 +1318,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652060977446405",
-                    "42.19697640325373"
+                    "-8.651151027164193",
+                    "42.19837321364019"
                 ]
             },
             "properties": {
@@ -1021,8 +1336,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012744586930884",
-                    "42.915597688601224"
+                    "-8.011767166771575",
+                    "42.91552248303449"
                 ]
             },
             "properties": {
@@ -1040,8 +1355,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.847145652415018",
-                    "42.58509124617155"
+                    "-7.846058065041803",
+                    "42.58570652397019"
                 ]
             },
             "properties": {
@@ -1058,8 +1373,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.874005589934722",
-                    "43.21910873725193"
+                    "-6.875201403465289",
+                    "43.217972246300995"
                 ]
             },
             "properties": {
@@ -1076,8 +1391,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545527900160824",
-                    "42.880742274507924"
+                    "-8.544009887491324",
+                    "42.88054829369334"
                 ]
             },
             "properties": {
@@ -1094,8 +1409,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.817049341831973",
-                    "42.64942025051408"
+                    "-8.815398605308568",
+                    "42.65083965005454"
                 ]
             },
             "properties": {
@@ -1113,8 +1428,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.403284248455419",
-                    "42.596315481312914"
+                    "-8.403564606031994",
+                    "42.59660927194459"
                 ]
             },
             "properties": {
@@ -1131,8 +1446,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.496358362669815",
-                    "42.08393229739881"
+                    "-8.497434230191015",
+                    "42.08338451982275"
                 ]
             },
             "properties": {
@@ -1149,8 +1464,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.884193777915634",
-                    "42.647555222575456"
+                    "-8.544367014748307",
+                    "42.88044816037394"
+                ]
+            },
+            "properties": {
+                "name": "Ataque Escampe",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23380/-/ataque-escampe.html",
+                "dates": [
+                    "Saturday 29 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.88576836951794",
+                    "42.64705148731108"
                 ]
             },
             "properties": {
@@ -1167,8 +1500,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651659283114489",
-                    "42.197788013452616"
+                    "-8.73581281462054",
+                    "42.198934124116604"
+                ]
+            },
+            "properties": {
+                "name": "X Festa da Sementeira",
+                "location": "Matamá (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23394/-/x-festa-da-sementeira.html",
+                "dates": [
+                    "Sunday 30 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651421239310471",
+                    "42.19745684843094"
                 ]
             },
             "properties": {
@@ -1185,8 +1536,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723220173583709",
-                    "42.23767283788802"
+                    "-8.723002132789336",
+                    "42.237973240193774"
                 ]
             },
             "properties": {
@@ -1203,8 +1554,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.610647217036187",
-                    "41.15003774280556"
+                    "-8.609548204029885",
+                    "41.14981794383997"
                 ]
             },
             "properties": {
@@ -1221,8 +1572,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723880860403678",
-                    "42.2380894787909"
+                    "-8.723707328924467",
+                    "42.237901853348085"
                 ]
             },
             "properties": {
@@ -1239,8 +1590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72431694911743",
-                    "42.237792487678526"
+                    "-8.72310968849269",
+                    "42.237750803396345"
                 ]
             },
             "properties": {
@@ -1257,8 +1608,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865953058621659",
-                    "42.345105779185445"
+                    "-0.37489833837816294",
+                    "39.470731967327524"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz e Adufeiras de Salitre",
+                "location": "Valencia (País Valencià)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23395/-/xabier-diaz-e-adufeiras-de-salitre.html",
+                "dates": [
+                    "Thursday 04 may"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.867038185462979",
+                    "42.34462320157796"
                 ]
             },
             "properties": {
@@ -1267,6 +1636,42 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/23121/-/trapallada-maskarpone.html",
                 "dates": [
                     "Friday 05 may"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778734450396852",
+                    "42.265850035785796"
+                ]
+            },
+            "properties": {
+                "name": "Astarot",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23148/-/astarot.html",
+                "dates": [
+                    "Saturday 06 may"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652800948724707",
+                    "42.19724395226523"
+                ]
+            },
+            "properties": {
+                "name": "Brais Morán & Nasaufunk + Moon Cresta",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23108/-/brais-moran-nasaufunk-moon-cresta.html",
+                "dates": [
+                    "Saturday 06 may"
                 ]
             }
         }
