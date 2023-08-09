@@ -153,7 +153,7 @@ def download_events():
 
             # Transform month name from Galician to English
             tmp_day, tmp_month = date.split(' ')
-            tmp_month = month_map[tmp_month]
+            tmp_month = month_map[tmp_month.lower()]
             date = f"{tmp_day} {tmp_month}"
 
             # Date string to datetime object
