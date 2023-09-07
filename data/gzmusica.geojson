@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.785796337817278",
-                    "42.589385620655385"
+                    "-8.785887712995759",
+                    "42.590039180379726"
                 ]
             },
             "properties": {
@@ -27,18 +27,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232694119226274",
-                    "43.48552244445881"
+                    "-8.55918410173161",
+                    "42.86356773618454"
+                ]
+            },
+            "properties": {
+                "name": "Mallou",
+                "location": "Conxo (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24327/-/mallou.html",
+                "dates": [
+                    "Thursday 07 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.232493304760217",
+                    "43.48620598966854"
                 ]
             },
             "properties": {
                 "name": "IV Nachiños Fest",
                 "location": "Ferrol",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23062/-/iv-nachinos-fest.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23970/-/iv-nachinos-fest.html",
                 "dates": [
                     "Friday 08 september",
-                    "Friday 08 september",
-                    "Saturday 09 september",
                     "Saturday 09 september"
                 ]
             }
@@ -48,8 +64,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394080312332845",
-                    "43.37174771789984"
+                    "-8.394090715127678",
+                    "43.371881905125235"
                 ]
             },
             "properties": {
@@ -68,8 +84,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.725193372350107",
-                    "42.175421818698325"
+                    "-8.723972467366591",
+                    "42.17592062488749"
                 ]
             },
             "properties": {
@@ -87,8 +103,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395842778334309",
-                    "43.37160769070778"
+                    "-8.393973396830468",
+                    "43.372364543986386"
                 ]
             },
             "properties": {
@@ -105,8 +121,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689438605200163",
-                    "42.25201897626215"
+                    "-7.55501433762534",
+                    "43.01315667402991"
+                ]
+            },
+            "properties": {
+                "name": "Feira do 48",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24330/-/feira-do-48.html",
+                "dates": [
+                    "Saturday 09 september",
+                    "Sunday 10 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.689891001170274",
+                    "42.252539871920945"
                 ]
             },
             "properties": {
@@ -123,8 +158,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.721907344300433",
-                    "43.46800446740228"
+                    "-7.72141211196839",
+                    "43.46958461214178"
                 ]
             },
             "properties": {
@@ -142,44 +177,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.817141216043956",
-                    "42.64993418756474"
-                ]
-            },
-            "properties": {
-                "name": "Quinkillada",
-                "location": "Rianxo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24208/-/quinkillada.html",
-                "dates": [
-                    "Saturday 09 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.817226985418046",
-                    "42.65006064426475"
-                ]
-            },
-            "properties": {
-                "name": "Rock in Rian",
-                "location": "Rianxo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24293/-/rock-in-rian.html",
-                "dates": [
-                    "Saturday 09 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.65931610326902",
-                    "42.243886179273424"
+                    "-8.658493964015316",
+                    "42.24311799211726"
                 ]
             },
             "properties": {
@@ -196,8 +195,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.493063986213084",
-                    "42.25653559813243"
+                    "-8.492145504508512",
+                    "42.25633696917145"
                 ]
             },
             "properties": {
@@ -214,8 +213,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724325883230135",
-                    "42.23911639810812"
+                    "-8.722778140322417",
+                    "42.238906139583264"
                 ]
             },
             "properties": {
@@ -232,8 +231,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.15680338069112",
-                    "43.516763265017055"
+                    "-8.816851115513412",
+                    "42.64894865025446"
+                ]
+            },
+            "properties": {
+                "name": "Rock in Rian",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24293/-/rock-in-rian.html",
+                "dates": [
+                    "Saturday 09 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.524081107893444",
+                    "42.10689724564256"
+                ]
+            },
+            "properties": {
+                "name": "IX Serán de Alxén",
+                "location": "Alxén (Salvaterra de Miño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24331/-/ix-seran-de-alxen.html",
+                "dates": [
+                    "Saturday 09 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.156771420598762",
+                    "43.51621310124872"
                 ]
             },
             "properties": {
@@ -250,8 +285,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.653839617748888",
-                    "42.34794247469659"
+                    "-8.653955214168175",
+                    "42.34805129470683"
                 ]
             },
             "properties": {
@@ -269,8 +304,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.733638847271953",
-                    "42.91214579110473"
+                    "-8.73338682016178",
+                    "42.91116276335626"
                 ]
             },
             "properties": {
@@ -287,8 +322,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.826347714725495",
-                    "42.15119471635278"
+                    "-8.826328682784146",
+                    "42.151557027694665"
                 ]
             },
             "properties": {
@@ -306,8 +341,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.25904389544223",
-                    "42.771394299645024"
+                    "-8.260047824571073",
+                    "42.770111381653564"
                 ]
             },
             "properties": {
@@ -324,8 +359,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.500123086975517",
-                    "43.31027445989565"
+                    "-8.498941555120725",
+                    "43.309836581966906"
                 ]
             },
             "properties": {
@@ -342,8 +377,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.815572848566607",
-                    "42.27610767185921"
+                    "-8.81508204267476",
+                    "42.27774413249451"
                 ]
             },
             "properties": {
@@ -360,8 +395,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.176798222968465",
-                    "43.26896951712636"
+                    "-8.177176386737806",
+                    "43.26767656210609"
                 ]
             },
             "properties": {
@@ -378,8 +413,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.702620477335715",
-                    "42.393130394090996"
+                    "-3.007605427801208",
+                    "43.34863851026458"
+                ]
+            },
+            "properties": {
+                "name": "Faltriqueira",
+                "location": "Getxo, Bizkaia (Euskal Herria)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24324/-/faltriqueira.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.70228356767374",
+                    "42.394065966660634"
                 ]
             },
             "properties": {
@@ -396,8 +449,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.717223585303042",
-                    "42.356863411894906"
+                    "-8.717607593948369",
+                    "42.355636708572796"
                 ]
             },
             "properties": {
@@ -414,8 +467,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.543036171422376",
-                    "42.85362447037126"
+                    "-8.541913348182085",
+                    "42.85388669813085"
                 ]
             },
             "properties": {
@@ -434,8 +487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.725481652158926",
-                    "42.17506755987564"
+                    "-8.724643189683574",
+                    "42.176435892508216"
                 ]
             },
             "properties": {
@@ -453,8 +506,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.490050965397643",
-                    "42.688821703680055"
+                    "-8.490625876431478",
+                    "42.68868538051985"
                 ]
             },
             "properties": {
@@ -472,8 +525,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.16083421641005",
-                    "43.47457445252973"
+                    "-8.162461269525497",
+                    "43.474511979678134"
                 ]
             },
             "properties": {
@@ -492,8 +545,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.68728438962479",
-                    "43.21488614553778"
+                    "-8.688837267031339",
+                    "43.21448997848253"
                 ]
             },
             "properties": {
@@ -511,8 +564,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.86592431097706",
-                    "42.345067148837664"
+                    "-9.115471773443737",
+                    "42.77641038333193"
+                ]
+            },
+            "properties": {
+                "name": "Asaghieiras Master Festival",
+                "location": "Lariño (Carnota)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24326/-/asaghieiras-master-festival.html",
+                "dates": [
+                    "Saturday 23 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544200213053527",
+                    "42.882335769936624"
+                ]
+            },
+            "properties": {
+                "name": "Dani Barreiro & Friends",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24328/-/dani-barreiro-friends.html",
+                "dates": [
+                    "Thursday 28 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.19067331850953",
+                    "42.58905026793788"
+                ]
+            },
+            "properties": {
+                "name": "V Cantos do Courel",
+                "location": "Folgoso do Courel",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24329/-/v-cantos-do-courel.html",
+                "dates": [
+                    "Saturday 30 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866740174930841",
+                    "42.344334787814496"
                 ]
             },
             "properties": {
@@ -520,7 +627,8 @@
                 "location": "Ourense",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24209/-/true-mountains-we-bless-this-mess.html",
                 "dates": [
-                    "Thursday 05 october"
+                    "Thursday 05 october",
+                    "Saturday 07 october"
                 ]
             }
         },
@@ -529,8 +637,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.301691688925255",
-                    "42.72917313313476"
+                    "-8.30261441547462",
+                    "42.73082821342722"
                 ]
             },
             "properties": {
@@ -538,7 +646,8 @@
                 "location": "A Bandeira, Manduás (Silleda)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/23786/-/murallon-de-son.html",
                 "dates": [
-                    "Friday 06 october"
+                    "Friday 06 october",
+                    "Saturday 07 october"
                 ]
             }
         },
@@ -547,8 +656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.594166576971709",
-                    "43.66220030229364"
+                    "-7.59433265717296",
+                    "43.6639852647052"
                 ]
             },
             "properties": {
