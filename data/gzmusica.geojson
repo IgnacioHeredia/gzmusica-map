@@ -6,63 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.655615955442384",
-                    "42.34797963231086"
-                ]
-            },
-            "properties": {
-                "name": "Canteira Fest",
-                "location": "Vilaboa",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/23130/-/canteira-fest.html",
-                "dates": [
-                    "Friday 15 september",
-                    "Saturday 16 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.54546059141981",
-                    "42.88105344478221"
-                ]
-            },
-            "properties": {
-                "name": "Som do Galpom + Biribirlocke",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24348/-/som-do-galpom-biribirlocke.html",
-                "dates": [
-                    "Friday 15 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.733078993924867",
-                    "42.912092642675276"
-                ]
-            },
-            "properties": {
-                "name": "XIX Noite Folk de Negreira",
-                "location": "Negreira",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24268/-/xix-noite-folk-de-negreira.html",
-                "dates": [
-                    "Friday 15 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.827061460173514",
-                    "42.15094220008096"
+                    "-8.82660521275403",
+                    "42.1511542262436"
                 ]
             },
             "properties": {
@@ -80,14 +25,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.25893048737326",
-                    "42.77046027845556"
+                    "-8.653810526315628",
+                    "42.34812313301702"
                 ]
             },
             "properties": {
-                "name": "Eferro Foliada",
-                "location": "Merza (Vila de Cruces)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24096/-/eferro-foliada.html",
+                "name": "Canteira Fest",
+                "location": "Vilaboa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/23130/-/canteira-fest.html",
                 "dates": [
                     "Saturday 16 september"
                 ]
@@ -98,8 +43,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689812565781704",
-                    "42.253126989983656"
+                    "-8.894737321818996",
+                    "43.19715844411395"
+                ]
+            },
+            "properties": {
+                "name": "Galifunk Brass",
+                "location": "Cabana de Bergantiños",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24359/-/galifunk-brass.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.82589928304818",
+                    "42.56232155003513"
+                ]
+            },
+            "properties": {
+                "name": "II Aniversario A Cofradía",
+                "location": "Vilanova de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24356/-/ii-aniversario-a-cofradia.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.690529246569417",
+                    "42.25300826649821"
                 ]
             },
             "properties": {
@@ -116,8 +97,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816244409597713",
-                    "42.27594932096171"
+                    "-7.55645380331479",
+                    "43.01361914941372"
+                ]
+            },
+            "properties": {
+                "name": "V Caudal Fest",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24357/-/v-caudal-fest.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.852680296319566",
+                    "43.451284234871515"
+                ]
+            },
+            "properties": {
+                "name": "VIII Cita coa Historia",
+                "location": "As Pontes",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24362/-/viii-cita-coa-historia.html",
+                "dates": [
+                    "Saturday 16 september",
+                    "Sunday 17 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.517298082767926",
+                    "42.90749629652304"
+                ]
+            },
+            "properties": {
+                "name": "O Fechiño. 2º Festival Rupestre e de Proximidade",
+                "location": "San Xoán de Fecha (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24364/-/o-fechino-2-festival-rupestre-e-de-proximidade.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816733860046524",
+                    "42.27760627226941"
                 ]
             },
             "properties": {
@@ -134,8 +170,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.498664356414363",
-                    "43.311034751463964"
+                    "-8.259594260304885",
+                    "42.769698270618456"
+                ]
+            },
+            "properties": {
+                "name": "Eferro Foliada",
+                "location": "Merza (Vila de Cruces)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24096/-/eferro-foliada.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.499605749401127",
+                    "43.309957352065716"
                 ]
             },
             "properties": {
@@ -153,8 +207,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.177004522244198",
-                    "43.26825183009932"
+                    "-8.176743626324445",
+                    "43.26776011435379"
                 ]
             },
             "properties": {
@@ -171,8 +225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.866890781787045",
-                    "42.5513339623566"
+                    "-8.866475263221924",
+                    "42.551735279775464"
                 ]
             },
             "properties": {
@@ -189,8 +243,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.008148010582699",
-                    "43.349672511696376"
+                    "-3.0069532565622037",
+                    "43.34963973062229"
                 ]
             },
             "properties": {
@@ -207,8 +261,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.702483708664744",
-                    "42.39229697277041"
+                    "-8.701419774732896",
+                    "42.39247300337465"
                 ]
             },
             "properties": {
@@ -225,8 +279,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.468727113009491",
-                    "42.684408584109455"
+                    "-9.055818629639216",
+                    "42.77046265394819"
+                ]
+            },
+            "properties": {
+                "name": "Mascada + Sdhara & Ritman + Archivo Adxunto",
+                "location": "Campo de Cortes, Muros (Muros)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24363/-/mascada-sdhara-ritman-archivo-adxunto.html",
+                "dates": [
+                    "Saturday 16 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.466777270866467",
+                    "42.68262868224526"
                 ]
             },
             "properties": {
@@ -243,8 +315,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.717483820176238",
-                    "42.35711621555452"
+                    "-8.077117735694989",
+                    "42.4317021054533"
+                ]
+            },
+            "properties": {
+                "name": "Roberto Sobrado e Banda",
+                "location": "O Carballiño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24355/-/roberto-sobrado-e-banda.html",
+                "dates": [
+                    "Sunday 17 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.717832942182104",
+                    "42.35675134212594"
                 ]
             },
             "properties": {
@@ -261,8 +351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544122387857442",
-                    "42.8817368063976"
+                    "-8.545373654071206",
+                    "42.881226144080216"
                 ]
             },
             "properties": {
@@ -283,8 +373,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54303435693398",
-                    "42.85383346000572"
+                    "-8.641187770368903",
+                    "42.433497110165845"
+                ]
+            },
+            "properties": {
+                "name": "Galifunki Brass",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24360/-/galifunki-brass.html",
+                "dates": [
+                    "Wednesday 20 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.542762448988867",
+                    "42.852520630293014"
                 ]
             },
             "properties": {
@@ -303,8 +411,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724158222525167",
-                    "42.17622048691871"
+                    "-8.725465857300886",
+                    "42.17642813510798"
                 ]
             },
             "properties": {
@@ -322,8 +430,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489985004647043",
-                    "42.688732540975714"
+                    "-8.489718725193857",
+                    "42.68960228699215"
                 ]
             },
             "properties": {
@@ -341,8 +449,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.160646511037063",
-                    "43.47380215388962"
+                    "-8.160618129175639",
+                    "43.475205731594286"
                 ]
             },
             "properties": {
@@ -361,8 +469,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688132502245624",
-                    "43.21401320095549"
+                    "-8.687372190989992",
+                    "43.21365068391326"
                 ]
             },
             "properties": {
@@ -380,8 +488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723526265168706",
-                    "42.23913982778773"
+                    "-8.723233732311652",
+                    "42.23930513658233"
                 ]
             },
             "properties": {
@@ -398,8 +506,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.114445790209249",
-                    "42.776589509272235"
+                    "-9.114210747091095",
+                    "42.77599457862008"
                 ]
             },
             "properties": {
@@ -416,8 +524,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.951903066303031",
-                    "43.607823082265575"
+                    "-7.951487862643866",
+                    "43.60809533263535"
                 ]
             },
             "properties": {
@@ -434,8 +542,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.441125329843837",
-                    "42.96961419237334"
+                    "-8.44054981072587",
+                    "42.96908798657872"
                 ]
             },
             "properties": {
@@ -452,8 +560,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54420700825194",
-                    "42.880938046599404"
+                    "-8.543868334685639",
+                    "42.88078558382496"
                 ]
             },
             "properties": {
@@ -470,8 +578,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545483994360692",
-                    "42.88078679419054"
+                    "-8.543993716405632",
+                    "42.88117562480572"
                 ]
             },
             "properties": {
@@ -488,8 +596,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.90549810917829",
-                    "42.468804820254235"
+                    "-8.642937404660136",
+                    "42.432943231875804"
+                ]
+            },
+            "properties": {
+                "name": "O Rabelo + MJ Pérez",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24361/-/o-rabelo-mj-perez.html",
+                "dates": [
+                    "Friday 29 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.90481247100946",
+                    "42.4699830959956"
                 ]
             },
             "properties": {
@@ -507,8 +633,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.19219645329624",
-                    "42.58958496984112"
+                    "-7.19094808306921",
+                    "42.58902851447912"
                 ]
             },
             "properties": {
@@ -525,8 +651,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887453089238383",
-                    "42.47048990548362"
+                    "-7.79319898397587",
+                    "42.08843787552418"
+                ]
+            },
+            "properties": {
+                "name": "O Rabelo e Alba María e Queco Díaz",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24365/-/o-rabelo-e-alba-maria-e-queco-diaz.html",
+                "dates": [
+                    "Saturday 30 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.887540227481313",
+                    "42.471784655631694"
                 ]
             },
             "properties": {
@@ -552,8 +696,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866629705166075",
-                    "42.34515208874677"
+                    "-7.866394419281025",
+                    "42.345084006712646"
                 ]
             },
             "properties": {
@@ -571,8 +715,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.30221260486295",
-                    "42.72992937673534"
+                    "-8.302829812494261",
+                    "42.73001294654146"
                 ]
             },
             "properties": {
@@ -590,8 +734,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.593648275650433",
-                    "43.6621904205853"
+                    "-7.594344669227032",
+                    "43.662499095145854"
                 ]
             },
             "properties": {
@@ -609,8 +753,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.867233777647576",
-                    "42.34500560848181"
+                    "-7.866430201237219",
+                    "42.34478264286257"
                 ]
             },
             "properties": {
