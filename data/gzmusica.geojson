@@ -6,80 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.904893564778655",
-                    "42.4684073361195"
-                ]
-            },
-            "properties": {
-                "name": "Festa da Terra",
-                "location": "Balea, San Vicente do Grove (O Grove)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24344/-/festa-da-terra.html",
-                "dates": [
-                    "Sunday 01 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.3952467754937",
-                    "43.37261741529203"
-                ]
-            },
-            "properties": {
-                "name": "Festas de Montealto 2023",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24398/-/festas-de-montealto-2023.html",
-                "dates": [
-                    "Sunday 01 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.785389495307236",
-                    "42.32845565376409"
-                ]
-            },
-            "properties": {
-                "name": "O Leo de Matamá",
-                "location": "Bueu",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24407/-/o-leo-de-matama.html",
-                "dates": [
-                    "Sunday 01 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.503541761992924",
-                    "42.17576046562796"
-                ]
-            },
-            "properties": {
-                "name": "Roi Casal",
-                "location": "Ponteareas",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24406/-/roi-casal.html",
-                "dates": [
-                    "Sunday 01 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.554756299642948",
-                    "43.01245466818583"
+                    "-7.555889934066814",
+                    "43.01216778734187"
                 ]
             },
             "properties": {
@@ -104,8 +32,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.886663724221435",
-                    "42.47215648654862"
+                    "-8.886999710993274",
+                    "42.47081422909615"
                 ]
             },
             "properties": {
@@ -131,27 +59,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866784291734068",
-                    "42.345185114020836"
-                ]
-            },
-            "properties": {
-                "name": "True Mountains + We Bless this Mess",
-                "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24209/-/true-mountains-we-bless-this-mess.html",
-                "dates": [
-                    "Thursday 05 october",
-                    "Saturday 07 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.865532367084172",
-                    "42.34457156159905"
+                    "-7.867249905824939",
+                    "42.344449656999345"
                 ]
             },
             "properties": {
@@ -168,8 +77,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.302001367495233",
-                    "42.73064298503935"
+                    "-8.302499506563322",
+                    "42.72968890658957"
                 ]
             },
             "properties": {
@@ -187,8 +96,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.345163033592957",
-                    "43.35071913464934"
+                    "-8.345726145991636",
+                    "43.34926787534645"
                 ]
             },
             "properties": {
@@ -206,27 +115,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.593950646296409",
-                    "43.663789627802004"
-                ]
-            },
-            "properties": {
-                "name": "Ture Mountains + We Bless this Mess",
-                "location": "Viveiro",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24210/-/ture-mountains-we-bless-this-mess.html",
-                "dates": [
-                    "Friday 06 october",
-                    "Sunday 08 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.594196895028136",
-                    "43.66231967484605"
+                    "-7.593246578879086",
+                    "43.662304106305044"
                 ]
             },
             "properties": {
@@ -243,8 +133,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.78501339534104",
-                    "41.95182978912745"
+                    "-8.17864537035368",
+                    "43.22821619897404"
+                ]
+            },
+            "properties": {
+                "name": "True Mountains + We Bless this Mess",
+                "location": "Oza (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24211/-/true-mountains-we-bless-this-mess.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.785454677939045",
+                    "41.95246949813504"
                 ]
             },
             "properties": {
@@ -261,8 +169,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.163048615696221",
-                    "42.363117724720276"
+                    "-8.163783604862966",
+                    "42.36325991831955"
                 ]
             },
             "properties": {
@@ -279,8 +187,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.870540855182892",
-                    "42.41476129087085"
+                    "-8.609953461244608",
+                    "41.14990339455758"
+                ]
+            },
+            "properties": {
+                "name": "Ture Mountains + We Bless this Mess",
+                "location": "Porto (Portugal)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24212/-/ture-mountains-we-bless-this-mess.html",
+                "dates": [
+                    "Sunday 08 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.871229455463949",
+                    "42.415103399859895"
                 ]
             },
             "properties": {
@@ -297,8 +223,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.631373730739172",
-                    "42.104535556811236"
+                    "-8.630842356211495",
+                    "42.10517707662672"
                 ]
             },
             "properties": {
@@ -315,8 +241,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866329184046899",
-                    "42.34507418038126"
+                    "-7.866167493786356",
+                    "42.3449470962876"
                 ]
             },
             "properties": {
@@ -333,8 +259,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.687707851305344",
-                    "42.304769083180396"
+                    "-7.793620015927",
+                    "42.08756429112286"
+                ]
+            },
+            "properties": {
+                "name": "Carlos Risco",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24416/-/carlos-risco.html",
+                "dates": [
+                    "Saturday 14 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.688034891863518",
+                    "42.30490278520724"
                 ]
             },
             "properties": {
@@ -351,8 +295,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651394998538903",
-                    "42.198660023730305"
+                    "-8.65112037890604",
+                    "42.19781382777541"
                 ]
             },
             "properties": {
@@ -369,8 +313,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.16616689979065",
-                    "43.04330397157008"
+                    "-8.16514572771443",
+                    "43.0446205075512"
                 ]
             },
             "properties": {
@@ -387,8 +331,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865864103997219",
-                    "42.34507880455641"
+                    "-7.866910472843501",
+                    "42.34431012756603"
                 ]
             },
             "properties": {
@@ -405,8 +349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651875731151508",
-                    "42.19784263595231"
+                    "-8.652907272471744",
+                    "42.19743076489417"
                 ]
             },
             "properties": {
@@ -423,8 +367,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.735604683757709",
-                    "42.200161651541485"
+                    "-8.736146834391517",
+                    "42.19842523232084"
                 ]
             },
             "properties": {
@@ -441,8 +385,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65399947323253",
-                    "42.07477981710358"
+                    "-8.654502306487803",
+                    "42.07584532073327"
                 ]
             },
             "properties": {
@@ -459,8 +403,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.821838286363009",
-                    "42.60909222615774"
+                    "-7.819943229908562",
+                    "42.60979981362221"
                 ]
             },
             "properties": {
@@ -478,8 +422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.739397074563087",
-                    "42.28155854332446"
+                    "-8.739258249139565",
+                    "42.28282226571238"
                 ]
             },
             "properties": {
@@ -488,6 +432,60 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24384/-/escola-municipal-de-musica-de-moana.html",
                 "dates": [
                     "Friday 27 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7942416890168404",
+                    "42.08824992495899"
+                ]
+            },
+            "properties": {
+                "name": "O Leo",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24417/-/o-leo.html",
+                "dates": [
+                    "Saturday 28 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545779304110493",
+                    "42.881918008737784"
+                ]
+            },
+            "properties": {
+                "name": "Samaín FolFestival",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24385/-/samain-folfestival.html",
+                "dates": [
+                    "Tuesday 31 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651488823059132",
+                    "42.19888387426132"
+                ]
+            },
+            "properties": {
+                "name": "Brais das Hortas",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24405/-/brais-das-hortas.html",
+                "dates": [
+                    "Tuesday 31 october"
                 ]
             }
         }
