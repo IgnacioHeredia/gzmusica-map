@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887176862202708",
-                    "42.470465389009036"
+                    "-8.885710638669618",
+                    "42.47085761792281"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "O Grove",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24336/-/concertos-do-marisco.html",
                 "dates": [
-                    "Thursday 05 october",
                     "Friday 06 october",
                     "Saturday 07 october",
                     "Sunday 08 october",
@@ -33,23 +32,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555743475046707",
-                    "43.012997003284525"
+                    "-7.80185760763121",
+                    "42.18938782051698"
                 ]
             },
             "properties": {
-                "name": "San Froilán 2023",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24411/-/san-froilan-2023.html",
+                "name": "IX Poemagosto",
+                "location": "Allariz",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24432/-/ix-poemagosto.html",
                 "dates": [
-                    "Thursday 05 october",
                     "Friday 06 october",
-                    "Saturday 07 october",
-                    "Sunday 08 october",
-                    "Monday 09 october",
-                    "Tuesday 10 october",
-                    "Wednesday 11 october",
-                    "Thursday 12 october"
+                    "Saturday 07 october"
                 ]
             }
         },
@@ -58,26 +51,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866161020117033",
-                    "42.345364387669576"
-                ]
-            },
-            "properties": {
-                "name": "True Mountains + We Bless This Mess",
-                "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24381/-/true-mountains-we-bless-this-mess.html",
-                "dates": [
-                    "Thursday 05 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.301809453093117",
-                    "42.73048657452744"
+                    "-8.301354076394826",
+                    "42.73007423607975"
                 ]
             },
             "properties": {
@@ -95,8 +70,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.345731421748653",
-                    "43.34929135574557"
+                    "-8.345144828502592",
+                    "43.349930477014034"
                 ]
             },
             "properties": {
@@ -114,8 +89,90 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.594644799844349",
-                    "43.663062586021866"
+                    "-7.556063383996712",
+                    "43.012416847344234"
+                ]
+            },
+            "properties": {
+                "name": "San Froilán 2023",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24411/-/san-froilan-2023.html",
+                "dates": [
+                    "Friday 06 october",
+                    "Saturday 07 october",
+                    "Sunday 08 october",
+                    "Monday 09 october",
+                    "Tuesday 10 october",
+                    "Wednesday 11 october",
+                    "Thursday 12 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.334402374964819",
+                    "43.31731217889038"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "San Pedro de Nós (Oleiros)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24436/-/pakolas.html",
+                "dates": [
+                    "Friday 06 october",
+                    "Sunday 08 october",
+                    "Saturday 14 october",
+                    "Sunday 22 october",
+                    "Tuesday 24 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.556088481210308",
+                    "42.103372903769156"
+                ]
+            },
+            "properties": {
+                "name": "Fernando Barroso & Miguel Veras",
+                "location": "Salceda de Caselas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24431/-/fernando-barroso-miguel-veras.html",
+                "dates": [
+                    "Friday 06 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72272909209817",
+                    "42.23901499253865"
+                ]
+            },
+            "properties": {
+                "name": "Gallego Común",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24451/-/gallego-comun.html",
+                "dates": [
+                    "Friday 06 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.593164931943862",
+                    "43.663125808453174"
                 ]
             },
             "properties": {
@@ -132,26 +189,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.178580832843672",
-                    "43.22636629838802"
-                ]
-            },
-            "properties": {
-                "name": "True Mountains + We Bless this Mess",
-                "location": "Oza (A Coruña)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24211/-/true-mountains-we-bless-this-mess.html",
-                "dates": [
-                    "Saturday 07 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.785315286478262",
-                    "41.953309063946634"
+                    "-8.784073897845929",
+                    "41.95313633194001"
                 ]
             },
             "properties": {
@@ -168,8 +207,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.162777881692131",
-                    "42.36459400983418"
+                    "-8.16245355624432",
+                    "42.36333034202522"
                 ]
             },
             "properties": {
@@ -186,8 +225,177 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.609524261721322",
-                    "41.15024126224516"
+                    "-8.816879532479595",
+                    "42.26691717985727"
+                ]
+            },
+            "properties": {
+                "name": "Magosto Antro´s Toxos",
+                "location": "Liméns, O Hío (Cangas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24424/-/magosto-antro-s-toxos.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.220647553295269",
+                    "43.27352282763091"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "Betanzos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24443/-/a-gramola-gominola.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.178869742132575",
+                    "43.2262558809679"
+                ]
+            },
+            "properties": {
+                "name": "True Mountains + We Bless this Mess",
+                "location": "Oza (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24211/-/true-mountains-we-bless-this-mess.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652898438347714",
+                    "42.197526207219894"
+                ]
+            },
+            "properties": {
+                "name": "Cantatorella + DJ Enxebre",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24427/-/cantatorella-dj-enxebre.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.401083492974824",
+                    "43.66484610177468"
+                ]
+            },
+            "properties": {
+                "name": "Tecor Societário",
+                "location": "Sargadelos (Cervo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24423/-/tecor-societario.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641743748609564",
+                    "42.432076454481766"
+                ]
+            },
+            "properties": {
+                "name": "Mercedes Peón",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24421/-/mercedes-peon.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545371140010468",
+                    "42.88048088857734"
+                ]
+            },
+            "properties": {
+                "name": "I Aniversario Plancto Xestión Cutural",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24435/-/i-aniversario-plancto-xestion-cutural.html",
+                "dates": [
+                    "Saturday 07 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.03093058780465",
+                    "43.11063630995381"
+                ]
+            },
+            "properties": {
+                "name": "Paco Nogueiras",
+                "location": "Vimianzo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24444/-/paco-nogueiras.html",
+                "dates": [
+                    "Sunday 08 october",
+                    "Tuesday 10 october",
+                    "Wednesday 18 october",
+                    "Friday 20 october",
+                    "Saturday 21 october",
+                    "Tuesday 24 october",
+                    "Saturday 28 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.483673974741347",
+                    "43.16253623226989"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas e Laura Romero",
+                "location": "Cerceda",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24438/-/pakolas-e-laura-romero.html",
+                "dates": [
+                    "Sunday 08 october",
+                    "Friday 27 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.609858215877757",
+                    "41.15057488991853"
                 ]
             },
             "properties": {
@@ -204,8 +412,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.871545367083446",
-                    "42.41385647700222"
+                    "-8.012121983026898",
+                    "42.91647445210361"
+                ]
+            },
+            "properties": {
+                "name": "Filophóbicas + Okeoh + Kondusión Kolérika",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24433/-/filophobicas-okeoh-kondusion-kolerika.html",
+                "dates": [
+                    "Wednesday 11 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.734542281291194",
+                    "42.28226918700703"
+                ]
+            },
+            "properties": {
+                "name": "II Festival Peis d´Hos",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24425/-/ii-festival-peis-d-hos.html",
+                "dates": [
+                    "Thursday 12 october",
+                    "Saturday 14 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.779352370398186",
+                    "42.6558096053303"
+                ]
+            },
+            "properties": {
+                "name": "Maghúa",
+                "location": "Leiro (Rianxo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24429/-/maghua.html",
+                "dates": [
+                    "Thursday 12 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.870802603062987",
+                    "42.41407275087566"
                 ]
             },
             "properties": {
@@ -222,8 +485,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.630990261818917",
-                    "42.10463741443389"
+                    "-8.631797969605522",
+                    "42.1040060261656"
                 ]
             },
             "properties": {
@@ -240,8 +503,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.867421936203328",
-                    "42.344019416224725"
+                    "-7.866565440774341",
+                    "42.34519501225147"
                 ]
             },
             "properties": {
@@ -258,8 +521,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793306450392981",
-                    "42.08720043838819"
+                    "-7.792716960700923",
+                    "42.087998792463935"
                 ]
             },
             "properties": {
@@ -276,8 +539,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.686919141111723",
-                    "42.30449020624807"
+                    "-7.362371527027954",
+                    "43.430565918648114"
+                ]
+            },
+            "properties": {
+                "name": "Budiño",
+                "location": "Mondoñedo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24418/-/budino.html",
+                "dates": [
+                    "Wednesday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.6867713396301",
+                    "42.304173667694045"
                 ]
             },
             "properties": {
@@ -294,8 +575,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652918094071037",
-                    "42.19819857765026"
+                    "-8.652724786490582",
+                    "42.19889972377089"
                 ]
             },
             "properties": {
@@ -312,8 +593,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.165076476732954",
-                    "43.04364449002945"
+                    "-8.16474136893539",
+                    "43.0433356843019"
                 ]
             },
             "properties": {
@@ -330,8 +611,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8670766424075556",
-                    "42.3452952295834"
+                    "-7.866290723203291",
+                    "42.3443244389902"
                 ]
             },
             "properties": {
@@ -348,8 +629,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651971595063024",
-                    "42.19800388951106"
+                    "-8.651486649604351",
+                    "42.197852216675685"
                 ]
             },
             "properties": {
@@ -366,8 +647,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.73464687604763",
-                    "42.199290001939495"
+                    "-8.735130190039992",
+                    "42.1985383737129"
                 ]
             },
             "properties": {
@@ -384,8 +665,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65433745602661",
-                    "42.07514841435022"
+                    "-8.357838626537584",
+                    "43.294585559404716"
+                ]
+            },
+            "properties": {
+                "name": "2º Festival Itinerante Galegos Inside",
+                "location": "comarca da Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24430/-/2-festival-itinerante-galegos-inside.html",
+                "dates": [
+                    "Saturday 21 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.654045713384638",
+                    "42.076377139216476"
                 ]
             },
             "properties": {
@@ -402,8 +701,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.820331742631512",
-                    "42.61067170726729"
+                    "-8.19106924536358",
+                    "42.88806300177345"
+                ]
+            },
+            "properties": {
+                "name": "Sumrrá",
+                "location": "Coimbra (Portugal)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24422/-/sumrra.html",
+                "dates": [
+                    "Sunday 22 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.736004044290695",
+                    "42.19840944069258"
+                ]
+            },
+            "properties": {
+                "name": "Botinha ",
+                "location": "Ribelas, Matamá (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24434/-/botinha.html",
+                "dates": [
+                    "Sunday 22 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.820181745284571",
+                    "42.609642687499665"
                 ]
             },
             "properties": {
@@ -421,8 +756,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.73812217928536",
-                    "42.28200315564527"
+                    "-8.738328351634218",
+                    "42.28183138380643"
                 ]
             },
             "properties": {
@@ -439,8 +774,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7935304929014295",
-                    "42.08775036168251"
+                    "-7.792592907234285",
+                    "42.088813244102624"
                 ]
             },
             "properties": {
@@ -457,8 +792,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545375064774387",
-                    "42.8806143756276"
+                    "-8.395316403530638",
+                    "43.372145241174216"
+                ]
+            },
+            "properties": {
+                "name": "Trapallada",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24419/-/trapallada.html",
+                "dates": [
+                    "Saturday 28 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545004889268213",
+                    "42.88149235747937"
                 ]
             },
             "properties": {
@@ -475,8 +828,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65112880543206",
-                    "42.196998057626764"
+                    "-8.652238850840655",
+                    "42.19838776287465"
                 ]
             },
             "properties": {
@@ -485,6 +838,24 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24405/-/brais-das-hortas.html",
                 "dates": [
                     "Tuesday 31 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.363000513479873",
+                    "43.430216666932395"
+                ]
+            },
+            "properties": {
+                "name": "Breason",
+                "location": "Mondñedo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24420/-/breason.html",
+                "dates": [
+                    "Saturday 04 november"
                 ]
             }
         }
