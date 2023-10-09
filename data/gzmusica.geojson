@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88660959361333",
-                    "42.470804503410946"
+                    "-8.887302044195575",
+                    "42.471314248438865"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "O Grove",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24336/-/concertos-do-marisco.html",
                 "dates": [
-                    "Sunday 08 october",
                     "Monday 09 october",
                     "Tuesday 10 october",
                     "Wednesday 11 october",
@@ -30,16 +29,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.032623015380903",
-                    "43.1107178184454"
+                    "-7.555548659922162",
+                    "43.01216356256741"
+                ]
+            },
+            "properties": {
+                "name": "San Froilán 2023",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24411/-/san-froilan-2023.html",
+                "dates": [
+                    "Monday 09 october",
+                    "Tuesday 10 october",
+                    "Wednesday 11 october",
+                    "Thursday 12 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395297859317962",
+                    "43.37288904319433"
                 ]
             },
             "properties": {
                 "name": "Paco Nogueiras",
-                "location": "Vimianzo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24444/-/paco-nogueiras.html",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24445/-/paco-nogueiras.html",
                 "dates": [
-                    "Sunday 08 october",
                     "Tuesday 10 october",
                     "Wednesday 18 october",
                     "Friday 20 october",
@@ -54,88 +73,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555242790233161",
-                    "43.0121809980268"
-                ]
-            },
-            "properties": {
-                "name": "San Froilán 2023",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24411/-/san-froilan-2023.html",
-                "dates": [
-                    "Sunday 08 october",
-                    "Monday 09 october",
-                    "Tuesday 10 october",
-                    "Wednesday 11 october",
-                    "Thursday 12 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.32500598317271",
-                    "43.582512681026415"
-                ]
-            },
-            "properties": {
-                "name": "Pakolas",
-                "location": "Foz",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24437/-/pakolas.html",
-                "dates": [
-                    "Sunday 08 october",
-                    "Saturday 14 october",
-                    "Sunday 22 october",
-                    "Tuesday 24 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.483227033257029",
-                    "43.16356304058663"
-                ]
-            },
-            "properties": {
-                "name": "Pakolas e Laura Romero",
-                "location": "Cerceda",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24438/-/pakolas-e-laura-romero.html",
-                "dates": [
-                    "Sunday 08 october",
-                    "Friday 27 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.610201612275599",
-                    "41.14996577309457"
-                ]
-            },
-            "properties": {
-                "name": "True Mountains + We Bless this Mess",
-                "location": "Porto (Portugal)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24212/-/true-mountains-we-bless-this-mess.html",
-                "dates": [
-                    "Sunday 08 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.012231255591251",
-                    "42.9161495437482"
+                    "-8.012177949750775",
+                    "42.91514617888479"
                 ]
             },
             "properties": {
@@ -152,8 +91,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.734870788725692",
-                    "42.28202421712724"
+                    "-8.735632300920008",
+                    "42.282736581686095"
                 ]
             },
             "properties": {
@@ -171,8 +110,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.780325320748045",
-                    "42.65549166438685"
+                    "-8.78002383257353",
+                    "42.65440958633849"
                 ]
             },
             "properties": {
@@ -189,8 +128,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.870416296024716",
-                    "42.41496988917271"
+                    "-7.8707307127641375",
+                    "42.41559364826236"
                 ]
             },
             "properties": {
@@ -207,8 +146,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.951779772302482",
-                    "43.009174786079164"
+                    "-8.159979943361352",
+                    "42.92958595346268"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "Arzúa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24439/-/pakolas.html",
+                "dates": [
+                    "Saturday 14 october",
+                    "Sunday 22 october",
+                    "Tuesday 24 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.950936507010233",
+                    "43.00876844819921"
                 ]
             },
             "properties": {
@@ -225,8 +184,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.631913018529914",
-                    "42.10425946480169"
+                    "-8.630218922084746",
+                    "42.104916695115904"
                 ]
             },
             "properties": {
@@ -243,8 +202,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866987475924883",
-                    "42.34436174212013"
+                    "-7.867023230385044",
+                    "42.34508995985364"
                 ]
             },
             "properties": {
@@ -261,8 +220,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794541339286931",
-                    "42.08861204760194"
+                    "-7.793291032106656",
+                    "42.08812362898067"
                 ]
             },
             "properties": {
@@ -279,8 +238,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.363340159548812",
-                    "43.43084147158943"
+                    "-7.362016635372058",
+                    "43.429750451518935"
                 ]
             },
             "properties": {
@@ -297,8 +256,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.687599576242908",
-                    "42.30535658399404"
+                    "-8.687124307682545",
+                    "42.30356215668209"
                 ]
             },
             "properties": {
@@ -315,8 +274,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652325929469168",
-                    "42.19893490093546"
+                    "-8.652847182214826",
+                    "42.19883405622856"
                 ]
             },
             "properties": {
@@ -333,8 +292,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.16579735649745",
-                    "43.044642953650026"
+                    "-8.165818178605376",
+                    "43.043360196202876"
                 ]
             },
             "properties": {
@@ -351,8 +310,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865598407269471",
-                    "42.34508311773501"
+                    "-7.866080763200184",
+                    "42.34546874687904"
                 ]
             },
             "properties": {
@@ -369,8 +328,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651151086880615",
-                    "42.19696954064124"
+                    "-8.65269051831008",
+                    "42.197861295403015"
                 ]
             },
             "properties": {
@@ -387,8 +346,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.73453421616499",
-                    "42.199459217328645"
+                    "-8.735877866746605",
+                    "42.199833679951944"
                 ]
             },
             "properties": {
@@ -405,8 +364,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.35778984515578",
-                    "43.29421414583211"
+                    "-8.359303602482912",
+                    "43.29464206644012"
                 ]
             },
             "properties": {
@@ -423,8 +382,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.654331747156064",
-                    "42.0759532828984"
+                    "-8.653858908268546",
+                    "42.07616751104135"
                 ]
             },
             "properties": {
@@ -441,8 +400,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.192497344652551",
-                    "42.88779084850318"
+                    "-8.191015869845666",
+                    "42.88785029406207"
                 ]
             },
             "properties": {
@@ -459,8 +418,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.735151614419978",
-                    "42.198927911156716"
+                    "-8.734372438786636",
+                    "42.198522633521804"
                 ]
             },
             "properties": {
@@ -477,8 +436,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.820826386300835",
-                    "42.60964918520352"
+                    "-7.8200470844777605",
+                    "42.610438559821404"
                 ]
             },
             "properties": {
@@ -496,8 +455,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.739279736399304",
-                    "42.283385232778045"
+                    "-8.739630637754955",
+                    "42.28343413843432"
                 ]
             },
             "properties": {
@@ -514,8 +473,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793610641748638",
-                    "42.0888262174978"
+                    "-8.604615722367077",
+                    "43.31145092033101"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas e Laura Romero",
+                "location": "Caión (A Laracha)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24442/-/pakolas-e-laura-romero.html",
+                "dates": [
+                    "Friday 27 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792580095372996",
+                    "42.089074732731994"
                 ]
             },
             "properties": {
@@ -532,8 +509,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395092269668195",
-                    "43.37131957974263"
+                    "-8.394674443974507",
+                    "43.37162415153569"
                 ]
             },
             "properties": {
@@ -550,8 +527,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544590511526495",
-                    "42.88213249317346"
+                    "-8.545090442521825",
+                    "42.88097384437288"
                 ]
             },
             "properties": {
@@ -568,8 +545,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651707372619827",
-                    "42.197712356034835"
+                    "-8.65238506048731",
+                    "42.19846094769165"
                 ]
             },
             "properties": {
@@ -586,8 +563,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.36220017931668",
-                    "43.4300823344408"
+                    "-7.361915504474187",
+                    "43.430594973827354"
                 ]
             },
             "properties": {
@@ -604,8 +581,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.659403264951559",
-                    "42.24271449269879"
+                    "-8.659741963189814",
+                    "42.242471010822825"
                 ]
             },
             "properties": {
