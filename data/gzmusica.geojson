@@ -6,91 +6,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689125197075908",
-                    "43.21504589104902"
-                ]
-            },
-            "properties": {
-                "name": "Broa + Rusty Nuts",
-                "location": "Carballo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24575/-/broa-rusty-nuts.html",
-                "dates": [
-                    "Saturday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.138512078873607",
-                    "43.55187422318045"
-                ]
-            },
-            "properties": {
-                "name": "Foliada Feira do 13",
-                "location": "A Feira do Trece, Sedes (Narón)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24578/-/foliada-feira-do-13.html",
-                "dates": [
-                    "Saturday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.647863537771059",
-                    "42.16291442104261"
-                ]
-            },
-            "properties": {
-                "name": "II Foliada de Pereiras",
-                "location": "Atín, Cela (Mos)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24528/-/ii-foliada-de-pereiras.html",
-                "dates": [
-                    "Saturday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.358743868536881",
-                    "43.661892072977594"
-                ]
-            },
-            "properties": {
-                "name": "Os Bar Ban Sónicos",
-                "location": "Burela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24564/-/os-bar-ban-sonicos.html",
-                "dates": [
-                    "Saturday 18 november",
-                    "Saturday 25 november",
-                    "Saturday 09 december",
-                    "Saturday 16 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.800143657529416",
-                    "42.056627974202584"
+                    "-7.7993957900128805",
+                    "42.05618367508028"
                 ]
             },
             "properties": {
                 "name": "Sumrrá",
-                "location": "Joinville (Brasil)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24456/-/sumrra.html",
+                "location": "Sao Paulo (Brasil)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24457/-/sumrra.html",
                 "dates": [
-                    "Saturday 18 november",
                     "Tuesday 21 november",
                     "Wednesday 22 november",
                     "Thursday 23 november",
@@ -103,44 +27,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.746020125699506",
-                    "42.7272562944406"
-                ]
-            },
-            "properties": {
-                "name": "III Cantos de Taberna de Taboada",
-                "location": "Taboada",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24369/-/iii-cantos-de-taberna-de-taboada.html",
-                "dates": [
-                    "Saturday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.231521869607674",
-                    "43.4855692786467"
-                ]
-            },
-            "properties": {
-                "name": "Tecor Societário",
-                "location": "Ferrol",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24519/-/tecor-societario.html",
-                "dates": [
-                    "Saturday 18 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.6962142065516743",
-                    "42.34543854158907"
+                    "-3.696046811748699",
+                    "42.34501511168242"
                 ]
             },
             "properties": {
@@ -158,8 +46,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555275236782409",
-                    "43.01231606327629"
+                    "-7.555173411314095",
+                    "43.01360407913329"
                 ]
             },
             "properties": {
@@ -176,8 +64,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.687989179526344",
-                    "43.21454186624532"
+                    "-8.688571686742572",
+                    "43.213457675677446"
                 ]
             },
             "properties": {
@@ -194,8 +82,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.606566433253553",
-                    "42.20319298651932"
+                    "-7.413750275604845",
+                    "42.77987883861593"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24565/-/os-bar-ban-sonicos.html",
+                "dates": [
+                    "Saturday 25 november",
+                    "Saturday 09 december",
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.60781477829087",
+                    "42.20470100454664"
                 ]
             },
             "properties": {
@@ -212,8 +120,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395384600121146",
-                    "43.37167187598792"
+                    "-8.39396727902456",
+                    "43.37121763133309"
                 ]
             },
             "properties": {
@@ -230,8 +138,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.414040933934401",
-                    "42.77847479959195"
+                    "-7.414582602842922",
+                    "42.77969075259084"
                 ]
             },
             "properties": {
@@ -248,8 +156,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.034550389510002",
-                    "42.953467075638464"
+                    "-9.033653945833876",
+                    "42.95346709564399"
                 ]
             },
             "properties": {
@@ -266,8 +174,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.68853898227592",
-                    "43.21504464943579"
+                    "-8.688947734121202",
+                    "43.21429201310882"
                 ]
             },
             "properties": {
@@ -284,8 +192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545226163944308",
-                    "42.88112276373502"
+                    "-8.545497436822702",
+                    "42.88233545647552"
                 ]
             },
             "properties": {
@@ -302,8 +210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.066618575678338",
-                    "43.12526986611713"
+                    "-7.066837937823423",
+                    "43.12596827164263"
                 ]
             },
             "properties": {
@@ -322,8 +230,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651141784996755",
-                    "42.197887906585805"
+                    "-8.651280072288404",
+                    "42.19789638503948"
                 ]
             },
             "properties": {
