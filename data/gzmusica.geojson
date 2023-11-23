@@ -6,16 +6,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.798588964328971",
-                    "42.05579787726083"
+                    "-7.799185679406229",
+                    "42.056153505864486"
                 ]
             },
             "properties": {
                 "name": "Sumrrá",
-                "location": "Sao Paulo (Brasil)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24457/-/sumrra.html",
+                "location": "Curitiba (Brasil)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24458/-/sumrra.html",
                 "dates": [
-                    "Wednesday 22 november",
                     "Thursday 23 november",
                     "Saturday 25 november"
                 ]
@@ -26,8 +25,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.6950346064645054",
-                    "42.345363517233025"
+                    "-3.6966368135773062",
+                    "42.34418556716212"
                 ]
             },
             "properties": {
@@ -45,8 +44,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555938681855967",
-                    "43.0130350289622"
+                    "-7.555399285654364",
+                    "43.012612994571896"
                 ]
             },
             "properties": {
@@ -63,8 +62,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688108346535092",
-                    "43.2136360790312"
+                    "-8.688673584292733",
+                    "43.214568738663324"
                 ]
             },
             "properties": {
@@ -81,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4127960105834605",
-                    "42.78035253954701"
+                    "-7.413338105441061",
+                    "42.778916757621836"
                 ]
             },
             "properties": {
@@ -101,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.60676044738671",
-                    "42.203800190869686"
+                    "-8.607547245889785",
+                    "42.204092202303656"
                 ]
             },
             "properties": {
@@ -119,8 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394853645647347",
-                    "43.37141901162269"
+                    "-8.395202038695585",
+                    "43.37198176092728"
                 ]
             },
             "properties": {
@@ -137,8 +136,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413808446166881",
-                    "42.779517897155706"
+                    "-7.412709687564027",
+                    "42.77941272153026"
                 ]
             },
             "properties": {
@@ -155,8 +154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.033983835660885",
-                    "42.95374732847176"
+                    "-9.033574091907216",
+                    "42.95289713108965"
                 ]
             },
             "properties": {
@@ -173,8 +172,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688651882968795",
-                    "43.214961940448624"
+                    "-8.688801552280404",
+                    "43.21467318270779"
                 ]
             },
             "properties": {
@@ -191,8 +190,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544058168595816",
-                    "42.88050270182343"
+                    "-8.545697506856987",
+                    "42.882182953969796"
                 ]
             },
             "properties": {
@@ -209,8 +208,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.066319649485645",
-                    "43.12518608854762"
+                    "-7.065995264892917",
+                    "43.12682046766962"
                 ]
             },
             "properties": {
@@ -229,8 +228,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652688756154946",
-                    "42.19854043178538"
+                    "-8.652597777028722",
+                    "42.197784533361045"
                 ]
             },
             "properties": {
@@ -239,6 +238,42 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24503/-/innopiah-mata-ratos.html",
                 "dates": [
                     "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72455195851669",
+                    "42.23929320267278"
+                ]
+            },
+            "properties": {
+                "name": "Moon Cresta",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24473/-/moon-cresta.html",
+                "dates": [
+                    "Saturday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544108842812493",
+                    "42.88082514551263"
+                ]
+            },
+            "properties": {
+                "name": "Zënzar",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24541/-/zenzar.html",
+                "dates": [
+                    "Saturday 23 december"
                 ]
             }
         }
