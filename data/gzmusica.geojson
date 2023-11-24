@@ -6,27 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.799185679406229",
-                    "42.056153505864486"
-                ]
-            },
-            "properties": {
-                "name": "Sumrrá",
-                "location": "Curitiba (Brasil)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24458/-/sumrra.html",
-                "dates": [
-                    "Thursday 23 november",
-                    "Saturday 25 november"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.6966368135773062",
-                    "42.34418556716212"
+                    "-3.6954829158070073",
+                    "42.34433564560637"
                 ]
             },
             "properties": {
@@ -44,8 +25,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555399285654364",
-                    "43.012612994571896"
+                    "-7.555150573390769",
+                    "43.01365933859786"
                 ]
             },
             "properties": {
@@ -62,8 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688673584292733",
-                    "43.214568738663324"
+                    "-8.687821427009878",
+                    "43.213881826546185"
                 ]
             },
             "properties": {
@@ -80,18 +61,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413338105441061",
-                    "42.778916757621836"
+                    "-7.798736319400847",
+                    "42.05624667851175"
                 ]
             },
             "properties": {
-                "name": "Os Bar Ban Sónicos",
-                "location": "Sarria",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24565/-/os-bar-ban-sonicos.html",
+                "name": "Sumrrá",
+                "location": "Porto Alegre (Brasil)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24459/-/sumrra.html",
                 "dates": [
-                    "Saturday 25 november",
-                    "Saturday 09 december",
-                    "Saturday 16 december"
+                    "Saturday 25 november"
                 ]
             }
         },
@@ -100,8 +79,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.607547245889785",
-                    "42.204092202303656"
+                    "-8.607524040181225",
+                    "42.20396010454872"
                 ]
             },
             "properties": {
@@ -118,8 +97,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395202038695585",
-                    "43.37198176092728"
+                    "-8.39431501656243",
+                    "43.37234696321944"
                 ]
             },
             "properties": {
@@ -136,8 +115,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.412709687564027",
-                    "42.77941272153026"
+                    "2.178202697989805",
+                    "41.38348867055891"
+                ]
+            },
+            "properties": {
+                "name": "Susana Seivane",
+                "location": "Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24582/-/susana-seivane.html",
+                "dates": [
+                    "Saturday 25 november"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.413610736394891",
+                    "42.78013778560972"
                 ]
             },
             "properties": {
@@ -154,8 +151,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.033574091907216",
-                    "42.95289713108965"
+                    "-9.033821213410018",
+                    "42.954413857832115"
                 ]
             },
             "properties": {
@@ -172,8 +169,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688801552280404",
-                    "43.21467318270779"
+                    "-8.68790903926931",
+                    "43.21495539755463"
                 ]
             },
             "properties": {
@@ -190,8 +187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545697506856987",
-                    "42.882182953969796"
+                    "-8.544376481543438",
+                    "42.88187369169386"
                 ]
             },
             "properties": {
@@ -208,8 +205,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.065995264892917",
-                    "43.12682046766962"
+                    "-8.651240746017582",
+                    "42.198478510772226"
+                ]
+            },
+            "properties": {
+                "name": "The Lelli Kelly´s + Os John Deeres + Do Roxo Presbiçian",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24584/-/the-lelli-kelly-s-os-john-deeres-do-roxo-presbician.html",
+                "dates": [
+                    "Saturday 02 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641923475909572",
+                    "42.433232697059616"
+                ]
+            },
+            "properties": {
+                "name": "Leilía",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24581/-/leilia.html",
+                "dates": [
+                    "Saturday 02 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72424600455225",
+                    "42.2378909340312"
+                ]
+            },
+            "properties": {
+                "name": "Paulo Pascual",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24583/-/paulo-pascual.html",
+                "dates": [
+                    "Sunday 03 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.06567562835173",
+                    "43.12582439831447"
                 ]
             },
             "properties": {
@@ -228,8 +279,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652597777028722",
-                    "42.197784533361045"
+                    "-9.012053065568974",
+                    "42.580783401996"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24566/-/os-bar-ban-sonicos.html",
+                "dates": [
+                    "Saturday 09 december",
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651699781047785",
+                    "42.19860567814407"
                 ]
             },
             "properties": {
@@ -246,8 +316,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72455195851669",
-                    "42.23929320267278"
+                    "-8.723810654969588",
+                    "42.238831323083886"
                 ]
             },
             "properties": {
@@ -264,8 +334,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544108842812493",
-                    "42.88082514551263"
+                    "-8.544920451413697",
+                    "42.881180223282385"
                 ]
             },
             "properties": {
