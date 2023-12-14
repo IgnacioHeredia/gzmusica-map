@@ -6,26 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39526691941158",
-                    "43.37139894629209"
-                ]
-            },
-            "properties": {
-                "name": "Tributo \"Kind of Blue\"",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24615/-/tributo-kind-of-blue.html",
-                "dates": [
-                    "Wednesday 13 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.026126429877213",
-                    "42.1852639458087"
+                    "-8.02556762809221",
+                    "42.184862068058344"
                 ]
             },
             "properties": {
@@ -45,8 +27,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723061830835265",
-                    "42.23869130693202"
+                    "-8.723489790772483",
+                    "42.23863056054568"
                 ]
             },
             "properties": {
@@ -63,8 +45,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545652296325724",
-                    "42.88105239879042"
+                    "-7.555210809264814",
+                    "43.01277458434876"
+                ]
+            },
+            "properties": {
+                "name": "Antía Muíño",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24705/-/antia-muino.html",
+                "dates": [
+                    "Thursday 14 december",
+                    "Friday 15 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545594849470174",
+                    "42.88130756359187"
                 ]
             },
             "properties": {
@@ -83,8 +84,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88461483301057",
-                    "42.647083477603715"
+                    "-8.885416527019375",
+                    "42.64729129577131"
                 ]
             },
             "properties": {
@@ -101,8 +102,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.610355422942176",
-                    "41.150097798615626"
+                    "-8.677082332446716",
+                    "42.86816025968562"
+                ]
+            },
+            "properties": {
+                "name": "Uxía Lambona e a Banda Molona",
+                "location": "Brión (Brión)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24696/-/uxia-lambona-e-a-banda-molona.html",
+                "dates": [
+                    "Friday 15 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723028025275871",
+                    "42.238377799097954"
+                ]
+            },
+            "properties": {
+                "name": "Xenderal",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24693/-/xenderal.html",
+                "dates": [
+                    "Friday 15 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72426389976178",
+                    "42.23938650945983"
+                ]
+            },
+            "properties": {
+                "name": "Orquesta Neverloura",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24687/-/orquesta-neverloura.html",
+                "dates": [
+                    "Friday 15 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395379208659294",
+                    "43.37152175209657"
+                ]
+            },
+            "properties": {
+                "name": "Thee Blind Crows + Los Wavy Gravies",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24708/-/thee-blind-crows-los-wavy-gravies.html",
+                "dates": [
+                    "Friday 15 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.610434194888086",
+                    "41.14991647862317"
                 ]
             },
             "properties": {
@@ -120,44 +193,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724404692248662",
-                    "42.23897255882676"
-                ]
-            },
-            "properties": {
-                "name": "Orquesta Neverloura",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24687/-/orquesta-neverloura.html",
-                "dates": [
-                    "Friday 15 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.544916793074986",
-                    "42.88167588942776"
-                ]
-            },
-            "properties": {
-                "name": "Os Bar Ban Sónicos",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24567/-/os-bar-ban-sonicos.html",
-                "dates": [
-                    "Saturday 16 december"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.395237134819576",
-                    "43.37151288311685"
+                    "-8.39529418574891",
+                    "43.372337765982536"
                 ]
             },
             "properties": {
@@ -174,8 +211,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724090040678924",
-                    "42.239073015597064"
+                    "-8.688609345798923",
+                    "43.21497384590662"
+                ]
+            },
+            "properties": {
+                "name": "Tu Futura Ex Mujer + David Brown Experience",
+                "location": "Carballo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24710/-/tu-futura-ex-mujer-david-brown-experience.html",
+                "dates": [
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.722971665019607",
+                    "42.23829037600629"
                 ]
             },
             "properties": {
@@ -192,8 +247,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.300970275574793",
-                    "42.729550584584445"
+                    "-8.544954919223898",
+                    "42.88196197296471"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos + Noite Atari",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24567/-/os-bar-ban-sonicos-noite-atari.html",
+                "dates": [
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394318019164793",
+                    "43.37287276627439"
+                ]
+            },
+            "properties": {
+                "name": "Chicharrón",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24712/-/chicharron.html",
+                "dates": [
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.301786509718198",
+                    "42.73085802610214"
                 ]
             },
             "properties": {
@@ -210,8 +301,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395927103892877",
-                    "43.372447798039666"
+                    "-8.39536056804403",
+                    "43.37273844359351"
                 ]
             },
             "properties": {
@@ -228,8 +319,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8667988506353135",
-                    "42.34501078561816"
+                    "-8.013014937847295",
+                    "42.91574339065684"
+                ]
+            },
+            "properties": {
+                "name": "Cuarta Xusta + Festicultores + Liviao de Marrao",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24694/-/cuarta-xusta-festicultores-liviao-de-marrao.html",
+                "dates": [
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.065935071107516",
+                    "42.80034982889808"
+                ]
+            },
+            "properties": {
+                "name": "The Balayos estival",
+                "location": "O Pozo do Cachón, Serres (Muros)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24709/-/the-balayos-estival.html",
+                "dates": [
+                    "Saturday 16 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866208963722986",
+                    "42.3438633264221"
                 ]
             },
             "properties": {
@@ -246,8 +373,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794426535351541",
-                    "42.08833377870911"
+                    "-7.793854239693063",
+                    "42.08811765038187"
                 ]
             },
             "properties": {
@@ -264,8 +391,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.676956619123293",
-                    "43.29802069895424"
+                    "-7.677486029586097",
+                    "43.298529139351785"
                 ]
             },
             "properties": {
@@ -283,8 +410,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641863284609622",
-                    "42.43258312720567"
+                    "-8.64210494661889",
+                    "42.432045472489705"
                 ]
             },
             "properties": {
@@ -301,8 +428,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.042223389777257",
-                    "43.44269372812072"
+                    "-8.042319264019374",
+                    "43.44221373551981"
                 ]
             },
             "properties": {
@@ -327,14 +454,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544828141149514",
-                    "42.881986664018534"
+                    "-8.545846518787124",
+                    "42.88106794400464"
                 ]
             },
             "properties": {
-                "name": "Foliada en Compostela",
+                "name": "Roberto Sobrado",
                 "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24666/-/foliada-en-compostela.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24692/-/roberto-sobrado.html",
                 "dates": [
                     "Friday 22 december"
                 ]
@@ -345,8 +472,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689919669223318",
-                    "42.23003713754588"
+                    "-8.690393282236432",
+                    "42.23054718663132"
                 ]
             },
             "properties": {
@@ -364,8 +491,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723899774595345",
-                    "42.23888289839261"
+                    "-7.865696078226201",
+                    "42.34367422290621"
+                ]
+            },
+            "properties": {
+                "name": "Ataque Escampe",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24697/-/ataque-escampe.html",
+                "dates": [
+                    "Friday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723441505823379",
+                    "42.23868427839132"
                 ]
             },
             "properties": {
@@ -382,8 +527,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72450944112741",
-                    "42.23921733543863"
+                    "-7.8667402763047205",
+                    "42.34380852578091"
+                ]
+            },
+            "properties": {
+                "name": "Tandub + Revolta Sonora",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24713/-/tandub-revolta-sonora.html",
+                "dates": [
+                    "Friday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.55614389938079",
+                    "43.01028883281486"
+                ]
+            },
+            "properties": {
+                "name": "Thee Blind Crows + Agujero",
+                "location": "Santander (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24707/-/thee-blind-crows-agujero.html",
+                "dates": [
+                    "Friday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544803860724395",
+                    "42.88227849420148"
+                ]
+            },
+            "properties": {
+                "name": "Foliada en Compostela",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24666/-/foliada-en-compostela.html",
+                "dates": [
+                    "Friday 22 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.79376673212334",
+                    "42.440885391202826"
+                ]
+            },
+            "properties": {
+                "name": "Guezos",
+                "location": "A Peroxa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24695/-/guezos.html",
+                "dates": [
+                    "Saturday 23 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723679490376757",
+                    "42.23868645395562"
                 ]
             },
             "properties": {
@@ -400,8 +617,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544283927535462",
-                    "42.88173158562171"
+                    "-8.54413959979982",
+                    "42.88068273477649"
                 ]
             },
             "properties": {
@@ -418,8 +635,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.109976333460786",
-                    "42.66297642340815"
+                    "-8.109515609561084",
+                    "42.66167771940021"
                 ]
             },
             "properties": {
@@ -436,8 +653,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394281714122775",
-                    "43.37228121761109"
+                    "-8.39491549987687",
+                    "43.371817961601714"
                 ]
             },
             "properties": {
@@ -454,8 +671,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544922637690417",
-                    "42.881020361003074"
+                    "-8.545813383282686",
+                    "42.88166374808632"
                 ]
             },
             "properties": {
@@ -472,8 +689,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4408334702226995",
-                    "43.69400504696313"
+                    "-7.4408569480506435",
+                    "43.69559008953963"
                 ]
             },
             "properties": {
@@ -490,8 +707,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.013369796060532",
-                    "42.58240045802413"
+                    "-9.012357217087375",
+                    "42.58242883646966"
                 ]
             },
             "properties": {
@@ -509,8 +726,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723551459152231",
-                    "42.23814720371034"
+                    "-7.867004733570007",
+                    "42.344483152579414"
+                ]
+            },
+            "properties": {
+                "name": "Malandrómeda",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24711/-/malandromeda.html",
+                "dates": [
+                    "Friday 29 december"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72444585280892",
+                    "42.23839320977263"
                 ]
             },
             "properties": {
