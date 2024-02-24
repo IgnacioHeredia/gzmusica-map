@@ -157,7 +157,7 @@ def download_events():
             date = f"{tmp_day} {tmp_month}"
 
             # Date string to datetime object
-            datef = datetime.datetime.strptime(date, "%d %B").date()
+            datef = datetime.datetime.strptime(f"{date} {tmpdate.year}", "%d %B %Y").date()
             datef = datef.replace(year=dstart.year)
             date = f"{datef.strftime('%A')} {date}"  # add weekday to date
 
