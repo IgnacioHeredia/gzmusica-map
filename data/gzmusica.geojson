@@ -6,8 +6,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544187060656917",
-                    "42.88045350175546"
+                    "2.043201844313888",
+                    "41.3471875740917"
+                ]
+            },
+            "properties": {
+                "name": "Anxo Lorenzo & Eoghan Neff",
+                "location": "Sant Boi de Llobregat, Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25063/-/anxo-lorenzo-eoghan-neff.html",
+                "dates": [
+                    "Thursday 29 february"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544087201671559",
+                    "42.880920930996524"
+                ]
+            },
+            "properties": {
+                "name": "Pablo Sanmamed Trío + Benxamín Otero",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25070/-/pablo-sanmamed-trio-benxamin-otero.html",
+                "dates": [
+                    "Thursday 29 february"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544765519833106",
+                    "42.88190653957147"
                 ]
             },
             "properties": {
@@ -24,8 +60,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545374963411884",
-                    "42.88164390643825"
+                    "-8.545311595946053",
+                    "42.88107677816695"
                 ]
             },
             "properties": {
@@ -42,27 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395305054567254",
-                    "43.372644234333"
-                ]
-            },
-            "properties": {
-                "name": "Brais Morán & Nasaufunk",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25005/-/brais-moran-nasaufunk.html",
-                "dates": [
-                    "Friday 01 march",
-                    "Friday 15 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.555346782737439",
-                    "43.01355115838208"
+                    "-7.555907156249006",
+                    "43.01376861011228"
                 ]
             },
             "properties": {
@@ -80,8 +97,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.543882717948154",
-                    "42.88062036335765"
+                    "-8.64617466801151",
+                    "42.051161524101616"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "Tui",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25066/-/a-gramola-gominola.html",
+                "dates": [
+                    "Friday 01 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54502576690222",
+                    "42.88204463293048"
                 ]
             },
             "properties": {
@@ -98,15 +133,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641369373463563",
-                    "42.432290543492954"
+                    "-7.793222058789717",
+                    "42.08718044322448"
                 ]
             },
             "properties": {
-                "name": "Bule",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24898/-/bule.html",
+                "name": "Antón Rey Patiño",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25044/-/anton-rey-patino.html",
                 "dates": [
+                    "Friday 01 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394929606133543",
+                    "43.372090683641005"
+                ]
+            },
+            "properties": {
+                "name": "Brais Morán & Nasaufunk",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25005/-/brais-moran-nasaufunk.html",
+                "dates": [
+                    "Friday 01 march",
+                    "Friday 15 march",
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.013259785406833",
+                    "42.91533128962594"
+                ]
+            },
+            "properties": {
+                "name": "Xisco Feijoó",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25056/-/xisco-feijoo.html",
+                "dates": [
+                    "Friday 01 march",
                     "Saturday 02 march"
                 ]
             }
@@ -116,8 +190,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.1590665862223",
-                    "42.92955690541503"
+                    "-8.158704858901263",
+                    "42.92951772170131"
                 ]
             },
             "properties": {
@@ -135,8 +209,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.109501053479805",
-                    "42.662718707368235"
+                    "-7.248299752125875",
+                    "42.893846535390466"
+                ]
+            },
+            "properties": {
+                "name": "IV Cantos de Taberna de Baralla",
+                "location": "Baralla",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25057/-/iv-cantos-de-taberna-de-baralla.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.1954762403499215",
+                    "43.536769040082206"
+                ]
+            },
+            "properties": {
+                "name": "San Rosendo 2024",
+                "location": "San Miguel de Reinante (Barreiros)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25062/-/san-rosendo-2024.html",
+                "dates": [
+                    "Saturday 02 march",
+                    "Sunday 03 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.110841956850773",
+                    "42.6621201909773"
                 ]
             },
             "properties": {
@@ -153,8 +264,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.38316883611454",
-                    "42.743707440755735"
+                    "-8.382879637776412",
+                    "42.74386912735838"
                 ]
             },
             "properties": {
@@ -171,8 +282,135 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394166091776908",
-                    "43.37101764738223"
+                    "-8.07676188492255",
+                    "42.43000718939828"
+                ]
+            },
+            "properties": {
+                "name": "Isidro Vidal",
+                "location": "O Carballiño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25058/-/isidro-vidal.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.434491850395835",
+                    "42.92673944847182"
+                ]
+            },
+            "properties": {
+                "name": "I Ruada de Carballal",
+                "location": "O Carballal (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25060/-/i-ruada-de-carballal.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723992165634309",
+                    "42.23829569541019"
+                ]
+            },
+            "properties": {
+                "name": "O Rabelo & Esmorgadas",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25068/-/o-rabelo-esmorgadas.html",
+                "dates": [
+                    "Saturday 02 march",
+                    "Saturday 09 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.492792998693771",
+                    "42.86844462580414"
+                ]
+            },
+            "properties": {
+                "name": "VII Foliada Coto da Nai",
+                "location": "Aríns (Santiago de Compostela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25061/-/vii-foliada-coto-da-nai.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643121438286698",
+                    "42.43381008074304"
+                ]
+            },
+            "properties": {
+                "name": "Bule",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24898/-/bule.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.0433162762543575",
+                    "41.347872201325664"
+                ]
+            },
+            "properties": {
+                "name": "Caldo + Bum Ditty",
+                "location": "Sant Boi de Llobregat, Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25064/-/caldo-bum-ditty.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.722760576443754",
+                    "42.2376839082628"
+                ]
+            },
+            "properties": {
+                "name": "Capital Voskov + La Casa de los Ingleses + Antifrágil",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25067/-/capital-voskov-la-casa-de-los-ingleses-antifragil.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394202967431125",
+                    "43.37212159028472"
                 ]
             },
             "properties": {
@@ -189,8 +427,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39436099248987",
-                    "43.37098308566358"
+                    "-8.39444450903672",
+                    "43.37186517486079"
                 ]
             },
             "properties": {
@@ -207,8 +445,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.011816851575189",
-                    "42.91516241457399"
+                    "-7.792715502815399",
+                    "42.087690974962534"
+                ]
+            },
+            "properties": {
+                "name": "CintaAdhesiva",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25045/-/cintaadhesiva.html",
+                "dates": [
+                    "Saturday 02 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792900563819821",
+                    "42.089101284426285"
+                ]
+            },
+            "properties": {
+                "name": "Erikas e Peluxías",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25046/-/erikas-e-peluxias.html",
+                "dates": [
+                    "Sunday 03 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.772063318982946",
+                    "42.18656945886951"
+                ]
+            },
+            "properties": {
+                "name": "Encontro de Pandeireteiras",
+                "location": "Coruxo (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25053/-/encontro-de-pandeireteiras.html",
+                "dates": [
+                    "Sunday 03 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.1784594300637954",
+                    "41.38309498637507"
+                ]
+            },
+            "properties": {
+                "name": "Caldo",
+                "location": "Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25065/-/caldo.html",
+                "dates": [
+                    "Sunday 03 march",
+                    "Friday 15 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012529355281213",
+                    "42.91545348572383"
                 ]
             },
             "properties": {
@@ -228,8 +539,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394995777635257",
-                    "43.37239448796674"
+                    "-8.395505587374899",
+                    "43.37185063916526"
                 ]
             },
             "properties": {
@@ -247,8 +558,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866269142485699",
-                    "42.34440881590796"
+                    "-7.794242812010035",
+                    "42.0888934977534"
+                ]
+            },
+            "properties": {
+                "name": "Andrés Fernández",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25047/-/andres-fernandez.html",
+                "dates": [
+                    "Saturday 09 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.865654923645259",
+                    "42.345152518021706"
                 ]
             },
             "properties": {
@@ -265,8 +594,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723675405071337",
-                    "42.23847930918673"
+                    "-8.723645746410002",
+                    "42.238181158237964"
                 ]
             },
             "properties": {
@@ -283,8 +612,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652981742470311",
-                    "42.198193487142554"
+                    "-8.651439756781247",
+                    "42.19806209600715"
                 ]
             },
             "properties": {
@@ -301,8 +630,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.42827253450803",
-                    "42.174921783652444"
+                    "-8.428289451714898",
+                    "42.175050091651705"
                 ]
             },
             "properties": {
@@ -319,8 +648,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.503485234763364",
-                    "42.17503441305518"
+                    "-8.504335612521478",
+                    "42.17470581344061"
                 ]
             },
             "properties": {
@@ -338,16 +667,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651259973573705",
-                    "42.198491711710254"
+                    "-8.395292306309168",
+                    "43.371079203026156"
                 ]
             },
             "properties": {
-                "name": "Caldo",
-                "location": "O Rebullón, Tameiga (Mos)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24988/-/caldo.html",
+                "name": "Cultura Contra a Barbarie",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25051/-/cultura-contra-a-barbarie.html",
                 "dates": [
-                    "Friday 15 march"
+                    "Wednesday 13 march"
                 ]
             }
         },
@@ -356,8 +685,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723679966475721",
-                    "42.2386280371093"
+                    "-8.724013390357461",
+                    "42.237970320561374"
                 ]
             },
             "properties": {
@@ -365,7 +694,8 @@
                 "location": "Vigo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/24957/-/loita-amada.html",
                 "dates": [
-                    "Saturday 16 march"
+                    "Saturday 16 march",
+                    "Saturday 30 march"
                 ]
             }
         },
@@ -374,8 +704,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651593486224076",
-                    "42.197524753023906"
+                    "-8.65282573682622",
+                    "42.19880055987536"
                 ]
             },
             "properties": {
@@ -392,8 +722,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.451873121435879",
-                    "42.18037341295488"
+                    "-8.450811348087782",
+                    "42.180514254522436"
                 ]
             },
             "properties": {
@@ -410,8 +740,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556009429113988",
-                    "43.01196266001354"
+                    "-7.555813446084465",
+                    "43.01301768492894"
                 ]
             },
             "properties": {
@@ -428,8 +758,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "16.37306901201266",
-                    "48.209985496011875"
+                    "16.3736299311516",
+                    "48.209825793101416"
                 ]
             },
             "properties": {
@@ -446,8 +776,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642860841439466",
-                    "42.43213763862055"
+                    "-8.64130798255674",
+                    "42.432932167905136"
                 ]
             },
             "properties": {
@@ -464,8 +794,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865537994536361",
-                    "42.34435854050147"
+                    "-7.865672628407248",
+                    "42.344638333855166"
                 ]
             },
             "properties": {
@@ -482,8 +812,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651169064126481",
-                    "42.19840258226804"
+                    "-8.651575792515878",
+                    "42.19886563572972"
                 ]
             },
             "properties": {
@@ -500,8 +830,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545784616481273",
-                    "42.88181122723932"
+                    "-8.544448122426873",
+                    "42.88082150662116"
                 ]
             },
             "properties": {
@@ -518,8 +848,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.441497996479515",
-                    "43.695707503264686"
+                    "-7.441630797714591",
+                    "43.69510450975839"
                 ]
             },
             "properties": {
@@ -536,8 +866,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555787608725164",
-                    "43.01185945795581"
+                    "-7.5546134812439245",
+                    "43.013032855039135"
                 ]
             },
             "properties": {
@@ -554,8 +884,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.725414717022216",
-                    "42.17598889145104"
+                    "-8.723193759090666",
+                    "42.237957371993645"
+                ]
+            },
+            "properties": {
+                "name": "XXXIII A Homenaxe",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25052/-/xxxiii-a-homenaxe.html",
+                "dates": [
+                    "Saturday 23 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.725652793153682",
+                    "42.17598841161363"
                 ]
             },
             "properties": {
@@ -564,6 +912,60 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25032/-/demencia-sonora-akarakan-karracho.html",
                 "dates": [
                     "Saturday 23 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544246216655774",
+                    "42.881681833914634"
+                ]
+            },
+            "properties": {
+                "name": "Roberto Sobrado Grupo",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25055/-/roberto-sobrado-grupo.html",
+                "dates": [
+                    "Saturday 23 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.79359929554097",
+                    "42.08863611400897"
+                ]
+            },
+            "properties": {
+                "name": "Carlos Quintá & Úrsula Rial",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25048/-/carlos-quinta-ursula-rial.html",
+                "dates": [
+                    "Thursday 28 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793399296980303",
+                    "42.08724451951055"
+                ]
+            },
+            "properties": {
+                "name": "Os Carecos",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25049/-/os-carecos.html",
+                "dates": [
+                    "Saturday 30 march"
                 ]
             }
         }
