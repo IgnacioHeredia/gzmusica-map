@@ -6,122 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8001748897241105",
-                    "42.18954953106399"
-                ]
-            },
-            "properties": {
-                "name": "Semana Santa ao Vivo",
-                "location": "Allariz",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25162/-/semana-santa-ao-vivo.html",
-                "dates": [
-                    "Thursday 28 march",
-                    "Friday 29 march",
-                    "Saturday 30 march",
-                    "Sunday 31 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.087274046563575",
-                    "42.82299880380115"
-                ]
-            },
-            "properties": {
-                "name": "XI Víndemo Ver",
-                "location": "Carnota",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25234/-/xi-vindemo-ver.html",
-                "dates": [
-                    "Thursday 28 march",
-                    "Friday 29 march",
-                    "Saturday 30 march",
-                    "Sunday 31 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.699422650779719",
-                    "43.73886236330693"
-                ]
-            },
-            "properties": {
-                "name": "O Serán do Sor",
-                "location": "O Barqueiro, Mañón (Mañon)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25214/-/o-seran-do-sor.html",
-                "dates": [
-                    "Thursday 28 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.886709258806052",
-                    "42.471670979644166"
-                ]
-            },
-            "properties": {
-                "name": "Winery Sound",
-                "location": "O Grove",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25255/-/winery-sound.html",
-                "dates": [
-                    "Thursday 28 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.643046274194962",
-                    "42.433194861210296"
-                ]
-            },
-            "properties": {
-                "name": "Toma de Terra",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25084/-/toma-de-terra.html",
-                "dates": [
-                    "Thursday 28 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.79383898180332",
-                    "42.08866689377376"
-                ]
-            },
-            "properties": {
-                "name": "Carlos Quintá & Úrsula Rial",
-                "location": "Vilar de Santos",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25048/-/carlos-quinta-ursula-rial.html",
-                "dates": [
-                    "Thursday 28 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.743937746426866",
-                    "42.05004112726632"
+                    "-8.74462419062852",
+                    "42.04926333777498"
                 ]
             },
             "properties": {
@@ -138,8 +24,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.638386637101097",
-                    "42.58639625746883"
+                    "-7.801690742444157",
+                    "42.19109801475928"
+                ]
+            },
+            "properties": {
+                "name": "Semana Santa ao Vivo",
+                "location": "Allariz",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25162/-/semana-santa-ao-vivo.html",
+                "dates": [
+                    "Friday 29 march",
+                    "Saturday 30 march",
+                    "Sunday 31 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.087072429172995",
+                    "42.82219653363265"
+                ]
+            },
+            "properties": {
+                "name": "XI Víndemo Ver",
+                "location": "Carnota",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25234/-/xi-vindemo-ver.html",
+                "dates": [
+                    "Friday 29 march",
+                    "Saturday 30 march",
+                    "Sunday 31 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.812253737932092",
+                    "42.5152276075025"
+                ]
+            },
+            "properties": {
+                "name": "Festichores",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25262/-/festichores.html",
+                "dates": [
+                    "Friday 29 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.638005971669211",
+                    "42.58560689355182"
                 ]
             },
             "properties": {
@@ -156,8 +100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4130143207993004",
-                    "42.77963516004877"
+                    "-7.413390052163349",
+                    "42.77980816536077"
                 ]
             },
             "properties": {
@@ -174,18 +118,43 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88581231736843",
-                    "42.64751003440207"
+                    "-7.556211434053856",
+                    "43.01251374829897"
                 ]
             },
             "properties": {
-                "name": "Brais Morán & Nasaufunk",
-                "location": "Boiro",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25007/-/brais-moran-nasaufunk.html",
+                "name": "Ruada no Clavi con Xisco Feijóo",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25268/-/ruada-no-clavi-con-xisco-feijoo.html",
+                "dates": [
+                    "Friday 29 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.645668294917435",
+                    "42.052078837658364"
+                ]
+            },
+            "properties": {
+                "name": "Festas de San Telmo",
+                "location": "Tui",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25271/-/festas-de-san-telmo.html",
                 "dates": [
                     "Saturday 30 march",
-                    "Friday 19 april",
-                    "Saturday 20 april"
+                    "Sunday 31 march",
+                    "Monday 01 april",
+                    "Tuesday 02 april",
+                    "Wednesday 03 april",
+                    "Thursday 04 april",
+                    "Friday 05 april",
+                    "Saturday 06 april",
+                    "Sunday 07 april",
+                    "Monday 08 april"
                 ]
             }
         },
@@ -194,44 +163,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.5552463188656205",
-                    "43.01381581577358"
-                ]
-            },
-            "properties": {
-                "name": "Filophóbicas + T.C. Costello",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25205/-/filophobicas-t-c-costello.html",
-                "dates": [
-                    "Saturday 30 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.779282063881729",
-                    "42.2665716488052"
-                ]
-            },
-            "properties": {
-                "name": "Loita Amada ",
-                "location": "Cangas",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24959/-/loita-amada.html",
-                "dates": [
-                    "Saturday 30 march"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.853649887549991",
-                    "43.686123397041406"
+                    "-7.853839566489945",
+                    "43.684799055784694"
                 ]
             },
             "properties": {
@@ -248,8 +181,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.627493442454256",
-                    "42.75105931706203"
+                    "-8.628634739772695",
+                    "42.75212618369442"
                 ]
             },
             "properties": {
@@ -272,8 +205,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.19186106268564",
-                    "42.58875504080505"
+                    "-7.269733233881787",
+                    "42.47672530021709"
+                ]
+            },
+            "properties": {
+                "name": "XV Certame Celtibéirco de Bandas de Gaitas",
+                "location": "Quiroga",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25269/-/xv-certame-celtibeirco-de-bandas-de-gaitas.html",
+                "dates": [
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778136026578403",
+                    "42.266460720008894"
+                ]
+            },
+            "properties": {
+                "name": "Loita Amada ",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24959/-/loita-amada.html",
+                "dates": [
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.144364685941559",
+                    "42.35379804079215"
+                ]
+            },
+            "properties": {
+                "name": "II Foliada de Berán",
+                "location": "Berán (Leiro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25270/-/ii-foliada-de-beran.html",
+                "dates": [
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.19153222943781",
+                    "42.5892588164431"
                 ]
             },
             "properties": {
@@ -291,8 +278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642964726667488",
-                    "42.432835115450416"
+                    "-8.642194049810227",
+                    "42.432850883662596"
                 ]
             },
             "properties": {
@@ -311,8 +298,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.458258541673256",
-                    "42.26347783653671"
+                    "-8.457747074559087",
+                    "42.26383032562397"
                 ]
             },
             "properties": {
@@ -329,8 +316,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.012757529129306",
-                    "42.58157005568165"
+                    "-9.012183158299663",
+                    "42.58070521492748"
                 ]
             },
             "properties": {
@@ -347,8 +334,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.78194382010821",
-                    "42.941118956036355"
+                    "-8.884400216078092",
+                    "42.64808738753027"
+                ]
+            },
+            "properties": {
+                "name": "Brais Morán & Nasaufunk",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25007/-/brais-moran-nasaufunk.html",
+                "dates": [
+                    "Saturday 30 march",
+                    "Friday 19 april",
+                    "Saturday 20 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.782095195015245",
+                    "42.94193489662723"
                 ]
             },
             "properties": {
@@ -365,8 +372,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.414574848244824",
-                    "42.778608647649634"
+                    "-7.415723944469843",
+                    "41.84949583636306"
+                ]
+            },
+            "properties": {
+                "name": "Loita Amada",
+                "location": "Mandín (Verín)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25273/-/loita-amada.html",
+                "dates": [
+                    "Saturday 30 march",
+                    "Friday 05 april",
+                    "Friday 19 april",
+                    "Saturday 20 april",
+                    "Saturday 27 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.413269821476876",
+                    "42.77898518730977"
                 ]
             },
             "properties": {
@@ -383,8 +412,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7934824159886436",
-                    "42.08862544954834"
+                    "-7.555796713045531",
+                    "43.01224090778123"
+                ]
+            },
+            "properties": {
+                "name": "Filophóbicas + T.C. Costello",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25205/-/filophobicas-t-c-costello.html",
+                "dates": [
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395304262694278",
+                    "43.371977855764854"
+                ]
+            },
+            "properties": {
+                "name": "Leria + Dreea",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25266/-/leria-dreea.html",
+                "dates": [
+                    "Saturday 30 march"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794372135640037",
+                    "42.08786091506538"
                 ]
             },
             "properties": {
@@ -401,8 +466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232816468484826",
-                    "43.48477044420884"
+                    "-8.23254884700382",
+                    "43.48573518947562"
                 ]
             },
             "properties": {
@@ -419,8 +484,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545116789102133",
-                    "42.882315431487925"
+                    "-8.544082276043925",
+                    "42.881812353156576"
                 ]
             },
             "properties": {
@@ -437,30 +502,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "1.6184128157084208",
-                    "41.57975905004956"
-                ]
-            },
-            "properties": {
-                "name": "Loita Amada",
-                "location": "Igualada, Barcelona (Catalunya)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24960/-/loita-amada.html",
-                "dates": [
-                    "Friday 05 april",
-                    "Saturday 06 april",
-                    "Friday 19 april",
-                    "Saturday 20 april",
-                    "Saturday 27 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.660772437185047",
-                    "43.54593072045834"
+                    "-5.662643564741875",
+                    "43.545955541687086"
                 ]
             },
             "properties": {
@@ -477,8 +520,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885972494652975",
-                    "42.786448902219895"
+                    "-8.886743107551977",
+                    "42.78626325639461"
                 ]
             },
             "properties": {
@@ -496,8 +539,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544667667048937",
-                    "42.88177070565634"
+                    "-8.545765765141926",
+                    "42.88182409971631"
                 ]
             },
             "properties": {
@@ -514,26 +557,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394905063776672",
-                    "43.372121857406924"
-                ]
-            },
-            "properties": {
-                "name": "Bule",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24899/-/bule.html",
-                "dates": [
-                    "Saturday 06 april"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.11026256558232",
-                    "42.66183416932584"
+                    "-8.10969686093186",
+                    "42.66327643020101"
                 ]
             },
             "properties": {
@@ -550,8 +575,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.676888264794122",
-                    "43.296787531742254"
+                    "-7.67657510100604",
+                    "43.29757343447661"
                 ]
             },
             "properties": {
@@ -569,8 +594,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394752746623979",
-                    "43.37205598361604"
+                    "-8.886156333426921",
+                    "42.786822200993925"
+                ]
+            },
+            "properties": {
+                "name": "Festival Benéfico Ría Fest",
+                "location": "Noia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25259/-/festival-benefico-ria-fest.html",
+                "dates": [
+                    "Saturday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394913841235939",
+                    "43.372327763168066"
                 ]
             },
             "properties": {
@@ -587,8 +630,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.785945195995964",
-                    "42.329162635522415"
+                    "-7.866767394751154",
+                    "42.34561834398519"
+                ]
+            },
+            "properties": {
+                "name": "O Sonoro Maxín",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25267/-/o-sonoro-maxin.html",
+                "dates": [
+                    "Saturday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.784809796329002",
+                    "42.32791072275506"
                 ]
             },
             "properties": {
@@ -605,8 +666,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.639551336387498",
-                    "43.06252917889952"
+                    "-8.39588198705118",
+                    "43.371255621593896"
+                ]
+            },
+            "properties": {
+                "name": "Bule + Samesugas",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24899/-/bule-samesugas.html",
+                "dates": [
+                    "Saturday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.1787328752225346",
+                    "41.38453150918678"
+                ]
+            },
+            "properties": {
+                "name": "Loita Amada + Answer + Cerrado x Decepciones",
+                "location": "Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24961/-/loita-amada-answer-cerrado-x-decepciones.html",
+                "dates": [
+                    "Saturday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.639646837844538",
+                    "43.06262412633256"
                 ]
             },
             "properties": {
@@ -623,8 +720,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.653103953860024",
-                    "42.197015617979496"
+                    "-8.652375638585168",
+                    "42.19855052746752"
                 ]
             },
             "properties": {
@@ -641,8 +738,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.454262528877399",
-                    "42.20671483142738"
+                    "-8.453783766185646",
+                    "42.207300852254484"
                 ]
             },
             "properties": {
@@ -659,8 +756,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54551851231265",
-                    "42.88215701238121"
+                    "-8.012311628688293",
+                    "42.91527974029755"
+                ]
+            },
+            "properties": {
+                "name": "Zënzar",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25261/-/zenzar.html",
+                "dates": [
+                    "Saturday 06 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.503778173731487",
+                    "42.17485365602185"
+                ]
+            },
+            "properties": {
+                "name": "XI Concurso de Bandas Rock in Río Tea",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25257/-/xi-concurso-de-bandas-rock-in-rio-tea.html",
+                "dates": [
+                    "Saturday 06 april",
+                    "Saturday 20 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54584366724539",
+                    "42.8805532437433"
                 ]
             },
             "properties": {
@@ -679,14 +813,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413491877262346",
-                    "42.77951905127949"
+                    "-7.413557344109693",
+                    "42.78037102358805"
                 ]
             },
             "properties": {
-                "name": "Tecor Societário",
+                "name": "Tecor Societário + Xerezade",
                 "location": "Sarria",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25108/-/tecor-societario.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25108/-/tecor-societario-xerezade.html",
                 "dates": [
                     "Friday 12 april"
                 ]
@@ -697,8 +831,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.608460276870279",
-                    "42.30497025107413"
+                    "-8.60883861510312",
+                    "42.30501968751387"
                 ]
             },
             "properties": {
@@ -715,8 +849,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.812794274002952",
-                    "42.51585979899779"
+                    "-8.813023919504808",
+                    "42.51595676383904"
                 ]
             },
             "properties": {
@@ -734,8 +868,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8657556997807125",
-                    "42.3452820814376"
+                    "-7.86688215398205",
+                    "42.3455490675097"
                 ]
             },
             "properties": {
@@ -753,8 +887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.358635885583243",
-                    "43.66107330460755"
+                    "-7.357235821094327",
+                    "43.660791001216175"
                 ]
             },
             "properties": {
@@ -771,8 +905,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544036840999118",
-                    "42.8804577914479"
+                    "-8.544419793648768",
+                    "42.88108516247738"
                 ]
             },
             "properties": {
@@ -786,7 +920,8 @@
                     "Saturday 20 april",
                     "Sunday 21 april",
                     "Friday 26 april",
-                    "Saturday 27 april"
+                    "Saturday 27 april",
+                    "Sunday 28 april"
                 ]
             }
         },
@@ -795,8 +930,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.29974528730516",
-                    "42.534655918135634"
+                    "-8.300692106968906",
+                    "42.53594199048396"
                 ]
             },
             "properties": {
@@ -813,8 +948,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72302279477909",
-                    "42.23963831005722"
+                    "-8.724106227634433",
+                    "42.17611721990575"
+                ]
+            },
+            "properties": {
+                "name": "Serán en Freixo",
+                "location": "O Freixo, Valadares (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25265/-/seran-en-freixo.html",
+                "dates": [
+                    "Saturday 13 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72287151254413",
+                    "42.23790341717665"
                 ]
             },
             "properties": {
@@ -831,8 +984,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545444897900278",
-                    "42.88069794054388"
+                    "-8.544845119303186",
+                    "42.88047401600844"
                 ]
             },
             "properties": {
@@ -849,8 +1002,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.802944313256416",
-                    "42.17263985719362"
+                    "-8.802274371046526",
+                    "42.17249963226101"
                 ]
             },
             "properties": {
@@ -868,8 +1021,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544399565837425",
-                    "42.88220697676763"
+                    "-8.54431422864148",
+                    "42.882277780698004"
                 ]
             },
             "properties": {
@@ -886,8 +1039,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8532747469657265",
-                    "43.68553472187451"
+                    "-7.853732424446706",
+                    "43.684799540297"
                 ]
             },
             "properties": {
@@ -904,8 +1057,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.805809399281632",
-                    "42.14110619640088"
+                    "-8.805877656519801",
+                    "42.1406592709028"
                 ]
             },
             "properties": {
@@ -922,8 +1075,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.676723159171192",
-                    "43.29711539545166"
+                    "-7.677569317730931",
+                    "43.29762030992049"
                 ]
             },
             "properties": {
@@ -941,8 +1094,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.53311298979962",
-                    "42.446089602798914"
+                    "-8.53487292620622",
+                    "42.445023848585144"
                 ]
             },
             "properties": {
@@ -959,8 +1112,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013092452086392",
-                    "42.915589524346636"
+                    "-8.011880887621711",
+                    "42.916561542445635"
                 ]
             },
             "properties": {
@@ -968,7 +1121,8 @@
                 "location": "Melide",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25170/-/17-foliada-de-melide.html",
                 "dates": [
-                    "Saturday 27 april"
+                    "Saturday 27 april",
+                    "Sunday 28 april"
                 ]
             }
         },
@@ -977,8 +1131,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651873541444457",
-                    "42.198697160064306"
+                    "-8.65215839121615",
+                    "42.19791266798525"
                 ]
             },
             "properties": {
@@ -995,8 +1149,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.026176316475146",
-                    "42.331945156447105"
+                    "-8.025201287169606",
+                    "42.33160844705676"
                 ]
             },
             "properties": {
@@ -1005,6 +1159,24 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25218/-/6-seran-de-laias.html",
                 "dates": [
                     "Saturday 27 april"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-46.55305184948415",
+                    "-23.736004281795225"
+                ]
+            },
+            "properties": {
+                "name": "Caamaño & Amexieras",
+                "location": "Waningen (Paises Baixos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25151/-/caamano-amexieras.html",
+                "dates": [
+                    "Sunday 28 april"
                 ]
             }
         }
