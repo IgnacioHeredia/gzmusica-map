@@ -23,6 +23,7 @@ jobs:
           # ` || true` avoids error code 1 when no updates are made to the repo --> "nothing to commit, working tree clean"
           git push
 
+      # Based on: https://www.softwaretester.blog/detecting-github-workflow-job-run-status-changes
       - name: Check last job status
         id: lastJobStatus
         if: always()
