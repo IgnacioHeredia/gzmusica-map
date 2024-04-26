@@ -1,23 +1,19 @@
 name: Daily map refresh
-on:
-  schedule:
-     # run everyday a 6am
-    - cron:  '0 6 * * *'
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+on:
+  workflow_dispatch:  # allow manual trigger
+  schedule:  # run everyday a 6am
+    - cron: '0 6 * * *'
 
 jobs:
-
-  build:
-    
+  main_job:
     runs-on: ubuntu-latest
-
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Refresh map
+        id: main_task
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
@@ -26,3 +22,25 @@ jobs:
           git commit -am "Daily map refresh" || true
           # ` || true` avoids error code 1 when no updates are made to the repo --> "nothing to commit, working tree clean"
           git push
+
+      - name: Check last job status
+        id: lastJobStatus
+        if: always()
+        run: |
+          LAST_JOB_STATUS=$(gh run list --workflow main.yml | grep -oh "completed.*" | head -1 | awk '{print $2}')
+          echo "::set-output name=status::$LAST_JOB_STATUS"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+
+      # Only send email the first time the workflow fails
+      # (ie. job fails and the previous job run was successful)
+      # Otherwise you would receive an email in each of the subsequent failures
+      - name: Send email
+        if: always() &&  steps.main_task.outcome == 'failure' && steps.lastJobStatus.outputs.status == 'success'
+        run: |
+          curl -s https://gist.githubusercontent.com/IgnacioHeredia/5f8fd2fc7d56763e4060c7b8fc8e0212/raw/3b5915cf3b8e0fd3c67b7ef7a019175116f0c367/send_email.py | \
+          python - \
+          --from_user ${{secrets.FROM_MAIL_USERNAME}} \
+          --from_pwd ${{secrets.FROM_MAIL_PASSWORD}} \
+          --to_user ${{secrets.TO_MAIL_USERNAME}} \
+          --subject "⚠ Failed Github workflow: gzmusica-map" 
