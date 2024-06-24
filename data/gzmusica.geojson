@@ -6,63 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.647896938039228",
-                    "42.6539870871047"
-                ]
-            },
-            "properties": {
-                "name": "Festas da Xuventude",
-                "location": "Carracedo (Caldas de Reis)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25910/-/festas-da-xuventude.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.395716673603884",
-                    "43.37217371633031"
-                ]
-            },
-            "properties": {
-                "name": "Foliagra",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25860/-/foliagra.html",
-                "dates": [
-                    "Sunday 23 june",
-                    "Saturday 29 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.191812359903146",
-                    "42.88844023243744"
-                ]
-            },
-            "properties": {
-                "name": "Raposa",
-                "location": "Barcelos (Portugal)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25324/-/raposa.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.641309069490234",
-                    "42.60488960964228"
+                    "-8.641307399560114",
+                    "42.604881659971284"
                 ]
             },
             "properties": {
@@ -70,7 +15,6 @@
                 "location": "Caldas de Reis",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25879/-/san-xoan-caldas.html",
                 "dates": [
-                    "Sunday 23 june",
                     "Monday 24 june"
                 ]
             }
@@ -80,136 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232442154859987",
-                    "43.485067626496864"
-                ]
-            },
-            "properties": {
-                "name": "San Xoán Canido",
-                "location": "Ferrol",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25888/-/san-xoan-canido.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.609975933315281",
-                    "42.30455659779347"
-                ]
-            },
-            "properties": {
-                "name": "Solimán Pandereiteiras",
-                "location": "Cesantes (Redondela)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25886/-/soliman-pandereiteiras.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.496599597832809",
-                    "42.08285468280258"
-                ]
-            },
-            "properties": {
-                "name": "Urbano Cabrera",
-                "location": "Salvaterra de Miño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25923/-/urbano-cabrera.html",
-                "dates": [
-                    "Sunday 23 june",
-                    "Sunday 30 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.393951957496014",
-                    "43.37109020266083"
-                ]
-            },
-            "properties": {
-                "name": "A Pedreira",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25849/-/a-pedreira.html",
-                "dates": [
-                    "Sunday 23 june",
-                    "Thursday 18 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.676502356320826",
-                    "43.2984796830768"
-                ]
-            },
-            "properties": {
-                "name": "Airiños de Orbazai",
-                "location": "Vilalba",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25907/-/airinos-de-orbazai.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.641581785146467",
-                    "42.43367892898862"
-                ]
-            },
-            "properties": {
-                "name": "II Foliada Lume Novo",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25841/-/ii-foliada-lume-novo.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.65218013417696",
-                    "42.1987215668068"
-                ]
-            },
-            "properties": {
-                "name": "San Xoán en Flor",
-                "location": "O Rebullón, Tameiga (Mos)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25827/-/san-xoan-en-flor.html",
-                "dates": [
-                    "Sunday 23 june"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.263653861450205",
-                    "42.90666381381463"
+                    "-9.263062218427107",
+                    "42.90647939379148"
                 ]
             },
             "properties": {
@@ -228,8 +44,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.867418395814595",
-                    "42.34452686150754"
+                    "-7.866546761961411",
+                    "42.34452119644735"
                 ]
             },
             "properties": {
@@ -246,8 +62,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.815437528566429",
-                    "42.27718194002924"
+                    "-8.815082744816614",
+                    "42.2772136022754"
                 ]
             },
             "properties": {
@@ -264,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.800399579899663",
-                    "42.19114609785261"
+                    "-7.800486643955287",
+                    "42.189937336638465"
                 ]
             },
             "properties": {
@@ -282,8 +98,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.77924333848433",
-                    "42.26582288804238"
+                    "-8.77936651992437",
+                    "42.26571558054895"
                 ]
             },
             "properties": {
@@ -301,8 +117,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.581826244922655",
-                    "42.51275453971609"
+                    "-7.58065226909973",
+                    "42.512928273377426"
                 ]
             },
             "properties": {
@@ -319,8 +135,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.819918240744421",
-                    "42.61049244758494"
+                    "-8.395254174888509",
+                    "43.37101821632952"
+                ]
+            },
+            "properties": {
+                "name": "Foliagra",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25861/-/foliagra.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.820292800636778",
+                    "42.61033968507912"
                 ]
             },
             "properties": {
@@ -337,8 +171,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.5551134468658905",
-                    "43.013413096106305"
+                    "-7.5552724150129436",
+                    "43.0131900510272"
                 ]
             },
             "properties": {
@@ -355,8 +189,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.649296142742726",
-                    "42.27110765349065"
+                    "-7.649410034587302",
+                    "42.272638127907406"
                 ]
             },
             "properties": {
@@ -373,8 +207,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.655055946677937",
-                    "42.58061508090398"
+                    "-8.495683416426168",
+                    "42.08315193831196"
+                ]
+            },
+            "properties": {
+                "name": "Urbano Cabrera",
+                "location": "Salvaterra de Miño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25924/-/urbano-cabrera.html",
+                "dates": [
+                    "Sunday 30 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.655331863953425",
+                    "42.58098471345417"
                 ]
             },
             "properties": {
@@ -393,8 +245,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.032175325831894",
-                    "43.11071636985042"
+                    "-9.0314222115005",
+                    "43.1114728736264"
                 ]
             },
             "properties": {
@@ -412,8 +264,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.503096926572661",
-                    "42.17485080553171"
+                    "-8.504698101393895",
+                    "42.17594033002638"
                 ]
             },
             "properties": {
@@ -431,8 +283,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544609723330039",
-                    "42.88184769634555"
+                    "-8.544096383264803",
+                    "42.88184342379819"
                 ]
             },
             "properties": {
@@ -449,8 +301,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.454487805909832",
-                    "43.052746817465234"
+                    "-8.45481569048138",
+                    "43.05320161235972"
                 ]
             },
             "properties": {
@@ -467,8 +319,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.770361806493884",
-                    "42.28394718492972"
+                    "-8.769000196755453",
+                    "42.28495484593903"
                 ]
             },
             "properties": {
@@ -485,8 +337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.886124901976546",
-                    "42.47130308937355"
+                    "-8.886462228041719",
+                    "42.47047776067563"
                 ]
             },
             "properties": {
@@ -503,8 +355,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394435474163732",
-                    "43.37278424626944"
+                    "-8.395824998668424",
+                    "43.37098427929006"
                 ]
             },
             "properties": {
@@ -528,8 +380,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.85345536904378",
-                    "43.68533798967301"
+                    "-7.854299931790408",
+                    "43.68438667794933"
                 ]
             },
             "properties": {
@@ -549,8 +401,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544059122672119",
-                    "42.88182465848009"
+                    "-8.544575358914386",
+                    "42.88186839635898"
                 ]
             },
             "properties": {
@@ -567,8 +419,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504562691688168",
-                    "42.17563494641556"
+                    "-8.503869995064933",
+                    "42.17600010564937"
                 ]
             },
             "properties": {
@@ -586,8 +438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.436818048609844",
-                    "42.70296982365243"
+                    "-8.437660769214046",
+                    "42.702939730563244"
                 ]
             },
             "properties": {
@@ -604,8 +456,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.98358758411745",
-                    "42.41753566961799"
+                    "-6.982991256978427",
+                    "42.41677306825689"
                 ]
             },
             "properties": {
@@ -624,8 +476,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.670657135767732",
-                    "43.584645967847635"
+                    "-8.544081080500739",
+                    "42.8804882719277"
+                ]
+            },
+            "properties": {
+                "name": "A Pedreira",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25894/-/a-pedreira.html",
+                "dates": [
+                    "Thursday 18 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.670802120223848",
+                    "43.5848633623343"
                 ]
             },
             "properties": {
@@ -643,8 +513,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.263606066648542",
-                    "42.907483142136805"
+                    "-9.26267661504402",
+                    "42.90720463824821"
                 ]
             },
             "properties": {
@@ -661,8 +531,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.488738089332577",
-                    "42.68946950621055"
+                    "-8.489742143079077",
+                    "42.68957139267841"
                 ]
             },
             "properties": {
