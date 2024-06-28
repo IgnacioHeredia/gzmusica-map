@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619551067515278",
-                    "42.842222991290065"
+                    "-8.619744001711226",
+                    "42.8428547621945"
                 ]
             },
             "properties": {
@@ -24,8 +24,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.262494729678858",
-                    "42.90815995482204"
+                    "-8.01788485990878",
+                    "42.76372552181381"
+                ]
+            },
+            "properties": {
+                "name": "Festas de San Pedro e San Pablo",
+                "location": "Agolada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25986/-/festas-de-san-pedro-e-san-pablo.html",
+                "dates": [
+                    "Friday 28 june",
+                    "Saturday 29 june",
+                    "Sunday 30 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54386207763447",
+                    "42.88173903637043"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Barrio de San Pedro",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25982/-/festas-do-barrio-de-san-pedro.html",
+                "dates": [
+                    "Friday 28 june",
+                    "Saturday 29 june",
+                    "Sunday 30 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.262273035699621",
+                    "42.907270183098916"
                 ]
             },
             "properties": {
@@ -44,16 +84,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865679933640706",
-                    "42.3451900226002"
+                    "-9.055754720881964",
+                    "42.77469381317238"
                 ]
             },
             "properties": {
-                "name": "VenRespirar",
-                "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25505/-/venrespirar.html",
+                "name": "Muros en Festas",
+                "location": "Muros",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25981/-/muros-en-festas.html",
                 "dates": [
-                    "Friday 28 june"
+                    "Friday 28 june",
+                    "Saturday 29 june",
+                    "Sunday 30 june"
                 ]
             }
         },
@@ -62,8 +104,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.676848470996536",
-                    "42.867567155107785"
+                    "-8.677002384473113",
+                    "42.86730704265241"
                 ]
             },
             "properties": {
@@ -81,8 +123,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.742162794907573",
-                    "42.219689156811185"
+                    "-8.742369099871327",
+                    "42.21979794293414"
                 ]
             },
             "properties": {
@@ -99,8 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.851133815864612",
-                    "43.450477527417426"
+                    "-7.852663029354887",
+                    "43.450401568377494"
                 ]
             },
             "properties": {
@@ -117,8 +159,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816176695240664",
-                    "42.277153265501966"
+                    "-7.1125221190806425",
+                    "42.181601263791414"
+                ]
+            },
+            "properties": {
+                "name": "VII Foliada no Castelo",
+                "location": "Viana do Bolo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25985/-/vii-foliada-no-castelo.html",
+                "dates": [
+                    "Friday 28 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64176638905178",
+                    "42.43216878638658"
+                ]
+            },
+            "properties": {
+                "name": "As da casa + Foliada",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25964/-/as-da-casa-foliada.html",
+                "dates": [
+                    "Friday 28 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.815796793473979",
+                    "42.27705589629069"
                 ]
             },
             "properties": {
@@ -135,8 +213,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.799953922531509",
-                    "42.18987562358726"
+                    "-7.867034713113467",
+                    "42.345105389911"
+                ]
+            },
+            "properties": {
+                "name": "VenRespirar",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25505/-/venrespirar.html",
+                "dates": [
+                    "Friday 28 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.801132342670993",
+                    "42.19030386723252"
                 ]
             },
             "properties": {
@@ -153,8 +249,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779475777941494",
-                    "42.266562597405226"
+                    "-8.779053884470919",
+                    "42.26492965382731"
                 ]
             },
             "properties": {
@@ -172,8 +268,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.581283011323539",
-                    "42.51400762460979"
+                    "-7.580449065648356",
+                    "42.513601589173156"
                 ]
             },
             "properties": {
@@ -190,8 +286,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394489092543978",
-                    "43.37138841687689"
+                    "-8.012948777259714",
+                    "42.91637531426902"
+                ]
+            },
+            "properties": {
+                "name": "IX Festival Motorock Millí-Riders",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25972/-/ix-festival-motorock-milli-riders.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394588349456207",
+                    "43.37101022437805"
                 ]
             },
             "properties": {
@@ -208,8 +322,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.820249502329242",
-                    "42.61003142379295"
+                    "-7.846658914648338",
+                    "42.30201577037564"
+                ]
+            },
+            "properties": {
+                "name": "Festa dos Foros",
+                "location": "Seixalbo (Ourense)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25978/-/festa-dos-foros.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.489487440185128",
+                    "42.68828989835555"
+                ]
+            },
+            "properties": {
+                "name": "IV Festival Multicultural de Música Tradicional",
+                "location": "A Estrada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25987/-/iv-festival-multicultural-de-musica-tradicional.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.821721451780515",
+                    "42.61042772023973"
                 ]
             },
             "properties": {
@@ -226,8 +376,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723169719779767",
-                    "42.238544491524536"
+                    "-8.600671809303995",
+                    "42.33802146169071"
+                ]
+            },
+            "properties": {
+                "name": "A Orghullosa",
+                "location": "Arcade (Soutomaior)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25979/-/a-orghullosa.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.013100220508571",
+                    "42.91565395061217"
+                ]
+            },
+            "properties": {
+                "name": "A Pé de Rúa",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25989/-/a-pe-de-rua.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.053529203848703",
+                    "43.66217732915415"
+                ]
+            },
+            "properties": {
+                "name": "III Festival Infantil de Música e Baile Tradicional AC Buxainas",
+                "location": "Cedeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25990/-/iii-festival-infantil-de-musica-e-baile-tradicional-ac-buxainas.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.724131679540385",
+                    "42.23886177939905"
                 ]
             },
             "properties": {
@@ -244,8 +448,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556295923403865",
-                    "43.012688397777445"
+                    "-8.251632544774509",
+                    "43.35281520129115"
+                ]
+            },
+            "properties": {
+                "name": "I Foliada A Meda",
+                "location": "Sada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25991/-/i-foliada-a-meda.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866719643234078",
+                    "42.345536967075134"
+                ]
+            },
+            "properties": {
+                "name": "Exeria",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25967/-/exeria.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.219920146931607",
+                    "43.27412989219344"
+                ]
+            },
+            "properties": {
+                "name": "III Encontro de scolas de Música Tradicional",
+                "location": "Betanzos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25970/-/iii-encontro-de-scolas-de-musica-tradicional.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.556174936917697",
+                    "43.01225399756795"
                 ]
             },
             "properties": {
@@ -262,8 +520,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.649736889944514",
-                    "42.27161813213601"
+                    "-7.649083876817265",
+                    "42.27114330215679"
                 ]
             },
             "properties": {
@@ -280,8 +538,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.496140117883993",
-                    "42.08412493040126"
+                    "-8.490154077540627",
+                    "42.68896720004431"
+                ]
+            },
+            "properties": {
+                "name": "Milladoiro",
+                "location": "A Estrada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25975/-/milladoiro.html",
+                "dates": [
+                    "Saturday 29 june"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.496790197652365",
+                    "42.083706025156154"
                 ]
             },
             "properties": {
@@ -298,8 +574,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.0563944044366",
-                    "42.77612643138522"
+                    "-9.056705287556555",
+                    "42.775079800211444"
                 ]
             },
             "properties": {
@@ -316,8 +592,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.654814233507237",
-                    "42.58153161058042"
+                    "-8.655833024026695",
+                    "42.58096283959744"
                 ]
             },
             "properties": {
@@ -336,8 +612,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.031287547146711",
-                    "43.11118386243602"
+                    "-9.031743503785247",
+                    "43.11172086794088"
                 ]
             },
             "properties": {
@@ -355,8 +631,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504405774750078",
-                    "42.17567463121397"
+                    "-8.504692480480138",
+                    "42.17583556687421"
                 ]
             },
             "properties": {
@@ -374,8 +650,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544774380500229",
-                    "42.881871386189744"
+                    "-8.54567026096533",
+                    "42.88170116304492"
                 ]
             },
             "properties": {
@@ -392,8 +668,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.455435907288427",
-                    "43.05253801719093"
+                    "-8.45395344642715",
+                    "43.05304176070195"
                 ]
             },
             "properties": {
@@ -410,8 +686,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.769574257295977",
-                    "42.28462416480738"
+                    "-8.770286369872684",
+                    "42.284969350214006"
                 ]
             },
             "properties": {
@@ -428,8 +704,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887192413896374",
-                    "42.47188623727817"
+                    "-8.44005427591149",
+                    "42.969297274306264"
+                ]
+            },
+            "properties": {
+                "name": "XI Festival Folk do Carboeiro",
+                "location": "Sigüeiro, Oroso (Oroso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25969/-/xi-festival-folk-do-carboeiro.html",
+                "dates": [
+                    "Saturday 06 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.886547579747194",
+                    "42.47068392985151"
                 ]
             },
             "properties": {
@@ -446,8 +740,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394837660490511",
-                    "43.37217847199979"
+                    "-8.395858825674013",
+                    "43.372110336547884"
                 ]
             },
             "properties": {
@@ -471,8 +765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.853100195106573",
-                    "43.686254214807185"
+                    "-7.852388399546224",
+                    "43.68534284642136"
                 ]
             },
             "properties": {
@@ -492,8 +786,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54433823281836",
-                    "42.88169584524854"
+                    "-8.54471652373754",
+                    "42.88208350054762"
                 ]
             },
             "properties": {
@@ -510,8 +804,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504704784902783",
-                    "42.174795276307584"
+                    "-8.504814726520603",
+                    "42.17446680436968"
                 ]
             },
             "properties": {
@@ -529,8 +823,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.4376893723088",
-                    "42.70318032705225"
+                    "-8.437411906663154",
+                    "42.702325549540056"
                 ]
             },
             "properties": {
@@ -547,8 +841,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.982840567827491",
-                    "42.41749055478627"
+                    "-6.98354981048801",
+                    "42.41722475332577"
                 ]
             },
             "properties": {
@@ -567,8 +861,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54501823711386",
-                    "42.881075285783574"
+                    "-8.545202386384725",
+                    "42.88149508962969"
                 ]
             },
             "properties": {
@@ -585,8 +879,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.670926846936982",
-                    "43.58466126019691"
+                    "-7.6716740980696025",
+                    "43.58430790468161"
                 ]
             },
             "properties": {
@@ -604,8 +898,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.850267901418464",
-                    "42.12141660717912"
+                    "-8.8490313965171",
+                    "42.12046457265968"
                 ]
             },
             "properties": {
@@ -618,7 +912,8 @@
                     "Sunday 21 july",
                     "Wednesday 24 july",
                     "Friday 26 july",
-                    "Saturday 27 july"
+                    "Saturday 27 july",
+                    "Sunday 28 july"
                 ]
             }
         },
@@ -627,8 +922,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.262283603609438",
-                    "42.90762678292268"
+                    "-9.261977857683469",
+                    "42.907073271665936"
                 ]
             },
             "properties": {
@@ -645,8 +940,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.490175548462599",
-                    "42.688655641572225"
+                    "-8.489496410360285",
+                    "42.689916660142046"
                 ]
             },
             "properties": {
@@ -663,8 +958,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.490305680921345",
-                    "42.68954984860212"
+                    "-8.48926165605845",
+                    "42.688887586882274"
                 ]
             },
             "properties": {
@@ -681,8 +976,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.607206274348991",
-                    "42.28612539458462"
+                    "-8.607679905025606",
+                    "42.28533710633539"
                 ]
             },
             "properties": {
@@ -699,8 +994,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.055653086353493",
-                    "42.7748464812093"
+                    "-9.05715915016088",
+                    "42.774564519320066"
                 ]
             },
             "properties": {
@@ -717,8 +1012,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.715984619145166",
-                    "42.43397207266442"
+                    "-8.715694212566325",
+                    "42.433565916108506"
                 ]
             },
             "properties": {
@@ -727,7 +1022,8 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25655/-/armadina-rock.html",
                 "dates": [
                     "Friday 26 july",
-                    "Saturday 27 july"
+                    "Saturday 27 july",
+                    "Sunday 28 july"
                 ]
             }
         },
@@ -736,8 +1032,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.043074438435689",
-                    "43.53689026280986"
+                    "-7.041743956041586",
+                    "43.536571864534665"
                 ]
             },
             "properties": {
@@ -755,8 +1051,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.311204278590399",
-                    "42.11425335291664"
+                    "-8.311391157430524",
+                    "42.113140961703124"
                 ]
             },
             "properties": {
@@ -774,8 +1070,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778585464230936",
-                    "42.26494676711946"
+                    "-8.777970541579812",
+                    "42.26647233296238"
                 ]
             },
             "properties": {
@@ -793,8 +1089,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.74233036203168",
-                    "41.99184249909209"
+                    "-8.743055592240598",
+                    "41.9927369237401"
                 ]
             },
             "properties": {
@@ -811,8 +1107,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.824763451908343",
-                    "42.674999187475514"
+                    "-8.825235442086475",
+                    "42.67428873950356"
                 ]
             },
             "properties": {
@@ -829,14 +1125,32 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.467563550792409",
-                    "43.36716073787762"
+                    "-7.467119540004539",
+                    "43.36773900645392"
                 ]
             },
             "properties": {
                 "name": "Rumboia Viva",
                 "location": "Gontán, Abadín (Abadín)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25773/-/rumboia-viva.html",
+                "dates": [
+                    "Saturday 27 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.7342824179397",
+                    "42.19849548976972"
+                ]
+            },
+            "properties": {
+                "name": "I Festival Zocos na Man",
+                "location": "Matamá (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25983/-/i-festival-zocos-na-man.html",
                 "dates": [
                     "Saturday 27 july"
                 ]
