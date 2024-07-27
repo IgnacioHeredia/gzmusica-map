@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.735582289999682",
-                    "42.28285914964004"
+                    "-8.734992019217074",
+                    "42.28269260649699"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Moaña",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26138/-/40-festival-interceltico-do-morrazo.html",
                 "dates": [
-                    "Friday 26 july",
                     "Saturday 27 july"
                 ]
             }
@@ -25,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.71657329684621",
-                    "42.434717188753886"
+                    "-8.716088765279682",
+                    "42.43455199229912"
                 ]
             },
             "properties": {
@@ -34,7 +33,6 @@
                 "location": "Combarro (Poio)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25655/-/armadina-rock.html",
                 "dates": [
-                    "Friday 26 july",
                     "Saturday 27 july",
                     "Sunday 28 july"
                 ]
@@ -45,171 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544842558111863",
-                    "42.88046858884597"
-                ]
-            },
-            "properties": {
-                "name": "Festas do Apóstolo 2024",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26110/-/festas-do-apostolo-2024.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july",
-                    "Sunday 28 july",
-                    "Monday 29 july",
-                    "Tuesday 30 july",
-                    "Wednesday 31 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.205443959917949",
-                    "43.34964441582434"
-                ]
-            },
-            "properties": {
-                "name": "Festival Huellitas",
-                "location": "Miño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26071/-/festival-huellitas.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july",
-                    "Sunday 28 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.042609163662324",
-                    "43.536644391607076"
-                ]
-            },
-            "properties": {
-                "name": "Vendaval Fest",
-                "location": "Ribadeo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24914/-/vendaval-fest.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.31206418219552",
-                    "42.11306564826218"
-                ]
-            },
-            "properties": {
-                "name": "X Festival Arbo Rock",
-                "location": "Arbo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25027/-/x-festival-arbo-rock.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.779187379771411",
-                    "42.26664091381321"
-                ]
-            },
-            "properties": {
-                "name": "XIII Kanekas Fest",
-                "location": "Cangas",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24974/-/xiii-kanekas-fest.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.057337374371794",
-                    "42.77605834648421"
-                ]
-            },
-            "properties": {
-                "name": "XX Castelo Rock",
-                "location": "Muros",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/24945/-/xx-castelo-rock.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.72750488299861",
-                    "42.55938576505392"
-                ]
-            },
-            "properties": {
-                "name": "Carlos Núñez",
-                "location": "Baión (Vilanova de Arousa)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25947/-/carlos-nunez.html",
-                "dates": [
-                    "Friday 26 july",
-                    "Saturday 27 july",
-                    "Sunday 28 july",
-                    "Saturday 03 august",
-                    "Sunday 04 august",
-                    "Monday 05 august",
-                    "Tuesday 06 august",
-                    "Friday 09 august",
-                    "Sunday 18 august"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.766007747019936",
-                    "42.218399643157824"
-                ]
-            },
-            "properties": {
-                "name": "Dúbida",
-                "location": "Alcabre (Vigo)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26092/-/dubida.html",
-                "dates": [
-                    "Friday 26 july"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.741918193388619",
-                    "41.99282325506763"
+                    "-8.741309461688802",
+                    "41.99341162274608"
                 ]
             },
             "properties": {
@@ -228,8 +63,121 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793992467735255",
-                    "42.0887162591957"
+                    "-8.545651751994274",
+                    "42.88071433936964"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Apóstolo 2024",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26110/-/festas-do-apostolo-2024.html",
+                "dates": [
+                    "Saturday 27 july",
+                    "Sunday 28 july",
+                    "Monday 29 july",
+                    "Tuesday 30 july",
+                    "Wednesday 31 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.20513818030696",
+                    "43.34834423975266"
+                ]
+            },
+            "properties": {
+                "name": "Festival Huellitas",
+                "location": "Miño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26071/-/festival-huellitas.html",
+                "dates": [
+                    "Saturday 27 july",
+                    "Sunday 28 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.042108189448472",
+                    "43.536436655263216"
+                ]
+            },
+            "properties": {
+                "name": "Vendaval Fest",
+                "location": "Ribadeo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24914/-/vendaval-fest.html",
+                "dates": [
+                    "Saturday 27 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.311178683080534",
+                    "42.113692301338254"
+                ]
+            },
+            "properties": {
+                "name": "X Festival Arbo Rock",
+                "location": "Arbo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25027/-/x-festival-arbo-rock.html",
+                "dates": [
+                    "Saturday 27 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.779440973121172",
+                    "42.26605188397154"
+                ]
+            },
+            "properties": {
+                "name": "XIII Kanekas Fest",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24974/-/xiii-kanekas-fest.html",
+                "dates": [
+                    "Saturday 27 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.05576984944014",
+                    "42.77514175950133"
+                ]
+            },
+            "properties": {
+                "name": "XX Castelo Rock",
+                "location": "Muros",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/24945/-/xx-castelo-rock.html",
+                "dates": [
+                    "Saturday 27 july"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792657348972348",
+                    "42.08831127870221"
                 ]
             },
             "properties": {
@@ -246,8 +194,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.823900854189265",
-                    "42.6756489214162"
+                    "-8.824129685517045",
+                    "42.6742348306371"
                 ]
             },
             "properties": {
@@ -264,8 +212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.467895868149691",
-                    "43.36775907803533"
+                    "-7.467428914069277",
+                    "43.36682197213016"
                 ]
             },
             "properties": {
@@ -283,8 +231,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.817364083720399",
-                    "42.64957185078399"
+                    "-8.815807033973659",
+                    "42.65024190608269"
                 ]
             },
             "properties": {
@@ -302,8 +250,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.735153891156445",
-                    "42.198623970813934"
+                    "-8.496136324614433",
+                    "42.08325823747158"
+                ]
+            },
+            "properties": {
+                "name": "Carlos Núñez",
+                "location": "Salvaterra de Miño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25948/-/carlos-nunez.html",
+                "dates": [
+                    "Saturday 27 july",
+                    "Sunday 28 july",
+                    "Saturday 03 august",
+                    "Sunday 04 august",
+                    "Monday 05 august",
+                    "Tuesday 06 august",
+                    "Friday 09 august",
+                    "Sunday 18 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.734294728478387",
+                    "42.198582778950794"
                 ]
             },
             "properties": {
@@ -320,8 +293,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489270716733683",
-                    "42.892059427044224"
+                    "-8.488711019344256",
+                    "42.892405390912025"
                 ]
             },
             "properties": {
@@ -338,8 +311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.835176724987495",
-                    "41.938023911527985"
+                    "-8.836795616089388",
+                    "41.937950640982415"
                 ]
             },
             "properties": {
@@ -356,8 +329,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.78629515567937",
-                    "42.32842368477919"
+                    "-8.785979523600702",
+                    "42.32847937636556"
                 ]
             },
             "properties": {
@@ -376,8 +349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.915569861147264",
-                    "43.19160509802991"
+                    "-7.916059757329817",
+                    "43.19183010305532"
                 ]
             },
             "properties": {
@@ -396,8 +369,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765483406815864",
-                    "42.21836326002485"
+                    "-8.765989818738374",
+                    "42.21849474859304"
                 ]
             },
             "properties": {
@@ -414,8 +387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688772968985871",
-                    "43.21538162572687"
+                    "-8.68903330397841",
+                    "43.21388673681438"
                 ]
             },
             "properties": {
@@ -432,8 +405,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.570878797993915",
-                    "42.33866173027465"
+                    "-8.569859375725846",
+                    "42.33761774591797"
                 ]
             },
             "properties": {
@@ -451,8 +424,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.886667438145118",
-                    "42.47055299811822"
+                    "-8.886426911122744",
+                    "42.47105657646333"
                 ]
             },
             "properties": {
@@ -469,8 +442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.784690175681389",
-                    "42.71185091572644"
+                    "-8.783947321404225",
+                    "42.71170433981127"
                 ]
             },
             "properties": {
@@ -487,8 +460,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489780560164023",
-                    "42.68958895062125"
+                    "-8.490524905842657",
+                    "42.689791440433915"
                 ]
             },
             "properties": {
@@ -505,8 +478,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.91224094610787",
-                    "43.10034019441293"
+                    "-8.911770435049414",
+                    "43.100372703350686"
                 ]
             },
             "properties": {
@@ -524,8 +497,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.508593610998215",
-                    "42.52401913362394"
+                    "-7.508209296836572",
+                    "42.525278168160625"
                 ]
             },
             "properties": {
@@ -542,8 +515,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.68856818253719",
-                    "43.21377115009778"
+                    "-8.687474772151674",
+                    "43.21459547645799"
                 ]
             },
             "properties": {
@@ -560,8 +533,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232675330972484",
-                    "43.48541308472739"
+                    "-8.232480597237357",
+                    "43.485798765513614"
                 ]
             },
             "properties": {
@@ -579,8 +552,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.174813680169224",
-                    "43.483272246721675"
+                    "-8.174889634363007",
+                    "43.482411880584316"
                 ]
             },
             "properties": {
@@ -601,8 +574,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.014966781474536",
-                    "43.562727139962014"
+                    "-8.014637381283675",
+                    "43.56292642903867"
                 ]
             },
             "properties": {
@@ -621,8 +594,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489468189660338",
-                    "42.689000169809454"
+                    "-8.490510085930277",
+                    "42.68855704604474"
                 ]
             },
             "properties": {
@@ -639,8 +612,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.49066587258319",
-                    "42.688249920800004"
+                    "-8.489315204819366",
+                    "42.689554933586656"
                 ]
             },
             "properties": {
@@ -657,8 +630,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.14141268275278",
-                    "42.28925752315275"
+                    "-8.142407710793291",
+                    "42.28903897590101"
                 ]
             },
             "properties": {
@@ -675,8 +648,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688385335694065",
-                    "43.21495084837857"
+                    "-8.687835123262591",
+                    "43.215379068092595"
                 ]
             },
             "properties": {
@@ -693,8 +666,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.438820094473571",
-                    "41.941830739388315"
+                    "-7.4389465760308795",
+                    "41.94182964147047"
                 ]
             },
             "properties": {
@@ -712,8 +685,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413586683725158",
-                    "42.78024077517026"
+                    "-7.414251734035491",
+                    "42.779494101465865"
                 ]
             },
             "properties": {
