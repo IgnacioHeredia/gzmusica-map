@@ -6,26 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489625283699306",
-                    "42.688350238072296"
-                ]
-            },
-            "properties": {
-                "name": "Cinta Adhesiva",
-                "location": "A Estrada",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25309/-/cinta-adhesiva.html",
-                "dates": [
-                    "Thursday 22 august"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.300953690583952",
-                    "42.72957513997401"
+                    "-8.301097234631472",
+                    "42.72980101690365"
                 ]
             },
             "properties": {
@@ -33,7 +15,6 @@
                 "location": "A Bandeira, Manduás (Silleda)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26256/-/empanada-fest.html",
                 "dates": [
-                    "Thursday 22 august",
                     "Friday 23 august"
                 ]
             }
@@ -43,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544965318085753",
-                    "42.88137298730593"
+                    "-8.544147169044818",
+                    "42.882276471240296"
                 ]
             },
             "properties": {
@@ -52,7 +33,6 @@
                 "location": "Santiago de Compostela",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26205/-/feito-a-man.html",
                 "dates": [
-                    "Thursday 22 august",
                     "Friday 23 august",
                     "Saturday 24 august"
                 ]
@@ -63,16 +43,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.142284074719417",
-                    "42.28875863727185"
+                    "-8.125659809661862",
+                    "43.00787717998468"
                 ]
             },
             "properties": {
-                "name": "Mónica de Nut",
-                "location": "Ribadavia",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25911/-/monica-de-nut.html",
+                "name": "Festival de la Luz",
+                "location": "Boimorto",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26281/-/festival-de-la-luz.html",
                 "dates": [
-                    "Thursday 22 august"
+                    "Friday 23 august",
+                    "Saturday 24 august",
+                    "Sunday 25 august"
                 ]
             }
         },
@@ -81,8 +63,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.49688261949227",
-                    "42.0823804603112"
+                    "-8.496106137086876",
+                    "42.08387250038135"
                 ]
             },
             "properties": {
@@ -101,8 +83,101 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688004627811509",
-                    "43.21490441103415"
+                    "-8.642777198275565",
+                    "42.432581412079166"
+                ]
+            },
+            "properties": {
+                "name": "Río Verbena Fest",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26280/-/rio-verbena-fest.html",
+                "dates": [
+                    "Friday 23 august",
+                    "Saturday 24 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.724546820113629",
+                    "42.06441419422678"
+                ]
+            },
+            "properties": {
+                "name": "XXIV Festa do Esquecemento",
+                "location": "Xinzo de Limia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26300/-/xxiv-festa-do-esquecemento.html",
+                "dates": [
+                    "Friday 23 august",
+                    "Saturday 24 august",
+                    "Sunday 25 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.329369266420887",
+                    "43.28225957617985"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "Cambre",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26287/-/pakolas.html",
+                "dates": [
+                    "Friday 23 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.00396266820979",
+                    "42.72620495964268"
+                ]
+            },
+            "properties": {
+                "name": "Carabela",
+                "location": "Porto do Son",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26299/-/carabela.html",
+                "dates": [
+                    "Friday 23 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.191494785433822",
+                    "43.436298727685006"
+                ]
+            },
+            "properties": {
+                "name": "Devalo",
+                "location": "Limodre (Fene)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26294/-/devalo.html",
+                "dates": [
+                    "Friday 23 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.687782976185437",
+                    "43.21489896101453"
                 ]
             },
             "properties": {
@@ -119,8 +194,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642825574246578",
-                    "42.433755236392926"
+                    "-8.642479985649766",
+                    "42.43354788532128"
                 ]
             },
             "properties": {
@@ -137,8 +212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688043256297323",
-                    "43.21473590783874"
+                    "-8.688316811333861",
+                    "43.213900690377834"
                 ]
             },
             "properties": {
@@ -155,8 +230,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.781544478846492",
-                    "42.44634268285565"
+                    "-7.956135521578086",
+                    "42.154092216838"
+                ]
+            },
+            "properties": {
+                "name": "Guezos",
+                "location": "Celanova",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26279/-/guezos.html",
+                "dates": [
+                    "Friday 23 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.781972815358207",
+                    "42.44627738429582"
                 ]
             },
             "properties": {
@@ -173,8 +266,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.439067435301638",
-                    "41.94248749573313"
+                    "-7.439478919891164",
+                    "41.941897566141016"
                 ]
             },
             "properties": {
@@ -192,8 +285,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.362810298027248",
-                    "42.6669662856242"
+                    "-7.362060225562431",
+                    "42.66827555321578"
                 ]
             },
             "properties": {
@@ -210,8 +303,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.445703963206695",
-                    "43.254454867106716"
+                    "-7.447265418150529",
+                    "43.25424743061829"
                 ]
             },
             "properties": {
@@ -228,8 +321,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794566223879416",
-                    "42.0888452215368"
+                    "-9.262057972788604",
+                    "42.92474720756598"
+                ]
+            },
+            "properties": {
+                "name": "XXII Festa Folk na Fin do Camiño",
+                "location": "A Anchoa, Duio (Fisterra)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26288/-/xxii-festa-folk-na-fin-do-camino.html",
+                "dates": [
+                    "Saturday 24 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.711507322622314",
+                    "42.30175970123686"
+                ]
+            },
+            "properties": {
+                "name": "2º Festival do Verán",
+                "location": "Meira (Moaña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26286/-/2-festival-do-veran.html",
+                "dates": [
+                    "Saturday 24 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.722818651022598",
+                    "42.239296256187025"
+                ]
+            },
+            "properties": {
+                "name": "Mondo Podre + Fractura + Xderradeiro Nivelx + Deformeth",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26293/-/mondo-podre-fractura-xderradeiro-nivelx-deformeth.html",
+                "dates": [
+                    "Saturday 24 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.744824956669683",
+                    "42.05040933170122"
+                ]
+            },
+            "properties": {
+                "name": "Diovio + Zoa + Ardora",
+                "location": "Tebra (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26290/-/diovio-zoa-ardora.html",
+                "dates": [
+                    "Saturday 24 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793977798345419",
+                    "42.08766394225389"
                 ]
             },
             "properties": {
@@ -246,8 +411,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.799239932921909",
-                    "42.18383064598882"
+                    "-8.799288471130929",
+                    "42.18441289663885"
                 ]
             },
             "properties": {
@@ -266,8 +431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.640637744626714",
-                    "42.50981727037098"
+                    "-7.640547365625792",
+                    "42.51040989505545"
                 ]
             },
             "properties": {
@@ -285,8 +450,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779417414123891",
-                    "42.2666822794792"
+                    "-8.053811700261539",
+                    "43.6617593827764"
+                ]
+            },
+            "properties": {
+                "name": "X Discalzos polo Festival",
+                "location": "Cedeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26278/-/x-discalzos-polo-festival.html",
+                "dates": [
+                    "Friday 30 august",
+                    "Saturday 31 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778645959399395",
+                    "42.26548951341686"
                 ]
             },
             "properties": {
@@ -304,8 +488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887043138648266",
-                    "42.785448821911274"
+                    "-8.887438712046706",
+                    "42.78627456923347"
                 ]
             },
             "properties": {
@@ -322,8 +506,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.872345208301098",
-                    "41.90184283259848"
+                    "-8.873402840670634",
+                    "41.90179101806994"
                 ]
             },
             "properties": {
@@ -340,26 +524,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.496881111052415",
-                    "42.08278092812891"
-                ]
-            },
-            "properties": {
-                "name": "36º Festival da Poesía no Condado",
-                "location": "Salvaterra de Miño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25431/-/36-festival-da-poesia-no-condado.html",
-                "dates": [
-                    "Saturday 31 august"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.607595506206598",
-                    "42.20360433594251"
+                    "-8.60837138387781",
+                    "42.20374017119585"
                 ]
             },
             "properties": {
@@ -377,8 +543,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.128054181900861",
-                    "42.799949155913154"
+                    "-8.496637141583985",
+                    "42.083565484233176"
+                ]
+            },
+            "properties": {
+                "name": "36º Festival da Poesía no Condado",
+                "location": "Salvaterra de Miño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25431/-/36-festival-da-poesia-no-condado.html",
+                "dates": [
+                    "Saturday 31 august"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.127174283825603",
+                    "42.79906706137664"
                 ]
             },
             "properties": {
@@ -395,8 +579,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.482638635919379",
-                    "43.53470261888923"
+                    "-7.483278409037905",
+                    "43.53595647108803"
                 ]
             },
             "properties": {
@@ -413,8 +597,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816254471464328",
-                    "42.650284618536226"
+                    "-8.816856450937088",
+                    "42.64979777944501"
                 ]
             },
             "properties": {
@@ -432,8 +616,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.794437069232096",
-                    "42.27111760801459"
+                    "-8.794124971809362",
+                    "42.26993017404147"
                 ]
             },
             "properties": {
@@ -453,8 +637,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.836667979113054",
-                    "43.16272341722978"
+                    "-7.837879095487648",
+                    "43.16348789863973"
                 ]
             },
             "properties": {
@@ -472,8 +656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.357731687753354",
-                    "43.66217902288107"
+                    "-7.358135845460735",
+                    "43.66130640138639"
                 ]
             },
             "properties": {
@@ -492,8 +676,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.658298155533005",
-                    "42.24370565844032"
+                    "-8.65930303361725",
+                    "42.24265610405624"
                 ]
             },
             "properties": {
@@ -510,8 +694,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.785593946443864",
-                    "42.588617321429744"
+                    "-8.785329083001665",
+                    "42.58936103894819"
                 ]
             },
             "properties": {
@@ -531,8 +715,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.703204503310344",
-                    "40.4182742469065"
+                    "-3.702873909266705",
+                    "40.41744076755769"
                 ]
             },
             "properties": {
@@ -541,6 +725,25 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/25905/-/ses.html",
                 "dates": [
                     "Thursday 19 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.745753337969902",
+                    "42.048516102745005"
+                ]
+            },
+            "properties": {
+                "name": "Gallaecian Cult",
+                "location": "Tebra (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26291/-/gallaecian-cult.html",
+                "dates": [
+                    "Friday 20 september",
+                    "Saturday 21 september"
                 ]
             }
         }
