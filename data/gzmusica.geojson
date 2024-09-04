@@ -6,16 +6,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723967064808543",
-                    "42.23853354727445"
+                    "-8.690443112039715",
+                    "42.22989234463521"
                 ]
             },
             "properties": {
                 "name": "Pakolas",
-                "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26345/-/pakolas.html",
+                "location": "Lavadores (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26346/-/pakolas.html",
                 "dates": [
-                    "Tuesday 03 september",
                     "Wednesday 04 september",
                     "Thursday 05 september",
                     "Friday 06 september",
@@ -28,8 +27,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816892976121974",
-                    "42.64888179024434"
+                    "-8.826390200531716",
+                    "42.56291433453797"
+                ]
+            },
+            "properties": {
+                "name": "Festa Presentación Revenidas",
+                "location": "Vilanova de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26353/-/festa-presentacion-revenidas.html",
+                "dates": [
+                    "Thursday 05 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545301083428816",
+                    "42.88081360053881"
+                ]
+            },
+            "properties": {
+                "name": "Afamadas e Tradicionais Festas da Rúa de Abaixo",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26362/-/afamadas-e-tradicionais-festas-da-rua-de-abaixo.html",
+                "dates": [
+                    "Friday 06 september",
+                    "Saturday 07 september",
+                    "Sunday 08 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816916556091595",
+                    "42.650119733210325"
                 ]
             },
             "properties": {
@@ -47,8 +84,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.793841817557677",
-                    "42.270518814565804"
+                    "-8.794247470664724",
+                    "42.27039664566865"
                 ]
             },
             "properties": {
@@ -68,8 +105,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.838039324068316",
-                    "43.16352739268569"
+                    "-7.836973433450024",
+                    "43.162296899412816"
                 ]
             },
             "properties": {
@@ -87,8 +124,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.357725635344826",
-                    "43.66198363299206"
+                    "-7.358531078600681",
+                    "43.66115336158479"
                 ]
             },
             "properties": {
@@ -107,8 +144,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65876816406688",
-                    "42.24213781693121"
+                    "-8.64264864968645",
+                    "42.43302470751914"
+                ]
+            },
+            "properties": {
+                "name": "Foliada con Solimán",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26355/-/foliada-con-soliman.html",
+                "dates": [
+                    "Friday 06 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.658174736059323",
+                    "42.24307161242278"
                 ]
             },
             "properties": {
@@ -125,8 +180,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793442737130333",
-                    "42.08861182120978"
+                    "-7.794578019888536",
+                    "42.089000911593985"
                 ]
             },
             "properties": {
@@ -143,8 +198,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.086580324994946",
-                    "42.82394924206968"
+                    "-9.087271297605163",
+                    "42.822694181166256"
                 ]
             },
             "properties": {
@@ -161,8 +216,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.786675312303736",
-                    "42.5881420648376"
+                    "-8.786689439978371",
+                    "42.5895574862978"
                 ]
             },
             "properties": {
@@ -182,8 +237,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7035675059823405",
-                    "40.418475397261794"
+                    "-8.523455238122587",
+                    "42.10754940860533"
+                ]
+            },
+            "properties": {
+                "name": "X Serán de Alxén",
+                "location": "Alxén (Salvaterra de Miño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26361/-/x-seran-de-alxen.html",
+                "dates": [
+                    "Saturday 14 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.703037923001869",
+                    "40.41813880230366"
                 ]
             },
             "properties": {
@@ -200,8 +273,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.745140028523979",
-                    "42.04842810778552"
+                    "-8.745367157669001",
+                    "42.049654655955955"
                 ]
             },
             "properties": {
@@ -219,8 +292,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723817148120519",
-                    "42.17569515933742"
+                    "-8.724435970479494",
+                    "42.17643479984438"
                 ]
             },
             "properties": {
@@ -239,8 +312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.957960010349144",
-                    "42.15411492783844"
+                    "-7.95792113525919",
+                    "42.15337263717148"
                 ]
             },
             "properties": {
@@ -257,8 +330,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545457906373551",
-                    "42.8821001894727"
+                    "-8.54489632763317",
+                    "42.8824041098986"
                 ]
             },
             "properties": {
@@ -279,8 +352,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395290631553028",
-                    "43.372913972722884"
+                    "-7.413054949727289",
+                    "42.778959930175546"
+                ]
+            },
+            "properties": {
+                "name": "Napalm Fest",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26358/-/napalm-fest.html",
+                "dates": [
+                    "Friday 27 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395919459939778",
+                    "43.371628042418095"
                 ]
             },
             "properties": {
