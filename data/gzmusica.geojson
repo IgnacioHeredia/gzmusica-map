@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.110096029786638",
-                    "42.66199948895506"
+                    "-8.110141698051388",
+                    "42.66228418857882"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Lalín",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26452/-/festa-das-dores.html",
                 "dates": [
-                    "Monday 23 september",
                     "Tuesday 24 september"
                 ]
             }
@@ -25,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.672772815754616",
-                    "42.21124508448088"
+                    "-8.672677228068356",
+                    "42.211894535392304"
                 ]
             },
             "properties": {
@@ -34,7 +33,6 @@
                 "location": "comarca de Vigo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26451/-/festas-do-cristo.html",
                 "dates": [
-                    "Monday 23 september",
                     "Tuesday 24 september",
                     "Wednesday 25 september",
                     "Thursday 26 september",
@@ -52,26 +50,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619459542754605",
-                    "42.16233503837288"
-                ]
-            },
-            "properties": {
-                "name": "Pakolas",
-                "location": "O Porriño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26442/-/pakolas.html",
-                "dates": [
-                    "Monday 23 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.545705392863768",
-                    "42.881226535787185"
+                    "-8.545279859935789",
+                    "42.8805082841553"
                 ]
             },
             "properties": {
@@ -92,8 +72,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54457088609429",
-                    "42.881782448445385"
+                    "-8.545466516511302",
+                    "42.88086984174737"
                 ]
             },
             "properties": {
@@ -114,8 +94,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.875357087162873",
-                    "43.6466787296218"
+                    "-7.875870889681062",
+                    "43.64787725885764"
                 ]
             },
             "properties": {
@@ -133,8 +113,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413198285589469",
-                    "42.78000700842857"
+                    "-7.4129867592406695",
+                    "42.78011568955927"
                 ]
             },
             "properties": {
@@ -151,8 +131,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.676810219317158",
-                    "42.867169144157515"
+                    "-8.678291932775458",
+                    "42.86789690296138"
                 ]
             },
             "properties": {
@@ -169,26 +149,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395648847425608",
-                    "43.37183399144026"
-                ]
-            },
-            "properties": {
-                "name": "Baiuca + Carlanga y los Cubatas",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/25649/-/baiuca-carlanga-y-los-cubatas.html",
-                "dates": [
-                    "Saturday 28 september"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.7355102853191",
-                    "42.28211779943676"
+                    "-8.734568461604367",
+                    "42.282676370307954"
                 ]
             },
             "properties": {
@@ -205,8 +167,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.893128545792855",
-                    "43.19810258559767"
+                    "-8.893385370963445",
+                    "43.197064669702016"
                 ]
             },
             "properties": {
@@ -223,8 +185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.440230036910318",
-                    "42.97040978567898"
+                    "-8.441429407392173",
+                    "42.96968540340528"
                 ]
             },
             "properties": {
@@ -241,8 +203,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.766475894065323",
-                    "42.59665782792338"
+                    "-8.7181798705509",
+                    "42.73052098763793"
+                ]
+            },
+            "properties": {
+                "name": "Festivalo",
+                "location": "Manselle, Laíño (Dodro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26464/-/festivalo.html",
+                "dates": [
+                    "Saturday 28 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394542913612947",
+                    "43.37192977072151"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca + Carlanga y los Cubatas",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/25649/-/baiuca-carlanga-y-los-cubatas.html",
+                "dates": [
+                    "Saturday 28 september"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.765656027670842",
+                    "42.59586734536004"
                 ]
             },
             "properties": {
@@ -259,8 +257,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88706052552958",
-                    "42.47204275481032"
+                    "-8.886316548817565",
+                    "42.47171329397232"
                 ]
             },
             "properties": {
@@ -286,8 +284,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.554631558452177",
-                    "43.01267125164883"
+                    "-7.555954132621029",
+                    "43.01348395482504"
                 ]
             },
             "properties": {
@@ -312,8 +310,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.302385001930825",
-                    "42.73080437526868"
+                    "-8.302690252800762",
+                    "42.72924057894554"
                 ]
             },
             "properties": {
@@ -331,8 +329,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.593755493964044",
-                    "42.54578966387848"
+                    "-8.54450117373851",
+                    "42.88132142992545"
+                ]
+            },
+            "properties": {
+                "name": "Foliadas Abertas do Pichel",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26465/-/foliadas-abertas-do-pichel.html",
+                "dates": [
+                    "Friday 11 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.592825697557572",
+                    "42.54589029512786"
                 ]
             },
             "properties": {
