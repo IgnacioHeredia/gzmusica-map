@@ -6,32 +6,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.620055840059399",
-                    "42.1637143364038"
+                    "-8.885912615532872",
+                    "42.47238522144005"
                 ]
             },
             "properties": {
-                "name": "Festas do Cristo",
-                "location": "O Porriño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26451/-/festas-do-cristo.html",
-                "dates": [
-                    "Wednesday 02 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.88607365395084",
-                    "42.47175890310957"
-                ]
-            },
-            "properties": {
-                "name": "Concertos do Marisco",
+                "name": "LXI Festa do Marisco",
                 "location": "O Grove",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26367/-/concertos-do-marisco.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26367/-/lxi-festa-do-marisco.html",
                 "dates": [
                     "Thursday 03 october",
                     "Friday 04 october",
@@ -42,7 +24,8 @@
                     "Wednesday 09 october",
                     "Thursday 10 october",
                     "Friday 11 october",
-                    "Saturday 12 october"
+                    "Saturday 12 october",
+                    "Sunday 13 october"
                 ]
             }
         },
@@ -51,8 +34,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544224034087454",
-                    "42.88043070000689"
+                    "-8.544364481624333",
+                    "42.88135805241746"
                 ]
             },
             "properties": {
@@ -69,8 +52,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.55553116635018",
-                    "43.01271875573162"
+                    "-7.555182971044692",
+                    "43.01200878935334"
                 ]
             },
             "properties": {
@@ -95,8 +78,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555717502997726",
-                    "43.01280269811625"
+                    "-7.556111958114921",
+                    "43.01273001210219"
                 ]
             },
             "properties": {
@@ -121,8 +104,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651587612202587",
-                    "42.197669309018266"
+                    "-8.651956171832158",
+                    "42.19835602375503"
                 ]
             },
             "properties": {
@@ -139,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.301203512195556",
-                    "42.730282243681344"
+                    "-8.302434475189584",
+                    "42.72951824012788"
                 ]
             },
             "properties": {
@@ -158,8 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.800070807071809",
-                    "42.189400833651526"
+                    "-7.800340743530142",
+                    "42.190986541568364"
                 ]
             },
             "properties": {
@@ -176,8 +159,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232275935900798",
-                    "43.48553416180737"
+                    "-8.233084968327603",
+                    "43.486460641126115"
                 ]
             },
             "properties": {
@@ -194,8 +177,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.769309832095171",
-                    "42.28474190132437"
+                    "-8.785571470024491",
+                    "41.95273279204101"
+                ]
+            },
+            "properties": {
+                "name": "Sound Lourenzo",
+                "location": "San Lourenzo, Goián (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26530/-/sound-lourenzo.html",
+                "dates": [
+                    "Saturday 05 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.768968134414143",
+                    "42.28475891911916"
                 ]
             },
             "properties": {
@@ -212,8 +213,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.55643608629718",
-                    "43.01220468166101"
+                    "-8.651528849901286",
+                    "42.19842470048266"
+                ]
+            },
+            "properties": {
+                "name": "Peter Petrowski All-Stars",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26520/-/peter-petrowski-all-stars.html",
+                "dates": [
+                    "Saturday 05 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.012131399216086",
+                    "42.58222922821435"
+                ]
+            },
+            "properties": {
+                "name": "XI Serán Tahúme",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26531/-/xi-seran-tahume.html",
+                "dates": [
+                    "Saturday 05 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72357182199875",
+                    "42.23775806326694"
+                ]
+            },
+            "properties": {
+                "name": "Mileth + Cuélebre + Bear, The Story Teller",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26521/-/mileth-cuelebre-bear-the-story-teller.html",
+                "dates": [
+                    "Saturday 05 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.556005421254862",
+                    "43.01364537967131"
                 ]
             },
             "properties": {
@@ -230,8 +285,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544486085457489",
-                    "42.882050326213125"
+                    "-8.543906619091727",
+                    "42.880545696932074"
                 ]
             },
             "properties": {
@@ -248,8 +303,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.654705484426776",
-                    "42.076174189998376"
+                    "-8.654897987666612",
+                    "42.075575635693646"
                 ]
             },
             "properties": {
@@ -266,8 +321,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.232542247530349",
-                    "43.486081697325346"
+                    "-8.231249363609951",
+                    "43.48532820509775"
                 ]
             },
             "properties": {
@@ -284,8 +339,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642698754322792",
-                    "42.43292577771513"
+                    "-7.79286717524028",
+                    "42.08729952791188"
+                ]
+            },
+            "properties": {
+                "name": "Silveiras do Támega",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26523/-/silveiras-do-tamega.html",
+                "dates": [
+                    "Friday 11 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641185560131664",
+                    "42.433115764952994"
                 ]
             },
             "properties": {
@@ -303,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.871767226406991",
-                    "42.414984344022976"
+                    "-7.871114617786581",
+                    "42.415252104923546"
                 ]
             },
             "properties": {
@@ -321,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.592608864556439",
-                    "42.54672207061492"
+                    "-6.593808841198165",
+                    "42.54647171304575"
                 ]
             },
             "properties": {
@@ -339,8 +412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394736442028568",
-                    "43.37271503185223"
+                    "-8.394073988583443",
+                    "43.37205393211898"
                 ]
             },
             "properties": {
@@ -357,8 +430,118 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651532718410355",
-                    "42.19857579989196"
+                    "-7.793624282756405",
+                    "42.089064311640065"
+                ]
+            },
+            "properties": {
+                "name": "Donicelas",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26524/-/donicelas.html",
+                "dates": [
+                    "Saturday 12 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793250774197197",
+                    "42.088755256401804"
+                ]
+            },
+            "properties": {
+                "name": "Sérgio Tannus + Agoratá",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26525/-/sergio-tannus-agorata.html",
+                "dates": [
+                    "Sunday 13 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545818206150159",
+                    "42.8806490093687"
+                ]
+            },
+            "properties": {
+                "name": "Pablo Sanmamed Trío",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26532/-/pablo-sanmamed-trio.html",
+                "dates": [
+                    "Tuesday 15 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544474369957669",
+                    "42.882181513914574"
+                ]
+            },
+            "properties": {
+                "name": "GDJazz Trío",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26533/-/gdjazz-trio.html",
+                "dates": [
+                    "Wednesday 16 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.886971415285148",
+                    "42.470510558234906"
+                ]
+            },
+            "properties": {
+                "name": "VI Festival Nos Seus Pés",
+                "location": "O Grove",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26522/-/vi-festival-nos-seus-pes.html",
+                "dates": [
+                    "Friday 18 october",
+                    "Saturday 19 october",
+                    "Sunday 20 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544971283921592",
+                    "42.88100665446425"
+                ]
+            },
+            "properties": {
+                "name": "Virxilio da Silva e Abe Rábade",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26534/-/virxilio-da-silva-e-abe-rabade.html",
+                "dates": [
+                    "Friday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652101462638024",
+                    "42.19737257668316"
                 ]
             },
             "properties": {
@@ -375,8 +558,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651307299407351",
-                    "42.197789782427904"
+                    "-7.792627133832026",
+                    "42.08860357554262"
+                ]
+            },
+            "properties": {
+                "name": "Zavala",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26526/-/zavala.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793862036418073",
+                    "42.08790926095274"
+                ]
+            },
+            "properties": {
+                "name": "Mercado de Produto Local e Artesanía",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26527/-/mercado-de-produto-local-e-artesania.html",
+                "dates": [
+                    "Sunday 20 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652268430015276",
+                    "42.19760059074075"
                 ]
             },
             "properties": {
@@ -394,8 +613,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88430913244673",
-                    "42.64812927223808"
+                    "-8.885581341343121",
+                    "42.6474989315778"
                 ]
             },
             "properties": {
@@ -412,8 +631,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.384323067736505",
-                    "42.74415521586373"
+                    "-8.384364852478521",
+                    "42.74260135374377"
                 ]
             },
             "properties": {
@@ -430,8 +649,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.821120520141662",
-                    "42.609855665649796"
+                    "-7.793392860521039",
+                    "42.089000476577546"
+                ]
+            },
+            "properties": {
+                "name": "As Lembranzas",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26528/-/as-lembranzas.html",
+                "dates": [
+                    "Saturday 26 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794538312475975",
+                    "42.08867133638869"
+                ]
+            },
+            "properties": {
+                "name": "Catuxa Salom",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26529/-/catuxa-salom.html",
+                "dates": [
+                    "Sunday 27 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.8217488395191745",
+                    "42.60944993749372"
                 ]
             },
             "properties": {
@@ -439,7 +694,8 @@
                 "location": "Chantada",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26462/-/castanazo-rock.html",
                 "dates": [
-                    "Friday 01 november"
+                    "Friday 01 november",
+                    "Saturday 02 november"
                 ]
             }
         }
