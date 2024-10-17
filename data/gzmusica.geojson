@@ -6,16 +6,19 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887480488740012",
-                    "42.47077300089037"
+                    "-7.363179090577176",
+                    "43.43047735972652"
                 ]
             },
             "properties": {
-                "name": "LXI Festa do Marisco",
-                "location": "O Grove",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26367/-/lxi-festa-do-marisco.html",
+                "name": "As San Lucas",
+                "location": "Mondoñedo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26586/-/as-san-lucas.html",
                 "dates": [
-                    "Sunday 13 october"
+                    "Thursday 17 october",
+                    "Friday 18 october",
+                    "Saturday 19 october",
+                    "Sunday 20 october"
                 ]
             }
         },
@@ -24,52 +27,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642521597685015",
-                    "42.43267866191053"
+                    "-8.544336462289493",
+                    "42.881520250382835"
                 ]
             },
             "properties": {
-                "name": "X Festival das Núbebes",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26583/-/x-festival-das-nubebes.html",
-                "dates": [
-                    "Sunday 13 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.793004238822435",
-                    "42.08752145874613"
-                ]
-            },
-            "properties": {
-                "name": "Sérgio Tannus + Agoratá",
-                "location": "Vilar de Santos",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26525/-/sergio-tannus-agorata.html",
-                "dates": [
-                    "Sunday 13 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.543915543045596",
-                    "42.88161311745574"
-                ]
-            },
-            "properties": {
-                "name": "Pablo Sanmamed Trío",
+                "name": "Tanxugueiras + García Mc + Boyanka Kostova + Ataque Escampe",
                 "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26532/-/pablo-sanmamed-trio.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26589/-/tanxugueiras-garcia-mc-boyanka-kostova-ataque-escampe.html",
                 "dates": [
-                    "Tuesday 15 october"
+                    "Thursday 17 october"
                 ]
             }
         },
@@ -78,16 +45,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545425032203369",
-                    "42.88174135737862"
+                    "-8.498836236767792",
+                    "43.311307714130464"
                 ]
             },
             "properties": {
-                "name": "GDJazz Trío",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26533/-/gdjazz-trio.html",
+                "name": "Feira Histórica Arteixo 1900",
+                "location": "Arteixo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26594/-/feira-historica-arteixo-1900.html",
                 "dates": [
-                    "Wednesday 16 october"
+                    "Friday 18 october",
+                    "Saturday 19 october",
+                    "Sunday 20 october"
                 ]
             }
         },
@@ -96,27 +65,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54480822240638",
-                    "42.881625105081255"
-                ]
-            },
-            "properties": {
-                "name": "Foliada na Casa das Crechas",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26573/-/foliada-na-casa-das-crechas.html",
-                "dates": [
-                    "Wednesday 16 october",
-                    "Wednesday 30 october"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.5670593073141115",
-                    "42.60080907261074"
+                    "-5.566571454481192",
+                    "42.600842690588934"
                 ]
             },
             "properties": {
@@ -134,8 +84,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887190013718248",
-                    "42.472025208574706"
+                    "-8.886849412185528",
+                    "42.47108277788095"
                 ]
             },
             "properties": {
@@ -154,8 +104,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54517644221751",
-                    "42.881410071565625"
+                    "-7.866621464185412",
+                    "42.34562109715585"
+                ]
+            },
+            "properties": {
+                "name": "Mercedes Peón",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26585/-/mercedes-peon.html",
+                "dates": [
+                    "Friday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395854986074628",
+                    "43.37120138955097"
+                ]
+            },
+            "properties": {
+                "name": "Foliada no Gomes Gaioso",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26596/-/foliada-no-gomes-gaioso.html",
+                "dates": [
+                    "Friday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545180837918222",
+                    "42.88108721247836"
                 ]
             },
             "properties": {
@@ -172,8 +158,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.689242200473803",
-                    "42.252147978929806"
+                    "-8.544476725864083",
+                    "42.88144063595763"
+                ]
+            },
+            "properties": {
+                "name": "Estalotada",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26597/-/estalotada.html",
+                "dates": [
+                    "Friday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.885000673610323",
+                    "42.6466528210266"
+                ]
+            },
+            "properties": {
+                "name": "Xisco Feijoó",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26598/-/xisco-feijoo.html",
+                "dates": [
+                    "Friday 18 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.7030145672955506",
+                    "40.41820623587607"
+                ]
+            },
+            "properties": {
+                "name": "Dios Ke Te Crew + Boyanka Kostova",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26590/-/dios-ke-te-crew-boyanka-kostova.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.690625217225751",
+                    "42.25306208004881"
                 ]
             },
             "properties": {
@@ -190,8 +230,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7032743676647866",
-                    "40.418187419189024"
+                    "-3.702657400110488",
+                    "40.418116929780965"
                 ]
             },
             "properties": {
@@ -208,8 +248,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6514638456891",
-                    "42.19860627145729"
+                    "-8.394019151562338",
+                    "43.37165971675735"
+                ]
+            },
+            "properties": {
+                "name": "Blues do País",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26588/-/blues-do-pais.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.688058869041754",
+                    "43.213879806397266"
+                ]
+            },
+            "properties": {
+                "name": "Celebrando a Nosa Música e Literatura",
+                "location": "Carballo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26591/-/celebrando-a-nosa-musica-e-literatura.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.537582819356956",
+                    "42.84435165110156"
+                ]
+            },
+            "properties": {
+                "name": "I Magosto Foliadeiro dos Tilos",
+                "location": "Os Tilos (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26599/-/i-magosto-foliadeiro-dos-tilos.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651866751907603",
+                    "42.19817421780955"
                 ]
             },
             "properties": {
@@ -226,8 +320,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544270418988607",
-                    "42.880539088331076"
+                    "-8.544376011848346",
+                    "42.88199285628513"
                 ]
             },
             "properties": {
@@ -244,8 +338,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793573096074083",
-                    "42.08719566881711"
+                    "-9.01308571894796",
+                    "42.58221856133722"
+                ]
+            },
+            "properties": {
+                "name": "Kondusión Kolérika + Lenincat",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26592/-/kondusion-kolerika-lenincat.html",
+                "dates": [
+                    "Saturday 19 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792616565485574",
+                    "42.08742318131934"
                 ]
             },
             "properties": {
@@ -262,8 +374,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.701660652186883",
-                    "42.39277689865099"
+                    "-8.702617321332141",
+                    "42.39368293095925"
                 ]
             },
             "properties": {
@@ -281,8 +393,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794378527817154",
-                    "42.08790261235252"
+                    "-7.7940291721881785",
+                    "42.08764723512822"
                 ]
             },
             "properties": {
@@ -299,8 +411,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723482124040101",
-                    "42.239273963501546"
+                    "-8.724568003703645",
+                    "42.17528851807094"
+                ]
+            },
+            "properties": {
+                "name": "XX Encontro Folclórico",
+                "location": "Valadares (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26605/-/xx-encontro-folclorico.html",
+                "dates": [
+                    "Sunday 20 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.724599540183338",
+                    "42.238429709276076"
                 ]
             },
             "properties": {
@@ -317,8 +447,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652101007803523",
-                    "42.19810344588634"
+                    "-8.652342098236476",
+                    "42.19845047922119"
                 ]
             },
             "properties": {
@@ -336,8 +466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.085869220612759",
-                    "42.82330383377294"
+                    "-9.087553523641928",
+                    "42.82230420027807"
                 ]
             },
             "properties": {
@@ -354,8 +484,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.883928067339323",
-                    "42.64706547374204"
+                    "-8.885372886700928",
+                    "42.64758528842999"
                 ]
             },
             "properties": {
@@ -372,8 +502,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.813421406686697",
-                    "42.51611846464696"
+                    "-8.813121519562237",
+                    "42.51601361727144"
                 ]
             },
             "properties": {
@@ -390,8 +520,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.812864594748158",
-                    "42.51540130700352"
+                    "-7.556524762889587",
+                    "43.01240239997246"
+                ]
+            },
+            "properties": {
+                "name": "Cris Regueiro",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26595/-/cris-regueiro.html",
+                "dates": [
+                    "Friday 25 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.812193032432123",
+                    "42.51597734052571"
                 ]
             },
             "properties": {
@@ -408,8 +556,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.383427817519255",
-                    "42.742384327214886"
+                    "-8.384429949199136",
+                    "42.74374216947075"
                 ]
             },
             "properties": {
@@ -426,8 +574,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.035295087395273",
-                    "43.14017850837696"
+                    "-7.821632796319557",
+                    "42.61094191726543"
+                ]
+            },
+            "properties": {
+                "name": "IV Foliada e Cantos de Taberna de Taboada",
+                "location": "Chantada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26604/-/iv-foliada-e-cantos-de-taberna-de-taboada.html",
+                "dates": [
+                    "Saturday 26 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.033634249720055",
+                    "43.14010066973001"
                 ]
             },
             "properties": {
@@ -444,8 +610,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.735206315837516",
-                    "42.28244971888214"
+                    "-8.735154918474425",
+                    "42.28341014743968"
                 ]
             },
             "properties": {
@@ -462,8 +628,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.565264242690152",
-                    "42.13501556721297"
+                    "-8.565109093736256",
+                    "42.13499370384836"
                 ]
             },
             "properties": {
@@ -480,8 +646,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544935308052285",
-                    "42.88168415822126"
+                    "-8.543866960838013",
+                    "42.881597834247394"
                 ]
             },
             "properties": {
@@ -498,8 +664,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792873830379915",
-                    "42.087459493851036"
+                    "-7.793348472818169",
+                    "42.089162370047056"
                 ]
             },
             "properties": {
@@ -516,8 +682,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619058147948147",
-                    "42.1625275571486"
+                    "-8.619827196175343",
+                    "42.1635916524879"
                 ]
             },
             "properties": {
@@ -534,8 +700,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794526262202385",
-                    "42.08904479616922"
+                    "-8.658664608360501",
+                    "42.43432055541923"
+                ]
+            },
+            "properties": {
+                "name": "V O Son da Gaita",
+                "location": "Poio",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26584/-/v-o-son-da-gaita.html",
+                "dates": [
+                    "Sunday 27 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793362579812232",
+                    "42.0889550719249"
                 ]
             },
             "properties": {
@@ -552,8 +736,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.820913103130337",
-                    "42.60959385029748"
+                    "-8.545376497356267",
+                    "42.88142092117039"
+                ]
+            },
+            "properties": {
+                "name": "Foliada na Casa das Crechas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26574/-/foliada-na-casa-das-crechas.html",
+                "dates": [
+                    "Wednesday 30 october"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.820434123372735",
+                    "42.60966364516492"
                 ]
             },
             "properties": {
@@ -571,8 +773,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.764979360764395",
-                    "42.59621070946452"
+                    "-8.766329731288042",
+                    "42.59632142565088"
                 ]
             },
             "properties": {
@@ -589,8 +791,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54528898433712",
-                    "42.88201424470874"
+                    "-8.545368115440548",
+                    "42.88198759073412"
                 ]
             },
             "properties": {
@@ -607,8 +809,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.5934725582698315",
-                    "42.54698188744058"
+                    "-6.593317278658213",
+                    "42.546036291656414"
                 ]
             },
             "properties": {
