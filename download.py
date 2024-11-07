@@ -152,7 +152,7 @@ def download_events():
             date = date.text.replace("\n", "").replace("\t", "")
 
             # Transform month name from Galician to English
-            tmp_day, tmp_month = date.split(' ')
+            tmp_day, tmp_month = date.strip().split(' ')
             tmp_month = month_map[tmp_month.lower()]
             date = f"{tmp_day} {tmp_month}"
 
@@ -176,9 +176,7 @@ def download_events():
                 dtext = event.text.split('::')
                 name = dtext[0].split('\t')[-1].split('\xa0')[0]
 
-                location = dtext[-1].split('\xa0')[1]
-                if not location:
-                    location = dtext[-2].split('\xa0')[1]  # try with first part of text
+                location = dtext[-1].strip().split('\n')[-1]
                 location = location.split(' - ')[-1]  # keep only city, as more detailed is usually not found in Nominatim
                 location = location.strip()
                 if not location:
