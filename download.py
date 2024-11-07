@@ -3,10 +3,16 @@ import json
 import os
 from random import random
 from pathlib import Path
+import time
 
 from bs4 import BeautifulSoup
 import requests
 
+
+session = requests.Session()
+session.headers.update({
+    'User-Agent': 'gzmusica-map-bot',  # user-agent has to be custom (https://operations.osmfoundation.org/policies/nominatim/)
+    })
 
 main_dir = Path(__file__).resolve().parent
 
@@ -47,6 +53,10 @@ def randomize(*coord):
 
 
 def get_coord(place):
+    """
+    We wait one second before each request to abide by the user terms:
+    https://operations.osmfoundation.org/policies/nominatim/
+    """
     url = 'https://nominatim.openstreetmap.org/search'
 
     params = {'country': 'Spain',
@@ -57,23 +67,27 @@ def get_coord(place):
     if len(plist) == 2:
         params['county'] = plist[1][:-1].strip()
 
-    r = requests.get(url, params=params)
+    time.sleep(1)
+    r = session.get(url, params=params)
     r = r.json()
 
     if not r:
         # try variation
         params['city'] = plist[0].split(',')[-1].strip()
-        r = requests.get(url, params=params)
+        time.sleep(1)
+        r = session.get(url, params=params)
         r = r.json()
     if not r and 'county' in params.keys():
         # try variation
         params['city'] = params['county']
         params['county'] = ''
-        r = requests.get(url, params=params)
+        time.sleep(1)
+        r = session.get(url, params=params)
         r = r.json()
     if not r:
         # try non-structured query
-        r = requests.get(url, params={'q': place, 'format': 'jsonv2'})
+        time.sleep(1)
+        r = session.get(url, params={'q': place, 'format': 'jsonv2'})
         r = r.json()
     if r:
         # prioritize cities/villages in OSM results over anything else
@@ -86,12 +100,11 @@ def get_coord(place):
                 r2.append(i)
         r = r1 + r2
     if not r:
-        # try photon which is tolerant to typos
-        r = requests.get('https://photon.komoot.io/api',
-                         params={
-                             'q': place,
-                             'limit': 1,
-                         })
+        # otherwise try Photon, which is tolerant to typos
+        r = session.get(
+            'https://photon.komoot.io/api',
+            params={'q': place, 'limit': 1},
+        )
         r = r.json()['features']
         if r:
             r = r[0]['geometry']['coordinates']
@@ -192,20 +205,19 @@ def download_events():
                     else:
                         try:
                             lat, lon = get_coord(location)
-                            places[location] = {'lat': lat,
-                                                'lon': lon,
-                                                }
+                            places[location] = {'lat': lat, 'lon': lon}
                         except Exception as e:
                             print(e)
                             continue
 
                     lat, lon = randomize(lat, lon)
-                    data[name] = {'link': href,
-                                  'location': location,
-                                  'lat': lat,
-                                  'lon': lon,
-                                  'dates': [date],
-                                  }
+                    data[name] = {
+                        'link': href,
+                        'location': location,
+                        'lat': lat,
+                        'lon': lon,
+                        'dates': [date],
+                    }
 
     # Save places to database
     with open(main_dir / 'data' / 'places.json', 'w') as f:
