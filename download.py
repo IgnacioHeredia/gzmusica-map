@@ -151,73 +151,62 @@ def download_events():
 
         tmpdate = dstart + datetime.timedelta(days=7*i)
         r = s.get(
-            url=base_url + f'/axenda/eventsbyweek/{tmpdate.year}/{tmpdate.month}/{tmpdate.day}/-.html',
+            url=f'{base_url}/axenda/eventsbyweek/{tmpdate.year}/{tmpdate.month}/{tmpdate.day}/-.html',
             headers=headers,
             )
         content = BeautifulSoup(r.text, 'lxml')
-        # table = content.find('table', attrs={'class': 'ev_table'}).findAll('tr')[1:]
 
-        dates = content.findAll('a', attrs={'class': 'ev_link_weekday'})  # dates in the week
-        day_data = content.findAll('ul', attrs={'class': 'ev_ul'})  # events each day
+        events = content.findAll('div', attrs={'class': 'jev_listrow'})
+        for e in events:
 
-        for date, day_data in zip(dates, day_data):
-
-            date = date.text.replace("\n", "").replace("\t", "")
-
-            # Transform month name from Galician to English
-            tmp_day, tmp_month = date.strip().split(' ')
-            tmp_month = month_map[tmp_month.lower()]
-            date = f"{tmp_day} {tmp_month}"
+            name = e.find('a', attrs={'class': 'ev_link_row'}).get('title')
+            href = e.find('a', attrs={'class': 'ev_link_row'}).get('href')
+            location = e.findAll('span')[-1].text
+            date = e.find('a', attrs={'class': 'jevdateicon'}).text  # eg. 21Nov
 
             # Date string to datetime object
-            datef = datetime.datetime.strptime(f"{date} {tmpdate.year}", "%d %B %Y").date()
+            datef = datetime.datetime.strptime(date, "%d%b").date()
             datef = datef.replace(year=dstart.year)
-            date = f"{datef.strftime('%A')} {date}"  # add weekday to date
+            date = datef.strftime('%A %d %b')  # date in map is: [weekday number month-short]
 
-            if datef < dstart or datef > dstart + datetime.timedelta(days=30):  # remove past days or days above 30+ limit
-                print(f'  skipping {date}')
+            # Do not process past days or days above 30+ limit
+            if datef < dstart or datef > dstart + datetime.timedelta(days=30):
+                print(f'  {datef} {name}: skipping')
                 continue
-            print(f'  processing {date}')
+            print(f'  {datef} {name}: processing')
 
-            events = day_data.find_all('li', attrs={'class': 'ev_td_li'})
-            if not events:
+            # If the event already exists, it's just new date
+            if name in data.keys():
+                data[name]['dates'].append(date)
                 continue
 
-            for event in events:
-
-                href = base_url + event.find('a')['href']
-                dtext = event.text.split('::')
-                name = dtext[0].split('\t')[-1].split('\xa0')[0]
-
-                location = dtext[-1].strip().split('\n')[-1]
-                location = location.split(' - ')[-1]  # keep only city, as more detailed is usually not found in Nominatim
-                location = location.strip()
-                if not location:
-                    print(f'    Event not located: {dtext}')
+            # Find the event location
+            location = location.split(' - ')[-1].strip()  # keep only city, as more detailed is usually not found in Nominatim
+            if not location:
+                print(f'    Event not located: {name}')
+                continue
+            elif location in places:
+                lat, lon = places[location]['lat'], places[location]['lon']
+            else:
+                try:
+                    lat, lon = get_coord(location)
+                    places[location] = {'lat': lat, 'lon': lon}
+                except Exception as e:
+                    print(e)
                     continue
 
-                if name in data.keys():  # the event already exists, it's just new date
-                    data[name]['dates'].append(date)
+            lat, lon = randomize(lat, lon)
+            data[name] = {
+                'link': f'{base_url}{href}',
+                'location': location,
+                'lat': lat,
+                'lon': lon,
+                'dates': [date],
+            }
 
-                else:  # new event
-                    if location in places:
-                        lat, lon = places[location]['lat'], places[location]['lon']
-                    else:
-                        try:
-                            lat, lon = get_coord(location)
-                            places[location] = {'lat': lat, 'lon': lon}
-                        except Exception as e:
-                            print(e)
-                            continue
-
-                    lat, lon = randomize(lat, lon)
-                    data[name] = {
-                        'link': href,
-                        'location': location,
-                        'lat': lat,
-                        'lon': lon,
-                        'dates': [date],
-                    }
+    # If no data, we probably parsed it wrong
+    if not data:
+        raise Exception('No data found')
 
     # Save places to database
     with open(main_dir / 'data' / 'places.json', 'w') as f:
