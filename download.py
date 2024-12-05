@@ -17,18 +17,18 @@ session.headers.update({
 main_dir = Path(__file__).resolve().parent
 
 month_map = {
-    'xaneiro': 'january',
-    'febreiro':'february',
-    'marzo': 'march',
-    'abril': 'april',
-    'maio': 'may',
-    'xuño': 'june',
-    'xullo': 'july',
-    'agosto': 'august',
-    'setembro': 'september',
-    'outubro': 'october',
-    'novembro': 'november',
-    'decembro': 'december',
+    'Xan': 'Jan',
+    'Feb': 'Feb',
+    'Mar': 'Mar',
+    'Abr': 'Apr',
+    'Mai': 'May',
+    'Xuñ': 'Jun',
+    'Xul': 'Jul',
+    'Ago': 'Aug',
+    'Set': 'Sep',
+    'Out': 'Oct',
+    'Nov': 'Nov',
+    'Dec': 'Dec',
 }
 
 
@@ -163,6 +163,9 @@ def download_events():
             href = e.find('a', attrs={'class': 'ev_link_row'}).get('href')
             location = e.findAll('span')[-1].text
             date = e.find('a', attrs={'class': 'jevdateicon'}).text  # eg. 21Nov
+
+            # Replace month in date string from Galician to English
+            date = date[:-3] + month_map[date[-3:]]
 
             # Date string to datetime object
             datef = datetime.datetime.strptime(date, "%d%b").date()
