@@ -1,4 +1,712 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643018568304317",
+                    "42.43377851594257"
+                ]
+            },
+            "properties": {
+                "name": "Culturgal",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26783/-/culturgal.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.824405028440284",
+                    "42.395224267847915"
+                ]
+            },
+            "properties": {
+                "name": "Festas de Santa Catalina",
+                "location": "Portonovo, Adina (Sanxenxo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26817/-/festas-de-santa-catalina.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794536225303661",
+                    "42.08765907365571"
+                ]
+            },
+            "properties": {
+                "name": "Sabela",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26673/-/sabela.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.736165957177837",
+                    "42.19877716437626"
+                ]
+            },
+            "properties": {
+                "name": "X Festifolc Atlántida",
+                "location": "Matamá (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26825/-/x-festifolc-atlantida.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.6847352202589674",
+                    "42.85892534250989"
+                ]
+            },
+            "properties": {
+                "name": "Odaiko",
+                "location": "Gasteiz, Araba (Euskal Herria)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26812/-/odaiko.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643082495486476",
+                    "42.43263949725158"
+                ]
+            },
+            "properties": {
+                "name": "Dani Barreiro & Friends + Manu Loira",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26814/-/dani-barreiro-friends-manu-loira.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.619718778635168",
+                    "42.163207095859"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26815/-/a-gramola-gominola.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.337093755171063",
+                    "43.38102185761828"
+                ]
+            },
+            "properties": {
+                "name": "II Encontro Folclórico",
+                "location": "Mera, Serantes e Maianca (Oleiros)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26831/-/ii-encontro-folclorico.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.288082025105776",
+                    "42.57658724716141"
+                ]
+            },
+            "properties": {
+                "name": "Samieira Solidaria",
+                "location": "Río de Bois, Parada dos Montes (A Pobra do Brollón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26818/-/samieira-solidaria.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394032850500365",
+                    "43.37114931571227"
+                ]
+            },
+            "properties": {
+                "name": "Cántigas da Terra + De Ruada + Rebulir",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26832/-/cantigas-da-terra-de-ruada-rebulir.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544108244119238",
+                    "42.880550069735584"
+                ]
+            },
+            "properties": {
+                "name": "Sumrrá",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26784/-/sumrra.html",
+                "dates": [
+                    "Sunday 01 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.066064454105934",
+                    "43.126609113162104"
+                ]
+            },
+            "properties": {
+                "name": "Foliada da Fonsagrada",
+                "location": "A Fonsagrada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26807/-/foliada-da-fonsagrada.html",
+                "dates": [
+                    "Thursday 05 Dec",
+                    "Friday 06 Dec",
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.875721099893385",
+                    "42.83061827807469"
+                ]
+            },
+            "properties": {
+                "name": "Ponte na Foliada",
+                "location": "A Ponte Nafonso, Cando (Outes)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26834/-/ponte-na-foliada.html",
+                "dates": [
+                    "Thursday 05 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.5551436986754075",
+                    "43.01201450464098"
+                ]
+            },
+            "properties": {
+                "name": "Belém Tajes",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26790/-/belem-tajes.html",
+                "dates": [
+                    "Thursday 05 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.216942790030927",
+                    "43.10779081124213"
+                ]
+            },
+            "properties": {
+                "name": "Comarea",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26646/-/comarea.html",
+                "dates": [
+                    "Friday 06 Dec",
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.043635975250899",
+                    "43.53631849517845"
+                ]
+            },
+            "properties": {
+                "name": "Jazz-Blues Ribadeo",
+                "location": "Ribadeo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26688/-/jazz-blues-ribadeo.html",
+                "dates": [
+                    "Friday 06 Dec",
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394596957802012",
+                    "43.37275545336013"
+                ]
+            },
+            "properties": {
+                "name": "David Regueiro Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26785/-/david-regueiro-trio.html",
+                "dates": [
+                    "Friday 06 Dec",
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.171261459246026",
+                    "43.40873694103968"
+                ]
+            },
+            "properties": {
+                "name": "Festa True Believers",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26505/-/festa-true-believers.html",
+                "dates": [
+                    "Friday 06 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.171319612463385",
+                    "43.408612434012966"
+                ]
+            },
+            "properties": {
+                "name": "True Believers Festa",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26805/-/true-believers-festa.html",
+                "dates": [
+                    "Friday 06 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.416853764405279",
+                    "43.41090736823865"
+                ]
+            },
+            "properties": {
+                "name": "Mekanika Rolling Band",
+                "location": "Laredo, Cantabria (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26792/-/mekanika-rolling-band.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.970178155009334",
+                    "43.274642462968835"
+                ]
+            },
+            "properties": {
+                "name": "Festival Solidario pola Dana",
+                "location": "Corme (Ponteceso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26806/-/festival-solidario-pola-dana.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.7792576015956",
+                    "42.26522194140815"
+                ]
+            },
+            "properties": {
+                "name": "Kanekas Winter Fest",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26777/-/kanekas-winter-fest.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.39441253419052",
+                    "43.37203145362002"
+                ]
+            },
+            "properties": {
+                "name": "Lois Rivera Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26786/-/lois-rivera-quartet.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394010596327423",
+                    "43.37195221712521"
+                ]
+            },
+            "properties": {
+                "name": "Bestas",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26781/-/bestas.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.171091058695914",
+                    "43.40905553206271"
+                ]
+            },
+            "properties": {
+                "name": "Espiño Band",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26778/-/espino-band.html",
+                "dates": [
+                    "Saturday 07 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544880182798865",
+                    "42.882253882047834"
+                ]
+            },
+            "properties": {
+                "name": "Alvariza",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26779/-/alvariza.html",
+                "dates": [
+                    "Thursday 12 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545605716527458",
+                    "42.88109719973724"
+                ]
+            },
+            "properties": {
+                "name": "Foliadas Abertas do Pichel",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26467/-/foliadas-abertas-do-pichel.html",
+                "dates": [
+                    "Friday 13 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394144580477853",
+                    "43.37280280592967"
+                ]
+            },
+            "properties": {
+                "name": "Chicharrón",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26620/-/chicharron.html",
+                "dates": [
+                    "Saturday 14 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651326175755967",
+                    "42.19736122865231"
+                ]
+            },
+            "properties": {
+                "name": "Hugo Guezeta",
+                "location": "Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26683/-/hugo-guezeta.html",
+                "dates": [
+                    "Saturday 14 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395453590464522",
+                    "43.37250814455117"
+                ]
+            },
+            "properties": {
+                "name": "Cántigas e Agarimos + Ansuíña + Santaia",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26833/-/cantigas-e-agarimos-ansuina-santaia.html",
+                "dates": [
+                    "Sunday 15 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395570280024005",
+                    "43.37163646838921"
+                ]
+            },
+            "properties": {
+                "name": "Seada Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26787/-/seada-quartet.html",
+                "dates": [
+                    "Wednesday 18 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.7348445969534",
+                    "42.282146260017946"
+                ]
+            },
+            "properties": {
+                "name": "María Faltri",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26742/-/maria-faltri.html",
+                "dates": [
+                    "Friday 20 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.39476406957484",
+                    "43.37262340467043"
+                ]
+            },
+            "properties": {
+                "name": "Pablo Seoane Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26788/-/pablo-seoane-quartet.html",
+                "dates": [
+                    "Friday 20 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.724051108262849",
+                    "42.23910561549798"
+                ]
+            },
+            "properties": {
+                "name": "12º Ska All Night",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26835/-/12-ska-all-night.html",
+                "dates": [
+                    "Saturday 21 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64117888522107",
+                    "42.433785857244054"
+                ]
+            },
+            "properties": {
+                "name": "Carlos Núñez",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26707/-/carlos-nunez.html",
+                "dates": [
+                    "Saturday 21 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555396884752837",
+                    "43.01282205610299"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz & Adufeiras de Salitre",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26653/-/xabier-diaz-adufeiras-de-salitre.html",
+                "dates": [
+                    "Sunday 22 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.733800783523835",
+                    "42.28304423512048"
+                ]
+            },
+            "properties": {
+                "name": "Magín Blanco e Tetaro Ghazafellos",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26743/-/magin-blanco-e-tetaro-ghazafellos.html",
+                "dates": [
+                    "Friday 27 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.55627251105187",
+                    "43.013078652378"
+                ]
+            },
+            "properties": {
+                "name": "Facela Festa Especial Nadal",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26737/-/facela-festa-especial-nadal.html",
+                "dates": [
+                    "Friday 27 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.3952926758474",
+                    "43.3724078802515"
+                ]
+            },
+            "properties": {
+                "name": "Antón Quintela Quintet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26789/-/anton-quintela-quintet.html",
+                "dates": [
+                    "Saturday 28 Dec"
+                ]
+            }
+        }
+    ]
 }
