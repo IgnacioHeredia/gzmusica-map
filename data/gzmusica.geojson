@@ -6,44 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.15274273530779",
-                    "43.533862954324164"
-                ]
-            },
-            "properties": {
-                "name": "Uxía e Pablo Novoa",
-                "location": "A Devesa (Ribadeo)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26895/-/uxia-e-pablo-novoa.html",
-                "dates": [
-                    "Thursday 26 Dec"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.641313537032033",
-                    "42.43228440716479"
-                ]
-            },
-            "properties": {
-                "name": "FReshkiños",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26998/-/freshkinos.html",
-                "dates": [
-                    "Thursday 26 Dec"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.872943170915283",
-                    "41.902341549223756"
+                    "-8.873808913237308",
+                    "41.9029307332373"
                 ]
             },
             "properties": {
@@ -60,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.734152464280164",
-                    "42.2823831811852"
+                    "-8.733882091204737",
+                    "42.28303944246216"
                 ]
             },
             "properties": {
@@ -78,8 +42,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544037001955198",
-                    "42.88215414749477"
+                    "-8.545014857155925",
+                    "42.88168035994566"
                 ]
             },
             "properties": {
@@ -96,8 +60,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.586710606678155",
-                    "42.463404424713936"
+                    "-7.58692515653675",
+                    "42.463116282225"
                 ]
             },
             "properties": {
@@ -114,8 +78,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.358135481931473",
-                    "43.66133877868051"
+                    "-7.85409824071484",
+                    "43.684379100580706"
+                ]
+            },
+            "properties": {
+                "name": "Concerto Solidario Escola de Gaitas de Ortigueira",
+                "location": "Ortigueira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27010/-/concerto-solidario-escola-de-gaitas-de-ortigueira.html",
+                "dates": [
+                    "Friday 27 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.357105926556282",
+                    "43.66153852629726"
                 ]
             },
             "properties": {
@@ -132,8 +114,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54480691527275",
-                    "42.88183361926389"
+                    "-8.722910199411592",
+                    "42.23788849212932"
+                ]
+            },
+            "properties": {
+                "name": "Álex Aller & Margarida Mariño",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27006/-/alex-aller-margarida-marino.html",
+                "dates": [
+                    "Friday 27 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54446469696705",
+                    "42.88222907519823"
                 ]
             },
             "properties": {
@@ -150,8 +150,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555575291962754",
-                    "43.01303337136481"
+                    "-7.555879429102503",
+                    "43.012832771383344"
                 ]
             },
             "properties": {
@@ -168,8 +168,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544446241385392",
-                    "42.8821352949018"
+                    "-8.595822970131733",
+                    "42.822269820592254"
+                ]
+            },
+            "properties": {
+                "name": "Noitiñas de Teo",
+                "location": "Calo (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27005/-/noitinas-de-teo.html",
+                "dates": [
+                    "Friday 27 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.785425474624198",
+                    "42.327383391222014"
+                ]
+            },
+            "properties": {
+                "name": "Nadal en Bueu",
+                "location": "Bueu",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27013/-/nadal-en-bueu.html",
+                "dates": [
+                    "Saturday 28 Dec",
+                    "Sunday 29 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.407835420874465",
+                    "43.348335903088426"
+                ]
+            },
+            "properties": {
+                "name": "Maghúa",
+                "location": "Elviña (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27008/-/maghua.html",
+                "dates": [
+                    "Saturday 28 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544774512938565",
+                    "42.88126776111173"
                 ]
             },
             "properties": {
@@ -186,8 +241,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.022809326166136",
-                    "42.530019794865716"
+                    "-9.02186910440814",
+                    "42.52998583006514"
                 ]
             },
             "properties": {
@@ -204,8 +259,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.72422663961883",
-                    "43.67022804137499"
+                    "-7.723461451599626",
+                    "43.67079367162083"
                 ]
             },
             "properties": {
@@ -223,8 +278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489715317681178",
-                    "42.68923814494907"
+                    "-8.49043763961895",
+                    "42.6888043207594"
                 ]
             },
             "properties": {
@@ -241,8 +296,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619557657912845",
-                    "42.16363010937605"
+                    "-8.619921266820798",
+                    "42.16380953432252"
                 ]
             },
             "properties": {
@@ -259,8 +314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.872509742478016",
-                    "41.902120955072334"
+                    "-8.873962579123436",
+                    "41.901260546784584"
                 ]
             },
             "properties": {
@@ -277,8 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.190385569092847",
-                    "43.502703885853535"
+                    "-8.191415839312397",
+                    "43.502360876998125"
                 ]
             },
             "properties": {
@@ -296,8 +351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.400934424671694",
-                    "43.66510034403457"
+                    "-7.401108832991495",
+                    "43.66416219558275"
                 ]
             },
             "properties": {
@@ -314,8 +369,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641482472560062",
-                    "42.43217759640271"
+                    "-8.642023202754897",
+                    "42.4337096691487"
                 ]
             },
             "properties": {
@@ -332,8 +387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64309774694909",
-                    "42.433414749619104"
+                    "-8.641847007212483",
+                    "42.433674650248655"
                 ]
             },
             "properties": {
@@ -350,8 +405,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394949092062538",
-                    "43.371300017957786"
+                    "-8.395108588309288",
+                    "43.37167453309112"
                 ]
             },
             "properties": {
@@ -368,8 +423,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413991899723832",
-                    "42.77975555123728"
+                    "-8.702489520676023",
+                    "43.25402079680511"
+                ]
+            },
+            "properties": {
+                "name": "Ruada de Nadal",
+                "location": "Oza (carballo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27011/-/ruada-de-nadal.html",
+                "dates": [
+                    "Saturday 28 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.413655500063306",
+                    "42.779924355952495"
                 ]
             },
             "properties": {
@@ -386,8 +459,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.109292967405068",
-                    "42.66239779793767"
+                    "-8.110527613533245",
+                    "42.66141611118234"
                 ]
             },
             "properties": {
@@ -404,8 +477,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.01225302152189",
-                    "42.91507524063068"
+                    "-8.012281270694466",
+                    "42.91626729698801"
                 ]
             },
             "properties": {
@@ -422,8 +495,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.269345864899712",
-                    "42.47516953569923"
+                    "-7.269275144702573",
+                    "42.47552524997459"
                 ]
             },
             "properties": {
@@ -440,8 +513,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.635437663178331",
-                    "42.21169087162455"
+                    "-8.63424491548633",
+                    "42.211187211496174"
                 ]
             },
             "properties": {
@@ -458,8 +531,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.78542564103598",
-                    "42.32876325528589"
+                    "-8.50479183631613",
+                    "42.17542952739586"
+                ]
+            },
+            "properties": {
+                "name": "V Encontro de Rancho de Reis",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27012/-/v-encontro-de-rancho-de-reis.html",
+                "dates": [
+                    "Sunday 29 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.784852123915668",
+                    "42.32868718363905"
                 ]
             },
             "properties": {
@@ -476,8 +567,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.86573475011763",
-                    "42.55020155852705"
+                    "-8.865309630693353",
+                    "42.55196263157129"
                 ]
             },
             "properties": {
@@ -494,8 +585,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.393964682186162",
-                    "43.372233745102996"
+                    "-8.619522665209265",
+                    "42.162155789468855"
+                ]
+            },
+            "properties": {
+                "name": "Uxía Lambona e a Banda Molona",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27003/-/uxia-lambona-e-a-banda-molona.html",
+                "dates": [
+                    "Monday 30 Dec"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395884860087811",
+                    "43.3717856935884"
                 ]
             },
             "properties": {
@@ -512,8 +621,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723536428684877",
-                    "42.23798452782695"
+                    "-8.72280903329205",
+                    "42.23900051362741"
                 ]
             },
             "properties": {
