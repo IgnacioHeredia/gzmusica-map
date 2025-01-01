@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.618563069123939",
-                    "42.16294126631949"
+                    "-8.594948637603753",
+                    "42.31884005799591"
                 ]
             },
             "properties": {
-                "name": "Uxía Lambona e a Banda Molona",
-                "location": "O Porriño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27003/-/uxia-lambona-e-a-banda-molona.html",
+                "name": "Pakolas",
+                "location": "O Viso (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26925/-/pakolas.html",
                 "dates": [
-                    "Monday 30 Dec"
+                    "Thursday 02 Jan"
                 ]
             }
         },
@@ -24,16 +24,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395411771991387",
-                    "43.372836545998695"
+                    "-8.544747323450228",
+                    "42.88123820332633"
                 ]
             },
             "properties": {
-                "name": "Pakolas ",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26924/-/pakolas.html",
+                "name": "Cantamos os Reices?",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26949/-/cantamos-os-reices.html",
                 "dates": [
-                    "Monday 30 Dec"
+                    "Friday 03 Jan"
                 ]
             }
         },
@@ -42,16 +42,305 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723475031467022",
-                    "42.238585722388294"
+                    "-8.734359014829574",
+                    "42.283092891713"
                 ]
             },
             "properties": {
-                "name": "Abraham Cupeiro",
+                "name": "Nelson Quinteiro",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26744/-/nelson-quinteiro.html",
+                "dates": [
+                    "Friday 03 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.407031816925569",
+                    "43.078567932061596"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas e Laura Romero",
+                "location": "Ordes",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26926/-/pakolas-e-laura-romero.html",
+                "dates": [
+                    "Friday 03 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643127663339559",
+                    "42.43388238089656"
+                ]
+            },
+            "properties": {
+                "name": "A Pedreira",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27019/-/a-pedreira.html",
+                "dates": [
+                    "Friday 03 Jan",
+                    "Friday 24 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723501684244503",
+                    "42.23823381745526"
+                ]
+            },
+            "properties": {
+                "name": "Fanfarría Taquikardia",
                 "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26697/-/abraham-cupeiro.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26986/-/fanfarria-taquikardia.html",
                 "dates": [
-                    "Monday 30 Dec"
+                    "Friday 03 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794239618271706",
+                    "42.0876814787017"
+                ]
+            },
+            "properties": {
+                "name": "Breo",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27021/-/breo.html",
+                "dates": [
+                    "Friday 03 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652644016608756",
+                    "42.19741952638379"
+                ]
+            },
+            "properties": {
+                "name": "Imos Cantar so Reis",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27020/-/imos-cantar-so-reis.html",
+                "dates": [
+                    "Saturday 04 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.76615783888509",
+                    "42.59644559578143"
+                ]
+            },
+            "properties": {
+                "name": "Paco Nogueiras",
+                "location": "Vilagarcía de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27017/-/paco-nogueiras.html",
+                "dates": [
+                    "Saturday 04 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.008560660660784",
+                    "42.967358718771834"
+                ]
+            },
+            "properties": {
+                "name": "IV Polavila Naviega",
+                "location": "A Proba de Navia (Navia de Suarna)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27018/-/iv-polavila-naviega.html",
+                "dates": [
+                    "Saturday 04 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.042736013138686",
+                    "43.5362589651639"
+                ]
+            },
+            "properties": {
+                "name": "Manoele de Felisa",
+                "location": "Ribadeo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26988/-/manoele-de-felisa.html",
+                "dates": [
+                    "Saturday 04 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794090743499977",
+                    "42.087590972397216"
+                ]
+            },
+            "properties": {
+                "name": "Xoán Curiel",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27022/-/xoan-curiel.html",
+                "dates": [
+                    "Saturday 04 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7938171188188825",
+                    "42.08887433630214"
+                ]
+            },
+            "properties": {
+                "name": "Alana",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27023/-/alana.html",
+                "dates": [
+                    "Friday 10 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395098925964296",
+                    "43.371234402590645"
+                ]
+            },
+            "properties": {
+                "name": "Homenaxe a Bâbâ Bar",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26991/-/homenaxe-a-baba-bar.html",
+                "dates": [
+                    "Friday 10 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.402043104193035",
+                    "43.66497739925136"
+                ]
+            },
+            "properties": {
+                "name": "True Mountains",
+                "location": "Sargadelos (Cervo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27004/-/true-mountains.html",
+                "dates": [
+                    "Saturday 11 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793037463774488",
+                    "42.087211912864376"
+                ]
+            },
+            "properties": {
+                "name": "Exquisitos Ghipes de Merda",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27024/-/exquisitos-ghipes-de-merda.html",
+                "dates": [
+                    "Saturday 11 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394278242787953",
+                    "43.371989394048036"
+                ]
+            },
+            "properties": {
+                "name": "Musgo 981 + A Nosa Terra é Nosa",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26995/-/musgo-981-a-nosa-terra-e-nosa.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792894736897202",
+                    "42.08774494186213"
+                ]
+            },
+            "properties": {
+                "name": "O Leo",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27025/-/o-leo.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793031307577183",
+                    "42.08832006944795"
+                ]
+            },
+            "properties": {
+                "name": "Baraza",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27027/-/baraza.html",
+                "dates": [
+                    "Friday 31 Jan"
                 ]
             }
         }
