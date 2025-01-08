@@ -6,8 +6,89 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794371173241429",
-                    "42.08809392466136"
+                    "-8.678637566723785",
+                    "42.197369360756134"
+                ]
+            },
+            "properties": {
+                "name": "San Blas 25",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27053/-/san-blas-25.html",
+                "dates": [
+                    "Friday 10 Jan",
+                    "Saturday 11 Jan",
+                    "Friday 17 Jan",
+                    "Saturday 18 Jan",
+                    "Friday 24 Jan",
+                    "Saturday 25 Jan",
+                    "Friday 31 Jan",
+                    "Saturday 01 Feb",
+                    "Sunday 02 Feb",
+                    "Monday 03 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.554820440669168",
+                    "43.01275018406263"
+                ]
+            },
+            "properties": {
+                "name": "Luar na Lubre",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27047/-/luar-na-lubre.html",
+                "dates": [
+                    "Friday 10 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395520193564668",
+                    "43.372401296999826"
+                ]
+            },
+            "properties": {
+                "name": "Outomuro, Constenla, Cañada Jazz Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27051/-/outomuro-constenla-canada-jazz-trio.html",
+                "dates": [
+                    "Friday 10 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.680374891782463",
+                    "42.19605793759707"
+                ]
+            },
+            "properties": {
+                "name": "Grupo Xiada",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27045/-/grupo-xiada.html",
+                "dates": [
+                    "Friday 10 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794383691776854",
+                    "42.08895974152307"
                 ]
             },
             "properties": {
@@ -24,8 +105,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394406187338891",
-                    "43.3712192370459"
+                    "-8.39551917762878",
+                    "43.3713532779763"
                 ]
             },
             "properties": {
@@ -42,8 +123,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.402024199113794",
-                    "43.66419995942588"
+                    "-7.40174843409209",
+                    "43.66376207319144"
                 ]
             },
             "properties": {
@@ -61,8 +142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.77085396258482",
-                    "41.97615242416767"
+                    "-8.77023038068464",
+                    "41.97639498594245"
                 ]
             },
             "properties": {
@@ -79,8 +160,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793752487003287",
-                    "42.08770245173691"
+                    "-8.437572915851007",
+                    "42.70235240218049"
+                ]
+            },
+            "properties": {
+                "name": "Noites de Raíz",
+                "location": "Callobre (A Estrada)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27050/-/noites-de-raiz.html",
+                "dates": [
+                    "Saturday 11 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.679613308909047",
+                    "42.19794080330085"
+                ]
+            },
+            "properties": {
+                "name": "A Vacaloura Vermella",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27046/-/a-vacaloura-vermella.html",
+                "dates": [
+                    "Saturday 11 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.79383445721944",
+                    "42.08728670573881"
                 ]
             },
             "properties": {
@@ -97,8 +214,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39580267524579",
-                    "43.37211690043288"
+                    "-8.394777833686137",
+                    "43.37259281483034"
+                ]
+            },
+            "properties": {
+                "name": "Xurxo Estévez Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27052/-/xurxo-estevez-quartet.html",
+                "dates": [
+                    "Wednesday 15 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544233352293118",
+                    "42.88204795454148"
+                ]
+            },
+            "properties": {
+                "name": "Loita Amada + Odolaren Mintzoa",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27044/-/loita-amada-odolaren-mintzoa.html",
+                "dates": [
+                    "Friday 17 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395645266251579",
+                    "43.37284136474243"
                 ]
             },
             "properties": {
@@ -115,8 +268,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792911171907198",
-                    "42.089076206512566"
+                    "-7.793967301255139",
+                    "42.08727382232026"
                 ]
             },
             "properties": {
@@ -133,8 +286,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794369593145363",
-                    "42.08801556568131"
+                    "-6.983348492473949",
+                    "42.417201456358306"
+                ]
+            },
+            "properties": {
+                "name": "Budiño",
+                "location": "O Barco de Valdeorras",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27048/-/budino.html",
+                "dates": [
+                    "Sunday 19 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793875560893267",
+                    "42.088775741963445"
                 ]
             },
             "properties": {
@@ -151,8 +322,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641632523491824",
-                    "42.43331422345873"
+                    "-8.64293194958309",
+                    "42.431963453168564"
                 ]
             },
             "properties": {
@@ -169,8 +340,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793649147783256",
-                    "42.08893203365879"
+                    "-8.394875644246948",
+                    "43.37188423553305"
+                ]
+            },
+            "properties": {
+                "name": "Thee Blind Crows + Cloaca",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27049/-/thee-blind-crows-cloaca.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793180458192474",
+                    "42.088317550038816"
                 ]
             },
             "properties": {
@@ -187,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544693608829252",
-                    "42.880715003338096"
+                    "-8.544902453880386",
+                    "42.8804325588957"
                 ]
             },
             "properties": {
@@ -205,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885301383618385",
-                    "42.647080666392185"
+                    "-8.88417571607321",
+                    "42.64663231675903"
                 ]
             },
             "properties": {
@@ -224,8 +413,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642304371655593",
-                    "42.43313290657313"
+                    "-8.641958592753033",
+                    "42.431988111282955"
                 ]
             },
             "properties": {
@@ -242,8 +431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545467167677609",
-                    "42.88162932511507"
+                    "-8.54447670073052",
+                    "42.88103901297945"
                 ]
             },
             "properties": {
@@ -252,6 +441,24 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/26985/-/a-banda-da-loba.html",
                 "dates": [
                     "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.7018828119484244",
+                    "40.4170338084421"
+                ]
+            },
+            "properties": {
+                "name": "Lóstregos + Absu + Netón",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27057/-/lostregos-absu-neton.html",
+                "dates": [
+                    "Thursday 06 Feb"
                 ]
             }
         }
