@@ -6,16 +6,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555553204246578",
-                    "43.011880392405736"
+                    "-8.734220579745699",
+                    "42.19896761543187"
                 ]
             },
             "properties": {
-                "name": "Xurxo Estévez Quartet",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27073/-/xurxo-estevez-quartet.html",
+                "name": "Romaría de San Amaro",
+                "location": "Matamá (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27107/-/romaria-de-san-amaro.html",
                 "dates": [
-                    "Thursday 16 Jan"
+                    "Friday 17 Jan",
+                    "Saturday 18 Jan",
+                    "Sunday 19 Jan"
                 ]
             }
         },
@@ -24,8 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.678600718780093",
-                    "42.19616796006464"
+                    "-8.679955380458068",
+                    "42.1977863558456"
                 ]
             },
             "properties": {
@@ -49,8 +51,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54459845930194",
-                    "42.88111065447793"
+                    "-8.545455360754898",
+                    "42.880873297446"
+                ]
+            },
+            "properties": {
+                "name": "O Leo de atamá + Soledad Zarkai & Loup Uberto + Carme López",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27087/-/o-leo-de-atama-soledad-zarkai-loup-uberto-carme-lopez.html",
+                "dates": [
+                    "Friday 17 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545135691735274",
+                    "42.88150612330331"
                 ]
             },
             "properties": {
@@ -67,14 +87,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.883885146925103",
-                    "42.647826438626"
+                    "-8.544239883708313",
+                    "42.88165332746036"
                 ]
             },
             "properties": {
-                "name": "Stormy Trucks",
-                "location": "Boiro",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27060/-/stormy-trucks.html",
+                "name": "Estalotada",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27099/-/estalotada.html",
                 "dates": [
                     "Friday 17 Jan"
                 ]
@@ -85,8 +105,207 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394931272626126",
-                    "43.372942861040634"
+                    "-8.679482559249317",
+                    "42.19762751682035"
+                ]
+            },
+            "properties": {
+                "name": "Os Vilariños",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27094/-/os-vilarinos.html",
+                "dates": [
+                    "Friday 17 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.885819771019143",
+                    "42.64638500960085"
+                ]
+            },
+            "properties": {
+                "name": "Stormy Trucks",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27060/-/stormy-trucks.html",
+                "dates": [
+                    "Friday 17 Jan",
+                    "Friday 31 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778172177377302",
+                    "42.26658741722419"
+                ]
+            },
+            "properties": {
+                "name": "Vilariño Tolo + Manle",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27079/-/vilarino-tolo-manle.html",
+                "dates": [
+                    "Friday 17 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54523956977104",
+                    "42.881406259722205"
+                ]
+            },
+            "properties": {
+                "name": "Tapas e Tupés a Tpoe!",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27084/-/tapas-e-tupes-a-tpoe.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651787807296294",
+                    "42.19818040650133"
+                ]
+            },
+            "properties": {
+                "name": "Serán O Fiadeiro",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27097/-/seran-o-fiadeiro.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.91717678389573",
+                    "42.65512560774269"
+                ]
+            },
+            "properties": {
+                "name": "Serán de San Mauro",
+                "location": "Lampón (Boiro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27100/-/seran-de-san-mauro.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.022046501636478",
+                    "42.529925837027314"
+                ]
+            },
+            "properties": {
+                "name": "Ataque Escampe",
+                "location": "Aguiño (Ribeira)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27085/-/ataque-escampe.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.109047342479787",
+                    "42.6621465108004"
+                ]
+            },
+            "properties": {
+                "name": "II Rural Death Fest",
+                "location": "Lalín",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27082/-/ii-rural-death-fest.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72410673146283",
+                    "42.23798610163088"
+                ]
+            },
+            "properties": {
+                "name": "Cochambre + Aneuma",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27083/-/cochambre-aneuma.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545047460681657",
+                    "42.88055056505163"
+                ]
+            },
+            "properties": {
+                "name": "Crúas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27095/-/cruas.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545767440792702",
+                    "42.88072196230192"
+                ]
+            },
+            "properties": {
+                "name": "Dioivo + Sicixia",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27086/-/dioivo-sicixia.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.39555459925958",
+                    "43.37109040063669"
                 ]
             },
             "properties": {
@@ -103,8 +322,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793891114380385",
-                    "42.087537437749496"
+                    "-8.53448330366131",
+                    "42.7843416040714"
+                ]
+            },
+            "properties": {
+                "name": "Romaría do 3 na Honra de San Perillote",
+                "location": "Paredes, Lucí (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27101/-/romaria-do-3-na-honra-de-san-perillote.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.5561018205085135",
+                    "43.012210957272295"
+                ]
+            },
+            "properties": {
+                "name": "Foliada de Manel",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27102/-/foliada-de-manel.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.414467436401316",
+                    "42.77904117148523"
+                ]
+            },
+            "properties": {
+                "name": "Urko + Propicios Días",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27088/-/urko-propicios-dias.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.680000636836105",
+                    "42.19748243982061"
+                ]
+            },
+            "properties": {
+                "name": "Korafolk",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27077/-/korafolk.html",
+                "dates": [
+                    "Saturday 18 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793704701247552",
+                    "42.088715538927865"
                 ]
             },
             "properties": {
@@ -121,8 +412,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.983212773043428",
-                    "42.41723087048169"
+                    "-8.76753884920201",
+                    "42.531291445715674"
+                ]
+            },
+            "properties": {
+                "name": "Tres Pesos",
+                "location": "Oubiña (Cambados)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27103/-/tres-pesos.html",
+                "dates": [
+                    "Sunday 19 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.983982137588739",
+                    "42.41658072322245"
                 ]
             },
             "properties": {
@@ -139,8 +448,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793450095187276",
-                    "42.08784372924529"
+                    "-8.545387785719901",
+                    "42.88042257846191"
+                ]
+            },
+            "properties": {
+                "name": "The Spoonfuls",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27093/-/the-spoonfuls.html",
+                "dates": [
+                    "Tuesday 21 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794020423995721",
+                    "42.08909492947198"
                 ]
             },
             "properties": {
@@ -157,8 +484,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556079088607644",
-                    "43.012761488734014"
+                    "-7.554902247306029",
+                    "43.012071651282355"
                 ]
             },
             "properties": {
@@ -175,8 +502,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39590492125374",
-                    "43.37222113559971"
+                    "-8.395099839861334",
+                    "43.37188556116366"
                 ]
             },
             "properties": {
@@ -193,14 +520,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642649595958352",
-                    "42.43346224169486"
+                    "-8.641404864794183",
+                    "42.43280231376618"
                 ]
             },
             "properties": {
                 "name": "Su Garrido Pombo",
                 "location": "Pontevedra",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27030/-/su-garrido-pombo.html",
+                "dates": [
+                    "Saturday 25 Jan",
+                    "Sunday 09 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.40773628034812",
+                    "42.47813130781091"
+                ]
+            },
+            "properties": {
+                "name": "Rúa en Caroi",
+                "location": "Caroi (Cerdedo-Cotobade)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27090/-/rua-en-caroi.html",
                 "dates": [
                     "Saturday 25 Jan"
                 ]
@@ -211,8 +557,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.458163141654477",
-                    "42.26371824068297"
+                    "-8.45858920220444",
+                    "42.26457501715318"
                 ]
             },
             "properties": {
@@ -229,8 +575,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722871695208683",
-                    "42.23766215355128"
+                    "-8.724534141977735",
+                    "42.23779867711289"
                 ]
             },
             "properties": {
@@ -247,8 +593,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39518682443112",
-                    "43.37149090743714"
+                    "-8.394361088072971",
+                    "43.372037660829704"
                 ]
             },
             "properties": {
@@ -265,8 +611,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652019589280401",
-                    "42.19716208495938"
+                    "-8.651470264699421",
+                    "42.19799923307404"
                 ]
             },
             "properties": {
@@ -283,8 +629,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794182693288584",
-                    "42.08792558957326"
+                    "-8.811165156967393",
+                    "42.48021680293571"
+                ]
+            },
+            "properties": {
+                "name": "Leti da Taberna",
+                "location": "Castrelo (Cambados)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27104/-/leti-da-taberna.html",
+                "dates": [
+                    "Sunday 26 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7942093201288305",
+                    "42.08839283811352"
                 ]
             },
             "properties": {
@@ -301,8 +665,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.5555793618271965",
-                    "43.012116579245856"
+                    "-7.5548159503110215",
+                    "43.01322170150607"
                 ]
             },
             "properties": {
@@ -319,8 +683,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544032433584993",
-                    "42.881228503238646"
+                    "-8.545411593129394",
+                    "42.88164392437716"
                 ]
             },
             "properties": {
@@ -338,8 +702,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885309559013239",
-                    "42.64649662132316"
+                    "-8.885248605798164",
+                    "42.64668708793624"
                 ]
             },
             "properties": {
@@ -358,8 +722,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641868984099773",
-                    "42.43299586748292"
+                    "-8.808300838267009",
+                    "42.53181146676694"
+                ]
+            },
+            "properties": {
+                "name": "Bouba Pandereteiras",
+                "location": "Corvillón (Cambados)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27105/-/bouba-pandereteiras.html",
+                "dates": [
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.459474871893058",
+                    "42.06191517556483"
+                ]
+            },
+            "properties": {
+                "name": "Ruarada na Aira",
+                "location": "Laza",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27089/-/ruarada-na-aira.html",
+                "dates": [
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.55575000219147",
+                    "43.01194262709955"
+                ]
+            },
+            "properties": {
+                "name": "Airiños de Orbazai",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27091/-/airinos-de-orbazai.html",
+                "dates": [
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.642391055533285",
+                    "42.43345033719949"
                 ]
             },
             "properties": {
@@ -376,8 +794,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544515070213441",
-                    "42.882236626188345"
+                    "-8.544609859003897",
+                    "42.88043393567111"
                 ]
             },
             "properties": {
@@ -394,8 +812,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.702010682163635",
-                    "40.418038506649296"
+                    "-8.88469552084386",
+                    "42.64784474431003"
+                ]
+            },
+            "properties": {
+                "name": "MJ Pérez",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27080/-/mj-perez.html",
+                "dates": [
+                    "Sunday 02 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.702247344155296",
+                    "40.41817213178683"
                 ]
             },
             "properties": {
@@ -404,6 +840,60 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27057/-/lostregos-absu-neton.html",
                 "dates": [
                     "Thursday 06 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.791540641264787",
+                    "42.51515378787359"
+                ]
+            },
+            "properties": {
+                "name": "Acordeireta",
+                "location": "Vilariño (Cambados)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27106/-/acordeireta.html",
+                "dates": [
+                    "Saturday 08 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652731947178685",
+                    "42.19706260642533"
+                ]
+            },
+            "properties": {
+                "name": "Os Carunchos",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27096/-/os-carunchos.html",
+                "dates": [
+                    "Saturday 08 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.885663609309557",
+                    "42.64764702933776"
+                ]
+            },
+            "properties": {
+                "name": "Espiño Band",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27078/-/espino-band.html",
+                "dates": [
+                    "Saturday 08 Feb"
                 ]
             }
         }
