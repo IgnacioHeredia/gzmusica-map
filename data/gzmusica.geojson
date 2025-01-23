@@ -6,8 +6,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.679819066439132",
-                    "42.19687036035442"
+                    "-8.545470086556312",
+                    "42.880932717567376"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27137/-/baiuca.html",
+                "dates": [
+                    "Thursday 23 Jan",
+                    "Friday 24 Jan",
+                    "Saturday 25 Jan",
+                    "Sunday 26 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.679931703517742",
+                    "42.19669272516904"
                 ]
             },
             "properties": {
@@ -29,8 +50,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794084147105759",
-                    "42.08879722391108"
+                    "-3.703430061420165",
+                    "40.41804703758749"
+                ]
+            },
+            "properties": {
+                "name": "The Rapants",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27131/-/the-rapants.html",
+                "dates": [
+                    "Friday 24 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.217865715454892",
+                    "43.108204105680755"
+                ]
+            },
+            "properties": {
+                "name": "Mileth",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27124/-/mileth.html",
+                "dates": [
+                    "Friday 24 Jan",
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793195891988178",
+                    "42.08910333438286"
                 ]
             },
             "properties": {
@@ -47,8 +105,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555630168704485",
-                    "43.01213513318156"
+                    "-7.554653139447826",
+                    "43.01338010842496"
                 ]
             },
             "properties": {
@@ -65,8 +123,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394061511787344",
-                    "43.37211894038061"
+                    "-8.394422971860942",
+                    "43.372115169756825"
                 ]
             },
             "properties": {
@@ -83,8 +141,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64228412873237",
-                    "42.433684291187234"
+                    "-8.825027352804309",
+                    "42.56351698372075"
+                ]
+            },
+            "properties": {
+                "name": "Vimbio",
+                "location": "Vilanova de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27123/-/vimbio.html",
+                "dates": [
+                    "Friday 24 Jan",
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.678806998918814",
+                    "42.19693057785976"
+                ]
+            },
+            "properties": {
+                "name": "Residuos do Sistema",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27122/-/residuos-do-sistema.html",
+                "dates": [
+                    "Friday 24 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.409022403238732",
+                    "43.34764721580235"
+                ]
+            },
+            "properties": {
+                "name": "Festas de San Vicente de Elviña",
+                "location": "Elviña (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27133/-/festas-de-san-vicente-de-elvina.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641972191909172",
+                    "42.43201255117989"
                 ]
             },
             "properties": {
@@ -93,6 +206,7 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27030/-/su-garrido-pombo.html",
                 "dates": [
                     "Saturday 25 Jan",
+                    "Saturday 08 Feb",
                     "Sunday 09 Feb"
                 ]
             }
@@ -102,8 +216,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.40805633958472",
-                    "42.47857126268098"
+                    "-8.19133330614212",
+                    "43.59768568353851"
+                ]
+            },
+            "properties": {
+                "name": "Festas de San Vicente",
+                "location": "Meirás (Valdoviño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27114/-/festas-de-san-vicente.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.231571797832641",
+                    "43.48621019874095"
+                ]
+            },
+            "properties": {
+                "name": "Festival 110 Anos Cantando",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27138/-/festival-110-anos-cantando.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.19094650534649",
+                    "43.5025398168745"
+                ]
+            },
+            "properties": {
+                "name": "Os do Fondo da Barra",
+                "location": "Narón",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27139/-/os-do-fondo-da-barra.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.406463625293624",
+                    "42.47745689696676"
                 ]
             },
             "properties": {
@@ -120,8 +288,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.457954503059385",
-                    "42.26305950782228"
+                    "-8.458279678554732",
+                    "42.263495429311625"
                 ]
             },
             "properties": {
@@ -138,8 +306,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723655878622536",
-                    "42.23932295757592"
+                    "-8.311911193127091",
+                    "42.11415536499382"
+                ]
+            },
+            "properties": {
+                "name": "Serán en Arbo",
+                "location": "Arbo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27125/-/seran-en-arbo.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.811791953017512",
+                    "42.57909203198546"
+                ]
+            },
+            "properties": {
+                "name": "Óscar Ibáñez & Tribo",
+                "location": "Bragança (Portugal)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27118/-/oscar-ibanez-tribo.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723829139066568",
+                    "42.23868218893357"
                 ]
             },
             "properties": {
@@ -156,14 +360,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72449263581924",
-                    "42.23883252939655"
+                    "-8.722996552721764",
+                    "42.239465710270245"
                 ]
             },
             "properties": {
-                "name": "Paulo Pacual",
+                "name": "Paulo Pascual",
                 "location": "Vigo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27108/-/paulo-pacual.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27108/-/paulo-pascual.html",
                 "dates": [
                     "Saturday 25 Jan"
                 ]
@@ -174,8 +378,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.393964968327664",
-                    "43.372773214346346"
+                    "-8.585399425697467",
+                    "42.79726501997392"
+                ]
+            },
+            "properties": {
+                "name": "Á Xaneira",
+                "location": "Luou (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27140/-/a-xaneira.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723552718929403",
+                    "42.23861066052098"
+                ]
+            },
+            "properties": {
+                "name": "Biribirlocke",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27126/-/biribirlocke.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.744103597880521",
+                    "42.05032482578666"
+                ]
+            },
+            "properties": {
+                "name": "Final da Historia Vol. 1",
+                "location": "Tebra (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27121/-/final-da-historia-vol-1.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394187731900884",
+                    "43.37203885364693"
                 ]
             },
             "properties": {
@@ -192,8 +450,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651323455487121",
-                    "42.19809610980944"
+                    "-8.619029784044924",
+                    "42.16256168088585"
+                ]
+            },
+            "properties": {
+                "name": "Varalonga",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27132/-/varalonga.html",
+                "dates": [
+                    "Saturday 25 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652099811130299",
+                    "42.197470997194884"
                 ]
             },
             "properties": {
@@ -210,8 +486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.81090966969197",
-                    "42.4806945824167"
+                    "-8.811804912316884",
+                    "42.48062499119743"
                 ]
             },
             "properties": {
@@ -228,8 +504,64 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.883940136243108",
-                    "42.647419302606856"
+                    "-8.813601495124209",
+                    "42.515852908686746"
+                ]
+            },
+            "properties": {
+                "name": "Carabela",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27134/-/carabela.html",
+                "dates": [
+                    "Sunday 26 Jan"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.292772126847451",
+                    "36.53137905151456"
+                ]
+            },
+            "properties": {
+                "name": "Luar na Lubre",
+                "location": "Alxeciras, Cádiz (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27113/-/luar-na-lubre.html",
+                "dates": [
+                    "Friday 31 Jan",
+                    "Saturday 08 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54411448561702",
+                    "42.88206352658233"
+                ]
+            },
+            "properties": {
+                "name": "Ruxe Ruxe",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27135/-/ruxe-ruxe.html",
+                "dates": [
+                    "Friday 31 Jan",
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.884215496798861",
+                    "42.64717437832949"
                 ]
             },
             "properties": {
@@ -246,8 +578,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793438158019505",
-                    "42.08821637082099"
+                    "-7.793331132685232",
+                    "42.08837669338306"
                 ]
             },
             "properties": {
@@ -264,8 +596,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556314622527715",
-                    "43.01376234935199"
+                    "-7.5554445344077825",
+                    "43.012377391932546"
                 ]
             },
             "properties": {
@@ -282,17 +614,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544604546916666",
-                    "42.88203738363021"
+                    "-8.680014298564892",
+                    "42.197968689877186"
                 ]
             },
             "properties": {
-                "name": "IX Aniversario Inferno",
-                "location": "Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/26911/-/ix-aniversario-inferno.html",
+                "name": "Seitura",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27141/-/seitura.html",
                 "dates": [
-                    "Saturday 01 Feb",
-                    "Saturday 08 Feb"
+                    "Friday 31 Jan"
                 ]
             }
         },
@@ -301,8 +632,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885468334084164",
-                    "42.64824175935541"
+                    "-8.545414013993346",
+                    "42.88214472612933"
+                ]
+            },
+            "properties": {
+                "name": "IX Aniversario Inferno",
+                "location": "Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/26911/-/ix-aniversario-inferno.html",
+                "dates": [
+                    "Saturday 01 Feb",
+                    "Saturday 08 Feb",
+                    "Saturday 22 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.884073114429848",
+                    "42.64822797780944"
                 ]
             },
             "properties": {
@@ -321,8 +672,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.80749101510893",
-                    "42.53076211076487"
+                    "-8.808176273174457",
+                    "42.531107492745065"
                 ]
             },
             "properties": {
@@ -339,8 +690,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.460745758968294",
-                    "42.06134108864181"
+                    "-8.395212225137927",
+                    "43.372555309771485"
+                ]
+            },
+            "properties": {
+                "name": "Festival de Acordeón Xebre",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27143/-/festival-de-acordeon-xebre.html",
+                "dates": [
+                    "Saturday 01 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.4597596593655675",
+                    "42.06165355939751"
                 ]
             },
             "properties": {
@@ -357,8 +726,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.5557787797978735",
-                    "43.01262816773752"
+                    "-7.55545580197426",
+                    "43.01190295499827"
                 ]
             },
             "properties": {
@@ -375,26 +744,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641360696767235",
-                    "42.43364978481401"
-                ]
-            },
-            "properties": {
-                "name": "Mileth",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27031/-/mileth.html",
-                "dates": [
-                    "Saturday 01 Feb"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.544778718139698",
-                    "42.88093831314903"
+                    "-8.545778078961277",
+                    "42.88086186786693"
                 ]
             },
             "properties": {
@@ -411,8 +762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.884203566047868",
-                    "42.64756083803727"
+                    "-8.88452794086762",
+                    "42.646633897339036"
                 ]
             },
             "properties": {
@@ -429,8 +780,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7020977103740362",
-                    "40.4178993409335"
+                    "-3.7020957431062764",
+                    "40.41829149285047"
                 ]
             },
             "properties": {
@@ -447,8 +798,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723552111202293",
-                    "42.23959858382833"
+                    "-8.72434095177902",
+                    "42.238348821223966"
                 ]
             },
             "properties": {
@@ -466,8 +817,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.790366096675253",
-                    "42.51649633750897"
+                    "-8.789905555828867",
+                    "42.51528008432902"
                 ]
             },
             "properties": {
@@ -484,8 +835,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652937408130853",
-                    "42.1983909162916"
+                    "-8.544490876691455",
+                    "42.88077865517938"
+                ]
+            },
+            "properties": {
+                "name": "Legítimo Polvo + Nocturna + Low Blows",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27128/-/legitimo-polvo-nocturna-low-blows.html",
+                "dates": [
+                    "Saturday 08 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.65308902309742",
+                    "42.198584651380166"
                 ]
             },
             "properties": {
@@ -502,8 +871,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885138378033208",
-                    "42.64723146337512"
+                    "-8.885373250395887",
+                    "42.646333936478456"
                 ]
             },
             "properties": {
@@ -512,6 +881,97 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27078/-/espino-band.html",
                 "dates": [
                     "Saturday 08 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.556056139134096",
+                    "43.01089865787187"
+                ]
+            },
+            "properties": {
+                "name": "Carlos Núñez",
+                "location": "Santander (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27119/-/carlos-nunez.html",
+                "dates": [
+                    "Sunday 09 Feb",
+                    "Monday 10 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.785337339843746",
+                    "42.32793735894126"
+                ]
+            },
+            "properties": {
+                "name": "Foliada Arredor da Tradición",
+                "location": "Bueu",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27111/-/foliada-arredor-da-tradicion.html",
+                "dates": [
+                    "Sunday 09 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.170684539774339",
+                    "43.40827995734836"
+                ]
+            },
+            "properties": {
+                "name": "Abril",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27116/-/abril.html",
+                "dates": [
+                    "Saturday 15 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.17146895495764",
+                    "43.408532495651"
+                ]
+            },
+            "properties": {
+                "name": "Pava",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27117/-/pava.html",
+                "dates": [
+                    "Saturday 15 Feb"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555632370846852",
+                    "43.013431876291065"
+                ]
+            },
+            "properties": {
+                "name": "Festa Facela x A Seara",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27129/-/festa-facela-x-a-seara.html",
+                "dates": [
+                    "Saturday 22 Feb"
                 ]
             }
         }
