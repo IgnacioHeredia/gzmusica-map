@@ -22,7 +22,7 @@ month_map = {
     'Mar': 'Mar',
     'Abr': 'Apr',
     'Mai': 'May',
-    'Xuñ': 'Jun',
+    'Xun': 'Jun',
     'Xul': 'Jul',
     'Ago': 'Aug',
     'Set': 'Sep',
