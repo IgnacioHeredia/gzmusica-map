@@ -6,18 +6,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.609535654842883",
-                    "42.30530172354843"
+                    "-8.687182763857617",
+                    "43.213905220309805"
                 ]
             },
             "properties": {
-                "name": "XVIII Festival Alternativo Millo Verde",
-                "location": "Cesantes (Redondela)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27686/-/xviii-festival-alternativo-millo-verde.html",
+                "name": "43º Albaroque",
+                "location": "Carballo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28020/-/43-albaroque.html",
                 "dates": [
-                    "Thursday 05 Jun",
                     "Friday 06 Jun",
-                    "Saturday 07 Jun"
+                    "Saturday 07 Jun",
+                    "Sunday 08 Jun"
                 ]
             }
         },
@@ -26,44 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556008715427372",
-                    "43.01289559696063"
-                ]
-            },
-            "properties": {
-                "name": "Cantareiras d´Xanares",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27971/-/cantareiras-d-xanares.html",
-                "dates": [
-                    "Thursday 05 Jun"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.556444688122919",
-                    "43.01214242626973"
-                ]
-            },
-            "properties": {
-                "name": "Fuxan Os Ventos",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27918/-/fuxan-os-ventos.html",
-                "dates": [
-                    "Thursday 05 Jun"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.923429117714889",
-                    "42.45658384184049"
+                    "-8.924572898272618",
+                    "42.455568121753366"
                 ]
             },
             "properties": {
@@ -82,8 +46,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641831377784214",
-                    "42.43249753006011"
+                    "-8.298969859197182",
+                    "43.212172591443945"
+                ]
+            },
+            "properties": {
+                "name": "Festas de Santo Antón",
+                "location": "Cabanas (Abegondo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28031/-/festas-de-santo-anton.html",
+                "dates": [
+                    "Friday 06 Jun",
+                    "Saturday 07 Jun",
+                    "Sunday 08 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641997851571684",
+                    "42.431902562447036"
                 ]
             },
             "properties": {
@@ -101,8 +85,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.191017137634427",
-                    "43.34973546893643"
+                    "-7.190580117046764",
+                    "43.34945530976904"
                 ]
             },
             "properties": {
@@ -120,8 +104,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.664331286733926",
-                    "42.434165000958494"
+                    "-8.663455478326359",
+                    "42.43398785112026"
                 ]
             },
             "properties": {
@@ -140,8 +124,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.874715466601081",
-                    "42.830945909235744"
+                    "-8.609218909089131",
+                    "42.30609086569182"
+                ]
+            },
+            "properties": {
+                "name": "XVIII Festival Alternativo Millo Verde",
+                "location": "Cesantes (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27686/-/xviii-festival-alternativo-millo-verde.html",
+                "dates": [
+                    "Friday 06 Jun",
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.642701798762728",
+                    "42.43239886214236"
+                ]
+            },
+            "properties": {
+                "name": "Pauliña",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27989/-/paulina.html",
+                "dates": [
+                    "Friday 06 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.874861870000645",
+                    "42.83044608063114"
                 ]
             },
             "properties": {
@@ -158,8 +179,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395882952088083",
-                    "43.37209041970273"
+                    "-8.393957791716945",
+                    "43.371660254592435"
                 ]
             },
             "properties": {
@@ -176,8 +197,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866335248911885",
-                    "42.345337447391266"
+                    "-8.232108107496066",
+                    "43.48472290178104"
+                ]
+            },
+            "properties": {
+                "name": "Víctor Aneiros",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28014/-/victor-aneiros.html",
+                "dates": [
+                    "Friday 06 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.7022747373541183",
+                    "40.417647029252564"
+                ]
+            },
+            "properties": {
+                "name": "Os Sibailas",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28021/-/os-sibailas.html",
+                "dates": [
+                    "Friday 06 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.232649616083389",
+                    "43.486110897897106"
+                ]
+            },
+            "properties": {
+                "name": "IV Pandereitada",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27992/-/iv-pandereitada.html",
+                "dates": [
+                    "Friday 06 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.86648582200532",
+                    "42.34404345611023"
                 ]
             },
             "properties": {
@@ -194,14 +269,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.838398936897497",
-                    "43.16258958774588"
+                    "-4.799652435200528",
+                    "43.41316023577513"
                 ]
             },
             "properties": {
-                "name": "Parga Rock Sesión Vermú",
-                "location": "Parga (Guitiriz)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27917/-/parga-rock-sesion-vermu.html",
+                "name": "Ailá",
+                "location": "Porrúa, Llanes (Asturies)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27988/-/aila.html",
                 "dates": [
                     "Saturday 07 Jun"
                 ]
@@ -212,8 +287,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.707698110400816",
-                    "42.7328702052705"
+                    "-8.394091184297581",
+                    "43.37143528180853"
+                ]
+            },
+            "properties": {
+                "name": "Foliagra",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28023/-/foliagra.html",
+                "dates": [
+                    "Saturday 07 Jun",
+                    "Sunday 08 Jun",
+                    "Saturday 14 Jun",
+                    "Sunday 15 Jun",
+                    "Saturday 21 Jun",
+                    "Sunday 22 Jun",
+                    "Saturday 28 Jun",
+                    "Sunday 29 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.9858388115852437",
+                    "37.6168493115056"
+                ]
+            },
+            "properties": {
+                "name": "Luar na Lubre",
+                "location": "Cartaxena, Murcia 8España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28000/-/luar-na-lubre.html",
+                "dates": [
+                    "Saturday 07 Jun",
+                    "Saturday 21 Jun",
+                    "Monday 30 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.707533012477185",
+                    "42.731776183790316"
                 ]
             },
             "properties": {
@@ -230,8 +350,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.788272213118631",
-                    "42.08163096206606"
+                    "-8.788588842412409",
+                    "42.08297492808451"
                 ]
             },
             "properties": {
@@ -248,8 +368,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555813662407638",
-                    "43.01358502457359"
+                    "-9.00392011399371",
+                    "42.72785523023893"
+                ]
+            },
+            "properties": {
+                "name": "Creasón",
+                "location": "Porto do Son",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28009/-/creason.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555255846267808",
+                    "43.01360148814481"
                 ]
             },
             "properties": {
@@ -266,8 +404,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.134824505443833",
-                    "43.39213376257621"
+                    "-7.556402369012848",
+                    "43.01194013310159"
+                ]
+            },
+            "properties": {
+                "name": "Festival 50 Anos Adega",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28016/-/festival-50-anos-adega.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.134550540225993",
+                    "43.39228534869231"
                 ]
             },
             "properties": {
@@ -284,8 +440,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.55932413040685",
-                    "43.232229072336196"
+                    "-7.951508104500936",
+                    "42.29340183728095"
+                ]
+            },
+            "properties": {
+                "name": "IV Feira da Cervexa Artesá",
+                "location": "Trellerma, Trelle (Toén)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27994/-/iv-feira-da-cervexa-artesa.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.836942369082926",
+                    "43.16323219735625"
+                ]
+            },
+            "properties": {
+                "name": "Parga Rock Sesión Vermú",
+                "location": "Parga (Guitiriz)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27917/-/parga-rock-sesion-vermu.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.593825955617927",
+                    "42.54566666854781"
+                ]
+            },
+            "properties": {
+                "name": "VI Gandaina Urbana",
+                "location": "Ponferrada (O Bierzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28022/-/vi-gandaina-urbana.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.251103922334025",
+                    "42.749310201483354"
+                ]
+            },
+            "properties": {
+                "name": "XXVI Encontros de Música Tradicional",
+                "location": "Carboeiro (Silleda)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28027/-/xxvi-encontros-de-musica-tradicional.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.55909729980564",
+                    "43.23230567454104"
                 ]
             },
             "properties": {
@@ -302,8 +530,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.213865801958853",
-                    "43.53624327695761"
+                    "-7.994834568338056",
+                    "43.621535787465376"
+                ]
+            },
+            "properties": {
+                "name": "XI Xuntanza Grupos Tradicionais",
+                "location": "O Castro, Cerdido (Cerdido)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28005/-/xi-xuntanza-grupos-tradicionais.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.21812424332852",
+                    "42.574531574378085"
+                ]
+            },
+            "properties": {
+                "name": "Festa dos Carboeir@s",
+                "location": "A Campa, Vilamor (Folgoso do Courel)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27991/-/festa-dos-carboeir-s.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.213625669254949",
+                    "43.53553153809038"
                 ]
             },
             "properties": {
@@ -320,14 +584,122 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555612085926445",
-                    "43.013517092724285"
+                    "-8.13440820139918",
+                    "42.254470292088406"
                 ]
             },
             "properties": {
-                "name": "Fuxan os Ventos",
+                "name": "V Serán d´Arnoia",
+                "location": "Arnoia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28028/-/v-seran-d-arnoia.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.866392616448627",
+                    "42.550593325066785"
+                ]
+            },
+            "properties": {
+                "name": "Cantos de Taberna na Illa de Arousa",
+                "location": "A Illa de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28030/-/cantos-de-taberna-na-illa-de-arousa.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.013156495920944",
+                    "42.914609970080114"
+                ]
+            },
+            "properties": {
+                "name": "Festival de Cantareiras Voces Agarimosas",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28029/-/festival-de-cantareiras-voces-agarimosas.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.883848337339671",
+                    "42.617516323861445"
+                ]
+            },
+            "properties": {
+                "name": "I Serán Mariñeiro Cabo de Cruz",
+                "location": "Cabo de Cruz, Castro (Boiro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28032/-/i-seran-marineiro-cabo-de-cruz.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.220852759061481",
+                    "43.50463840642146"
+                ]
+            },
+            "properties": {
+                "name": "Voces con Palestina",
+                "location": "Catabois, Serantes 8Ferrol)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28003/-/voces-con-palestina.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.733796014429748",
+                    "42.91121574096268"
+                ]
+            },
+            "properties": {
+                "name": "Festival Internacional de Folclore Vila de Negreira",
+                "location": "Negreira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28033/-/festival-internacional-de-folclore-vila-de-negreira.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555974155682235",
+                    "43.012504441805625"
+                ]
+            },
+            "properties": {
+                "name": "Fuxan os Ventos + De Ninghures + Faia",
                 "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27919/-/fuxan-os-ventos.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27919/-/fuxan-os-ventos-de-ninghures-faia.html",
                 "dates": [
                     "Saturday 07 Jun",
                     "Sunday 08 Jun"
@@ -339,8 +711,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642143919690795",
-                    "42.433771474264034"
+                    "-7.732731382144008",
+                    "42.64950362642232"
+                ]
+            },
+            "properties": {
+                "name": "Toda Galicia Vai Nela",
+                "location": "Sabadelle (Chantada)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28018/-/toda-galicia-vai-nela.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.720617776013745",
+                    "41.583733077477284"
+                ]
+            },
+            "properties": {
+                "name": "Óscar Ibáñez & Tribo",
+                "location": "Laguna de Duero, Valladolid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27981/-/oscar-ibanez-tribo.html",
+                "dates": [
+                    "Saturday 07 Jun",
+                    "Sunday 08 Jun",
+                    "Saturday 28 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.642689175779829",
+                    "42.43379314636022"
                 ]
             },
             "properties": {
@@ -357,8 +767,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724345280219746",
-                    "42.2389875476568"
+                    "-7.414572806676522",
+                    "42.77934312585786"
+                ]
+            },
+            "properties": {
+                "name": "Keltoi",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27987/-/keltoi.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723468344770975",
+                    "42.238057330539654"
                 ]
             },
             "properties": {
@@ -375,8 +803,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.605056773262763",
-                    "42.141169334088765"
+                    "-8.604531440256515",
+                    "42.1413971349702"
                 ]
             },
             "properties": {
@@ -393,8 +821,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.873499950877008",
-                    "41.90286101926327"
+                    "-8.872223556998998",
+                    "41.902838987503756"
                 ]
             },
             "properties": {
@@ -411,8 +839,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.7243394058208",
-                    "42.239265108685515"
+                    "-8.724625860455378",
+                    "42.238817806669125"
                 ]
             },
             "properties": {
@@ -429,8 +857,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723688881596294",
-                    "42.23890359676459"
+                    "-8.722742747486647",
+                    "42.239113988386734"
                 ]
             },
             "properties": {
@@ -447,8 +875,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793014474750779",
-                    "42.08900263873044"
+                    "-7.7939904621371054",
+                    "42.08822617843514"
                 ]
             },
             "properties": {
@@ -465,8 +893,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.62392228825431",
-                    "42.2043898064211"
+                    "-7.725343661908196",
+                    "43.63455478901298"
+                ]
+            },
+            "properties": {
+                "name": "Bestas + Barullo",
+                "location": "O Barqueiro, Mañón (Mañón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28017/-/bestas-barullo.html",
+                "dates": [
+                    "Saturday 07 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012291096199698",
+                    "43.22348224994461"
+                ]
+            },
+            "properties": {
+                "name": "Foliada III Aniversario Bar Paco",
+                "location": "Aranga",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28035/-/foliada-iii-aniversario-bar-paco.html",
+                "dates": [
+                    "Sunday 08 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866612141275732",
+                    "42.34454796956117"
+                ]
+            },
+            "properties": {
+                "name": "Concerto de Fin de Curso AOFT",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28034/-/concerto-de-fin-de-curso-aoft.html",
+                "dates": [
+                    "Sunday 08 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.139543666598907",
+                    "43.551734915968005"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz",
+                "location": "Sedes (Narón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27998/-/xabier-diaz.html",
+                "dates": [
+                    "Sunday 08 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.622879231392487",
+                    "42.2050050603383"
                 ]
             },
             "properties": {
@@ -483,8 +983,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793498010695538",
-                    "42.08761308000692"
+                    "-8.49926611422874",
+                    "43.310773913513174"
+                ]
+            },
+            "properties": {
+                "name": "Arnela + Breo",
+                "location": "Arteixo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28019/-/arnela-breo.html",
+                "dates": [
+                    "Sunday 08 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794043538576757",
+                    "42.08822552485388"
                 ]
             },
             "properties": {
@@ -501,8 +1019,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395196139935779",
-                    "43.37179521536446"
+                    "-8.72277970295447",
+                    "42.23954757786312"
+                ]
+            },
+            "properties": {
+                "name": "Sincopés",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27993/-/sincopes.html",
+                "dates": [
+                    "Wednesday 11 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.689621263513615",
+                    "42.23071600380538"
+                ]
+            },
+            "properties": {
+                "name": "Festas da Alegría",
+                "location": "Lavadores (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28011/-/festas-da-alegria.html",
+                "dates": [
+                    "Friday 13 Jun",
+                    "Saturday 14 Jun",
+                    "Sunday 15 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395105497130888",
+                    "43.37199931533719"
                 ]
             },
             "properties": {
@@ -519,8 +1075,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794068869346745",
-                    "42.088906683659786"
+                    "-8.233089131941552",
+                    "43.48500198292821"
+                ]
+            },
+            "properties": {
+                "name": "Artes e Músicas Miudas",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27995/-/artes-e-musicas-miudas.html",
+                "dates": [
+                    "Friday 13 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.79436899212126",
+                    "42.088989958515356"
                 ]
             },
             "properties": {
@@ -537,8 +1111,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545144190071086",
-                    "42.8823802221591"
+                    "-8.824748048448146",
+                    "42.3950088671005"
+                ]
+            },
+            "properties": {
+                "name": "Germán Prieto",
+                "location": "Portonovo, Adina (Sanxenxo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28012/-/german-prieto.html",
+                "dates": [
+                    "Friday 13 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545653992850795",
+                    "42.88057117834134"
                 ]
             },
             "properties": {
@@ -555,8 +1147,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39403055445376",
-                    "43.37183181385384"
+                    "-8.394915637063624",
+                    "43.37194020761677"
                 ]
             },
             "properties": {
@@ -574,8 +1166,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.045444617917981",
-                    "42.73816756842669"
+                    "-8.044877572969972",
+                    "42.73908214045581"
                 ]
             },
             "properties": {
@@ -593,26 +1185,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.852675203013189",
-                    "43.452066958711455"
-                ]
-            },
-            "properties": {
-                "name": "Romaría das Merendas",
-                "location": "As Pontes",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27501/-/romaria-das-merendas.html",
-                "dates": [
-                    "Saturday 14 Jun"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.641560678982675",
-                    "42.43339921574377"
+                    "-8.642178488700305",
+                    "42.43352455529039"
                 ]
             },
             "properties": {
@@ -629,8 +1203,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.483667968297915",
-                    "43.16229497521891"
+                    "-8.520490069523433",
+                    "42.36115487614021"
+                ]
+            },
+            "properties": {
+                "name": "9ª Xuntanza Folc Follas de Olivar",
+                "location": "A Insua (Ponte Caldelas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27999/-/9-xuntanza-folc-follas-de-olivar.html",
+                "dates": [
+                    "Saturday 14 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.8518485521554675",
+                    "43.4517739019911"
+                ]
+            },
+            "properties": {
+                "name": "Romaría das Merendas",
+                "location": "As Pontes",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27501/-/romaria-das-merendas.html",
+                "dates": [
+                    "Saturday 14 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.483258401131536",
+                    "43.161740801147545"
                 ]
             },
             "properties": {
@@ -647,8 +1257,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.725035680524167",
-                    "42.175806454670905"
+                    "-7.4017886933746695",
+                    "43.66511037393006"
+                ]
+            },
+            "properties": {
+                "name": "Festa Presentación Festival Aturuxo 2025",
+                "location": "Sargadelos (Cervo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28007/-/festa-presentacion-festival-aturuxo-2025.html",
+                "dates": [
+                    "Saturday 14 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394792523369441",
+                    "43.37246331254336"
+                ]
+            },
+            "properties": {
+                "name": "Zavala",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28015/-/zavala.html",
+                "dates": [
+                    "Saturday 14 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816906677771215",
+                    "42.648913236228175"
+                ]
+            },
+            "properties": {
+                "name": "Abrigo e Acubillo Festival",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28008/-/abrigo-e-acubillo-festival.html",
+                "dates": [
+                    "Thursday 19 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.725589321025526",
+                    "42.17515792911954"
                 ]
             },
             "properties": {
@@ -669,8 +1333,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6076452164996",
-                    "42.28517327181587"
+                    "-8.724517966490033",
+                    "42.23790310449028"
+                ]
+            },
+            "properties": {
+                "name": "Refufest",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27990/-/refufest.html",
+                "dates": [
+                    "Friday 20 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.606845597041808",
+                    "42.284765049610016"
                 ]
             },
             "properties": {
@@ -687,8 +1369,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.6422428553665025",
-                    "42.51059045496739"
+                    "-7.641371176374462",
+                    "42.50890336129491"
                 ]
             },
             "properties": {
@@ -706,8 +1388,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413694069251261",
-                    "42.778793981270844"
+                    "-8.231736268822461",
+                    "43.48592516993577"
+                ]
+            },
+            "properties": {
+                "name": "Repichoca",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27996/-/repichoca.html",
+                "dates": [
+                    "Friday 20 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.414483998996395",
+                    "42.778877475148846"
                 ]
             },
             "properties": {
@@ -724,8 +1424,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.648197296925483",
-                    "42.859629471355454"
+                    "-8.756899189148927",
+                    "42.515898832824"
+                ]
+            },
+            "properties": {
+                "name": "Ruada das Gotas",
+                "location": "Ribadumia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28004/-/ruada-das-gotas.html",
+                "dates": [
+                    "Saturday 21 Jun",
+                    "Sunday 22 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.649283950166385",
+                    "42.861140376419335"
                 ]
             },
             "properties": {
@@ -742,8 +1461,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545812780699137",
-                    "42.88165392780924"
+                    "-8.545805015435926",
+                    "42.88146374083073"
                 ]
             },
             "properties": {
@@ -760,8 +1479,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65147702956727",
-                    "42.19885184630893"
+                    "-8.652072218601994",
+                    "42.197079936800385"
                 ]
             },
             "properties": {
@@ -778,8 +1497,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.220485694991131",
-                    "43.27367079956152"
+                    "-8.642177990745454",
+                    "42.4321773889365"
+                ]
+            },
+            "properties": {
+                "name": "III Foliada de Lume Novo",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27997/-/iii-foliada-de-lume-novo.html",
+                "dates": [
+                    "Monday 23 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.220075258162119",
+                    "43.273817586849745"
                 ]
             },
             "properties": {
@@ -797,8 +1534,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.261814561918712",
-                    "42.9069532656331"
+                    "-9.262636455813988",
+                    "42.907614211688255"
                 ]
             },
             "properties": {
@@ -817,8 +1554,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.82148577909368",
-                    "42.6097247995693"
+                    "-7.820076776471908",
+                    "42.610087170056225"
                 ]
             },
             "properties": {
@@ -835,8 +1572,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866745964150297",
-                    "42.3438181607029"
+                    "-8.619240147329384",
+                    "42.162250144505066"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28006/-/baiuca.html",
+                "dates": [
+                    "Saturday 28 Jun"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866842350390982",
+                    "42.344547345408444"
                 ]
             },
             "properties": {
@@ -853,8 +1608,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793328297860909",
-                    "42.088693401394714"
+                    "-7.793600257873628",
+                    "42.08830237895798"
                 ]
             },
             "properties": {
@@ -871,8 +1626,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.404086249531924",
-                    "42.597045211417985"
+                    "-8.403014466213753",
+                    "42.597152548732865"
                 ]
             },
             "properties": {
@@ -881,7 +1636,8 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27937/-/a-rapa-das-bestas.html",
                 "dates": [
                     "Friday 04 Jul",
-                    "Saturday 05 Jul"
+                    "Saturday 05 Jul",
+                    "Sunday 06 Jul"
                 ]
             }
         },
@@ -890,8 +1646,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.03130810922457",
-                    "43.110428205462604"
+                    "-9.03113383667905",
+                    "43.11215440056452"
                 ]
             },
             "properties": {
@@ -909,8 +1665,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.742789038163723",
-                    "42.2183079610903"
+                    "-8.743804134992422",
+                    "42.21954875579718"
                 ]
             },
             "properties": {
@@ -919,7 +1675,8 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27717/-/festas-da-consolacion.html",
                 "dates": [
                     "Friday 04 Jul",
-                    "Saturday 05 Jul"
+                    "Saturday 05 Jul",
+                    "Sunday 06 Jul"
                 ]
             }
         },
@@ -928,8 +1685,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.221586143314882",
-                    "43.2731321301625"
+                    "-8.22072700730018",
+                    "43.27395209526038"
                 ]
             },
             "properties": {
@@ -947,14 +1704,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.404181050266034",
-                    "42.595940062804495"
+                    "-8.402723474917122",
+                    "42.596913411173"
                 ]
             },
             "properties": {
                 "name": "Rapasons 2025",
                 "location": "Sabucedo (A Estrada)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/27851/-/rapasons-2025.html",
+                "dates": [
+                    "Friday 04 Jul",
+                    "Saturday 05 Jul",
+                    "Sunday 06 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.504086151079973",
+                    "42.175202538049916"
+                ]
+            },
+            "properties": {
+                "name": "XIII Rock in Río Tea",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27769/-/xiii-rock-in-rio-tea.html",
                 "dates": [
                     "Friday 04 Jul",
                     "Saturday 05 Jul"
@@ -966,16 +1743,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.50463887806455",
-                    "42.17423005755594"
+                    "-8.084545350612348",
+                    "43.4984845619779"
                 ]
             },
             "properties": {
-                "name": "XIII Rock in Río Tea",
-                "location": "Ponteareas",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27769/-/xiii-rock-in-rio-tea.html",
+                "name": "XXX Festival do Río Castro",
+                "location": "Naraío (San Sadurniño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/27984/-/xxx-festival-do-rio-castro.html",
                 "dates": [
-                    "Friday 04 Jul",
                     "Saturday 05 Jul"
                 ]
             }
