@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395925950533623",
-                    "43.37199673138545"
+                    "-8.39441618762452",
+                    "43.372774681202294"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "A Coruña",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28189/-/atlantic-pride.html",
                 "dates": [
-                    "Thursday 10 Jul",
                     "Friday 11 Jul",
                     "Saturday 12 Jul",
                     "Sunday 13 Jul"
@@ -27,8 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619648145352519",
-                    "42.16189597702605"
+                    "-8.62007786062981",
+                    "42.162389201870326"
                 ]
             },
             "properties": {
@@ -36,7 +35,6 @@
                 "location": "O Porriño",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28269/-/festas-de-san-bieito.html",
                 "dates": [
-                    "Thursday 10 Jul",
                     "Friday 11 Jul"
                 ]
             }
@@ -46,8 +44,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.702919584116314",
-                    "42.39295732911002"
+                    "-8.701754055672026",
+                    "42.393800504066526"
                 ]
             },
             "properties": {
@@ -55,7 +53,6 @@
                 "location": "Marín",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28176/-/festas-do-carme-marin.html",
                 "dates": [
-                    "Thursday 10 Jul",
                     "Friday 11 Jul",
                     "Saturday 12 Jul",
                     "Sunday 13 Jul",
@@ -70,8 +67,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.853685510294205",
-                    "43.68569994393041"
+                    "-7.852350381953384",
+                    "43.451762661386525"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Carme e da Fraga",
+                "location": "As Pontes",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28288/-/festas-do-carme-e-da-fraga.html",
+                "dates": [
+                    "Friday 11 Jul",
+                    "Saturday 12 Jul",
+                    "Sunday 13 Jul",
+                    "Monday 14 Jul",
+                    "Tuesday 15 Jul",
+                    "Wednesday 16 Jul",
+                    "Thursday 17 Jul",
+                    "Friday 18 Jul",
+                    "Saturday 19 Jul",
+                    "Sunday 20 Jul",
+                    "Monday 21 Jul",
+                    "Tuesday 22 Jul",
+                    "Wednesday 23 Jul",
+                    "Thursday 24 Jul",
+                    "Friday 25 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.853159146105343",
+                    "43.684956922803686"
                 ]
             },
             "properties": {
@@ -79,7 +108,6 @@
                 "location": "Ortigueira",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28139/-/festival-internacional-do-mundo-celta-de-ortigueira.html",
                 "dates": [
-                    "Thursday 10 Jul",
                     "Friday 11 Jul",
                     "Saturday 12 Jul",
                     "Sunday 13 Jul"
@@ -91,16 +119,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.35118040719818",
-                    "43.337703808579754"
+                    "-8.315387661486197",
+                    "43.334474297591214"
                 ]
             },
             "properties": {
-                "name": "Cores e Rock",
-                "location": "Lóngora, Liáns (Oleiros)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28241/-/cores-e-rock.html",
+                "name": "IX Rúa Excéntrica",
+                "location": "Oleiros",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28280/-/ix-rua-excentrica.html",
                 "dates": [
-                    "Thursday 10 Jul"
+                    "Friday 11 Jul",
+                    "Saturday 12 Jul",
+                    "Sunday 13 Jul"
                 ]
             }
         },
@@ -109,16 +139,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.825062870195753",
-                    "42.56304831471604"
+                    "-8.72438282772238",
+                    "42.2391897346027"
                 ]
             },
             "properties": {
-                "name": "Manu Fusta",
-                "location": "Vilanova de Arousa",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28199/-/manu-fusta.html",
+                "name": "Vigo Sea Fest",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28283/-/vigo-sea-fest.html",
                 "dates": [
-                    "Thursday 10 Jul"
+                    "Friday 11 Jul",
+                    "Saturday 12 Jul",
+                    "Sunday 13 Jul"
                 ]
             }
         },
@@ -127,26 +159,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.61489026461595",
-                    "42.2548251376134"
-                ]
-            },
-            "properties": {
-                "name": "Kornoj",
-                "location": "Fixón, Negros (Redondela)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28175/-/kornoj.html",
-                "dates": [
-                    "Thursday 10 Jul"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.394420877536186",
-                    "43.37158902088307"
+                    "-8.395345071550958",
+                    "43.37180190449143"
                 ]
             },
             "properties": {
@@ -165,8 +179,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64211004621638",
-                    "42.43371187305468"
+                    "-8.642823540876991",
+                    "42.43341070735663"
                 ]
             },
             "properties": {
@@ -185,8 +199,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.866524369715238",
-                    "42.551809035482925"
+                    "-8.865273309704566",
+                    "42.550468574831484"
                 ]
             },
             "properties": {
@@ -203,8 +217,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688406834067415",
-                    "43.21435510159121"
+                    "-8.688819435487376",
+                    "43.21400696199063"
                 ]
             },
             "properties": {
@@ -227,8 +241,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504824025528645",
-                    "42.17448656492294"
+                    "-8.655886365821106",
+                    "43.025959401763735"
+                ]
+            },
+            "properties": {
+                "name": "II Ruada Val do Dubra",
+                "location": "Bembibre (Val do Dubra)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28281/-/ii-ruada-val-do-dubra.html",
+                "dates": [
+                    "Friday 11 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.664498445334129",
+                    "42.26400477949831"
+                ]
+            },
+            "properties": {
+                "name": "Homenaxe a Suso Vaamonde",
+                "location": "Chapela (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28278/-/homenaxe-a-suso-vaamonde.html",
+                "dates": [
+                    "Friday 11 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.7273527451010515",
+                    "41.22484633292486"
+                ]
+            },
+            "properties": {
+                "name": "Mercedes Peón",
+                "location": "Vilanova i La Geltrú, Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28285/-/mercedes-peon.html",
+                "dates": [
+                    "Friday 11 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.504245682753636",
+                    "42.175150228872766"
                 ]
             },
             "properties": {
@@ -247,8 +315,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.578578819550593",
-                    "42.97064488790498"
+                    "-8.57864050025322",
+                    "42.97069766018484"
                 ]
             },
             "properties": {
@@ -265,8 +333,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6021723172698",
-                    "42.3382218022706"
+                    "-8.601636100886944",
+                    "42.33684185960957"
                 ]
             },
             "properties": {
@@ -283,8 +351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866480091359895",
-                    "42.34414219016857"
+                    "-7.86638609251188",
+                    "42.34543521838405"
                 ]
             },
             "properties": {
@@ -301,8 +369,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.436966455815064",
-                    "42.7034205691417"
+                    "-8.437303546221516",
+                    "42.70362240556465"
                 ]
             },
             "properties": {
@@ -319,8 +387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.454584603979228",
-                    "43.05251119641194"
+                    "-8.454698292153921",
+                    "43.053850956066384"
                 ]
             },
             "properties": {
@@ -337,16 +405,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.346064588378779",
-                    "42.64543166363546"
+                    "-8.345493256189956",
+                    "42.64460872235055"
                 ]
             },
             "properties": {
-                "name": "Xabier Dáiz & Adufeiras de Salitre",
+                "name": "Xabier Díaz & Adufeiras de Salitre",
                 "location": "A Graña de Umia, Quintillán (Forcarei)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28264/-/xabier-daiz-adufeiras-de-salitre.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28264/-/xabier-diaz-adufeiras-de-salitre.html",
                 "dates": [
-                    "Saturday 12 Jul"
+                    "Saturday 12 Jul",
+                    "Saturday 02 Aug"
                 ]
             }
         },
@@ -355,8 +424,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.505108196050914",
-                    "43.000068750824724"
+                    "-8.505325682217299",
+                    "42.99866763026334"
                 ]
             },
             "properties": {
@@ -373,8 +442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.117269040883283",
-                    "42.97273279170868"
+                    "-9.118173184490322",
+                    "42.97300677768444"
                 ]
             },
             "properties": {
@@ -391,8 +460,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545997171405705",
-                    "43.08776925308853"
+                    "-8.54561194000092",
+                    "43.08745392925881"
                 ]
             },
             "properties": {
@@ -409,8 +478,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394274268484603",
-                    "43.37273541785586"
+                    "-8.395159195350017",
+                    "43.37195840922967"
                 ]
             },
             "properties": {
@@ -427,8 +496,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.866347592531133",
-                    "42.34559853648263"
+                    "-7.8663755430393625",
+                    "42.345091442245014"
                 ]
             },
             "properties": {
@@ -445,8 +514,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.649594521519083",
-                    "42.74079067952569"
+                    "-8.7847557635394",
+                    "42.32898586967836"
+                ]
+            },
+            "properties": {
+                "name": "Ortiga",
+                "location": "Bueu",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28284/-/ortiga.html",
+                "dates": [
+                    "Saturday 12 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.650874563946656",
+                    "42.73895004144604"
                 ]
             },
             "properties": {
@@ -463,8 +550,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.825905181486377",
-                    "42.564186353551364"
+                    "-8.967736766110557",
+                    "42.58686165823902"
+                ]
+            },
+            "properties": {
+                "name": "Dani Barreiro & Friends",
+                "location": "Palmeira (Ribeira)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28282/-/dani-barreiro-friends.html",
+                "dates": [
+                    "Sunday 13 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.324486912558862",
+                    "43.581396502135235"
+                ]
+            },
+            "properties": {
+                "name": "Festival coa Nosa Fala",
+                "location": "Foz",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28279/-/festival-coa-nosa-fala.html",
+                "dates": [
+                    "Sunday 13 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72461093766377",
+                    "42.238124298229344"
+                ]
+            },
+            "properties": {
+                "name": "Orquestra Bravú Xangai",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28286/-/orquestra-bravu-xangai.html",
+                "dates": [
+                    "Thursday 17 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.8262799145845",
+                    "42.563391857307394"
                 ]
             },
             "properties": {
@@ -481,8 +622,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.514246314044978",
-                    "42.19146104327216"
+                    "-8.515738237547946",
+                    "42.19112105057439"
                 ]
             },
             "properties": {
@@ -501,8 +642,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.9797854168616675",
-                    "42.40519474519563"
+                    "-6.980302924186801",
+                    "42.40445701360634"
                 ]
             },
             "properties": {
@@ -520,8 +661,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.013210822523657",
-                    "42.581820697562485"
+                    "-9.011893983384656",
+                    "42.5823837638881"
                 ]
             },
             "properties": {
@@ -544,8 +685,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.673442260424021",
-                    "43.58254934803368"
+                    "-7.67384312323189",
+                    "43.58307382750834"
                 ]
             },
             "properties": {
@@ -563,8 +704,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.853486189019986",
-                    "41.94704602734673"
+                    "-8.854106849690437",
+                    "41.946050590379606"
                 ]
             },
             "properties": {
@@ -583,8 +724,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.556582799745208",
-                    "42.1038312083027"
+                    "-8.81624265347505",
+                    "42.267547140629524"
+                ]
+            },
+            "properties": {
+                "name": "Os Gorrillas",
+                "location": "Liméns, O Hío (Cangas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28277/-/os-gorrillas.html",
+                "dates": [
+                    "Friday 18 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.557813089249088",
+                    "42.1035866251939"
                 ]
             },
             "properties": {
@@ -601,8 +760,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.440029610262126",
-                    "41.9421954197885"
+                    "-7.440172272990669",
+                    "41.94137760702389"
                 ]
             },
             "properties": {
@@ -619,8 +778,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.730596371518798",
-                    "41.97923075726131"
+                    "-8.731929050387203",
+                    "41.97913038156091"
                 ]
             },
             "properties": {
@@ -637,8 +796,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394506730522231",
-                    "43.37154370973574"
+                    "-8.395794714539244",
+                    "43.3717820453498"
                 ]
             },
             "properties": {
@@ -655,8 +814,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.826055258509486",
-                    "42.56368478802264"
+                    "-8.824578139742217",
+                    "42.56293159613391"
                 ]
             },
             "properties": {
@@ -673,8 +832,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54501217443556",
-                    "42.880865125728754"
+                    "-8.54584018873998",
+                    "42.88190335460023"
                 ]
             },
             "properties": {
@@ -692,8 +851,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.733824041986844",
-                    "42.28276631397508"
+                    "-8.733834216775431",
+                    "42.281852745569246"
                 ]
             },
             "properties": {
@@ -711,8 +870,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.639004640298581",
-                    "43.72100316772684"
+                    "-7.639540858868925",
+                    "43.7209510109052"
                 ]
             },
             "properties": {
@@ -730,8 +889,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.042084052789377",
-                    "43.537759456742045"
+                    "-7.042217948453488",
+                    "43.536391559387454"
                 ]
             },
             "properties": {
@@ -749,8 +908,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778978015062732",
-                    "42.264816367270626"
+                    "-8.778704422915405",
+                    "42.2652541324405"
                 ]
             },
             "properties": {
@@ -768,8 +927,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.853748835796045",
-                    "41.945590563016374"
+                    "-8.723859314723107",
+                    "42.238781776079065"
+                ]
+            },
+            "properties": {
+                "name": "Moon Cresta",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28276/-/moon-cresta.html",
+                "dates": [
+                    "Friday 25 Jul"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.854540387112165",
+                    "41.945645752318256"
                 ]
             },
             "properties": {
@@ -786,8 +963,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.952014757327044",
-                    "43.00787107455264"
+                    "-7.9507365009163316",
+                    "43.0073527146691"
                 ]
             },
             "properties": {
@@ -804,8 +981,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792671220396722",
-                    "42.08831584915035"
+                    "-7.7929257999840456",
+                    "42.088561146935795"
                 ]
             },
             "properties": {
@@ -822,8 +999,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.284738495333796",
-                    "42.85004931780904"
+                    "-8.28545346104424",
+                    "42.850220177609096"
                 ]
             },
             "properties": {
@@ -840,8 +1017,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.192076212103029",
-                    "43.43773490830141"
+                    "-8.192234255336581",
+                    "43.43670175507699"
                 ]
             },
             "properties": {
@@ -860,8 +1037,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.345174126393344",
-                    "43.33804936582185"
+                    "-8.345674276219107",
+                    "43.33805060011376"
                 ]
             },
             "properties": {
@@ -878,8 +1055,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.917350308298543",
-                    "43.19049135074537"
+                    "-7.916776634071162",
+                    "43.19035928876191"
                 ]
             },
             "properties": {
@@ -898,8 +1075,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.577841422291437",
-                    "42.84603069065452"
+                    "-8.577405024404596",
+                    "42.84506212909309"
                 ]
             },
             "properties": {
@@ -916,8 +1093,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.093293217091915",
-                    "42.19109656845085"
+                    "-8.093677880369054",
+                    "42.189806432001134"
                 ]
             },
             "properties": {
@@ -935,26 +1112,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.502039812175113",
-                    "42.27561145083449"
-                ]
-            },
-            "properties": {
-                "name": "Xabier Díaz & Adufeiras de Salitre",
-                "location": "Montederramo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/27882/-/xabier-diaz-adufeiras-de-salitre.html",
-                "dates": [
-                    "Saturday 02 Aug"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.744153157535779",
-                    "42.04861274781359"
+                    "-8.744194849017665",
+                    "42.050180975527084"
                 ]
             },
             "properties": {
@@ -971,8 +1130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.872879476075058",
-                    "41.90262072534734"
+                    "-8.872346981785899",
+                    "41.90205980017458"
                 ]
             },
             "properties": {
@@ -985,7 +1144,8 @@
                     "Wednesday 06 Aug",
                     "Thursday 07 Aug",
                     "Friday 08 Aug",
-                    "Saturday 09 Aug"
+                    "Saturday 09 Aug",
+                    "Sunday 10 Aug"
                 ]
             }
         },
@@ -994,8 +1154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.913189458888876",
-                    "43.101204787177466"
+                    "-8.913176080622195",
+                    "43.10019476952265"
                 ]
             },
             "properties": {
@@ -1013,8 +1173,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.056956128917784",
-                    "42.77463229623024"
+                    "-9.057519807031916",
+                    "42.776088610314766"
                 ]
             },
             "properties": {
@@ -1032,8 +1192,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.312069893488701",
-                    "42.11289926767078"
+                    "-8.64250261306981",
+                    "42.43202452144866"
+                ]
+            },
+            "properties": {
+                "name": "Aquí Cántase",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28275/-/aqui-cantase.html",
+                "dates": [
+                    "Friday 08 Aug"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723716324822245",
+                    "42.239088249856316"
+                ]
+            },
+            "properties": {
+                "name": "Txuvasko + Krime + Pangea",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28287/-/txuvasko-krime-pangea.html",
+                "dates": [
+                    "Friday 08 Aug"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.311853535768241",
+                    "42.11250809139101"
                 ]
             },
             "properties": {
@@ -1050,8 +1246,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.644255545573325",
-                    "42.13519803454429"
+                    "-8.643773845521961",
+                    "42.13463652980483"
                 ]
             },
             "properties": {
@@ -1059,7 +1255,8 @@
                 "location": "Pontellas (O Porriño)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28240/-/festas-de-santo-paio.html",
                 "dates": [
-                    "Saturday 09 Aug"
+                    "Saturday 09 Aug",
+                    "Sunday 10 Aug"
                 ]
             }
         },
@@ -1068,8 +1265,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.777661761454794",
-                    "42.26510994896692"
+                    "-8.779601485671702",
+                    "42.266052522377095"
                 ]
             },
             "properties": {
