@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.8157341396938",
-                    "42.64923774799028"
+                    "-8.816516853230755",
+                    "42.65005343742743"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Rianxo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28502/-/festas-da-guadalupe.html",
                 "dates": [
-                    "Friday 12 Sep",
                     "Saturday 13 Sep",
                     "Sunday 14 Sep",
                     "Monday 15 Sep",
@@ -31,16 +30,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.785933326902011",
-                    "42.589587897470246"
+                    "-8.62008585935472",
+                    "42.162903550916546"
                 ]
             },
             "properties": {
-                "name": "Revenidas",
-                "location": "Vilaxoán, Sobrán (Vilagarcía de Arousa)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28093/-/revenidas.html",
+                "name": "Festas do Cristo ",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28698/-/festas-do-cristo.html",
                 "dates": [
-                    "Friday 12 Sep",
                     "Saturday 13 Sep",
                     "Sunday 14 Sep"
                 ]
@@ -51,16 +49,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.867352621093726",
-                    "42.34418774252897"
+                    "-8.970261431205094",
+                    "43.2749694949288"
                 ]
             },
             "properties": {
-                "name": "Son de Clase",
-                "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28694/-/son-de-clase.html",
+                "name": "Noite de Encantos na Furna",
+                "location": "Corme Porto (Ponteceso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28721/-/noite-de-encantos-na-furna.html",
                 "dates": [
-                    "Friday 12 Sep",
                     "Saturday 13 Sep"
                 ]
             }
@@ -70,16 +67,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555821400775467",
-                    "43.011845897946486"
+                    "-7.90365490682775",
+                    "42.26771742250293"
                 ]
             },
             "properties": {
-                "name": "Gala Solidaria Auxilia Lugo",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28611/-/gala-solidaria-auxilia-lugo.html",
+                "name": "Pedra Festival",
+                "location": "Loiro (Barbadás)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28719/-/pedra-festival.html",
                 "dates": [
-                    "Friday 12 Sep"
+                    "Saturday 13 Sep",
+                    "Saturday 20 Sep"
                 ]
             }
         },
@@ -88,16 +86,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.501149440650075",
-                    "43.18700884765984"
+                    "-8.78629001475348",
+                    "42.58900993611839"
                 ]
             },
             "properties": {
-                "name": "Milladoiro",
-                "location": "Ermua, Bizkaia (Euskal Herria)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28646/-/milladoiro.html",
+                "name": "Revenidas",
+                "location": "Vilaxoán, Sobrán (Vilagarcía de Arousa)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28093/-/revenidas.html",
                 "dates": [
-                    "Friday 12 Sep"
+                    "Saturday 13 Sep",
+                    "Sunday 14 Sep"
                 ]
             }
         },
@@ -106,8 +105,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.658206783587945",
-                    "42.24306242053255"
+                    "-8.794823806396582",
+                    "42.19136467539604"
+                ]
+            },
+            "properties": {
+                "name": "Romaría dos Liñares",
+                "location": "Os Liñares, Oia (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28713/-/romaria-dos-linares.html",
+                "dates": [
+                    "Saturday 13 Sep",
+                    "Sunday 14 Sep",
+                    "Monday 15 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.867173616339168",
+                    "42.34378190526499"
+                ]
+            },
+            "properties": {
+                "name": "Son de Clase",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28694/-/son-de-clase.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.658028493717142",
+                    "42.243348951630104"
                 ]
             },
             "properties": {
@@ -124,8 +161,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.260152459694558",
-                    "42.7696750099807"
+                    "-8.258661224820727",
+                    "42.770708488375426"
                 ]
             },
             "properties": {
@@ -142,8 +179,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.691190649761305",
-                    "42.25147477655551"
+                    "-8.54457682307825",
+                    "42.88177190372055"
+                ]
+            },
+            "properties": {
+                "name": "Raigañas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28714/-/raiganas.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.690079822609572",
+                    "42.25207926341041"
                 ]
             },
             "properties": {
@@ -160,8 +215,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5017230207609757",
-                    "43.186842607702275"
+                    "-2.5017648328761837",
+                    "43.187209267902496"
                 ]
             },
             "properties": {
@@ -178,8 +233,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.50839013340443",
-                    "43.311980662237495"
+                    "-8.508761348427768",
+                    "43.31332359525196"
                 ]
             },
             "properties": {
@@ -197,8 +252,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723633651779199",
-                    "42.238087626373876"
+                    "-8.663545895697633",
+                    "42.264622663477304"
+                ]
+            },
+            "properties": {
+                "name": "XII Festa Popular Froles Mareliñas",
+                "location": "Chapela (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28715/-/xii-festa-popular-froles-marelinas.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544506635425602",
+                    "42.880628422635674"
+                ]
+            },
+            "properties": {
+                "name": "Barbitúricos",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28711/-/barbituricos.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72327906560719",
+                    "42.23835421539156"
                 ]
             },
             "properties": {
@@ -216,8 +307,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7930869818384085",
-                    "42.320740740137566"
+                    "-7.792362689475184",
+                    "42.320141910083095"
                 ]
             },
             "properties": {
@@ -234,8 +325,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.076115912330632",
-                    "42.4306659224837"
+                    "-8.076660510481851",
+                    "42.4309355539606"
                 ]
             },
             "properties": {
@@ -252,8 +343,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.523593238001993",
-                    "42.106688944619385"
+                    "-8.522761876631547",
+                    "42.10660408103602"
                 ]
             },
             "properties": {
@@ -270,8 +361,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.701459953972623",
-                    "42.19146818171543"
+                    "-8.723317485081715",
+                    "42.23861590898548"
+                ]
+            },
+            "properties": {
+                "name": "Exeria",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28705/-/exeria.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.760963168584682",
+                    "42.11120408481495"
+                ]
+            },
+            "properties": {
+                "name": "Festival Miñorsons 2025",
+                "location": "Gondomar",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28702/-/festival-minorsons-2025.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.496528635357018",
+                    "42.08415300896909"
+                ]
+            },
+            "properties": {
+                "name": "A Ras da Kona",
+                "location": "Salvaterra de Miño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28712/-/a-ras-da-kona.html",
+                "dates": [
+                    "Saturday 13 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.701325986921944",
+                    "42.191471019347844"
                 ]
             },
             "properties": {
@@ -288,8 +433,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.799694599142695",
-                    "43.18627342245817"
+                    "-7.725963547913654",
+                    "43.6343686116272"
+                ]
+            },
+            "properties": {
+                "name": "Na Cerna do Son",
+                "location": "O Barqueiro, Mañón (Mañón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28697/-/na-cerna-do-son.html",
+                "dates": [
+                    "Sunday 14 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.60508578324689",
+                    "43.31065809095943"
+                ]
+            },
+            "properties": {
+                "name": "Arume de Caión",
+                "location": "Caión (Laracha)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28718/-/arume-de-caion.html",
+                "dates": [
+                    "Sunday 14 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.983820203328803",
+                    "42.41705747442167"
+                ]
+            },
+            "properties": {
+                "name": "Caamaño & Ameixeiras",
+                "location": "O Barco de Valdeorras",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28716/-/caamano-ameixeiras.html",
+                "dates": [
+                    "Sunday 14 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.799554198939212",
+                    "43.18537450147361"
                 ]
             },
             "properties": {
@@ -308,8 +507,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.815675129792178",
-                    "42.64976688808195"
+                    "-8.816780780710927",
+                    "42.65020306125585"
                 ]
             },
             "properties": {
@@ -326,8 +525,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723720698860841",
-                    "42.17592688970874"
+                    "-8.618834323237287",
+                    "42.16371704680634"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Cristo",
+                "location": "O Porriño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28699/-/festas-do-cristo.html",
+                "dates": [
+                    "Friday 19 Sep",
+                    "Saturday 20 Sep",
+                    "Sunday 21 Sep",
+                    "Friday 26 Sep",
+                    "Saturday 27 Sep",
+                    "Sunday 28 Sep",
+                    "Friday 03 Oct",
+                    "Saturday 04 Oct",
+                    "Sunday 05 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.824996653676841",
+                    "42.56378273697698"
+                ]
+            },
+            "properties": {
+                "name": "IV Aniversario A Cofradía",
+                "location": "Vilanova de Arousa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28703/-/iv-aniversario-a-cofradia.html",
+                "dates": [
+                    "Friday 19 Sep",
+                    "Saturday 20 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.5667149371565054",
+                    "42.599418504481264"
+                ]
+            },
+            "properties": {
+                "name": "The Rapants",
+                "location": "León (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28706/-/the-rapants.html",
+                "dates": [
+                    "Friday 19 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.72466653018883",
+                    "42.17572358212613"
                 ]
             },
             "properties": {
@@ -346,8 +608,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.687195959514533",
-                    "43.21358074249809"
+                    "-8.687564794941608",
+                    "43.21474503865601"
                 ]
             },
             "properties": {
@@ -365,8 +627,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395250753330433",
-                    "43.37113475900759"
+                    "-8.395547620780244",
+                    "43.37148940313628"
                 ]
             },
             "properties": {
@@ -383,8 +645,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.137999711164317",
-                    "43.55143980000659"
+                    "-8.13897596778136",
+                    "43.55167025536202"
                 ]
             },
             "properties": {
@@ -401,8 +663,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.176993675701995",
-                    "43.26750416400228"
+                    "-6.954810625540369",
+                    "42.96495553980922"
+                ]
+            },
+            "properties": {
+                "name": "II Foliada Naiviega",
+                "location": "Navia de Suarna",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28717/-/ii-foliada-naiviega.html",
+                "dates": [
+                    "Saturday 20 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.175853517453005",
+                    "43.268005861375954"
                 ]
             },
             "properties": {
@@ -419,8 +699,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.823895743321838",
-                    "42.674989575347176"
+                    "-8.823783630840166",
+                    "42.6747716003779"
                 ]
             },
             "properties": {
@@ -437,8 +717,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544705976442634",
-                    "42.881622185549794"
+                    "-8.544510312321865",
+                    "42.88169308940379"
                 ]
             },
             "properties": {
@@ -459,8 +739,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.7243891682495",
-                    "42.17629812405326"
+                    "-8.723726542259442",
+                    "42.1761162718259"
                 ]
             },
             "properties": {
@@ -478,8 +758,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.766226350573756",
-                    "42.595930895712385"
+                    "-8.766697622537523",
+                    "42.594780742911865"
                 ]
             },
             "properties": {
@@ -496,8 +776,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.875186419751515",
-                    "42.006863230169465"
+                    "-8.874216474767058",
+                    "42.00765618053908"
                 ]
             },
             "properties": {
@@ -515,8 +795,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.093300047420307",
-                    "42.34349812468372"
+                    "-8.440594702955948",
+                    "42.97045691484404"
+                ]
+            },
+            "properties": {
+                "name": "Psicotroita 10",
+                "location": "Sigüeiro, Oroso (Oroso)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28704/-/psicotroita-10.html",
+                "dates": [
+                    "Saturday 27 Sep",
+                    "Sunday 28 Sep"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.09341892435468",
+                    "42.34234182666296"
                 ]
             },
             "properties": {
@@ -534,8 +833,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.063487223858644",
-                    "41.95437390545191"
+                    "-8.063412475657504",
+                    "41.95313159129392"
                 ]
             },
             "properties": {
@@ -552,8 +851,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.52151161201307",
-                    "42.36114969595849"
+                    "-8.520774180714477",
+                    "42.36287352908033"
                 ]
             },
             "properties": {
@@ -570,8 +869,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.440801365995663",
-                    "42.96946692652676"
+                    "-8.44084982672508",
+                    "42.9699728833487"
                 ]
             },
             "properties": {
@@ -588,8 +887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885703338933967",
-                    "42.47189069630386"
+                    "-8.886776281479097",
+                    "42.47234144299693"
                 ]
             },
             "properties": {
@@ -610,8 +909,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.301891176843576",
-                    "42.7298543089348"
+                    "-8.301033871853944",
+                    "42.73078830266545"
                 ]
             },
             "properties": {
@@ -629,8 +928,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.813414852922781",
-                    "42.515420124628584"
+                    "-8.812724500911575",
+                    "42.51455915420651"
                 ]
             },
             "properties": {
@@ -649,8 +948,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723699632721882",
-                    "42.238491204424115"
+                    "-8.72383401475725",
+                    "42.23815677342048"
                 ]
             },
             "properties": {
@@ -667,8 +966,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012373108247765",
-                    "42.915838724673215"
+                    "-8.011827362377309",
+                    "42.9156386544789"
                 ]
             },
             "properties": {
