@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887046726357415",
-                    "42.47190572943337"
+                    "-8.88583778992967",
+                    "42.47124971092503"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "O Grove",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28667/-/concertos-do-marisco.html",
                 "dates": [
-                    "Friday 03 Oct",
                     "Saturday 04 Oct",
                     "Sunday 05 Oct",
                     "Friday 10 Oct",
@@ -28,8 +27,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.619507798705044",
-                    "42.1631739614578"
+                    "-8.62015683379865",
+                    "42.1628275879511"
                 ]
             },
             "properties": {
@@ -37,7 +36,6 @@
                 "location": "O Porriño",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28701/-/festas-do-cristo.html",
                 "dates": [
-                    "Friday 03 Oct",
                     "Saturday 04 Oct",
                     "Sunday 05 Oct"
                 ]
@@ -48,8 +46,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544080696616476",
-                    "42.88058451461892"
+                    "-8.54486815576505",
+                    "42.88127181125543"
                 ]
             },
             "properties": {
@@ -57,7 +55,6 @@
                 "location": "Santiago de Compostela",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28795/-/mover-os-marcos.html",
                 "dates": [
-                    "Friday 03 Oct",
                     "Saturday 04 Oct"
                 ]
             }
@@ -67,8 +64,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.301010401654272",
-                    "42.729088461970804"
+                    "-8.301277501678273",
+                    "42.72993340164576"
                 ]
             },
             "properties": {
@@ -86,8 +83,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.67910149870852",
-                    "42.197903704979105"
+                    "-7.555046719939729",
+                    "43.01185137309269"
+                ]
+            },
+            "properties": {
+                "name": "San Froilán 2025",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28804/-/san-froilan-2025.html",
+                "dates": [
+                    "Saturday 04 Oct",
+                    "Sunday 05 Oct",
+                    "Monday 06 Oct",
+                    "Tuesday 07 Oct",
+                    "Wednesday 08 Oct",
+                    "Thursday 09 Oct",
+                    "Friday 10 Oct",
+                    "Saturday 11 Oct",
+                    "Sunday 12 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.679395705881388",
+                    "42.19612506437943"
                 ]
             },
             "properties": {
@@ -105,8 +128,117 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.117337748282434",
-                    "42.512442785576845"
+                    "-8.735466325938111",
+                    "42.28241860809753"
+                ]
+            },
+            "properties": {
+                "name": "VII Xornadas Etnográficas do Morrazo",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28816/-/vii-xornadas-etnograficas-do-morrazo.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.162638392411763",
+                    "42.364565319539885"
+                ]
+            },
+            "properties": {
+                "name": "IV Foliada da Escarocha",
+                "location": "Orega (Leiro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28814/-/iv-foliada-da-escarocha.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.011928947602048",
+                    "42.58233070045254"
+                ]
+            },
+            "properties": {
+                "name": "Mamá Cabra",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28827/-/mama-cabra.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.597276517917862",
+                    "42.82208345384309"
+                ]
+            },
+            "properties": {
+                "name": "Ruada de Outono",
+                "location": "Calo (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28818/-/ruada-de-outono.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.852655069664739",
+                    "43.68605031393809"
+                ]
+            },
+            "properties": {
+                "name": "VIII Serán Careco Solidario",
+                "location": "San Cluadio (Ortigueira)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28817/-/viii-seran-careco-solidario.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.217153137110309",
+                    "43.107506125697725"
+                ]
+            },
+            "properties": {
+                "name": "Foliada no Lago-Mar",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28805/-/foliada-no-lago-mar.html",
+                "dates": [
+                    "Saturday 04 Oct",
+                    "Sunday 26 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.117189483609728",
+                    "42.51413448701337"
                 ]
             },
             "properties": {
@@ -123,8 +255,100 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.572782769705999",
-                    "42.097539397361054"
+                    "-9.011734328515649",
+                    "42.58253876009171"
+                ]
+            },
+            "properties": {
+                "name": "XII Serán Tahúme",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28819/-/xii-seran-tahume.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.262882536676667",
+                    "42.907864366496604"
+                ]
+            },
+            "properties": {
+                "name": "Xacarandaina",
+                "location": "Fisterra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28822/-/xacarandaina.html",
+                "dates": [
+                    "Saturday 04 Oct",
+                    "Saturday 18 Oct",
+                    "Saturday 25 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.5110004673392956",
+                    "39.08118193935679"
+                ]
+            },
+            "properties": {
+                "name": "Manoele de Felisa",
+                "location": "Castelló (País Valenciá)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28813/-/manoele-de-felisa.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.025234730825634",
+                    "42.25159030097073"
+                ]
+            },
+            "properties": {
+                "name": "Xisco Feijóo",
+                "location": "A Veiga",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28824/-/xisco-feijoo.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.873566981387887",
+                    "41.9023507872462"
+                ]
+            },
+            "properties": {
+                "name": "Serán da Guía",
+                "location": "A Guarda",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28825/-/seran-da-guia.html",
+                "dates": [
+                    "Saturday 04 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.574710013548959",
+                    "42.09692948427663"
                 ]
             },
             "properties": {
@@ -141,8 +365,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.707129023991541",
-                    "42.43937802416772"
+                    "-8.708468246838807",
+                    "42.439758231638045"
                 ]
             },
             "properties": {
@@ -159,8 +383,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.194574934959598",
-                    "43.53696223346769"
+                    "-9.217980383238423",
+                    "43.107422951511865"
+                ]
+            },
+            "properties": {
+                "name": "Gloria Pavía",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28806/-/gloria-pavia.html",
+                "dates": [
+                    "Sunday 05 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.194446921021787",
+                    "43.53564876945207"
                 ]
             },
             "properties": {
@@ -177,8 +419,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395770706233307",
-                    "43.372706238693084"
+                    "-8.394260485615716",
+                    "43.37227656393364"
                 ]
             },
             "properties": {
@@ -196,8 +438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.81301266127162",
-                    "42.51569148458176"
+                    "-8.813272564747553",
+                    "42.51546643099912"
                 ]
             },
             "properties": {
@@ -216,8 +458,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72451343623071",
-                    "42.23920730536464"
+                    "-8.138006619762109",
+                    "43.55078737491222"
+                ]
+            },
+            "properties": {
+                "name": "Encontro de Cantos de Taberna",
+                "location": "Sedes (Narón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28803/-/encontro-de-cantos-de-taberna.html",
+                "dates": [
+                    "Saturday 11 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.724022202882391",
+                    "42.23796227993756"
                 ]
             },
             "properties": {
@@ -234,8 +494,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013158751726756",
-                    "42.91533485628571"
+                    "-8.013508419237839",
+                    "42.914934567611155"
                 ]
             },
             "properties": {
@@ -252,8 +512,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.543946876433177",
-                    "42.88178421577588"
+                    "-8.544358666523362",
+                    "42.88116642469478"
                 ]
             },
             "properties": {
@@ -273,8 +533,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765342704003189",
-                    "42.59530173116076"
+                    "-8.76621602858127",
+                    "42.59620096144188"
                 ]
             },
             "properties": {
@@ -291,8 +551,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723628141705893",
-                    "42.23849179136332"
+                    "-8.724144952885016",
+                    "42.23905777912616"
                 ]
             },
             "properties": {
@@ -309,8 +569,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.01350226451689",
-                    "42.91535626171989"
+                    "-7.113844246821774",
+                    "42.396328759303586"
+                ]
+            },
+            "properties": {
+                "name": "O Son da Estación",
+                "location": "A Rúa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28811/-/o-son-da-estacion.html",
+                "dates": [
+                    "Saturday 18 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012645015692547",
+                    "42.91609791172709"
                 ]
             },
             "properties": {
@@ -328,8 +606,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688075976178888",
-                    "42.3053450782796"
+                    "-8.687510467998184",
+                    "42.30396998211925"
                 ]
             },
             "properties": {
@@ -346,8 +624,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1792353091516894",
-                    "41.384428988225736"
+                    "2.178269494214866",
+                    "41.383634454623156"
                 ]
             },
             "properties": {
@@ -364,8 +642,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.034296620348275",
-                    "43.14066157538472"
+                    "-8.033717662287089",
+                    "43.140246302969736"
                 ]
             },
             "properties": {
@@ -383,8 +661,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544293243608518",
-                    "42.88120443689076"
+                    "-8.545816527494875",
+                    "42.88056915271554"
                 ]
             },
             "properties": {
@@ -401,8 +679,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544700854995742",
-                    "42.88219460540122"
+                    "-8.545075673432176",
+                    "42.88136183596195"
                 ]
             },
             "properties": {
@@ -419,8 +697,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.821251641002212",
-                    "42.60938967371296"
+                    "-8.12550351790731",
+                    "43.008476346036666"
+                ]
+            },
+            "properties": {
+                "name": "IV Festival da Chouba",
+                "location": "Boimorto",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28826/-/iv-festival-da-chouba.html",
+                "dates": [
+                    "Saturday 25 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.821661381710704",
+                    "42.609243475486224"
                 ]
             },
             "properties": {
@@ -438,8 +734,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4139575649651865",
-                    "42.78025026149977"
+                    "-9.21652644167282",
+                    "43.10801678376872"
+                ]
+            },
+            "properties": {
+                "name": "Festa Samaín Fin de Tempada Lago-Mar",
+                "location": "Muxía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28808/-/festa-samain-fin-de-tempada-lago-mar.html",
+                "dates": [
+                    "Friday 31 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.41433660335406",
+                    "42.77875529651035"
                 ]
             },
             "properties": {
