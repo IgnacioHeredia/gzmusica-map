@@ -6,64 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887150975470247",
-                    "42.47186973057802"
-                ]
-            },
-            "properties": {
-                "name": "Concertos do Marisco",
-                "location": "O Grove",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28667/-/concertos-do-marisco.html",
-                "dates": [
-                    "Sunday 05 Oct",
-                    "Friday 10 Oct",
-                    "Saturday 11 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.619574920930038",
-                    "42.16232154793195"
-                ]
-            },
-            "properties": {
-                "name": "Festas do Cristo",
-                "location": "O Porriño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28701/-/festas-do-cristo.html",
-                "dates": [
-                    "Sunday 05 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.302166926028145",
-                    "42.7290556495476"
-                ]
-            },
-            "properties": {
-                "name": "Murallón de Son",
-                "location": "A Bandeira, Manduás (Silleda)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28290/-/murallon-de-son.html",
-                "dates": [
-                    "Sunday 05 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.5552091025369545",
-                    "43.012097618586694"
+                    "-7.555088602574104",
+                    "43.01279412647194"
                 ]
             },
             "properties": {
@@ -71,7 +15,6 @@
                 "location": "Lugo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28804/-/san-froilan-2025.html",
                 "dates": [
-                    "Sunday 05 Oct",
                     "Monday 06 Oct",
                     "Tuesday 07 Oct",
                     "Wednesday 08 Oct",
@@ -87,16 +30,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.679922421340079",
-                    "42.196501684400516"
+                    "-8.887462215047846",
+                    "42.47125823550692"
                 ]
             },
             "properties": {
-                "name": "XXVII Festa da Sidra",
-                "location": "Bembrive (Vigo)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28766/-/xxvii-festa-da-sidra.html",
+                "name": "Concertos do Marisco",
+                "location": "O Grove",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28668/-/concertos-do-marisco.html",
                 "dates": [
-                    "Sunday 05 Oct"
+                    "Friday 10 Oct",
+                    "Saturday 11 Oct"
                 ]
             }
         },
@@ -105,81 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.708236705832867",
-                    "42.439662624617064"
-                ]
-            },
-            "properties": {
-                "name": "Romaría na Renda",
-                "location": "Xuviño, Combarro (Poio)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28790/-/romaria-na-renda.html",
-                "dates": [
-                    "Sunday 05 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-9.217783475860076",
-                    "43.10784802513544"
-                ]
-            },
-            "properties": {
-                "name": "Gloria Pavía",
-                "location": "Muxía",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28806/-/gloria-pavia.html",
-                "dates": [
-                    "Sunday 05 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.195411455706206",
-                    "43.53611633029"
-                ]
-            },
-            "properties": {
-                "name": "Xabier Díaz & Adufeiras de Salitre",
-                "location": "San Miguel de Reinante (Barreiros)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28789/-/xabier-diaz-adufeiras-de-salitre.html",
-                "dates": [
-                    "Sunday 05 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.395916642461744",
-                    "43.37218771762664"
-                ]
-            },
-            "properties": {
-                "name": "20º Ciclo Coros Galegos",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28798/-/20-ciclo-coros-galegos.html",
-                "dates": [
-                    "Sunday 05 Oct",
-                    "Sunday 26 Oct"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.811991210424987",
-                    "42.51495411268611"
+                    "-8.812605199464668",
+                    "42.51582254453086"
                 ]
             },
             "properties": {
@@ -198,8 +69,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.1385519230557",
-                    "43.55187465331582"
+                    "-8.13875547170601",
+                    "43.55046557760703"
                 ]
             },
             "properties": {
@@ -216,8 +87,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72392181742583",
-                    "42.23803281858501"
+                    "-8.723822809504345",
+                    "42.23837116980465"
                 ]
             },
             "properties": {
@@ -234,8 +105,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.01194364949956",
-                    "42.916459729883876"
+                    "-8.013409202751111",
+                    "42.915344744485495"
                 ]
             },
             "properties": {
@@ -252,8 +123,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54444949045027",
-                    "42.88220888601849"
+                    "-8.54509504261819",
+                    "42.880547919077365"
                 ]
             },
             "properties": {
@@ -273,8 +144,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765909938758778",
-                    "42.59502895874711"
+                    "-8.766748457339553",
+                    "42.59653918188331"
                 ]
             },
             "properties": {
@@ -291,8 +162,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722855178233836",
-                    "42.23914508530023"
+                    "-8.722817281582063",
+                    "42.23878889748096"
                 ]
             },
             "properties": {
@@ -309,8 +180,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.113746030364714",
-                    "42.39617962228231"
+                    "-7.113436171932681",
+                    "42.39707480508786"
                 ]
             },
             "properties": {
@@ -327,8 +198,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.499069241395294",
-                    "43.31098156253039"
+                    "-8.498956264099899",
+                    "43.31031920024157"
                 ]
             },
             "properties": {
@@ -346,8 +217,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012270942647252",
-                    "42.91458147754198"
+                    "-8.013347166193725",
+                    "42.916220465460434"
                 ]
             },
             "properties": {
@@ -365,8 +236,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.686691008728687",
-                    "42.30410371518946"
+                    "-8.688245961671765",
+                    "42.30511570750311"
                 ]
             },
             "properties": {
@@ -383,8 +254,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1781227162266097",
-                    "41.38372233077005"
+                    "2.1776920894790504",
+                    "41.38390755048843"
                 ]
             },
             "properties": {
@@ -401,8 +272,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.034735523353083",
-                    "43.13917718233463"
+                    "-8.03456742465302",
+                    "43.13936090982294"
                 ]
             },
             "properties": {
@@ -420,8 +291,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545554867811463",
-                    "42.88105256558258"
+                    "-8.545204427957302",
+                    "42.88229904586598"
                 ]
             },
             "properties": {
@@ -438,8 +309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.543886018821091",
-                    "42.88140738292784"
+                    "-8.544690321617649",
+                    "42.88238984247667"
                 ]
             },
             "properties": {
@@ -456,8 +327,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.125293567675724",
-                    "43.0092732109187"
+                    "-8.126797995990673",
+                    "43.00855689038835"
                 ]
             },
             "properties": {
@@ -474,8 +345,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.217793824781015",
-                    "43.10873342103828"
+                    "-9.217451532185375",
+                    "43.10781140506866"
                 ]
             },
             "properties": {
@@ -492,8 +363,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8215829318928884",
-                    "42.6104459765056"
+                    "-8.395410474733385",
+                    "43.371447136842995"
+                ]
+            },
+            "properties": {
+                "name": "20º Ciclo Coros Galegos",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28799/-/20-ciclo-coros-galegos.html",
+                "dates": [
+                    "Sunday 26 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.821123445762499",
+                    "42.610182533097294"
                 ]
             },
             "properties": {
@@ -511,8 +400,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.217762128043706",
-                    "43.10806943924083"
+                    "-9.217032979504655",
+                    "43.108437272828276"
                 ]
             },
             "properties": {
@@ -529,8 +418,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.414027239475887",
-                    "42.77978435014568"
+                    "-7.4140072797891525",
+                    "42.779076433567994"
                 ]
             },
             "properties": {
