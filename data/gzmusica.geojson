@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555088602574104",
-                    "43.01279412647194"
+                    "-7.554974859368",
+                    "43.01378582888609"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Lugo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28804/-/san-froilan-2025.html",
                 "dates": [
-                    "Monday 06 Oct",
                     "Tuesday 07 Oct",
                     "Wednesday 08 Oct",
                     "Thursday 09 Oct",
@@ -30,8 +29,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.887462215047846",
-                    "42.47125823550692"
+                    "-8.886800710160538",
+                    "42.47126740151495"
                 ]
             },
             "properties": {
@@ -49,8 +48,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.812605199464668",
-                    "42.51582254453086"
+                    "-8.81271552161865",
+                    "42.51486251716717"
                 ]
             },
             "properties": {
@@ -69,8 +68,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.13875547170601",
-                    "43.55046557760703"
+                    "-8.88478769765167",
+                    "42.64803016968812"
+                ]
+            },
+            "properties": {
+                "name": "Zavala + Pulpa",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28832/-/zavala-pulpa.html",
+                "dates": [
+                    "Friday 10 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7937117457266",
+                    "42.087438783384634"
+                ]
+            },
+            "properties": {
+                "name": "Tralo-Valo",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28833/-/tralo-valo.html",
+                "dates": [
+                    "Friday 10 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.138327022324376",
+                    "43.55048905676649"
                 ]
             },
             "properties": {
@@ -87,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723822809504345",
-                    "42.23837116980465"
+                    "-8.72466288750842",
+                    "42.23842284054851"
                 ]
             },
             "properties": {
@@ -105,8 +140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013409202751111",
-                    "42.915344744485495"
+                    "-8.012122301451901",
+                    "42.91497686565482"
                 ]
             },
             "properties": {
@@ -123,8 +158,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54509504261819",
-                    "42.880547919077365"
+                    "-8.544837963441408",
+                    "42.88190083564541"
                 ]
             },
             "properties": {
@@ -144,8 +179,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.766748457339553",
-                    "42.59653918188331"
+                    "-8.765678829953147",
+                    "42.59662098252668"
                 ]
             },
             "properties": {
@@ -162,8 +197,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.722817281582063",
-                    "42.23878889748096"
+                    "-8.723744196202336",
+                    "42.2390576620741"
                 ]
             },
             "properties": {
@@ -180,8 +215,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.113436171932681",
-                    "42.39707480508786"
+                    "-7.113308595431078",
+                    "42.39576289769559"
                 ]
             },
             "properties": {
@@ -198,8 +233,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.498956264099899",
-                    "43.31031920024157"
+                    "-8.499577102672946",
+                    "43.31087816911173"
                 ]
             },
             "properties": {
@@ -217,8 +252,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013347166193725",
-                    "42.916220465460434"
+                    "-7.793216831576009",
+                    "42.08897697100553"
+                ]
+            },
+            "properties": {
+                "name": "Belem Tajes + As Tareixas + Mediarea",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28834/-/belem-tajes-as-tareixas-mediarea.html",
+                "dates": [
+                    "Sunday 19 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.012138933034317",
+                    "42.915952677160746"
                 ]
             },
             "properties": {
@@ -236,8 +289,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.688245961671765",
-                    "42.30511570750311"
+                    "-8.688528446027401",
+                    "42.30534589756611"
                 ]
             },
             "properties": {
@@ -254,8 +307,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1776920894790504",
-                    "41.38390755048843"
+                    "-7.792843521086812",
+                    "42.08726987992433"
+                ]
+            },
+            "properties": {
+                "name": "Barahúnda",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28835/-/barahunda.html",
+                "dates": [
+                    "Friday 24 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.1786950336577737",
+                    "41.38329176087122"
                 ]
             },
             "properties": {
@@ -272,8 +343,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.03456742465302",
-                    "43.13936090982294"
+                    "-8.03383965230872",
+                    "43.14006102302425"
                 ]
             },
             "properties": {
@@ -291,8 +362,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545204427957302",
-                    "42.88229904586598"
+                    "-8.54418264651336",
+                    "42.88149938600569"
                 ]
             },
             "properties": {
@@ -309,8 +380,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544690321617649",
-                    "42.88238984247667"
+                    "-8.544591473406781",
+                    "42.881207490424764"
                 ]
             },
             "properties": {
@@ -327,8 +398,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.126797995990673",
-                    "43.00855689038835"
+                    "-8.125140921664373",
+                    "43.008838392476335"
                 ]
             },
             "properties": {
@@ -345,8 +416,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.217451532185375",
-                    "43.10781140506866"
+                    "-8.657374005128455",
+                    "42.43377042112221"
+                ]
+            },
+            "properties": {
+                "name": "VI O Son do Gaita",
+                "location": "Poio",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28829/-/vi-o-son-do-gaita.html",
+                "dates": [
+                    "Sunday 26 Oct"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.21640639500223",
+                    "43.10829344611908"
                 ]
             },
             "properties": {
@@ -363,8 +452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395410474733385",
-                    "43.371447136842995"
+                    "-8.39439431754207",
+                    "43.37141727207687"
                 ]
             },
             "properties": {
@@ -381,8 +470,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.821123445762499",
-                    "42.610182533097294"
+                    "-7.82158925670372",
+                    "42.609854549648176"
                 ]
             },
             "properties": {
@@ -400,8 +489,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.217032979504655",
-                    "43.108437272828276"
+                    "-9.216857378105304",
+                    "43.10730010939691"
                 ]
             },
             "properties": {
@@ -418,8 +507,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4140072797891525",
-                    "42.779076433567994"
+                    "-7.412722881667347",
+                    "42.78009833979079"
                 ]
             },
             "properties": {
