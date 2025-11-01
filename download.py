@@ -1,5 +1,6 @@
 import datetime
 import json
+import locale
 import os
 from random import random
 from pathlib import Path
@@ -9,6 +10,9 @@ from bs4 import BeautifulSoup
 import requests
 
 
+# Set the locale to Galician (for showing event dates)
+locale.setlocale(locale.LC_TIME, 'gl_ES.UTF-8')
+
 session = requests.Session()
 session.headers.update({
     'User-Agent': 'gzmusica-map-bot',  # user-agent has to be custom (https://operations.osmfoundation.org/policies/nominatim/)
@@ -16,7 +20,7 @@ session.headers.update({
 
 main_dir = Path(__file__).resolve().parent
 
-month_map = {
+month_map = {  # needed when we showed dates in english
     'Xan': 'Jan',
     'Feb': 'Feb',
     'Mar': 'Mar',
@@ -165,7 +169,7 @@ def download_events():
             date = e.find('a', attrs={'class': 'jevdateicon'}).text  # eg. 21Nov
 
             # Replace month in date string from Galician to English
-            date = date[:-3] + month_map[date[-3:]]
+            # date = date[:-3] + month_map[date[-3:]]
 
             # Date string to datetime object
             datef = datetime.datetime.strptime(date, "%d%b").date()

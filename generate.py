@@ -1,8 +1,13 @@
 import datetime
 import json
+import locale
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
+
+
+# Set the locale to Galician (for showing event dates)
+locale.setlocale(locale.LC_TIME, 'gl_ES.UTF-8')
 
 
 main_dir = Path(__file__).resolve().parent
