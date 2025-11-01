@@ -6,7 +6,7 @@ from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
 
 
-# Set the locale to Galician (for showing event dates)
+# Set the locale to Galician (for displaying event dates in Galician)
 locale.setlocale(locale.LC_TIME, 'gl_ES.UTF-8')
 
 
@@ -34,27 +34,24 @@ def filter_geojson(geojson, filter_dates):
 def format_dates(geojson):
     """
     Transform
-        [Sunday 10 October, Monday 11 October]
+        [2025-10-30, 2025-10-31, 2025-11-01]
     to
-        Sunday 10, Monday 11 [October]
+        Xoves 30, Venres 31 [Outubro], Sábado 01 [Novembro]
     """
 
     for feature in geojson['features']:
         dates = feature['properties']['dates']
+        dates = sorted(datetime.date.fromisoformat(d) for d in dates)
 
-        date_str = ''
-        days = [' '.join(i.split(' ')[:2]) for i in dates]
-        months = [i.split(' ')[2] for i in dates]
+        parts = []
+        for i, dt in enumerate(dates):
+            part = f"{dt.strftime('%A')} {dt.day:02d}"
+            # Append month in brackets when it's the last entry or the month changes afterwards
+            if i == len(dates) - 1 or dt.month != dates[i+1].month:
+                part += f" [{dt.strftime('%B')}]"
+            parts.append(part)
 
-        for i in range(len(days)):
-            date_str += days[i]
-
-            if i == len(days)-1 or months[i] != months[i+1]:
-                date_str += f' [{months[i]}] '
-            else:
-                date_str += ', '
-
-        feature['properties']['dates'] = date_str
+        feature['properties']['dates'] = ', '.join(parts)
 
     return geojson
 

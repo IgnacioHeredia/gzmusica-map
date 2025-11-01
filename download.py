@@ -10,9 +10,6 @@ from bs4 import BeautifulSoup
 import requests
 
 
-# Set the locale to Galician (for showing event dates)
-locale.setlocale(locale.LC_TIME, 'gl_ES.UTF-8')
-
 session = requests.Session()
 session.headers.update({
     'User-Agent': 'gzmusica-map-bot',  # user-agent has to be custom (https://operations.osmfoundation.org/policies/nominatim/)
@@ -20,20 +17,8 @@ session.headers.update({
 
 main_dir = Path(__file__).resolve().parent
 
-month_map = {  # needed when we showed dates in english
-    'Xan': 'Jan',
-    'Feb': 'Feb',
-    'Mar': 'Mar',
-    'Abr': 'Apr',
-    'Mai': 'May',
-    'Xun': 'Jun',
-    'Xul': 'Jul',
-    'Ago': 'Aug',
-    'Set': 'Sep',
-    'Out': 'Oct',
-    'Nov': 'Nov',
-    'Dec': 'Dec',
-}
+# Set the locale to Galician (for parsing event dates)
+locale.setlocale(locale.LC_TIME, 'gl_ES.UTF-8')
 
 
 def randomize(*coord):
@@ -168,13 +153,10 @@ def download_events():
             location = e.findAll('span')[-1].text
             date = e.find('a', attrs={'class': 'jevdateicon'}).text  # eg. 21Nov
 
-            # Replace month in date string from Galician to English
-            # date = date[:-3] + month_map[date[-3:]]
-
             # Date string to datetime object
             datef = datetime.datetime.strptime(date, "%d%b").date()
             datef = datef.replace(year=dstart.year)
-            date = datef.strftime('%A %d %b')  # date in map is: [weekday number month-short]
+            date = datef.strftime('%Y-%m-%d')
 
             # Do not process past days or days above 30+ limit
             if datef < dstart or datef > dstart + datetime.timedelta(days=30):
