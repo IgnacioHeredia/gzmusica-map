@@ -238,7 +238,7 @@
             (new maplibregl.Popup).setLngLat(t).setHTML(`
             <h4>${name}</h4><br>
             <i class="fa fa-map-marker" aria-hidden="true"></i> ${location}<br>
-            <a href="${link}"><i class="fa fa-external-link" aria-hidden="true"></i> Webpage</a><br>
+            <a href="${link}" target="_blank" rel="noopener"><i class="fa fa-external-link" aria-hidden="true"></i> Detalles</a><br>
             <i class="fa fa-calendar" aria-hidden="true"></i> ${dates}
             `).addTo(map)
           }), map.on("mouseenter", "clusters", () => {
