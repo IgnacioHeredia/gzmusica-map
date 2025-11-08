@@ -6,64 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88457140971883",
-                    "42.64708778667604"
-                ]
-            },
-            "properties": {
-                "name": "Os Carecos",
-                "location": "Boiro",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28920/-/os-carecos.html",
-                "dates": [
-                    "2025-11-07"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-6.921903658988745",
-                    "42.707181493361745"
-                ]
-            },
-            "properties": {
-                "name": "XXXIII Magosto Celta",
-                "location": "Balboa (O Bierzo)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28911/-/xxxiii-magosto-celta.html",
-                "dates": [
-                    "2025-11-07",
-                    "2025-11-08"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.191975066977209",
-                    "42.589779469520344"
-                ]
-            },
-            "properties": {
-                "name": "XXXVI Festa da Castaña do Caurel",
-                "location": "Seoane doCourel (Folgoso do Courel)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28927/-/xxxvi-festa-da-castana-do-caurel.html",
-                "dates": [
-                    "2025-11-07",
-                    "2025-11-08"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.363654652885202",
-                    "43.42999886032593"
+                    "-7.363059144943227",
+                    "43.43158193832773"
                 ]
             },
             "properties": {
@@ -80,14 +24,35 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394421814694244",
-                    "43.370977961016074"
+                    "-8.621876420852937",
+                    "42.81518313998955"
                 ]
             },
             "properties": {
-                "name": "Moon Cresta + Thee Blind Crows",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28916/-/moon-cresta-thee-blind-crows.html",
+                "name": "Feira do San Martiño",
+                "location": "Rúa de Francos, Calo (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28980/-/feira-do-san-martino.html",
+                "dates": [
+                    "2025-11-08",
+                    "2025-11-09",
+                    "2025-11-10",
+                    "2025-11-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.921893045091587",
+                    "42.70643765420622"
+                ]
+            },
+            "properties": {
+                "name": "XXXIII Magosto Celta",
+                "location": "Balboa (O Bierzo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28911/-/xxxiii-magosto-celta.html",
                 "dates": [
                     "2025-11-08"
                 ]
@@ -98,14 +63,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.474043271753777",
-                    "42.18067641783452"
+                    "-7.190637496106267",
+                    "42.588373182102906"
                 ]
             },
             "properties": {
-                "name": "Serán de Outono",
-                "location": "Arcos (Ponteareas)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28831/-/seran-de-outono.html",
+                "name": "XXXVI Festa da Castaña do Caurel",
+                "location": "Seoane doCourel (Folgoso do Courel)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28927/-/xxxvi-festa-da-castana-do-caurel.html",
                 "dates": [
                     "2025-11-08"
                 ]
@@ -116,14 +81,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.590262310536872",
-                    "42.59112084877159"
+                    "-7.2603329077783245",
+                    "43.343104527004"
                 ]
             },
             "properties": {
-                "name": "XIV Serán Magosteiro",
-                "location": "Moraña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28932/-/xiv-seran-magosteiro.html",
+                "name": "IV Polavila de Riotorto",
+                "location": "As Rodrigas, Riotorto (Riotorto)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28966/-/iv-polavila-de-riotorto.html",
                 "dates": [
                     "2025-11-08"
                 ]
@@ -134,8 +99,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.053790578052423",
-                    "43.335921963406356"
+                    "-7.342419769153381",
+                    "42.78745015938553"
+                ]
+            },
+            "properties": {
+                "name": "San Martiño Caníbal",
+                "location": "Louseiro (Sarria)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28972/-/san-martino-canibal.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.053639887876594",
+                    "43.33567276829017"
                 ]
             },
             "properties": {
@@ -152,8 +135,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.546041461217547",
-                    "42.7532108282528"
+                    "-8.54651623519357",
+                    "42.752217926345146"
                 ]
             },
             "properties": {
@@ -170,8 +153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504267481285819",
-                    "42.17573574533003"
+                    "-8.503659289775019",
+                    "42.1759748571766"
                 ]
             },
             "properties": {
@@ -188,8 +171,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.295332699423511",
-                    "43.383788175297354"
+                    "-8.39565157903429",
+                    "43.372159408329956"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28962/-/pakolas.html",
+                "dates": [
+                    "2025-11-08",
+                    "2025-11-09"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.295075481565926",
+                    "43.38409137074489"
                 ]
             },
             "properties": {
@@ -206,8 +208,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.543139420325423",
-                    "42.85416477690569"
+                    "-8.037095473531817",
+                    "42.32383769817947"
+                ]
+            },
+            "properties": {
+                "name": "III Folk Horror Festival Aldea Vella",
+                "location": "Astariz (Castrelo de Miño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28959/-/iii-folk-horror-festival-aldea-vella.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.542398216515808",
+                    "42.854066605284075"
                 ]
             },
             "properties": {
@@ -224,8 +244,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642044541505497",
-                    "42.43233815902179"
+                    "-8.59027991488829",
+                    "42.590883789786574"
+                ]
+            },
+            "properties": {
+                "name": "XIV Serán Magosteiro",
+                "location": "Moraña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28932/-/xiv-seran-magosteiro.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545705984916387",
+                    "42.882393428049596"
+                ]
+            },
+            "properties": {
+                "name": "Espiño Dual + Gradín Dúo",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28964/-/espino-dual-gradin-duo.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.472705882144208",
+                    "42.18110586756185"
+                ]
+            },
+            "properties": {
+                "name": "Serán de Outono",
+                "location": "Arcos (Ponteareas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28831/-/seran-de-outono.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64226040134193",
+                    "42.43271260831163"
                 ]
             },
             "properties": {
@@ -242,8 +316,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.77914862458737",
-                    "42.26581818574061"
+                    "-7.555935713030593",
+                    "43.01289442401605"
+                ]
+            },
+            "properties": {
+                "name": "Panosedán",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28978/-/panosedan.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.777866568089621",
+                    "42.26502257578191"
                 ]
             },
             "properties": {
@@ -260,8 +352,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.654244842027992",
-                    "42.07508671832355"
+                    "-8.654605014206926",
+                    "42.07455443225269"
                 ]
             },
             "properties": {
@@ -278,14 +370,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.557515097183947",
-                    "42.10282927944192"
+                    "-8.556707866571045",
+                    "42.10261802845317"
                 ]
             },
             "properties": {
-                "name": "Eskravos + Espìnillas",
+                "name": "Eskravos + Espìnillas-ADIADO",
                 "location": "Salceda de Caselas",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28905/-/eskravos-espinillas.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28905/-/eskravos-espinillas-adiado.html",
                 "dates": [
                     "2025-11-08"
                 ]
@@ -296,8 +388,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.991886409140845",
-                    "42.93893693196164"
+                    "-8.394738777489254",
+                    "43.372770984176704"
+                ]
+            },
+            "properties": {
+                "name": "Moon Cresta + Thee Blind Crows",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28916/-/moon-cresta-thee-blind-crows.html",
+                "dates": [
+                    "2025-11-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.831272969518427",
+                    "42.364479619910554"
+                ]
+            },
+            "properties": {
+                "name": "Cucomanía II",
+                "location": "Velle (Ourense)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28969/-/cucomania-ii.html",
+                "dates": [
+                    "2025-11-09"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.990493481706993",
+                    "42.93835486306384"
                 ]
             },
             "properties": {
@@ -315,8 +443,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.727301998395597",
-                    "41.65295517990967"
+                    "-8.394132831753067",
+                    "43.37174699620502"
+                ]
+            },
+            "properties": {
+                "name": "Tiruleque",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28973/-/tiruleque.html",
+                "dates": [
+                    "2025-11-09"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866078941675186",
+                    "42.34370698404403"
+                ]
+            },
+            "properties": {
+                "name": "San Martiño Ourense",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28968/-/san-martino-ourense.html",
+                "dates": [
+                    "2025-11-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.727785099434192",
+                    "41.652644023326445"
                 ]
             },
             "properties": {
@@ -334,8 +498,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.220022445833866",
-                    "43.272939302359575"
+                    "-8.22103652588865",
+                    "43.27473153009822"
                 ]
             },
             "properties": {
@@ -352,8 +516,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394977069411693",
-                    "43.372127699867455"
+                    "-8.39472757657923",
+                    "43.37257501483053"
                 ]
             },
             "properties": {
@@ -370,8 +534,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793685333877197",
-                    "42.088383745898255"
+                    "-8.746408843980323",
+                    "43.24549757901599"
+                ]
+            },
+            "properties": {
+                "name": "XIX Festival Pop-Rock Live in Cances",
+                "location": "Cances (Carballo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28967/-/xix-festival-pop-rock-live-in-cances.html",
+                "dates": [
+                    "2025-11-14"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.794083692253246",
+                    "42.08767485873074"
                 ]
             },
             "properties": {
@@ -388,8 +570,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.495800738625586",
-                    "42.083772446401554"
+                    "-9.032603309008937",
+                    "43.1111400483792"
+                ]
+            },
+            "properties": {
+                "name": "Ialma",
+                "location": "Vimianzo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28974/-/ialma.html",
+                "dates": [
+                    "2025-11-15",
+                    "2025-11-16",
+                    "2025-11-19",
+                    "2025-11-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.77906328577888",
+                    "42.266182220200285"
+                ]
+            },
+            "properties": {
+                "name": "III Magosto Musical",
+                "location": "Cangas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28960/-/iii-magosto-musical.html",
+                "dates": [
+                    "2025-11-15"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.49743990850355",
+                    "42.08322356063175"
                 ]
             },
             "properties": {
@@ -406,8 +627,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7932712410899265",
-                    "42.088350878820094"
+                    "-7.555134178727024",
+                    "43.01343258250702"
+                ]
+            },
+            "properties": {
+                "name": "Manu Kasoaparte - Fran Zélop",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28979/-/manu-kasoaparte-fran-zelop.html",
+                "dates": [
+                    "2025-11-15"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.792948675600415",
+                    "42.0877955783908"
                 ]
             },
             "properties": {
@@ -424,8 +663,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.678921130188413",
-                    "43.31472737927169"
+                    "-8.23192599624766",
+                    "43.4864369198785"
+                ]
+            },
+            "properties": {
+                "name": "Uxía Lambona e a Banda Molona",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28961/-/uxia-lambona-e-a-banda-molona.html",
+                "dates": [
+                    "2025-11-15"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.678952046600898",
+                    "43.31591352134791"
                 ]
             },
             "properties": {
@@ -442,8 +699,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.178138213377787",
-                    "41.38477244285124"
+                    "-7.556533766833895",
+                    "43.0124903682822"
+                ]
+            },
+            "properties": {
+                "name": "Magosto de Cantigas e Frores",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28970/-/magosto-de-cantigas-e-frores.html",
+                "dates": [
+                    "2025-11-15"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.17909646126969",
+                    "41.38319848049582"
                 ]
             },
             "properties": {
@@ -461,8 +736,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.490507932551582",
-                    "42.688826945258626"
+                    "-8.489396728072268",
+                    "42.688985809548726"
                 ]
             },
             "properties": {
@@ -479,8 +754,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54582860593587",
-                    "42.88197548714937"
+                    "-8.545192571273278",
+                    "42.88042930132484"
                 ]
             },
             "properties": {
@@ -497,14 +772,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.884151702737038",
-                    "42.646752714735015"
+                    "-8.885463874197232",
+                    "42.64726019877594"
                 ]
             },
             "properties": {
                 "name": "Moon Cresta",
                 "location": "Boiro",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/28921/-/moon-cresta.html",
+                "dates": [
+                    "2025-11-22",
+                    "2025-11-22"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723159995619698",
+                    "42.713831148013696"
+                ]
+            },
+            "properties": {
+                "name": "Certame Folclórico 2025",
+                "location": "Imo, Laíño (Dodro)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28971/-/certame-folclorico-2025.html",
                 "dates": [
                     "2025-11-22"
                 ]
@@ -515,8 +809,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.022240738785634",
-                    "42.52915188589246"
+                    "-9.023650009931911",
+                    "42.528925371237506"
                 ]
             },
             "properties": {
@@ -533,8 +827,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7931776053072275",
-                    "42.0876906215965"
+                    "-7.7927928765929515",
+                    "42.087334740001644"
                 ]
             },
             "properties": {
@@ -551,8 +845,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793160149960141",
-                    "42.08743524015423"
+                    "-7.794542370031572",
+                    "42.08749145255437"
                 ]
             },
             "properties": {
@@ -570,8 +864,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792681155167105",
-                    "42.08769586333929"
+                    "-7.793658475581274",
+                    "42.08765627144082"
                 ]
             },
             "properties": {
@@ -588,8 +882,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.751501199558911",
-                    "42.328220932719134"
+                    "-7.554748200503044",
+                    "43.01249868728483"
+                ]
+            },
+            "properties": {
+                "name": "A Candeloria Pista Extra Vol.2",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28965/-/a-candeloria-pista-extra-vol-2.html",
+                "dates": [
+                    "2025-11-29"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.75215415040619",
+                    "42.32882115674404"
                 ]
             },
             "properties": {
@@ -606,8 +918,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544288457051197",
-                    "42.88098539831294"
+                    "-8.54585358733541",
+                    "42.88078695818257"
                 ]
             },
             "properties": {
@@ -624,8 +936,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794358605576922",
-                    "42.0873347495854"
+                    "-7.794303879722072",
+                    "42.08828706163613"
                 ]
             },
             "properties": {
@@ -642,8 +954,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395070935827217",
-                    "43.37209362903388"
+                    "-8.39410158781445",
+                    "43.3722885258464"
                 ]
             },
             "properties": {
@@ -660,8 +972,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.216342242605599",
-                    "43.10855987267972"
+                    "-9.216924142056733",
+                    "43.107974862165946"
                 ]
             },
             "properties": {
@@ -681,8 +993,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.50433128910561",
-                    "42.176027498898556"
+                    "-8.504772615229957",
+                    "42.1746012007232"
                 ]
             },
             "properties": {
@@ -699,8 +1011,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.066915443400658",
-                    "43.12529888811573"
+                    "-7.066028224139431",
+                    "43.124843934666416"
                 ]
             },
             "properties": {
