@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.022248552677791",
-                    "42.18757205487741"
+                    "-8.022979363475399",
+                    "42.18720299550265"
                 ]
             },
             "properties": {
@@ -15,7 +15,6 @@
                 "location": "Ramirás e Celanova",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29122/-/20-festival-internacional-rebulir.html",
                 "dates": [
-                    "2025-12-19",
                     "2025-12-20",
                     "2025-12-21"
                 ]
@@ -26,20 +25,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64573933621018",
-                    "42.051388533234906"
+                    "-8.806535057873603",
+                    "43.034770538544265"
                 ]
             },
             "properties": {
-                "name": "Brais das Hortas",
-                "location": "Tui",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29242/-/brais-das-hortas.html",
+                "name": "Cantos de Nadal Axio Mouro",
+                "location": "Santa Comba",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29282/-/cantos-de-nadal-axio-mouro.html",
                 "dates": [
-                    "2025-12-19",
                     "2025-12-20",
-                    "2025-12-21",
-                    "2025-12-23",
-                    "2025-12-26"
+                    "2025-12-21"
                 ]
             }
         },
@@ -48,8 +44,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555341679563198",
-                    "43.013550587846304"
+                    "-7.555341289393696",
+                    "43.01293713082732"
                 ]
             },
             "properties": {
@@ -57,7 +53,6 @@
                 "location": "Lugo",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29265/-/mercados-de-nadal.html",
                 "dates": [
-                    "2025-12-19",
                     "2025-12-20",
                     "2025-12-21"
                 ]
@@ -68,29 +63,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.071627557447668",
-                    "43.53205114515207"
-                ]
-            },
-            "properties": {
-                "name": "Uxía Lambona e A Banda Molona",
-                "location": "San Sadurniño",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29118/-/uxia-lambona-e-a-banda-molona.html",
-                "dates": [
-                    "2025-12-19",
-                    "2025-12-21",
-                    "2025-12-26",
-                    "2025-12-30"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.545809631996377",
-                    "42.88237271216798"
+                    "-8.545203294624532",
+                    "42.88096704938632"
                 ]
             },
             "properties": {
@@ -98,7 +72,6 @@
                 "location": "Santiago de Compostela",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29108/-/xiv-mercado-da-estrela.html",
                 "dates": [
-                    "2025-12-19",
                     "2025-12-20",
                     "2025-12-21"
                 ]
@@ -109,103 +82,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.6911350783438",
-                    "42.44249428783964"
-                ]
-            },
-            "properties": {
-                "name": "A Gramola Gominola",
-                "location": "A Seca, San Xoán de Poio (Poio)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29194/-/a-gramola-gominola.html",
-                "dates": [
-                    "2025-12-19",
-                    "2025-12-23",
-                    "2025-12-27",
-                    "2025-12-27",
-                    "2025-12-29",
-                    "2025-12-30"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.393962065893446",
-                    "43.371198603466716"
-                ]
-            },
-            "properties": {
-                "name": "Cantos de Taberna de Nadal de Monte Alto",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29251/-/cantos-de-taberna-de-nadal-de-monte-alto.html",
-                "dates": [
-                    "2025-12-19"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.555408003946396",
-                    "43.013492116067674"
-                ]
-            },
-            "properties": {
-                "name": "A Pedreira",
-                "location": "Lugo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29249/-/a-pedreira.html",
-                "dates": [
-                    "2025-12-19"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.54511273083326",
-                    "42.88091943259433"
-                ]
-            },
-            "properties": {
-                "name": "Estalotada",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29218/-/estalotada.html",
-                "dates": [
-                    "2025-12-19"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.19211856673775",
-                    "43.5027775963212"
-                ]
-            },
-            "properties": {
-                "name": "2ª Ruta Trasankos Rock",
-                "location": "Narón",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29222/-/2-ruta-trasankos-rock.html",
-                "dates": [
-                    "2025-12-19"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.1602067426963805",
-                    "42.85579394643577"
+                    "-7.161449460774931",
+                    "42.85577951318617"
                 ]
             },
             "properties": {
@@ -222,8 +100,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.234772072767668",
-                    "42.310476306659815"
+                    "-8.64290578346094",
+                    "42.43230101516498"
+                ]
+            },
+            "properties": {
+                "name": "Bem-Vinda ao Apalpador",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29300/-/bem-vinda-ao-apalpador.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.483880064800196",
+                    "43.1619517934931"
+                ]
+            },
+            "properties": {
+                "name": "Mr. Kamándula",
+                "location": "Cerceda",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29275/-/mr-kamandula.html",
+                "dates": [
+                    "2025-12-20",
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.23309580944495",
+                    "42.31166010199911"
                 ]
             },
             "properties": {
@@ -240,8 +155,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.157053180894485",
-                    "43.5016862287397"
+                    "-8.54466036891235",
+                    "42.881074176811026"
+                ]
+            },
+            "properties": {
+                "name": "Nadaliñas",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29273/-/nadalinas.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.156775811508382",
+                    "43.50102758606377"
                 ]
             },
             "properties": {
@@ -258,8 +191,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.649952413451604",
-                    "42.86080459369573"
+                    "-8.54402731720723",
+                    "42.881910220968685"
+                ]
+            },
+            "properties": {
+                "name": "Sofía Espiñeira",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29276/-/sofia-espineira.html",
+                "dates": [
+                    "2025-12-20",
+                    "2025-12-26"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.607067794048952",
+                    "42.28526791507296"
+                ]
+            },
+            "properties": {
+                "name": "Brais das Hortas",
+                "location": "Quintrela (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29243/-/brais-das-hortas.html",
+                "dates": [
+                    "2025-12-20",
+                    "2025-12-21",
+                    "2025-12-23",
+                    "2025-12-26"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.299367464072612",
+                    "42.536474657510446"
+                ]
+            },
+            "properties": {
+                "name": "Festival de Nadal",
+                "location": "Soutelo de Montes, A Madanela de Montes (Forcarei)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29283/-/festival-de-nadal.html",
+                "dates": [
+                    "2025-12-20",
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.648400060272348",
+                    "42.86092420052494"
                 ]
             },
             "properties": {
@@ -276,8 +268,98 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.55502923712831",
-                    "43.01382579886467"
+                    "-8.421696144880544",
+                    "42.77487281898102"
+                ]
+            },
+            "properties": {
+                "name": "Soas na Casa",
+                "location": "Santa Cruz de Ribadulla (Vedra)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29272/-/soas-na-casa.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.388906092553087",
+                    "42.53229028754216"
+                ]
+            },
+            "properties": {
+                "name": "XI Festival Tradicional Os Abrentes",
+                "location": "Cerdedo (Cerdedo-Cotobade)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29284/-/xi-festival-tradicional-os-abrentes.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.950559715049224",
+                    "43.0081032231525"
+                ]
+            },
+            "properties": {
+                "name": "De Ninghures",
+                "location": "A Gramela, Visma (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29266/-/de-ninghures.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.969129328622147",
+                    "42.587127153847305"
+                ]
+            },
+            "properties": {
+                "name": "III Foliada de Nadal",
+                "location": "Palmeira  (Ribeira)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29285/-/iii-foliada-de-nadal.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.012965703450329",
+                    "42.58087473075107"
+                ]
+            },
+            "properties": {
+                "name": "As que Cortan o Bacallau",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29287/-/as-que-cortan-o-bacallau.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.556286260082261",
+                    "43.01352152787318"
                 ]
             },
             "properties": {
@@ -294,8 +376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.50399597200525",
-                    "42.174857809829746"
+                    "-8.504095402171602",
+                    "42.175161860585824"
                 ]
             },
             "properties": {
@@ -312,8 +394,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395716585496487",
-                    "43.37124785102866"
+                    "-8.560083916421094",
+                    "42.636429241184416"
+                ]
+            },
+            "properties": {
+                "name": "Festival Folclórico de Nadal",
+                "location": "Cuntis",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29286/-/festival-folclorico-de-nadal.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394855947059984",
+                    "43.372321246415304"
                 ]
             },
             "properties": {
@@ -331,8 +431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723161097852078",
-                    "42.23950091747029"
+                    "-8.724596207668679",
+                    "42.237856409434045"
                 ]
             },
             "properties": {
@@ -352,8 +452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724470620322911",
-                    "42.17493937619976"
+                    "-8.72378327462633",
+                    "42.1756068607765"
                 ]
             },
             "properties": {
@@ -370,8 +470,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.4017003186364105",
-                    "43.66515630270698"
+                    "-7.400908052106876",
+                    "43.664835575482094"
                 ]
             },
             "properties": {
@@ -388,8 +488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7934128224404375",
-                    "42.087508459073426"
+                    "-7.794443628918916",
+                    "42.087298462659966"
                 ]
             },
             "properties": {
@@ -406,8 +506,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.145536655726307",
-                    "43.24686432418948"
+                    "-9.031135171034535",
+                    "43.111115714570175"
+                ]
+            },
+            "properties": {
+                "name": "Alana",
+                "location": "Vimianzo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29291/-/alana.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.146306010121595",
+                    "43.247350020578835"
                 ]
             },
             "properties": {
@@ -424,8 +542,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724612968387401",
-                    "42.237801417134015"
+                    "-8.723114449997741",
+                    "42.237868819110346"
                 ]
             },
             "properties": {
@@ -442,8 +560,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.784511173771367",
-                    "42.327579769659785"
+                    "-8.786324469373683",
+                    "42.32742911171232"
                 ]
             },
             "properties": {
@@ -460,8 +578,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.769783659512157",
-                    "41.965007139383935"
+                    "-7.413489461865785",
+                    "42.7788579564582"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos + Os Eméritos",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29271/-/os-bar-ban-sonicos-os-emeritos.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.231420462637335",
+                    "43.48646111680359"
+                ]
+            },
+            "properties": {
+                "name": "Seixo + Garza + Tanque de Tormentas",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29267/-/seixo-garza-tanque-de-tormentas.html",
+                "dates": [
+                    "2025-12-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.770255153678963",
+                    "41.96550276179098"
                 ]
             },
             "properties": {
@@ -478,13 +632,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.966741854596807",
-                    "43.163835006509025"
+                    "-8.966508629549068",
+                    "43.16268821671799"
                 ]
             },
             "properties": {
                 "name": "Dani Barreiro & Friends",
-                "location": "Baio (zas)",
+                "location": "Baio (Zas)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29263/-/dani-barreiro-friends.html",
                 "dates": [
                     "2025-12-20"
@@ -496,8 +650,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.680530250189882",
-                    "42.195995851090025"
+                    "-8.680531261857004",
+                    "42.197624328209535"
                 ]
             },
             "properties": {
@@ -514,8 +668,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.11096240349702",
-                    "42.662311274738286"
+                    "-8.636049158009245",
+                    "42.21007433309264"
+                ]
+            },
+            "properties": {
+                "name": "Os Mangacarballos",
+                "location": "Dornelas (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29292/-/os-mangacarballos.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.109861022672652",
+                    "42.66158354959878"
                 ]
             },
             "properties": {
@@ -532,8 +704,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651705485848147",
-                    "42.197062716185876"
+                    "-8.990991574214931",
+                    "42.93979434926154"
+                ]
+            },
+            "properties": {
+                "name": "Tres Pesos",
+                "location": "A Picota, Mazaricos (Mazaricos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29294/-/tres-pesos.html",
+                "dates": [
+                    "2025-12-21",
+                    "2025-12-22",
+                    "2025-12-23",
+                    "2025-12-26"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.141563462498587",
+                    "42.288979716105366"
+                ]
+            },
+            "properties": {
+                "name": "Uxía Lambona e A Banda Molona",
+                "location": "Ribadavia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29119/-/uxia-lambona-e-a-banda-molona.html",
+                "dates": [
+                    "2025-12-21",
+                    "2025-12-26",
+                    "2025-12-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.652649403658751",
+                    "42.19849252334029"
                 ]
             },
             "properties": {
@@ -550,8 +763,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765992029349409",
-                    "42.59636713480121"
+                    "-8.138868094937848",
+                    "43.55047604770586"
+                ]
+            },
+            "properties": {
+                "name": "Cantos de Nadal en Sedes",
+                "location": "Sedes (Narón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29296/-/cantos-de-nadal-en-sedes.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.160082413763066",
+                    "42.92874714862238"
+                ]
+            },
+            "properties": {
+                "name": "Festival Infantil O Bringuelo",
+                "location": "Arzúa",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29295/-/festival-infantil-o-bringuelo.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.610231368551197",
+                    "42.30440450331671"
+                ]
+            },
+            "properties": {
+                "name": "Paco Nogueiras ",
+                "location": "Cesantes (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29306/-/paco-nogueiras.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.765857615932962",
+                    "42.59592868578688"
                 ]
             },
             "properties": {
@@ -568,8 +835,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395831386791597",
-                    "43.372747946405035"
+                    "-9.012076872645576",
+                    "42.582387198165264"
+                ]
+            },
+            "properties": {
+                "name": "Festival de Nadal Alfaia",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29289/-/festival-de-nadal-alfaia.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.39473939974615",
+                    "43.37122685686573"
                 ]
             },
             "properties": {
@@ -586,8 +871,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544447002265676",
-                    "42.880952720802824"
+                    "-8.387976402349832",
+                    "43.28947976672828"
+                ]
+            },
+            "properties": {
+                "name": "Concerto de Nadal Sementeira",
+                "location": "Culleredo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29297/-/concerto-de-nadal-sementeira.html",
+                "dates": [
+                    "2025-12-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544005901949312",
+                    "42.88130136613657"
                 ]
             },
             "properties": {
@@ -604,8 +907,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54483084827219",
-                    "42.88203930274716"
+                    "-8.829691416368382",
+                    "42.42320417760266"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "Sanxenxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29195/-/a-gramola-gominola.html",
+                "dates": [
+                    "2025-12-23",
+                    "2025-12-27",
+                    "2025-12-27",
+                    "2025-12-29",
+                    "2025-12-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544722067471842",
+                    "42.88200048047964"
                 ]
             },
             "properties": {
@@ -622,8 +947,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.593912749610678",
-                    "43.663768251533845"
+                    "-7.593332733527936",
+                    "43.663536274652294"
                 ]
             },
             "properties": {
@@ -640,8 +965,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.885037533437913",
-                    "42.64680707375018"
+                    "-8.734022887911816",
+                    "42.28282134984239"
+                ]
+            },
+            "properties": {
+                "name": "Foliadas de Nadal",
+                "location": "Moaña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29278/-/foliadas-de-nadal.html",
+                "dates": [
+                    "2025-12-26"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.885457697129874",
+                    "42.6474255261595"
                 ]
             },
             "properties": {
@@ -658,8 +1001,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.653698341532184",
-                    "42.2076439657923"
+                    "-8.654337744690746",
+                    "42.20913895576078"
                 ]
             },
             "properties": {
@@ -676,8 +1019,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395579597721126",
-                    "43.37103352642584"
+                    "-8.393959885967572",
+                    "43.37117424877196"
                 ]
             },
             "properties": {
@@ -694,8 +1037,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.654558265530584",
-                    "42.208057694283305"
+                    "-8.654590040973302",
+                    "42.20849263710847"
                 ]
             },
             "properties": {
@@ -712,8 +1055,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.1576326533025",
-                    "43.50097553369137"
+                    "-8.157792119816392",
+                    "43.50116290932522"
                 ]
             },
             "properties": {
@@ -730,8 +1073,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642719932218867",
-                    "42.43314561598856"
+                    "-9.013389557884258",
+                    "42.58175986347274"
+                ]
+            },
+            "properties": {
+                "name": "Festival de Nadal Amas de Casa de Ribeira",
+                "location": "Ribeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29288/-/festival-de-nadal-amas-de-casa-de-ribeira.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64279096331735",
+                    "42.4332547510096"
+                ]
+            },
+            "properties": {
+                "name": "Foliada no CS A Pedreira",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29301/-/foliada-no-cs-a-pedreira.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.958085596954874",
+                    "42.1531876264012"
+                ]
+            },
+            "properties": {
+                "name": "Concerto de Nadal Lembranza Solpor",
+                "location": "Celanova",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29302/-/concerto-de-nadal-lembranza-solpor.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643156406655201",
+                    "42.433314439622656"
                 ]
             },
             "properties": {
@@ -748,8 +1145,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.77915004864975",
-                    "42.264868664571615"
+                    "-8.608021581942097",
+                    "42.28583013580644"
+                ]
+            },
+            "properties": {
+                "name": "Concerto Benéfico a Favor de Cáritas",
+                "location": "Redondela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29307/-/concerto-benefico-a-favor-de-caritas.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778204743296001",
+                    "42.265435194653314"
                 ]
             },
             "properties": {
@@ -766,26 +1181,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.88576615584043",
-                    "42.64793279981578"
-                ]
-            },
-            "properties": {
-                "name": "Xabier Díaz e Adufeiras de Salitre",
-                "location": "Boiro",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/28765/-/xabier-diaz-e-adufeiras-de-salitre.html",
-                "dates": [
-                    "2025-12-27"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.54448216026199",
-                    "42.88105149446141"
+                    "-8.543994120651561",
+                    "42.88066991785165"
                 ]
             },
             "properties": {
@@ -802,8 +1199,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651840720163635",
-                    "42.197566753864464"
+                    "-8.885103156106883",
+                    "42.647056129930945"
+                ]
+            },
+            "properties": {
+                "name": "Xabier Díaz e Adufeiras de Salitre",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/28765/-/xabier-diaz-e-adufeiras-de-salitre.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651338473442863",
+                    "42.19865899025977"
                 ]
             },
             "properties": {
@@ -820,8 +1235,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.618512414808194",
-                    "42.162782205299926"
+                    "-8.231859656774756",
+                    "43.48506621256638"
+                ]
+            },
+            "properties": {
+                "name": "Ghorxa + Mentah + Window Pane",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29268/-/ghorxa-mentah-window-pane.html",
+                "dates": [
+                    "2025-12-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.618628666919241",
+                    "42.163401761801204"
                 ]
             },
             "properties": {
@@ -838,8 +1271,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.556326862634695",
-                    "42.1030811108849"
+                    "-8.556530468306452",
+                    "42.1028056033632"
                 ]
             },
             "properties": {
@@ -857,8 +1290,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.146002060201369",
-                    "43.50939944838345"
+                    "-8.145290764887434",
+                    "43.51070238210803"
                 ]
             },
             "properties": {
@@ -867,6 +1300,60 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29151/-/ruada-do-apalpador.html",
                 "dates": [
                     "2025-12-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.1959298823241",
+                    "43.33038690151534"
+                ]
+            },
+            "properties": {
+                "name": "Festival Nadal Banda de Gaitas San Pantaleón",
+                "location": "Montecelo, Viñas (Paderne)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29303/-/festival-nadal-banda-de-gaitas-san-pantaleon.html",
+                "dates": [
+                    "2025-12-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.188775371886448",
+                    "42.956462720805824"
+                ]
+            },
+            "properties": {
+                "name": "II Festival de Nadal Novo Viana",
+                "location": "Cee",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29304/-/ii-festival-de-nadal-novo-viana.html",
+                "dates": [
+                    "2025-12-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.584794914889942",
+                    "42.28182437203888"
+                ]
+            },
+            "properties": {
+                "name": "Cé Orquestra Pantasma",
+                "location": "Reboreda (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29308/-/ce-orquestra-pantasma.html",
+                "dates": [
+                    "2025-12-30"
                 ]
             }
         }
