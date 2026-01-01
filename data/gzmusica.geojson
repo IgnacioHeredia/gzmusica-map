@@ -6,52 +6,219 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.141837493272899",
-                    "43.128965800898385"
-                ]
-            },
-            "properties": {
-                "name": "Uxía Lambona e A Banda Molona",
-                "location": "Curtis",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29121/-/uxia-lambona-e-a-banda-molona.html",
-                "dates": [
-                    "2025-12-30"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.584897099387197",
-                    "42.282591674879065"
-                ]
-            },
-            "properties": {
-                "name": "Cé Orquestra Pantasma",
-                "location": "Reboreda (Redondela)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29308/-/ce-orquestra-pantasma.html",
-                "dates": [
-                    "2025-12-30"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.821605379979802",
-                    "42.61041923827299"
+                    "-8.253350602043776",
+                    "43.35198156034511"
                 ]
             },
             "properties": {
                 "name": "A Gramola Gominola",
-                "location": "Chantada",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29199/-/a-gramola-gominola.html",
+                "location": "Sada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29204/-/a-gramola-gominola.html",
                 "dates": [
-                    "2025-12-30"
+                    "2026-01-02",
+                    "2026-01-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.619481607176914",
+                    "42.241420631419615"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "Vilar de Infesta (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29309/-/pakolas.html",
+                "dates": [
+                    "2026-01-03",
+                    "2026-01-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.0087059653988835",
+                    "42.966558982607765"
+                ]
+            },
+            "properties": {
+                "name": "V Polavila Naviega",
+                "location": "A Proba de Navia (Navia de Suarna)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29324/-/v-polavila-naviega.html",
+                "dates": [
+                    "2026-01-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.594824063859847",
+                    "43.6627043894874"
+                ]
+            },
+            "properties": {
+                "name": "Sen Límites + Fervenza 0,0",
+                "location": "Viveiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29231/-/sen-limites-fervenza-0-0.html",
+                "dates": [
+                    "2026-01-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.866827453667975",
+                    "42.344203086299764"
+                ]
+            },
+            "properties": {
+                "name": "Tandub",
+                "location": "Ourense",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29325/-/tandub.html",
+                "dates": [
+                    "2026-01-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.646177741959534",
+                    "42.4333300480522"
+                ]
+            },
+            "properties": {
+                "name": "Milladoiro + Gwendal",
+                "location": "Santander, Cantabria (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29259/-/milladoiro-gwendal.html",
+                "dates": [
+                    "2026-01-09"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395405631021443",
+                    "43.371975168770895"
+                ]
+            },
+            "properties": {
+                "name": "Sés",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29223/-/ses.html",
+                "dates": [
+                    "2026-01-10",
+                    "2026-01-11",
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64694243360512",
+                    "42.43205763460411"
+                ]
+            },
+            "properties": {
+                "name": "Luar an Lubre + Xabi Aburruzaga + Uruna",
+                "location": "Santander, Cantabria (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29260/-/luar-an-lubre-xabi-aburruzaga-uruna.html",
+                "dates": [
+                    "2026-01-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.646692328637712",
+                    "42.433958916036154"
+                ]
+            },
+            "properties": {
+                "name": "Luar na Lubre",
+                "location": "Plasencia, Cáceres (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29208/-/luar-na-lubre.html",
+                "dates": [
+                    "2026-01-23",
+                    "2026-01-24"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.01279885935214",
+                    "42.91565816762244"
+                ]
+            },
+            "properties": {
+                "name": "Loita Amada",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29248/-/loita-amada.html",
+                "dates": [
+                    "2026-01-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.171374424184204",
+                    "43.40899981138573"
+                ]
+            },
+            "properties": {
+                "name": "Samesugas",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29165/-/samesugas.html",
+                "dates": [
+                    "2026-01-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.171812143843",
+                    "43.408660729537345"
+                ]
+            },
+            "properties": {
+                "name": "Samesugas + Bule + Pladür",
+                "location": "Pontedeume",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29252/-/samesugas-bule-pladuer.html",
+                "dates": [
+                    "2026-01-31"
                 ]
             }
         }
