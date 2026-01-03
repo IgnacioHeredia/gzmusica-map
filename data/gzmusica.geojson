@@ -6,17 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.252703421905",
-                    "43.35327215302031"
+                    "-8.077943491109984",
+                    "42.431082239518624"
                 ]
             },
             "properties": {
-                "name": "A Gramola Gominola",
-                "location": "Sada",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29204/-/a-gramola-gominola.html",
+                "name": "A Apalpadora e As Ozocoreteiras",
+                "location": "O Carballiño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29338/-/a-apalpadora-e-as-ozocoreteiras.html",
                 "dates": [
-                    "2026-01-02",
-                    "2026-01-05"
+                    "2026-01-03"
                 ]
             }
         },
@@ -25,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.621094604689148",
-                    "42.24013881398827"
+                    "-8.619535994502332",
+                    "42.24134174039538"
                 ]
             },
             "properties": {
@@ -44,8 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.0091909922715",
-                    "42.968152214397335"
+                    "-7.007689101476115",
+                    "42.96699523461743"
                 ]
             },
             "properties": {
@@ -62,8 +61,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.592993360749547",
-                    "43.66292717482158"
+                    "-7.794282833169687",
+                    "42.08806811739681"
+                ]
+            },
+            "properties": {
+                "name": "A Pedreira",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29334/-/a-pedreira.html",
+                "dates": [
+                    "2026-01-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.593836577385167",
+                    "43.662757639452444"
                 ]
             },
             "properties": {
@@ -80,8 +97,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865530098813035",
-                    "42.34557146887513"
+                    "-7.866192241114724",
+                    "42.34489652299615"
                 ]
             },
             "properties": {
@@ -98,8 +115,124 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646680317472361",
-                    "42.43260939721033"
+                    "-8.013074816986478",
+                    "42.9154889706483"
+                ]
+            },
+            "properties": {
+                "name": "Susie Q´s",
+                "location": "Melide",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29341/-/susie-q-s.html",
+                "dates": [
+                    "2026-01-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.807407447518825",
+                    "42.45213377364393"
+                ]
+            },
+            "properties": {
+                "name": "Danzas de Reis Penaguda",
+                "location": "Dena (Meaño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29339/-/danzas-de-reis-penaguda.html",
+                "dates": [
+                    "2026-01-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.571084510610891",
+                    "42.337582120743676"
+                ]
+            },
+            "properties": {
+                "name": "Abeleiras de Alxán",
+                "location": "Soutomaior",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29340/-/abeleiras-de-alxan.html",
+                "dates": [
+                    "2026-01-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.543994011319187",
+                    "42.88086159195523"
+                ]
+            },
+            "properties": {
+                "name": "A Gramola Gominola",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29205/-/a-gramola-gominola.html",
+                "dates": [
+                    "2026-01-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.816674843867325",
+                    "42.27626910820986"
+                ]
+            },
+            "properties": {
+                "name": "Sons Amodiño",
+                "location": "Vilariño, O Hío (Cangas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29333/-/sons-amodino.html",
+                "dates": [
+                    "2026-01-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.67964522395473",
+                    "42.19716901185319"
+                ]
+            },
+            "properties": {
+                "name": "San Blas Bembrive",
+                "location": "Bembrive (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29326/-/san-blas-bembrive.html",
+                "dates": [
+                    "2026-01-09",
+                    "2026-01-10",
+                    "2026-01-16",
+                    "2026-01-17",
+                    "2026-01-23",
+                    "2026-01-24",
+                    "2026-01-30",
+                    "2026-01-31",
+                    "2026-02-01"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64668467326099",
+                    "42.43335769182867"
                 ]
             },
             "properties": {
@@ -116,8 +249,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394196174221065",
-                    "43.37176781201904"
+                    "-7.793072198636748",
+                    "42.087640198610565"
+                ]
+            },
+            "properties": {
+                "name": "Cana Verde",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29335/-/cana-verde.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395535303261878",
+                    "43.37155549228492"
                 ]
             },
             "properties": {
@@ -136,8 +287,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64615975996266",
-                    "42.432202251759676"
+                    "-8.556480724879306",
+                    "42.103027141971324"
+                ]
+            },
+            "properties": {
+                "name": "Eskravos + Espinillas",
+                "location": "Salceda de Caselas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29331/-/eskravos-espinillas.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.645963580649786",
+                    "42.43298025576082"
                 ]
             },
             "properties": {
@@ -154,8 +323,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.645957432553232",
-                    "42.43260014938308"
+                    "-8.231755231057429",
+                    "43.48498822414785"
+                ]
+            },
+            "properties": {
+                "name": "Vai Rañala Meu",
+                "location": "Ferrol",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29332/-/vai-ranala-meu.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.109724668921874",
+                    "42.66270676582027"
+                ]
+            },
+            "properties": {
+                "name": "Bule + Pladür + Arrepío",
+                "location": "Lalín",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29342/-/bule-pladuer-arrepio.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7935246565968805",
+                    "42.0881602512388"
+                ]
+            },
+            "properties": {
+                "name": "Adela e Eladio",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29336/-/adela-e-eladio.html",
+                "dates": [
+                    "2026-01-18"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.647309656871517",
+                    "42.432535784906506"
                 ]
             },
             "properties": {
@@ -173,8 +396,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.013018085061455",
-                    "42.91574006480471"
+                    "-8.013245565722407",
+                    "42.91638049001009"
                 ]
             },
             "properties": {
@@ -191,8 +414,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.171853771569182",
-                    "43.40903703039136"
+                    "-8.170577582165842",
+                    "43.40824499608204"
                 ]
             },
             "properties": {
@@ -209,8 +432,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.17135836216533",
-                    "43.407639216774676"
+                    "-8.17004966274291",
+                    "43.407270878827354"
                 ]
             },
             "properties": {
