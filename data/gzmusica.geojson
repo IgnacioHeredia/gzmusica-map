@@ -6,8 +6,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.679059463049972",
-                    "42.19682095831134"
+                    "-8.680147043153967",
+                    "42.19621309729707"
                 ]
             },
             "properties": {
@@ -33,8 +33,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646003560754853",
-                    "42.432498451782095"
+                    "-8.646247929291974",
+                    "42.43371897452998"
                 ]
             },
             "properties": {
@@ -51,8 +51,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.7941148274543",
-                    "42.08785098173932"
+                    "-8.109458057342863",
+                    "42.66271054153377"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos",
+                "location": "Lalín",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29347/-/os-bar-ban-sonicos.html",
+                "dates": [
+                    "2026-01-10",
+                    "2026-01-24",
+                    "2026-02-07"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544925798858069",
+                    "42.88175917314574"
+                ]
+            },
+            "properties": {
+                "name": "Tabernarias",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29356/-/tabernarias.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793070214811537",
+                    "42.088613346334334"
                 ]
             },
             "properties": {
@@ -69,8 +107,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394280876362119",
-                    "43.3722469844032"
+                    "-8.394215326112397",
+                    "43.37238023584371"
                 ]
             },
             "properties": {
@@ -89,8 +127,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.556921224061938",
-                    "42.103270666220986"
+                    "-8.790694764147524",
+                    "42.950709028812796"
+                ]
+            },
+            "properties": {
+                "name": "Os Carunchos + Crua",
+                "location": "Bravães, Ponte da Barca (Portugal)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29357/-/os-carunchos-crua.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.436187343010879",
+                    "42.70225376093376"
+                ]
+            },
+            "properties": {
+                "name": "Noites de Raíz",
+                "location": "Callobre (A Estrada)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29346/-/noites-de-raiz.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.557537421089645",
+                    "42.10235889022187"
                 ]
             },
             "properties": {
@@ -107,14 +181,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646811985791269",
-                    "42.432756804423256"
+                    "-8.645897083563748",
+                    "42.432148622203265"
                 ]
             },
             "properties": {
-                "name": "Luar an Lubre + Xabi Aburruzaga + Uruna",
+                "name": "Luar na Lubre + Xabi Aburruzaga + Uruna",
                 "location": "Santander, Cantabria (España)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29260/-/luar-an-lubre-xabi-aburruzaga-uruna.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29260/-/luar-na-lubre-xabi-aburruzaga-uruna.html",
                 "dates": [
                     "2026-01-11"
                 ]
@@ -125,8 +199,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.736003675182967",
-                    "42.19855204620136"
+                    "-8.734448880152591",
+                    "42.198674537413865"
                 ]
             },
             "properties": {
@@ -146,8 +220,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.231274911788978",
-                    "43.48629320166222"
+                    "-8.23171836767722",
+                    "43.486303677165836"
                 ]
             },
             "properties": {
@@ -164,8 +238,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.110043496103039",
-                    "42.66315984473168"
+                    "-8.770056938282137",
+                    "41.975707768617006"
+                ]
+            },
+            "properties": {
+                "name": "Festas de San Sebastián",
+                "location": "Estás (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29354/-/festas-de-san-sebastian.html",
+                "dates": [
+                    "2026-01-17",
+                    "2026-01-23",
+                    "2026-01-24",
+                    "2026-01-25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.109005756935815",
+                    "42.662300327410875"
                 ]
             },
             "properties": {
@@ -182,8 +277,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794342586549876",
-                    "42.08861760980795"
+                    "-7.794412133668047",
+                    "42.08911652502379"
                 ]
             },
             "properties": {
@@ -200,8 +295,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646893240891002",
-                    "42.432125249511444"
+                    "-8.64651107761456",
+                    "42.43299365126798"
                 ]
             },
             "properties": {
@@ -219,8 +314,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65176216938042",
-                    "42.19741308217134"
+                    "-7.414420963749632",
+                    "42.78015905972298"
+                ]
+            },
+            "properties": {
+                "name": "Cabodano + Mind Traveller",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29352/-/cabodano-mind-traveller.html",
+                "dates": [
+                    "2026-01-24"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.65192978412333",
+                    "42.19702073238609"
                 ]
             },
             "properties": {
@@ -237,8 +350,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.011860523878926",
-                    "42.91540703891101"
+                    "-8.012350852168113",
+                    "42.91513168530358"
                 ]
             },
             "properties": {
@@ -255,8 +368,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.170460366887093",
-                    "43.407725493982795"
+                    "-8.17067192972006",
+                    "43.408704384547576"
                 ]
             },
             "properties": {
@@ -273,8 +386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.170561458864894",
-                    "43.40794451438457"
+                    "-8.171712901155352",
+                    "43.40759608868257"
                 ]
             },
             "properties": {
@@ -291,8 +404,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.39451056770279",
-                    "43.37204083450588"
+                    "-8.394337723169139",
+                    "43.37163206208662"
                 ]
             },
             "properties": {
@@ -309,8 +422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545318020270903",
-                    "42.880991212674715"
+                    "-8.544231131519853",
+                    "42.88241121170135"
                 ]
             },
             "properties": {
@@ -327,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792858827973971",
-                    "42.0880225750597"
+                    "-7.79433676818629",
+                    "42.088273515471464"
                 ]
             },
             "properties": {
@@ -337,6 +450,24 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29337/-/susie-q-s.html",
                 "dates": [
                     "2026-02-06"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.773230580914658",
+                    "41.94522764117525"
+                ]
+            },
+            "properties": {
+                "name": "XXI Festival Taíña",
+                "location": "Goián (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29353/-/xxi-festival-taina.html",
+                "dates": [
+                    "2026-02-07"
                 ]
             }
         }
