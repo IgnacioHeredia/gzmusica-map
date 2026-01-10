@@ -6,8 +6,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.680147043153967",
-                    "42.19621309729707"
+                    "-3.7016062078543754",
+                    "40.41803843160784"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca + Casa Palma",
+                "location": "Madrid (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29371/-/baiuca-casa-palma.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.459032175272938",
+                    "42.549584205579244"
+                ]
+            },
+            "properties": {
+                "name": "Festas do Anxo da Garda de Cuíña",
+                "location": "Cuíña, Quireza (Cerdedo-Cotobade)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29359/-/festas-do-anxo-da-garda-de-cuina.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.678916245528102",
+                    "42.19654458219466"
                 ]
             },
             "properties": {
@@ -15,7 +51,6 @@
                 "location": "Bembrive (Vigo)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29326/-/san-blas-bembrive.html",
                 "dates": [
-                    "2026-01-09",
                     "2026-01-10",
                     "2026-01-16",
                     "2026-01-17",
@@ -33,16 +68,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646247929291974",
-                    "42.43371897452998"
+                    "-7.555461951000673",
+                    "43.01276948296636"
                 ]
             },
             "properties": {
-                "name": "Milladoiro + Gwendal",
-                "location": "Santander, Cantabria (España)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29259/-/milladoiro-gwendal.html",
+                "name": "Foliada Aberta no Mádia Leva",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29369/-/foliada-aberta-no-madia-leva.html",
                 "dates": [
-                    "2026-01-09"
+                    "2026-01-10"
                 ]
             }
         },
@@ -51,18 +86,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.109458057342863",
-                    "42.66271054153377"
+                    "-7.324459466002026",
+                    "43.5827239793167"
                 ]
             },
             "properties": {
-                "name": "Os Bar Ban Sónicos",
-                "location": "Lalín",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29347/-/os-bar-ban-sonicos.html",
+                "name": "XVI Festival Solidario A Subela",
+                "location": "Foz",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29370/-/xvi-festival-solidario-a-subela.html",
                 "dates": [
-                    "2026-01-10",
-                    "2026-01-24",
-                    "2026-02-07"
+                    "2026-01-10"
                 ]
             }
         },
@@ -71,8 +104,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544925798858069",
-                    "42.88175917314574"
+                    "-8.545555897505587",
+                    "42.88149701769742"
                 ]
             },
             "properties": {
@@ -89,8 +122,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793070214811537",
-                    "42.088613346334334"
+                    "-7.794125463023499",
+                    "42.08878020615948"
                 ]
             },
             "properties": {
@@ -107,8 +140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394215326112397",
-                    "43.37238023584371"
+                    "-8.393943234383665",
+                    "43.37254786869483"
                 ]
             },
             "properties": {
@@ -127,8 +160,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.790694764147524",
-                    "42.950709028812796"
+                    "-7.401230283125439",
+                    "43.66472221783496"
+                ]
+            },
+            "properties": {
+                "name": "The Leli Kelly´s + Derrota Federica",
+                "location": "Sargadelos (Cervo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29362/-/the-leli-kelly-s-derrota-federica.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.723182750634153",
+                    "42.238739227636884"
+                ]
+            },
+            "properties": {
+                "name": "Luciernaga + Sulfur Giant",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29368/-/luciernaga-sulfur-giant.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.789514502831329",
+                    "42.950803049292226"
                 ]
             },
             "properties": {
@@ -145,8 +214,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.436187343010879",
-                    "42.70225376093376"
+                    "-8.770020830591513",
+                    "41.97664079207441"
+                ]
+            },
+            "properties": {
+                "name": "Serán de Estás",
+                "location": "Estás (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29375/-/seran-de-estas.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.43593078566715",
+                    "42.70256567251176"
                 ]
             },
             "properties": {
@@ -163,8 +250,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.557537421089645",
-                    "42.10235889022187"
+                    "-8.556080338256319",
+                    "42.10334583514565"
                 ]
             },
             "properties": {
@@ -181,8 +268,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.645897083563748",
-                    "42.432148622203265"
+                    "-7.556548262750588",
+                    "43.012506501444804"
+                ]
+            },
+            "properties": {
+                "name": "Abe Rábade e Ricardo Formoso",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29364/-/abe-rabade-e-ricardo-formoso.html",
+                "dates": [
+                    "2026-01-10"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.110672665407938",
+                    "42.66267821315605"
+                ]
+            },
+            "properties": {
+                "name": "Os Bar Ban Sónicos",
+                "location": "Lalín",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29347/-/os-bar-ban-sonicos.html",
+                "dates": [
+                    "2026-01-10",
+                    "2026-01-24",
+                    "2026-02-07"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.645674185495594",
+                    "42.4325402268702"
                 ]
             },
             "properties": {
@@ -199,8 +324,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.734448880152591",
-                    "42.198674537413865"
+                    "-8.81105220216239",
+                    "42.47997757285423"
+                ]
+            },
+            "properties": {
+                "name": "Unto Vello",
+                "location": "Castrelo (Cambados)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29376/-/unto-vello.html",
+                "dates": [
+                    "2026-01-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.734574933445023",
+                    "42.19948084197413"
                 ]
             },
             "properties": {
@@ -220,8 +363,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.23171836767722",
-                    "43.486303677165836"
+                    "2.1784678681501783",
+                    "41.3847257892084"
+                ]
+            },
+            "properties": {
+                "name": "Baiuca",
+                "location": "Barcelona (Catalunya)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29372/-/baiuca.html",
+                "dates": [
+                    "2026-01-16",
+                    "2026-02-06"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64195693755286",
+                    "42.43209956918701"
+                ]
+            },
+            "properties": {
+                "name": "Romaría de San Sebastián",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29377/-/romaria-de-san-sebastian.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.232590487288048",
+                    "43.485181307266416"
                 ]
             },
             "properties": {
@@ -238,8 +418,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.770056938282137",
-                    "41.975707768617006"
+                    "-8.769710159074455",
+                    "41.97603933421378"
                 ]
             },
             "properties": {
@@ -259,8 +439,80 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.109005756935815",
-                    "42.662300327410875"
+                    "-8.541040598112357",
+                    "42.23445922517523"
+                ]
+            },
+            "properties": {
+                "name": "Serán de San Antón",
+                "location": "As Cortellas, Padróns (Ponteareas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29378/-/seran-de-san-anton.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.8126396147221",
+                    "42.58024896334596"
+                ]
+            },
+            "properties": {
+                "name": "Urko + Godsin",
+                "location": "Louro, Vila Nova de Famalicão (Portugal)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29374/-/urko-godsin.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.539217830170788",
+                    "42.78875552467729"
+                ]
+            },
+            "properties": {
+                "name": "Romaría do 3 na Honra de San Perillote",
+                "location": "Lucí (Teo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29379/-/romaria-do-3-na-honra-de-san-perillote.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544831665661667",
+                    "42.88156913352963"
+                ]
+            },
+            "properties": {
+                "name": "Brassica Rapa + Fanfarria Taquikardia",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29373/-/brassica-rapa-fanfarria-taquikardia.html",
+                "dates": [
+                    "2026-01-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.109044159941773",
+                    "42.66215205524013"
                 ]
             },
             "properties": {
@@ -277,8 +529,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.794412133668047",
-                    "42.08911652502379"
+                    "-7.7939150457232715",
+                    "42.08845294408"
                 ]
             },
             "properties": {
@@ -295,8 +547,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64651107761456",
-                    "42.43299365126798"
+                    "-8.64575572106039",
+                    "42.432081854314625"
                 ]
             },
             "properties": {
@@ -314,8 +566,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.414420963749632",
-                    "42.78015905972298"
+                    "-7.555593174054711",
+                    "43.01251156187328"
+                ]
+            },
+            "properties": {
+                "name": "Gala Solidaria As Trece do Lugo",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29367/-/gala-solidaria-as-trece-do-lugo.html",
+                "dates": [
+                    "2026-01-23"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.414138038770003",
+                    "42.77971473461372"
                 ]
             },
             "properties": {
@@ -332,8 +602,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.65192978412333",
-                    "42.19702073238609"
+                    "-8.651458647882565",
+                    "42.198281246018716"
                 ]
             },
             "properties": {
@@ -350,8 +620,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012350852168113",
-                    "42.91513168530358"
+                    "-8.012598345649375",
+                    "42.915527395870164"
                 ]
             },
             "properties": {
@@ -368,8 +638,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.17067192972006",
-                    "43.408704384547576"
+                    "-7.55619133393643",
+                    "43.01304842073587"
+                ]
+            },
+            "properties": {
+                "name": "Verter GZ",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29365/-/verter-gz.html",
+                "dates": [
+                    "2026-01-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.170896255725344",
+                    "43.407735507905315"
                 ]
             },
             "properties": {
@@ -386,8 +674,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.171712901155352",
-                    "43.40759608868257"
+                    "-8.636729376150406",
+                    "42.56437570054938"
+                ]
+            },
+            "properties": {
+                "name": "Chourizada Popular de Briallos",
+                "location": "Briallos (Portas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29380/-/chourizada-popular-de-briallos.html",
+                "dates": [
+                    "2026-01-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.45850569310605",
+                    "42.263260977601924"
+                ]
+            },
+            "properties": {
+                "name": "Serán de Gargamala",
+                "location": "Mourelle, Gargamala (Mondariz)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29358/-/seran-de-gargamala.html",
+                "dates": [
+                    "2026-01-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.17002754504674",
+                    "43.407723829500746"
                 ]
             },
             "properties": {
@@ -404,16 +728,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394337723169139",
-                    "43.37163206208662"
+                    "-7.555628033800293",
+                    "43.01230713816184"
                 ]
             },
             "properties": {
-                "name": "Baiuca",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29162/-/baiuca.html",
+                "name": "Keixo + Apolo + LoraHace Pam!",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29366/-/keixo-apolo-lorahace-pam.html",
                 "dates": [
-                    "2026-02-06"
+                    "2026-01-31"
                 ]
             }
         },
@@ -422,8 +746,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544231131519853",
-                    "42.88241121170135"
+                    "-8.544835539365563",
+                    "42.881082537741925"
                 ]
             },
             "properties": {
@@ -440,8 +764,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.79433676818629",
-                    "42.088273515471464"
+                    "-7.793732471438947",
+                    "42.0888478152363"
                 ]
             },
             "properties": {
@@ -458,8 +782,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.773230580914658",
-                    "41.94522764117525"
+                    "-8.771371811104311",
+                    "41.94590729693086"
                 ]
             },
             "properties": {
