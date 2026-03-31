@@ -6,8 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395584699423432",
-                    "43.37137239506114"
+                    "-8.395303774105951",
+                    "43.371315550637924"
+                ]
+            },
+            "properties": {
+                "name": "A Standard Conspiracy",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29780/-/a-standard-conspiracy.html",
+                "dates": [
+                    "2026-04-01"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394757631047002",
+                    "43.37168738157094"
                 ]
             },
             "properties": {
@@ -24,14 +42,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.63825086542537",
-                    "42.6454618999813"
+                    "-9.086348006713639",
+                    "42.822192628576566"
                 ]
             },
             "properties": {
-                "name": "Cantos de Taberna O Saviaño",
+                "name": "XIII Víndemo Ver",
+                "location": "Carnota",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29788/-/xiii-vindemo-ver.html",
+                "dates": [
+                    "2026-04-02",
+                    "2026-04-03",
+                    "2026-04-04",
+                    "2026-04-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.7243028107448595",
+                    "42.063905114854364"
+                ]
+            },
+            "properties": {
+                "name": "Xornada sobre a Cultura Tradicional e Popular da Limia",
+                "location": "Xinzo de Limia",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29790/-/xornada-sobre-a-cultura-tradicional-e-popular-da-limia.html",
+                "dates": [
+                    "2026-04-02"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.638240661107514",
+                    "42.645308191041"
+                ]
+            },
+            "properties": {
+                "name": "Cantos de Taberna O Saviñao",
                 "location": "O Saviñao",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29693/-/cantos-de-taberna-o-saviano.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29693/-/cantos-de-taberna-o-savinao.html",
                 "dates": [
                     "2026-04-03"
                 ]
@@ -42,8 +99,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.054288189859293",
-                    "42.57619254318392"
+                    "-7.052684233718072",
+                    "42.57624307493606"
                 ]
             },
             "properties": {
@@ -61,8 +118,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556557339696017",
-                    "43.013124951707404"
+                    "-8.395511095615646",
+                    "43.37203905451161"
+                ]
+            },
+            "properties": {
+                "name": "Sós + Apolo 18",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29777/-/sos-apolo-18.html",
+                "dates": [
+                    "2026-04-03"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555957865300094",
+                    "43.012160627886246"
                 ]
             },
             "properties": {
@@ -79,8 +154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.675022807882145",
-                    "42.020824907375754"
+                    "-8.67534713143471",
+                    "42.020921766914675"
                 ]
             },
             "properties": {
@@ -99,8 +174,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.454854615112325",
-                    "42.206266184128445"
+                    "-7.793891430545015",
+                    "42.08807102431884"
+                ]
+            },
+            "properties": {
+                "name": "Tesouro",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29774/-/tesouro.html",
+                "dates": [
+                    "2026-04-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.454003436877485",
+                    "42.20725701118963"
                 ]
             },
             "properties": {
@@ -117,8 +210,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.76688233831202",
-                    "42.59638670598168"
+                    "-8.394997461299136",
+                    "43.37213320835697"
+                ]
+            },
+            "properties": {
+                "name": "Tributo Richard Galliano",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29781/-/tributo-richard-galliano.html",
+                "dates": [
+                    "2026-04-08"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545397614201438",
+                    "42.88150895270408"
+                ]
+            },
+            "properties": {
+                "name": "V Tradi Fest",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29791/-/v-tradi-fest.html",
+                "dates": [
+                    "2026-04-09"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.765819447617188",
+                    "42.595715173064995"
                 ]
             },
             "properties": {
@@ -135,8 +264,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.557873556342427",
-                    "42.103378033778746"
+                    "-8.556608815632073",
+                    "42.102301392777726"
                 ]
             },
             "properties": {
@@ -153,8 +282,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.556382611538493",
-                    "43.01272534566853"
+                    "-7.554579754965082",
+                    "43.012539042423874"
                 ]
             },
             "properties": {
@@ -171,8 +300,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395880270677996",
-                    "43.37135134666399"
+                    "-8.395156701997172",
+                    "43.37296795057947"
                 ]
             },
             "properties": {
@@ -189,8 +318,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641253936019947",
-                    "42.433269235055974"
+                    "-8.6415139431241",
+                    "42.43256478340497"
                 ]
             },
             "properties": {
@@ -207,8 +336,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651765046576553",
-                    "42.197083410261904"
+                    "-8.652052563084121",
+                    "42.19752533587432"
                 ]
             },
             "properties": {
@@ -225,8 +354,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.622632336556585",
-                    "42.204446110190545"
+                    "-8.54420666439989",
+                    "42.882361302518355"
+                ]
+            },
+            "properties": {
+                "name": "Ukestra do Medio",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29789/-/ukestra-do-medio.html",
+                "dates": [
+                    "2026-04-12"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.622683998874397",
+                    "42.205887053831106"
                 ]
             },
             "properties": {
@@ -243,8 +390,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394276674490348",
-                    "43.37128010570794"
+                    "-8.393952664548866",
+                    "43.37160959870499"
+                ]
+            },
+            "properties": {
+                "name": "Ombra de Lúa",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29782/-/ombra-de-lua.html",
+                "dates": [
+                    "2026-04-16"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.645813399345876",
+                    "42.43327882112134"
+                ]
+            },
+            "properties": {
+                "name": "Tanxugueiras + José Bonaparte",
+                "location": "Santa Fe, Granada (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29773/-/tanxugueiras-jose-bonaparte.html",
+                "dates": [
+                    "2026-04-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395600474614374",
+                    "43.37191967029903"
                 ]
             },
             "properties": {
@@ -261,8 +444,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395632414646691",
-                    "43.371170402104475"
+                    "-8.395203712715574",
+                    "43.37189980891777"
                 ]
             },
             "properties": {
@@ -279,8 +462,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7025349037634827",
-                    "40.41838289152857"
+                    "-8.394223461331736",
+                    "43.37229728981423"
+                ]
+            },
+            "properties": {
+                "name": "Xurxo Estévez Trío",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29783/-/xurxo-estevez-trio.html",
+                "dates": [
+                    "2026-04-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.821754409786669",
+                    "42.61015550157367"
+                ]
+            },
+            "properties": {
+                "name": "Liorta Musical",
+                "location": "Chantada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29779/-/liorta-musical.html",
+                "dates": [
+                    "2026-04-18"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.701811333951068",
+                    "40.41760553804205"
                 ]
             },
             "properties": {
@@ -297,8 +516,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.853748024249581",
-                    "43.685226052006044"
+                    "-7.852798810285991",
+                    "43.68579955826325"
                 ]
             },
             "properties": {
@@ -315,8 +534,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.723041558611353",
-                    "42.239073597748586"
+                    "-8.723981656709267",
+                    "42.23836428571639"
                 ]
             },
             "properties": {
@@ -333,8 +552,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.415732238627967",
-                    "42.209962933861796"
+                    "-7.7941680089722265",
+                    "42.08787613707303"
+                ]
+            },
+            "properties": {
+                "name": "MJ Pérez + Unha Señora Orquestra",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29775/-/mj-perez-unha-senora-orquestra.html",
+                "dates": [
+                    "2026-04-18"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.41484823788436",
+                    "42.209165210076044"
                 ]
             },
             "properties": {
@@ -351,8 +588,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.884837037446143",
-                    "42.64679357479812"
+                    "-8.885584349080247",
+                    "42.646387986147495"
                 ]
             },
             "properties": {
@@ -369,8 +606,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7033683974081013",
-                    "40.41829343812079"
+                    "-3.7019542624378268",
+                    "40.41743993073964"
                 ]
             },
             "properties": {
@@ -387,8 +624,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54538511811173",
-                    "42.88225528532906"
+                    "-8.544439273505127",
+                    "42.881045415980765"
                 ]
             },
             "properties": {
@@ -405,8 +642,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641589813005423",
-                    "42.432729603608074"
+                    "-8.395109731636778",
+                    "43.37134719584262"
+                ]
+            },
+            "properties": {
+                "name": "Valentín Caamaño Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29784/-/valentin-caamano-quartet.html",
+                "dates": [
+                    "2026-04-22"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.642756195849577",
+                    "42.433052910382045"
                 ]
             },
             "properties": {
@@ -424,8 +679,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.310714250412682",
-                    "42.11374657478826"
+                    "-8.311633606377685",
+                    "42.114155364338096"
                 ]
             },
             "properties": {
@@ -444,8 +699,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642370030979652",
-                    "42.43276268981608"
+                    "-8.641962862055335",
+                    "42.43276375192266"
                 ]
             },
             "properties": {
@@ -462,8 +717,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.8846645172861",
-                    "42.64640344364973"
+                    "-8.395744170709452",
+                    "43.37217759274961"
+                ]
+            },
+            "properties": {
+                "name": "Ruxe Ruxe + Bule",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29778/-/ruxe-ruxe-bule.html",
+                "dates": [
+                    "2026-04-24"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.885407673665538",
+                    "42.648146836465955"
                 ]
             },
             "properties": {
@@ -480,8 +753,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.223713336439734",
-                    "42.62436315438175"
+                    "-7.222624845066128",
+                    "42.625113548579236"
                 ]
             },
             "properties": {
@@ -498,8 +771,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.478356752081212",
-                    "43.183574766477804"
+                    "-2.4777090185065562",
+                    "43.183329630332445"
                 ]
             },
             "properties": {
@@ -516,8 +789,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.510038345147258",
-                    "42.539684240136424"
+                    "-8.508838194477603",
+                    "42.53957002786848"
                 ]
             },
             "properties": {
@@ -526,6 +799,42 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29689/-/i-cantos-de-taberna-campo-lameiro.html",
                 "dates": [
                     "2026-04-25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793064014484179",
+                    "42.08916163802165"
+                ]
+            },
+            "properties": {
+                "name": "Terra Morena +`Cana Verde",
+                "location": "Vilar de Santos",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29776/-/terra-morena-cana-verde.html",
+                "dates": [
+                    "2026-04-25"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.393977711786677",
+                    "43.372508538071585"
+                ]
+            },
+            "properties": {
+                "name": "Xan Campos Quartet",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29785/-/xan-campos-quartet.html",
+                "dates": [
+                    "2026-04-29"
                 ]
             }
         }
