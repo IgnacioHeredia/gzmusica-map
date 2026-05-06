@@ -154,6 +154,7 @@ def download_events():
             date = e.find('a', attrs={'class': 'jevdateicon'}).text  # eg. 21Nov
 
             # Date string to datetime object
+            date = date.replace("Xun", "Xuñ")  # we have to manually path the webpage date because it returns "Xun" instead of "Xuñ"
             datef = datetime.datetime.strptime(date, "%d%b").date()
             datef = datef.replace(year=dstart.year)
             date = datef.strftime('%Y-%m-%d')
