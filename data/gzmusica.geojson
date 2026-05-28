@@ -6,17 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.16382846170677",
-                    "43.53074514578155"
+                    "-8.722543980340694",
+                    "42.21112669231722"
                 ]
             },
             "properties": {
-                "name": "Pakolas",
-                "location": "San Xiao de Narón (Narón)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30118/-/pakolas.html",
+                "name": "Serán en Castrelos",
+                "location": "Castrelos (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30304/-/seran-en-castrelos.html",
                 "dates": [
-                    "2026-05-27",
-                    "2026-05-29"
+                    "2026-05-28"
                 ]
             }
         },
@@ -25,26 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545544386286796",
-                    "42.88170633889654"
-                ]
-            },
-            "properties": {
-                "name": "A Banda das Crechas",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30246/-/a-banda-das-crechas.html",
-                "dates": [
-                    "2026-05-27"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.545181658475396",
-                    "42.88213184033669"
+                    "-8.545594843842265",
+                    "42.881218632022986"
                 ]
             },
             "properties": {
@@ -61,8 +42,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545067450955134",
-                    "42.88084214483006"
+                    "-8.544807825809793",
+                    "42.880594738284984"
                 ]
             },
             "properties": {
@@ -80,27 +61,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.1793678004528945",
-                    "38.96792834571125"
-                ]
-            },
-            "properties": {
-                "name": "Antía Muíño",
-                "location": "Gandía, Valëncia (País Valenciá)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29616/-/antia-muino.html",
-                "dates": [
-                    "2026-05-29",
-                    "2026-05-30"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.643043385909303",
-                    "42.43292780134382"
+                    "-8.6416642129973",
+                    "42.433002000942075"
                 ]
             },
             "properties": {
@@ -118,8 +80,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.537050034891169",
-                    "42.42897600003571"
+                    "-7.537553218433319",
+                    "42.428211975831374"
                 ]
             },
             "properties": {
@@ -137,8 +99,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.171096998802016",
-                    "43.40895602175123"
+                    "-8.171708807932784",
+                    "43.4090742219042"
                 ]
             },
             "properties": {
@@ -147,10 +109,7 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29711/-/viii-cantos-de-taberna-de-pontedeume.html",
                 "dates": [
                     "2026-05-29",
-                    "2026-05-29",
-                    "2026-05-30",
-                    "2026-05-30",
-                    "2026-05-31"
+                    "2026-05-30"
                 ]
             }
         },
@@ -159,8 +118,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544280386933277",
-                    "42.88189944344141"
+                    "-8.406293383836644",
+                    "43.07802436743889"
+                ]
+            },
+            "properties": {
+                "name": "Pakolas",
+                "location": "Ordes",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30119/-/pakolas.html",
+                "dates": [
+                    "2026-05-29"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.17929344739653272",
+                    "38.96937422785237"
+                ]
+            },
+            "properties": {
+                "name": "Antía Muíño",
+                "location": "Gandía, Valëncia (País Valenciá)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29616/-/antia-muino.html",
+                "dates": [
+                    "2026-05-29",
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.951318965335838",
+                    "43.00785513840685"
+                ]
+            },
+            "properties": {
+                "name": "Ferrados de Letras",
+                "location": "A Gramela, Visma (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30309/-/ferrados-de-letras.html",
+                "dates": [
+                    "2026-05-29"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54578010376434",
+                    "42.882064622617634"
                 ]
             },
             "properties": {
@@ -177,8 +191,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.732553976673257",
-                    "42.36008616942249"
+                    "-8.731923392978196",
+                    "42.358604670903865"
                 ]
             },
             "properties": {
@@ -195,8 +209,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.772523345816655",
-                    "41.94641644171283"
+                    "-8.771770835241862",
+                    "41.94517991481963"
                 ]
             },
             "properties": {
@@ -213,8 +227,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.64205952160391",
-                    "42.4333860386779"
+                    "-8.642323804199938",
+                    "42.43369956173711"
                 ]
             },
             "properties": {
@@ -231,8 +245,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.777963929060455",
-                    "42.26649282355385"
+                    "-7.556016397405779",
+                    "43.01222243782582"
+                ]
+            },
+            "properties": {
+                "name": "Barrico Foliada",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30320/-/barrico-foliada.html",
+                "dates": [
+                    "2026-05-29"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.722947233457768",
+                    "42.23957802069425"
+                ]
+            },
+            "properties": {
+                "name": "Capital Voskov",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30311/-/capital-voskov.html",
+                "dates": [
+                    "2026-05-29"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.777924356796202",
+                    "42.26583854469742"
                 ]
             },
             "properties": {
@@ -249,8 +299,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395876944921042",
-                    "43.372012322491265"
+                    "-8.395054119957662",
+                    "43.37295613905729"
                 ]
             },
             "properties": {
@@ -267,8 +317,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012457773305815",
-                    "42.9148317448006"
+                    "-8.011772177354796",
+                    "42.91484174855029"
                 ]
             },
             "properties": {
@@ -285,14 +335,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.621595491712643",
-                    "43.12365481838266"
+                    "-7.820054798494769",
+                    "42.610062899632815"
                 ]
             },
             "properties": {
-                "name": "Festival Entrepontes",
-                "location": "Rábade",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29951/-/festival-entrepontes.html",
+                "name": "Ailá",
+                "location": "Chantada",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30312/-/aila.html",
                 "dates": [
                     "2026-05-30"
                 ]
@@ -303,27 +353,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012200407321712",
-                    "42.91534778972118"
-                ]
-            },
-            "properties": {
-                "name": "Txuvasko",
-                "location": "Melide",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30236/-/txuvasko.html",
-                "dates": [
-                    "2026-05-30",
-                    "2026-06-06"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.191451356501162",
-                    "42.58904512719219"
+                    "-7.191026904746618",
+                    "42.589312046240046"
                 ]
             },
             "properties": {
@@ -340,8 +371,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.73438734628481",
-                    "42.28306350442885"
+                    "-8.73494123663715",
+                    "42.28236612086012"
                 ]
             },
             "properties": {
@@ -358,8 +389,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.555491810365448",
-                    "43.01317781832902"
+                    "-8.14472085418028",
+                    "42.39911730808508"
+                ]
+            },
+            "properties": {
+                "name": "1809 A Batalla de Pazos de Arenteiro",
+                "location": "Pazos de Arenteiro (Boborás)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30319/-/1809-a-batalla-de-pazos-de-arenteiro.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.555385870769287",
+                    "43.013714071999665"
                 ]
             },
             "properties": {
@@ -376,8 +425,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.778894862747812",
-                    "42.26477178805483"
+                    "-7.670351732401256",
+                    "42.19055789504026"
+                ]
+            },
+            "properties": {
+                "name": "XIII Tangaraño Cultural",
+                "location": "Sobradelo (Xunqueira de Ambía",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30318/-/xiii-tangarano-cultural.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.543764833709119",
+                    "43.28758706546767"
+                ]
+            },
+            "properties": {
+                "name": "10º Aniversario Asocicación Cultural Triskel",
+                "location": "Rorís, Armentón (Arteixo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30310/-/10-aniversario-asocicacion-cultural-triskel.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.622216141984261",
+                    "43.123649583524376"
+                ]
+            },
+            "properties": {
+                "name": "Festival Entrepontes",
+                "location": "Rábade",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/29951/-/festival-entrepontes.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.778711382907069",
+                    "42.26550228127806"
                 ]
             },
             "properties": {
@@ -394,8 +497,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.874298560741231",
-                    "42.85788731035345"
+                    "-8.31694274192524",
+                    "43.33397828162654"
+                ]
+            },
+            "properties": {
+                "name": "Camiños de Tradición",
+                "location": "Oleiros",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30314/-/caminos-de-tradicion.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.874407828527086",
+                    "42.858361952151064"
                 ]
             },
             "properties": {
@@ -412,8 +533,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779267478027833",
-                    "42.265625078999825"
+                    "-8.778888338755896",
+                    "42.26558560150623"
                 ]
             },
             "properties": {
@@ -430,8 +551,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.60748636670261",
-                    "42.284800569850596"
+                    "-8.607185219383823",
+                    "42.285372827508986"
                 ]
             },
             "properties": {
@@ -448,8 +569,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.458079147793269",
-                    "42.1780642030417"
+                    "-8.456473821569364",
+                    "42.17663867361785"
                 ]
             },
             "properties": {
@@ -466,8 +587,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765566777515321",
-                    "42.59527710714607"
+                    "-8.684519429323249",
+                    "42.46105013792324"
+                ]
+            },
+            "properties": {
+                "name": "I Serán do Ronsel",
+                "location": "O Sartal, San Xoán (Poio)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30313/-/i-seran-do-ronsel.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.765867323095746",
+                    "42.59488540632722"
                 ]
             },
             "properties": {
@@ -484,8 +623,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.61834361710862",
-                    "42.16374464743221"
+                    "-8.619244034482271",
+                    "42.16334588910112"
                 ]
             },
             "properties": {
@@ -502,8 +641,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793823216310256",
-                    "42.08824140516421"
+                    "-8.724510367414318",
+                    "42.23811430748754"
+                ]
+            },
+            "properties": {
+                "name": "O Leo de Matamá",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30317/-/o-leo-de-matama.html",
+                "dates": [
+                    "2026-05-30"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.793219066633566",
+                    "42.08852965246476"
                 ]
             },
             "properties": {
@@ -520,8 +677,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.41393068402619",
-                    "42.7797151749004"
+                    "-7.413293502511264",
+                    "42.7794018768514"
                 ]
             },
             "properties": {
@@ -538,8 +695,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.594313432764532",
-                    "43.66297496145819"
+                    "-7.594978448506693",
+                    "43.66220604160645"
                 ]
             },
             "properties": {
@@ -556,8 +713,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.012090299207136",
-                    "42.91562504264379"
+                    "-8.012735255111803",
+                    "42.91602854328421"
                 ]
             },
             "properties": {
@@ -574,8 +731,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.407244010863078",
-                    "43.07801359835934"
+                    "-8.406491472712302",
+                    "43.0782049657891"
                 ]
             },
             "properties": {
@@ -592,8 +749,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.621564443449465",
-                    "43.12275574558785"
+                    "-7.621208792922212",
+                    "43.12300362816636"
                 ]
             },
             "properties": {
@@ -610,8 +767,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.505091326682871",
-                    "42.17522751144834"
+                    "-8.505001177893691",
+                    "42.17608668216393"
                 ]
             },
             "properties": {
@@ -628,8 +785,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.737510761063946",
-                    "42.283485677638865"
+                    "-8.504143218214335",
+                    "42.17578734976918"
+                ]
+            },
+            "properties": {
+                "name": "Uxía Lambona e a Banda Molona",
+                "location": "Ponteareas",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30316/-/uxia-lambona-e-a-banda-molona.html",
+                "dates": [
+                    "2026-05-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.73815304815122",
+                    "42.28278412647929"
                 ]
             },
             "properties": {
@@ -646,8 +821,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.464016867963783",
-                    "42.95531738348748"
+                    "-8.463012942995196",
+                    "42.95445800134264"
                 ]
             },
             "properties": {
@@ -664,8 +839,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.608523203183806",
-                    "42.28504792097491"
+                    "-8.607165822308401",
+                    "42.285269719795416"
                 ]
             },
             "properties": {
@@ -686,8 +861,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544234272287087",
-                    "42.88136534940164"
+                    "-8.545394583967008",
+                    "42.8824086162705"
                 ]
             },
             "properties": {
@@ -706,8 +881,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8207001942712004",
-                    "42.61090853682262"
+                    "-7.820055070617019",
+                    "42.61047157096445"
                 ]
             },
             "properties": {
@@ -725,8 +900,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642701601413247",
-                    "42.4326236567972"
+                    "-8.328140095409498",
+                    "43.280915210518636"
+                ]
+            },
+            "properties": {
+                "name": "X Encontro de Grupos",
+                "location": "Cambre",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30315/-/x-encontro-de-grupos.html",
+                "dates": [
+                    "2026-06-05",
+                    "2026-06-06"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.641523683566009",
+                    "42.433521626325465"
                 ]
             },
             "properties": {
@@ -743,8 +937,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.865578285217652",
-                    "42.345546647973066"
+                    "-7.866043071796296",
+                    "42.34560235853387"
                 ]
             },
             "properties": {
@@ -761,8 +955,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.1602636330171245",
-                    "42.85590327385413"
+                    "-7.160898030975384",
+                    "42.85517083788528"
                 ]
             },
             "properties": {
@@ -779,8 +973,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.837777790374239",
-                    "43.16408667644262"
+                    "-7.837019926525348",
+                    "43.1624937716164"
                 ]
             },
             "properties": {
@@ -797,8 +991,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.25037728438496",
-                    "42.749791267862534"
+                    "-8.887407259674628",
+                    "42.47086678205826"
+                ]
+            },
+            "properties": {
+                "name": "Txuvasko",
+                "location": "O Grove",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30237/-/txuvasko.html",
+                "dates": [
+                    "2026-06-06"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.25108393889381",
+                    "42.74928590787973"
                 ]
             },
             "properties": {
@@ -815,8 +1027,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.554656223221011",
-                    "43.01284477937629"
+                    "-7.555452152114649",
+                    "43.012471877988254"
                 ]
             },
             "properties": {
@@ -833,8 +1045,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.13599756144185",
-                    "43.392399100771435"
+                    "-8.135728899568791",
+                    "43.392599276092675"
                 ]
             },
             "properties": {
@@ -851,8 +1063,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724524759380106",
-                    "42.23823335950957"
+                    "-8.723173031026297",
+                    "42.23949560127888"
                 ]
             },
             "properties": {
@@ -869,8 +1081,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.445539288556925",
-                    "43.25388780811314"
+                    "-7.446077765939086",
+                    "43.25381074327704"
                 ]
             },
             "properties": {
@@ -887,8 +1099,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.139582892678526",
-                    "42.25669818917375"
+                    "-8.140414183065651",
+                    "42.256928551722446"
                 ]
             },
             "properties": {
@@ -905,8 +1117,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.357013801501057",
-                    "43.661109821452975"
+                    "-7.357462485521125",
+                    "43.660925970089565"
                 ]
             },
             "properties": {
@@ -923,8 +1135,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.807036257972769",
-                    "42.14135384194465"
+                    "-8.80603091909525",
+                    "42.1411605794396"
                 ]
             },
             "properties": {
@@ -941,8 +1153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.400106799097353",
-                    "42.10163327240172"
+                    "-8.399340244536173",
+                    "42.10271908186643"
                 ]
             },
             "properties": {
@@ -959,8 +1171,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.622355169767948",
-                    "42.20579482173936"
+                    "-8.62206502547246",
+                    "42.205255904363945"
                 ]
             },
             "properties": {
@@ -977,8 +1189,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.231383102228119",
-                    "43.4852093939217"
+                    "-8.231918296180368",
+                    "43.485081061032524"
                 ]
             },
             "properties": {
@@ -995,8 +1207,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.545559711580024",
-                    "42.88184362992049"
+                    "-8.544572823957864",
+                    "42.88179144753626"
                 ]
             },
             "properties": {
@@ -1013,8 +1225,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.553033931520938",
-                    "42.756802221634594"
+                    "-8.552813493369964",
+                    "42.75706246633249"
                 ]
             },
             "properties": {
@@ -1033,8 +1245,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642630572354049",
-                    "42.43303797795328"
+                    "-8.689817612913304",
+                    "42.229440299541615"
+                ]
+            },
+            "properties": {
+                "name": "Festa da Alegría",
+                "location": "Lavadores (Vigo)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30306/-/festa-da-alegria.html",
+                "dates": [
+                    "2026-06-12",
+                    "2026-06-13",
+                    "2026-06-15",
+                    "2026-06-18",
+                    "2026-06-19",
+                    "2026-06-20"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.6416677323726",
+                    "42.43245119951187"
                 ]
             },
             "properties": {
@@ -1052,8 +1287,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.873306981581926",
-                    "41.90238752341773"
+                    "-8.872310598905226",
+                    "41.903030831006035"
                 ]
             },
             "properties": {
@@ -1070,16 +1305,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.867057701349863",
-                    "42.345066552264214"
+                    "-7.867285031436521",
+                    "42.34378669573887"
                 ]
             },
             "properties": {
                 "name": "III Festa da Cunheira",
                 "location": "Ourense",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/29728/-/iii-festa-da-cunheira.html",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30273/-/iii-festa-da-cunheira.html",
                 "dates": [
-                    "2026-06-13",
                     "2026-06-13"
                 ]
             }
@@ -1089,8 +1323,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.190620234728933",
-                    "43.34871704341431"
+                    "-7.190446500049989",
+                    "43.34805183152207"
                 ]
             },
             "properties": {
@@ -1108,8 +1342,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.191821473327595",
-                    "43.502980168771224"
+                    "-8.190360527946357",
+                    "43.50116487397417"
                 ]
             },
             "properties": {
@@ -1126,8 +1360,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.4176213769034252",
-                    "38.36498265488094"
+                    "-0.41746933293121385",
+                    "38.365379732031975"
                 ]
             },
             "properties": {
@@ -1144,26 +1378,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.787880830967069",
-                    "42.08157761025875"
-                ]
-            },
-            "properties": {
-                "name": "VII Xuntanza Terrible",
-                "location": "Abrollido, Donas (Gondomar)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30291/-/vii-xuntanza-terrible.html",
-                "dates": [
-                    "2026-06-13"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.044306403400826",
-                    "42.73826343040941"
+                    "-8.04611265050284",
+                    "42.738346204319576"
                 ]
             },
             "properties": {
@@ -1181,8 +1397,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642607033284833",
-                    "42.4322627047015"
+                    "-8.788021930630523",
+                    "42.0820418563045"
+                ]
+            },
+            "properties": {
+                "name": "VII Xuntanza Terrible",
+                "location": "Abrollido, Donas (Gondomar)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30291/-/vii-xuntanza-terrible.html",
+                "dates": [
+                    "2026-06-13"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.643011992135602",
+                    "42.43342774657122"
                 ]
             },
             "properties": {
@@ -1199,8 +1433,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.520612036029515",
-                    "42.362267205073906"
+                    "-8.519800742475647",
+                    "42.361656800501024"
                 ]
             },
             "properties": {
@@ -1217,8 +1451,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.851832181122851",
-                    "43.450588007574765"
+                    "-7.852501085630467",
+                    "43.45150638498654"
                 ]
             },
             "properties": {
@@ -1235,8 +1469,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.804945604764285",
-                    "43.03525874954755"
+                    "-8.80472083451475",
+                    "43.034653143725244"
                 ]
             },
             "properties": {
@@ -1253,8 +1487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724012506136994",
-                    "42.23866106517759"
+                    "-8.723451412728197",
+                    "42.239276756423706"
                 ]
             },
             "properties": {
@@ -1271,8 +1505,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8919648531626585",
-                    "43.182527314714406"
+                    "-7.892443769591639",
+                    "43.18122206029568"
                 ]
             },
             "properties": {
@@ -1289,8 +1523,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.488753487090657",
-                    "42.89363323584178"
+                    "-8.488515567723177",
+                    "42.89292003614426"
                 ]
             },
             "properties": {
@@ -1307,8 +1541,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.493772618749347",
-                    "42.299783488821205"
+                    "-8.49454374282679",
+                    "42.29936123212679"
                 ]
             },
             "properties": {
@@ -1325,8 +1559,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.115336127790712",
-                    "42.639530617863635"
+                    "-8.115881313308646",
+                    "42.63995060572368"
                 ]
             },
             "properties": {
@@ -1343,8 +1577,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.724179116476394",
-                    "42.238060457943824"
+                    "-8.723737591291806",
+                    "42.23902337223552"
                 ]
             },
             "properties": {
@@ -1361,8 +1595,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394919103195866",
-                    "43.371543943203115"
+                    "-8.781645448753563",
+                    "42.44679766156475"
+                ]
+            },
+            "properties": {
+                "name": "II Solpor con Arte",
+                "location": "Meaño",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30305/-/ii-solpor-con-arte.html",
+                "dates": [
+                    "2026-06-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.39530923014729",
+                    "43.37267145088571"
                 ]
             },
             "properties": {
@@ -1379,8 +1631,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.75244332086169",
-                    "42.328727154538605"
+                    "-8.751402697348503",
+                    "42.327755852145145"
                 ]
             },
             "properties": {
@@ -1397,8 +1649,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.828634510309072",
-                    "42.422822027688916"
+                    "-8.828765700225947",
+                    "42.42234000219394"
                 ]
             },
             "properties": {
@@ -1415,8 +1667,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.504712230012482",
-                    "42.17549411248771"
+                    "-8.505005771489568",
+                    "42.1750729197575"
                 ]
             },
             "properties": {
@@ -1425,6 +1677,42 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/30298/-/musel-dogo.html",
                 "dates": [
                     "2026-06-26"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.554716911984527",
+                    "43.01283091062069"
+                ]
+            },
+            "properties": {
+                "name": "Feira do 48",
+                "location": "Lugo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30263/-/feira-do-48.html",
+                "dates": [
+                    "2026-06-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.725968925236385",
+                    "43.63585226103863"
+                ]
+            },
+            "properties": {
+                "name": "Zënzar",
+                "location": "O Barqueiro, Mañón (Mañón)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30296/-/zenzar.html",
+                "dates": [
+                    "2026-06-27"
                 ]
             }
         }
