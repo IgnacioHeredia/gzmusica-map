@@ -2,8 +2,10 @@ name: Daily map refresh
 
 on:
   workflow_dispatch:  # allow manual trigger
-  schedule:  # run everyday a 6am
-    - cron: '0 6 * * *'
+  schedule:
+    # Run at 3:43 AM UTC (5:43 AM GMT+2) to avoid the **:00 AM peak traffic
+    # If you run at **:00, during peak, execution might be delayed several hours
+    - cron: '43 3 * * *'
 
 jobs:
   main_job:
