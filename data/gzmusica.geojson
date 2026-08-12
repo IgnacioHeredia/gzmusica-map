@@ -6,8 +6,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.54415742875039",
-                    "42.88143836374095"
+                    "-7.41358469724229",
+                    "42.78004289580874"
+                ]
+            },
+            "properties": {
+                "name": "Esmorga Total",
+                "location": "Sarria",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30886/-/esmorga-total.html",
+                "dates": [
+                    "2026-08-12"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.545123358118136",
+                    "42.88153154444957"
                 ]
             },
             "properties": {
@@ -15,7 +33,6 @@
                 "location": "Santiago de Compostela",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/30935/-/feito-a-man.html",
                 "dates": [
-                    "2026-08-11",
                     "2026-08-12",
                     "2026-08-13",
                     "2026-08-14",
@@ -35,133 +52,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.05362027767636",
-                    "43.662015574841774"
-                ]
-            },
-            "properties": {
-                "name": "Festas de Cedeira",
-                "location": "Cedeira",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30772/-/festas-de-cedeira.html",
-                "dates": [
-                    "2026-08-11",
-                    "2026-08-12",
-                    "2026-08-13",
-                    "2026-08-14",
-                    "2026-08-15",
-                    "2026-08-16",
-                    "2026-08-17"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.816156032375385",
-                    "42.650535675831556"
-                ]
-            },
-            "properties": {
-                "name": "Rumbo ao Rock in Rian",
-                "location": "Rianxo",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30939/-/rumbo-ao-rock-in-rian.html",
-                "dates": [
-                    "2026-08-11",
-                    "2026-08-12",
-                    "2026-08-13"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.816483210812157",
-                    "42.2763653693174"
-                ]
-            },
-            "properties": {
-                "name": "Semana Cultural Area e Folk IV",
-                "location": "Vilariño, O Hío (Cangas)",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30912/-/semana-cultural-area-e-folk-iv.html",
-                "dates": [
-                    "2026-08-11",
-                    "2026-08-12",
-                    "2026-08-13",
-                    "2026-08-14"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.394714394579392",
-                    "43.37230768123065"
-                ]
-            },
-            "properties": {
-                "name": "The Rapants",
-                "location": "A Coruña",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30787/-/the-rapants.html",
-                "dates": [
-                    "2026-08-11"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-8.641392423124188",
-                    "42.43289175537644"
-                ]
-            },
-            "properties": {
-                "name": "Festas da Peregrina",
-                "location": "Pontevedra",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30968/-/festas-da-peregrina.html",
-                "dates": [
-                    "2026-08-11",
-                    "2026-08-12",
-                    "2026-08-13",
-                    "2026-08-14",
-                    "2026-08-15",
-                    "2026-08-16",
-                    "2026-08-17"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.414097437282253",
-                    "42.780128232988055"
-                ]
-            },
-            "properties": {
-                "name": "Esmorga Total",
-                "location": "Sarria",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/30886/-/esmorga-total.html",
-                "dates": [
-                    "2026-08-12"
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-7.165603860215453",
-                    "42.636380371884506"
+                    "-7.164124130250775",
+                    "42.63605143132999"
                 ]
             },
             "properties": {
@@ -178,8 +70,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.022652641251405",
-                    "43.70071929418535"
+                    "-8.641484826968766",
+                    "42.43324979968736"
+                ]
+            },
+            "properties": {
+                "name": "Festas da Peregrina",
+                "location": "Pontevedra",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30968/-/festas-da-peregrina.html",
+                "dates": [
+                    "2026-08-12",
+                    "2026-08-13",
+                    "2026-08-14",
+                    "2026-08-15",
+                    "2026-08-16",
+                    "2026-08-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.053905619208024",
+                    "43.660867451659755"
+                ]
+            },
+            "properties": {
+                "name": "Festas de Cedeira",
+                "location": "Cedeira",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30772/-/festas-de-cedeira.html",
+                "dates": [
+                    "2026-08-12",
+                    "2026-08-13",
+                    "2026-08-14",
+                    "2026-08-15",
+                    "2026-08-16",
+                    "2026-08-17"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.023836512304674",
+                    "43.701101754941824"
                 ]
             },
             "properties": {
@@ -196,8 +134,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.173811064308191",
-                    "43.482080927070484"
+                    "-8.815573442537913",
+                    "42.64960384697436"
+                ]
+            },
+            "properties": {
+                "name": "Rumbo ao Rock in Rian",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30939/-/rumbo-ao-rock-in-rian.html",
+                "dates": [
+                    "2026-08-12",
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.815447354193427",
+                    "42.27738157683752"
+                ]
+            },
+            "properties": {
+                "name": "Semana Cultural Area e Folk IV",
+                "location": "Vilariño, O Hío (Cangas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30912/-/semana-cultural-area-e-folk-iv.html",
+                "dates": [
+                    "2026-08-12",
+                    "2026-08-13",
+                    "2026-08-14"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.173654514732938",
+                    "43.48303777094664"
                 ]
             },
             "properties": {
@@ -218,8 +195,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.187093224353055",
-                    "42.65983293340549"
+                    "-7.185581963924829",
+                    "42.659841366302466"
                 ]
             },
             "properties": {
@@ -236,8 +213,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.743976184353694",
-                    "43.72722943083915"
+                    "-7.743571247970509",
+                    "43.72765280722426"
                 ]
             },
             "properties": {
@@ -260,8 +237,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.142059175028436",
-                    "43.608554377380884"
+                    "-8.14291108447965",
+                    "43.60690430928645"
                 ]
             },
             "properties": {
@@ -278,8 +255,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.985287792749572",
-                    "42.811159463597065"
+                    "-8.984250400155618",
+                    "42.81134538174542"
                 ]
             },
             "properties": {
@@ -296,8 +273,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.263626361556096",
-                    "42.9076709951695"
+                    "-9.263155471572958",
+                    "42.90761985914823"
                 ]
             },
             "properties": {
@@ -314,8 +291,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.851843963540247",
-                    "43.45168986472288"
+                    "-7.851349270310841",
+                    "43.450978347472336"
                 ]
             },
             "properties": {
@@ -332,8 +309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544679603571423",
-                    "42.882303466815486"
+                    "-8.543921227465255",
+                    "42.88078819848969"
                 ]
             },
             "properties": {
@@ -350,8 +327,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.394469664829598",
-                    "43.371731165036444"
+                    "-8.394091985279555",
+                    "43.37219478633792"
                 ]
             },
             "properties": {
@@ -370,8 +347,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.489490428176108",
-                    "42.68844065656775"
+                    "-8.489171823468947",
+                    "42.68925213206119"
                 ]
             },
             "properties": {
@@ -389,8 +366,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.395054643497321",
-                    "43.37227508356515"
+                    "-8.584477086842996",
+                    "42.283414353778475"
+                ]
+            },
+            "properties": {
+                "name": "Airiños do Mar + Chavellos",
+                "location": "Reboreda (Redondela)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30980/-/airinos-do-mar-chavellos.html",
+                "dates": [
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.621458368941445",
+                    "43.122299457714576"
+                ]
+            },
+            "properties": {
+                "name": "XXX Raba Folc",
+                "location": "Rábade",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30977/-/xxx-raba-folc.html",
+                "dates": [
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.395053159206917",
+                    "43.37190721960964"
                 ]
             },
             "properties": {
@@ -409,8 +422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.011834568136035",
-                    "42.916173873297694"
+                    "-8.01231463009277",
+                    "42.91567441010412"
                 ]
             },
             "properties": {
@@ -435,8 +448,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.472963016773841",
-                    "42.510270233771266"
+                    "-8.474499379201468",
+                    "42.50958793326857"
                 ]
             },
             "properties": {
@@ -455,8 +468,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.815597968521809",
-                    "42.64986431610104"
+                    "-8.815444858575887",
+                    "42.64956634961402"
                 ]
             },
             "properties": {
@@ -474,8 +487,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.455572301631275",
-                    "43.341383019701176"
+                    "-8.81319575686701",
+                    "42.51475810782168"
+                ]
+            },
+            "properties": {
+                "name": "III Festa Mariñeira",
+                "location": "Cambados",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30978/-/iii-festa-marineira.html",
+                "dates": [
+                    "2026-08-14",
+                    "2026-08-15"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.455321282837657",
+                    "43.34071346362322"
                 ]
             },
             "properties": {
@@ -494,8 +526,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.72272228027791",
-                    "42.23936783163342"
+                    "-8.723439414852916",
+                    "42.23963283745938"
                 ]
             },
             "properties": {
@@ -515,8 +547,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.765349860200285",
-                    "42.21878530052423"
+                    "-8.766302091898343",
+                    "42.21962263637187"
                 ]
             },
             "properties": {
@@ -533,8 +565,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.792897977256224",
-                    "42.08773551534581"
+                    "-7.794305321931313",
+                    "42.08720543117657"
                 ]
             },
             "properties": {
@@ -551,8 +583,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.398211448919132",
-                    "42.37362960478463"
+                    "-7.398887104583561",
+                    "42.373102574904614"
                 ]
             },
             "properties": {
@@ -570,8 +602,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.816589365549193",
-                    "42.27682761796606"
+                    "-8.81700272805431",
+                    "42.27685479356862"
                 ]
             },
             "properties": {
@@ -588,8 +620,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.156713695334686",
-                    "43.50121165477"
+                    "-8.188654964423362",
+                    "42.701175629497996"
+                ]
+            },
+            "properties": {
+                "name": "Festas de Noceda",
+                "location": "Noceda (Lalín)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30976/-/festas-de-noceda.html",
+                "dates": [
+                    "2026-08-15",
+                    "2026-08-16"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.157095841861171",
+                    "43.50143084656373"
                 ]
             },
             "properties": {
@@ -606,8 +657,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.70521512692572",
-                    "43.73804460141638"
+                    "-7.704929764828402",
+                    "43.73732598391972"
                 ]
             },
             "properties": {
@@ -624,8 +675,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.55609443079595",
-                    "43.01268322547254"
+                    "-7.556410686754504",
+                    "43.01372255430286"
                 ]
             },
             "properties": {
@@ -642,8 +693,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.79410932176971",
-                    "42.087610159036146"
+                    "-7.794247152949383",
+                    "42.088477195618296"
                 ]
             },
             "properties": {
@@ -651,7 +702,6 @@
                 "location": "Vilar de Santos",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/30715/-/barahunda.html",
                 "dates": [
-                    "2026-08-15",
                     "2026-08-15"
                 ]
             }
@@ -661,8 +711,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.7223377569817",
-                    "42.21173675374199"
+                    "-8.724285326555085",
+                    "42.21178309156861"
                 ]
             },
             "properties": {
@@ -679,8 +729,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "1.8114422845941498",
-                    "41.237194169800134"
+                    "1.8122516661745234",
+                    "41.23551323990683"
                 ]
             },
             "properties": {
@@ -697,8 +747,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.866085766124023",
-                    "42.55070999736595"
+                    "-8.866884240447058",
+                    "42.55050826069018"
                 ]
             },
             "properties": {
@@ -715,8 +765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.641571356166478",
-                    "42.433358441947966"
+                    "-8.6423730200279",
+                    "42.43223771734677"
                 ]
             },
             "properties": {
@@ -733,8 +783,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.302233093566887",
-                    "42.72994061724511"
+                    "-8.301234411005183",
+                    "42.73073584461558"
                 ]
             },
             "properties": {
@@ -751,8 +801,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.823798061816495",
-                    "42.15458519101635"
+                    "-8.823974213485611",
+                    "42.15449152555927"
                 ]
             },
             "properties": {
@@ -769,8 +819,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.651726760548952",
-                    "42.19829908343091"
+                    "-8.652184223438312",
+                    "42.19842853399205"
                 ]
             },
             "properties": {
@@ -787,8 +837,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.779304277729096",
-                    "42.26622312209959"
+                    "-8.778722295460847",
+                    "42.26539575620482"
                 ]
             },
             "properties": {
@@ -815,8 +865,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.566690555097669",
-                    "42.06090534868193"
+                    "-8.566678658880685",
+                    "42.06087000570814"
                 ]
             },
             "properties": {
@@ -836,8 +886,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.014734233383932",
-                    "43.56268401662832"
+                    "-8.014639922913073",
+                    "43.56356837403558"
                 ]
             },
             "properties": {
@@ -856,8 +906,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.301450717724714",
-                    "42.729160813288146"
+                    "-8.301680072131951",
+                    "42.72936295585957"
                 ]
             },
             "properties": {
@@ -874,8 +924,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.866415528413889",
-                    "42.551499069344054"
+                    "-8.867141309894247",
+                    "42.55195651673317"
                 ]
             },
             "properties": {
@@ -892,8 +942,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.911702430469274",
-                    "43.25094702268559"
+                    "-8.911658201797316",
+                    "43.249773278458534"
                 ]
             },
             "properties": {
@@ -911,8 +961,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.018190174090375",
-                    "42.76394662185625"
+                    "-8.017763379106379",
+                    "42.764171731555486"
                 ]
             },
             "properties": {
@@ -929,8 +979,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.955814854683052",
-                    "42.96514047773192"
+                    "-6.955619924401164",
+                    "42.96473723657431"
                 ]
             },
             "properties": {
@@ -947,8 +997,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.263041549415998",
-                    "42.9077853370731"
+                    "-9.261914996734602",
+                    "42.907832170498274"
                 ]
             },
             "properties": {
@@ -966,8 +1016,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.446287094860251",
-                    "43.2543325432043"
+                    "-7.44729467639013",
+                    "43.25473431060242"
                 ]
             },
             "properties": {
@@ -984,8 +1034,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.874404526897304",
-                    "42.85779303294309"
+                    "-6.8739375142992865",
+                    "42.85811069241025"
                 ]
             },
             "properties": {
@@ -1002,8 +1052,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.141993171139752",
-                    "42.60800957953818"
+                    "-8.141242146109922",
+                    "42.60688736122253"
                 ]
             },
             "properties": {
@@ -1020,8 +1070,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.484087042019228",
-                    "43.53518269751569"
+                    "-7.4823484111041285",
+                    "43.53501238738431"
                 ]
             },
             "properties": {
@@ -1038,8 +1088,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.502254364870542",
-                    "42.390244103868106"
+                    "-8.500681892398811",
+                    "42.39013457952041"
                 ]
             },
             "properties": {
@@ -1056,8 +1106,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.38843478545492",
-                    "43.24587159624621"
+                    "-8.388989850711283",
+                    "43.24501862865916"
                 ]
             },
             "properties": {
@@ -1080,8 +1130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.86711070854976",
-                    "42.55195978697941"
+                    "-8.866733873518363",
+                    "42.55069104689197"
                 ]
             },
             "properties": {
@@ -1098,8 +1148,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652730480144971",
-                    "42.19796993010325"
+                    "-8.652322432501181",
+                    "42.198605140302384"
                 ]
             },
             "properties": {
@@ -1116,8 +1166,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.156592129372067",
-                    "43.50035627119878"
+                    "-8.157692102054588",
+                    "43.50145216215039"
                 ]
             },
             "properties": {
@@ -1134,8 +1184,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.413857404831303",
-                    "42.78013397036495"
+                    "-7.4141817717996785",
+                    "42.78018878980226"
                 ]
             },
             "properties": {
@@ -1153,8 +1203,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.126321595802324",
-                    "43.00897696922879"
+                    "-8.125299039328885",
+                    "43.0075542511294"
                 ]
             },
             "properties": {
@@ -1173,8 +1223,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.824833134244253",
-                    "42.563157939411084"
+                    "-8.826526790013805",
+                    "42.563311619018094"
                 ]
             },
             "properties": {
@@ -1192,8 +1242,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.79384761536818",
-                    "42.08891321931636"
+                    "-7.792935481534582",
+                    "42.087779765921105"
                 ]
             },
             "properties": {
@@ -1210,8 +1260,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.608405064467437",
-                    "42.20422952610974"
+                    "-8.607075175530031",
+                    "42.204408389072796"
                 ]
             },
             "properties": {
@@ -1229,8 +1279,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.793566341874994",
-                    "42.087441345641324"
+                    "-7.793905539234789",
+                    "42.08833889894193"
                 ]
             },
             "properties": {
@@ -1248,8 +1298,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.487807071332739",
-                    "41.93232520625054"
+                    "-7.487465488650545",
+                    "41.93307249146595"
                 ]
             },
             "properties": {
@@ -1266,8 +1316,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.357343099281992",
-                    "43.66072224963841"
+                    "-7.358152889669877",
+                    "43.6613521703337"
                 ]
             },
             "properties": {
@@ -1287,8 +1337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.837209940312283",
-                    "43.16388111939588"
+                    "-7.83831514150401",
+                    "43.16265129951052"
                 ]
             },
             "properties": {
@@ -1306,8 +1356,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.496291638627708",
-                    "42.082422015136785"
+                    "-8.496801758465153",
+                    "42.08412449283938"
                 ]
             },
             "properties": {
@@ -1325,8 +1375,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.379991755424069",
-                    "42.091576274669976"
+                    "-8.380455887204576",
+                    "42.09253554666395"
                 ]
             },
             "properties": {
@@ -1343,8 +1393,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-9.089542613810858",
-                    "42.91470579957568"
+                    "-9.089505014160364",
+                    "42.91394763133218"
                 ]
             },
             "properties": {
@@ -1362,8 +1412,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.80749985828659",
-                    "43.325579907300096"
+                    "-8.097480945381982",
+                    "43.426886158323356"
+                ]
+            },
+            "properties": {
+                "name": "XVII A Fía da Lá",
+                "location": "Soaserra (Cabanas)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30979/-/xvii-a-fia-da-la.html",
+                "dates": [
+                    "2026-09-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.807917247970764",
+                    "43.32534337730205"
                 ]
             },
             "properties": {
@@ -1380,8 +1448,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.786067909507553",
-                    "42.58991035417707"
+                    "-8.785428459685521",
+                    "42.58813256755835"
                 ]
             },
             "properties": {
@@ -1389,7 +1457,62 @@
                 "location": "Vilaxoán, Sobrán (Vilagarcía de Arousa)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/29569/-/revenidas.html",
                 "dates": [
-                    "2026-09-10"
+                    "2026-09-10",
+                    "2026-09-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.817132246612022",
+                    "42.64887794217148"
+                ]
+            },
+            "properties": {
+                "name": "Festas da Guadalupe",
+                "location": "Rianxo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30975/-/festas-da-guadalupe.html",
+                "dates": [
+                    "2026-09-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.724421410203554",
+                    "42.23852922452611"
+                ]
+            },
+            "properties": {
+                "name": "IV Festival Vigo Metalheads",
+                "location": "Vigo",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30285/-/iv-festival-vigo-metalheads.html",
+                "dates": [
+                    "2026-09-11"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.437169547347064",
+                    "42.70355677981062"
+                ]
+            },
+            "properties": {
+                "name": "XXV Folk de Raíz",
+                "location": "Callobre (A Estrada)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/30785/-/xxv-folk-de-raiz.html",
+                "dates": [
+                    "2026-09-11"
                 ]
             }
         }
