@@ -23,9 +23,9 @@
     <!-- FontAwesome-->
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.0/css/all.css" integrity="sha384-73lvm+n3qtrHBHjfLuMY7kIL3CdwrRc5jqCtzWASs6MshmR6Tq2veVBC5OVkSwEF" crossorigin="anonymous">
 
-    <!-- Mapbox-->
-    <script src='https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.js'></script>
-    <link href='https://unpkg.com/maplibre-gl@2.1.9/dist/maplibre-gl.css' rel='stylesheet' />
+    <!-- MapLibre-->
+    <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" rel="stylesheet" />
 
     <style>
       @import url("https://fonts.googleapis.com/css?family=Raleway:400,300,700,500");
@@ -125,71 +125,88 @@
         button_group = 0;
       }
 
-      // Define the map style (OpenStreetMap raster tiles)
-      const style = {
-        "version": 8,
-        "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf", // issue --> https://github.com/mapbox/mapbox-gl-js/issues/4808
-        "sources": {
-          "osm": {
-            "type": "raster",
-            "tiles": [
-              // 'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png'
-              // 'https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg'
-              'https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png'
-              // 'http://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
-              // 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-              // 'https://stamen-tiles-b.a.ssl.fastly.net/toner/{z}/{x}/{y}.png'
-            ],
-            "tileSize": 256,
-            "attribution": "&copy; <a href='https://carto.com'>Carto</a> and <a href='https://www.openstreetmap.org'>OpenStreetMap</a> Contributors <br> &#127757; Map created by <a href='https://ignacioheredia.github.io'>Ignacio Heredia</a> <br> &#128204; <span class='badge badge-secondary'>Locations are approximate</span>",
-            "maxzoom": 19
-          }
-        },
-        "layers": [{
-          "id": "osm",
-          "type": "raster",
-          "source": "osm" // This must match the source key above
-        }]
-      };
-
       const map = new maplibregl.Map({
         container: "map",
-        // style: "mapbox://styles/mapbox/dark-v10",
-        // style: 'https://demotiles.maplibre.org/style.json',
-        // style: 'https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL',
-        // style: 'https://openmaptiles.github.io/positron-gl-style/style-cdn.json',
-        style: style,
+        style: 'https://tiles.openfreemap.org/styles/positron',
         center: [-8.0, 42.756501],
-        zoom: initial_zoom
+        zoom: initial_zoom,
+        attributionControl: false
       });
+
+      map.addControl(new maplibregl.AttributionControl({
+        compact: true,
+        customAttribution: "&#127757; Map created by <a href='https://ignacioheredia.github.io'>Ignacio Heredia</a> <br> &#128204; <span class='badge badge-secondary'>Locations are approximate</span> <br>"
+      }));
 
       // Disable map rotation
       map.dragRotate.disable();
       map.touchZoomRotate.disableRotation();
 
-      // Avoid fractional zoom that makes maps blurry
-      // related issue: https://github.com/mapbox/mapbox-gl-js/issues/1695#issuecomment-478392580
-      // --> suggested answer works but zooms on center of map, not on mouse pointer; therefore poor UX
-      // better setWheelZoomRate(1) and disable touch zoom
-      map.addControl(new maplibregl.NavigationControl());
-      map.scrollZoom.setWheelZoomRate(1);
-      map.touchZoomRotate.disable();
-
       // Add fullscreen button
       map.addControl(new maplibregl.FullscreenControl());
 
       map.on("load", () => {
-        map.addSource("earthquakes", {
+        // Collapse attribution control by default and remove leading pipe before OpenFreeMap
+        const attribControl = document.querySelector('.maplibregl-ctrl-attrib');
+        if (attribControl) {
+          attribControl.classList.remove('maplibregl-compact-show');
+          const attribInner = attribControl.querySelector('.maplibregl-ctrl-attrib-inner');
+          if (attribInner) {
+            attribInner.innerHTML = attribInner.innerHTML.replace(/<br>\s*\|\s*/gi, '<br>');
+          }
+        }
+
+        // Customize OpenFreeMap map layers:
+        // 1. Hide vegetation/greenery background (wood landcover, parks)
+        // 2. Hide water/sea/ocean labels
+        // 3. Increase minzoom for minor sub-localities (parishes, hamlets, neighborhoods in label_other) and road shields so they only show when zooming in close (e.g. zoom >= 13)
+        // 4. Soften place text color from black to dark grey
+        for (const layer of map.getStyle().layers) {
+          // Hide vegetation background
+          if (
+            layer.id === 'landcover_wood' ||
+            layer.id === 'park' ||
+            layer['source-layer'] === 'park' ||
+            (layer['source-layer'] === 'landcover' && layer.id.startsWith('landcover_wood'))
+          ) {
+            map.setLayoutProperty(layer.id, 'visibility', 'none');
+            continue;
+          }
+
+          if (layer.type === 'symbol') {
+            if (
+              layer['source-layer'] === 'water_name' ||
+              layer['source-layer'] === 'waterway' ||
+              layer.id.startsWith('water') ||
+              layer.id === 'label_state'
+            ) {
+              map.setLayoutProperty(layer.id, 'visibility', 'none');
+              continue;
+            }
+
+            // Show minor localities (label_other) and road shields only at higher zoom (>= 11)
+            if (layer.id === 'label_other' || layer.id.startsWith('highway-shield') || layer.id.startsWith('road_shield')) {
+              map.setLayerZoomRange(layer.id, 11, 24);
+            }
+
+            const textColor = map.getPaintProperty(layer.id, 'text-color');
+            if (textColor === '#000' || textColor === '#000000' || textColor === 'black') {
+              map.setPaintProperty(layer.id, 'text-color', '#555555');
+            }
+          }
+        }
+
+        map.addSource("folk-events", {
+          // Original data: "https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson",
             type: "geojson",
             data: {{ geojson }},
-            // data: "https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson",
             cluster: !0,
             clusterMaxZoom: 14,
             clusterRadius: 50
           }), map.addLayer({
             id: "clusters",
             type: "circle",
-            source: "earthquakes",
+            source: "folk-events",
             filter: ["has", "point_count"],
             paint: {
               "circle-color": ["step", ["get", "point_count"], "#51bbd6", 10, "#ed9f32", 20, "#f28cb1"],
@@ -198,18 +215,20 @@
           }), map.addLayer({
             id: "cluster-count",
             type: "symbol",
-            source: "earthquakes",
+            source: "folk-events",
             filter: ["has", "point_count"],
             layout: {
               "text-field": "{point_count_abbreviated}",
               // "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
               "text-font": ["Open Sans Bold"],
-              "text-size": 12
+              "text-size": 12,
+              "text-allow-overlap": true,
+              "text-ignore-placement": true
             }
           }), map.addLayer({
             id: "unclustered-point",
             type: "circle",
-            source: "earthquakes",
+            source: "folk-events",
             filter: ["!", ["has", "point_count"]],
             paint: {
               "circle-color": "#11b4da",
@@ -217,17 +236,16 @@
               "circle-stroke-width": 2,
               "circle-stroke-color": "#0b5975"
             }
-          }), map.on("click", "clusters", e => {
-            const t = map.queryRenderedFeatures(e.point, {
-                layers: ["clusters"]
-              }),
-              a = t[0].properties.cluster_id;
-            map.getSource("earthquakes").getClusterExpansionZoom(a, (e, a) => {
-              e || map.easeTo({
-                center: t[0].geometry.coordinates,
-                zoom: a
-              })
-            })
+          }), map.on("click", "clusters", async (e) => {
+            const features = map.queryRenderedFeatures(e.point, {
+              layers: ["clusters"]
+            });
+            const clusterId = features[0].properties.cluster_id;
+            const zoom = await map.getSource("folk-events").getClusterExpansionZoom(clusterId);
+            map.easeTo({
+              center: features[0].geometry.coordinates,
+              zoom: zoom
+            });
           }), map.on("click", "unclustered-point", e => {
             const t = e.features[0].geometry.coordinates.slice(),
               name = e.features[0].properties.name,
@@ -249,16 +267,16 @@
 
           // Filter data by date buttons
           document.getElementsByClassName('filter-today')[button_group].addEventListener('click', function() {
-            map.getSource('earthquakes').setData({{ today_geojson }});
+            map.getSource('folk-events').setData({{ today_geojson }});
           }),
           document.getElementsByClassName('filter-tomorrow')[button_group].addEventListener('click', function() {
-            map.getSource('earthquakes').setData({{ tomorrow_geojson }});
+            map.getSource('folk-events').setData({{ tomorrow_geojson }});
           }),
           document.getElementsByClassName('filter-week')[button_group].addEventListener('click', function() {
-            map.getSource('earthquakes').setData({{ week_geojson }});
+            map.getSource('folk-events').setData({{ week_geojson }});
           }),
           document.getElementsByClassName('filter-month')[button_group].addEventListener('click', function() {
-            map.getSource('earthquakes').setData({{ geojson }});
+            map.getSource('folk-events').setData({{ geojson }});
           });
       })
     </script>
