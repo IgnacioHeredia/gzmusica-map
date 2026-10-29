@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.544034423508377",
-                    "42.882325816145894"
+                    "-8.773264408760483",
+                    "41.944937935286525"
                 ]
             },
             "properties": {
-                "name": "Banda das Crechas",
-                "location": "Santiago de Compostela",
-                "link": "https://www.gzmusica.com/axenda/eventdetail/31308/-/banda-das-crechas.html",
+                "name": "The Never Ending Trío",
+                "location": "Goián (Tomiño)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31369/-/the-never-ending-trio.html",
                 "dates": [
-                    "2026-10-28"
+                    "2026-10-29"
                 ]
             }
         },
@@ -24,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.820495005559028",
-                    "42.61081918348156"
+                    "-7.821383835923861",
+                    "42.61028378642131"
                 ]
             },
             "properties": {
@@ -43,8 +43,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.40711630497142",
-                    "43.07676336000978"
+                    "-8.406076001118775",
+                    "43.07700037889961"
                 ]
             },
             "properties": {
@@ -61,8 +61,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.777971858748847",
-                    "42.26639472431915"
+                    "-8.778211598403393",
+                    "42.26511812992838"
                 ]
             },
             "properties": {
@@ -79,8 +79,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.790312657271352",
-                    "42.950619195624995"
+                    "-8.790218935465278",
+                    "42.95030479357733"
                 ]
             },
             "properties": {
@@ -88,7 +88,8 @@
                 "location": "Paredes de Coura (Portugal)",
                 "link": "https://www.gzmusica.com/axenda/eventdetail/31292/-/mj-perez.html",
                 "dates": [
-                    "2026-10-31"
+                    "2026-10-31",
+                    "2026-11-28"
                 ]
             }
         },
@@ -97,8 +98,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.653095474848577",
-                    "43.447457027108086"
+                    "-7.65226788190202",
+                    "43.447136158937596"
                 ]
             },
             "properties": {
@@ -115,8 +116,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.851515513394817",
-                    "43.450745296157265"
+                    "-8.016688092683863",
+                    "42.763453870959985"
+                ]
+            },
+            "properties": {
+                "name": "I Foliada Magosto Bicos da Balouta",
+                "location": "Agolada, Ferreiroa (Agolada)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31362/-/i-foliada-magosto-bicos-da-balouta.html",
+                "dates": [
+                    "2026-10-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.651248034877641",
+                    "42.19798415697358"
+                ]
+            },
+            "properties": {
+                "name": "Festival Pro-Palestina",
+                "location": "O Rebullón, Tameiga (Mos)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31366/-/festival-pro-palestina.html",
+                "dates": [
+                    "2026-10-31"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.85211238173321",
+                    "43.451574030366366"
                 ]
             },
             "properties": {
@@ -133,8 +170,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.875658231172854",
-                    "42.85770531143414"
+                    "-6.874871935605347",
+                    "42.85751774736498"
                 ]
             },
             "properties": {
@@ -151,8 +188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.156452933035075",
-                    "43.50086739502289"
+                    "-8.15678366826444",
+                    "43.501794137941665"
                 ]
             },
             "properties": {
@@ -169,8 +206,62 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7019545838438557",
-                    "40.41815253687431"
+                    "-8.394511369284375",
+                    "43.37157995754527"
+                ]
+            },
+            "properties": {
+                "name": "Gudi Galego + Uxía + A Banda da Loba + Chungo Pastel",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31363/-/gudi-galego-uxia-a-banda-da-loba-chungo-pastel.html",
+                "dates": [
+                    "2026-11-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.543903133879688",
+                    "42.88049660820126"
+                ]
+            },
+            "properties": {
+                "name": "Tona + Maricarme",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31370/-/tona-maricarme.html",
+                "dates": [
+                    "2026-11-04"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.544257473391598",
+                    "42.88088773231639"
+                ]
+            },
+            "properties": {
+                "name": "Abril + Terrae",
+                "location": "Santiago de Compostela",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31371/-/abril-terrae.html",
+                "dates": [
+                    "2026-11-05"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.7025744710469346",
+                    "40.4185716527231"
                 ]
             },
             "properties": {
@@ -187,8 +278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.655098606188686",
-                    "42.07616107408915"
+                    "-8.654216178937268",
+                    "42.0744813324451"
                 ]
             },
             "properties": {
@@ -205,8 +296,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.59046460720106",
-                    "42.58931857016054"
+                    "-8.590590561352458",
+                    "42.589448392451274"
                 ]
             },
             "properties": {
@@ -223,8 +314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.642728209061996",
-                    "42.43312729597704"
+                    "-8.641994196058517",
+                    "42.432421934165816"
                 ]
             },
             "properties": {
@@ -241,8 +332,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.646370953124684",
-                    "42.43238559630052"
+                    "-8.64628823171031",
+                    "42.43368621972681"
                 ]
             },
             "properties": {
@@ -260,8 +351,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5670039504242395",
-                    "42.60080604443727"
+                    "-7.952019310808682",
+                    "43.00859719141009"
+                ]
+            },
+            "properties": {
+                "name": "O Son das Emocións: Unha Escoita a Cegas",
+                "location": "A Gramela, Visma (A Coruña)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31364/-/o-son-das-emocions-unha-escoita-a-cegas.html",
+                "dates": [
+                    "2026-11-12"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.566716273021599",
+                    "42.59903367547477"
                 ]
             },
             "properties": {
@@ -278,8 +387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.8658238886993015",
-                    "42.345292778344984"
+                    "-7.866961408072646",
+                    "42.34506886408935"
                 ]
             },
             "properties": {
@@ -297,8 +406,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.884289552755728",
-                    "42.647428115497874"
+                    "-8.884185931446329",
+                    "42.64710543836591"
                 ]
             },
             "properties": {
@@ -315,8 +424,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-7.892706980218389",
-                    "43.18228972445453"
+                    "-7.891972094450482",
+                    "43.18227786947268"
                 ]
             },
             "properties": {
@@ -333,8 +442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.652632786460464",
-                    "42.19864950816509"
+                    "-8.651194211548164",
+                    "42.198839535107595"
                 ]
             },
             "properties": {
@@ -351,8 +460,26 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.812015893864592",
-                    "42.515445792343314"
+                    "-8.50275057359543",
+                    "42.33626684984207"
+                ]
+            },
+            "properties": {
+                "name": "Serán en Calvos",
+                "location": "Calvos (Fornelos de Montes)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31367/-/seran-en-calvos.html",
+                "dates": [
+                    "2026-11-21"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.813298857690006",
+                    "42.51535333780591"
                 ]
             },
             "properties": {
@@ -369,8 +496,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.997894468872381",
-                    "43.41579676338999"
+                    "-6.998119195181315",
+                    "43.41594333817492"
                 ]
             },
             "properties": {
@@ -379,6 +506,96 @@
                 "link": "https://www.gzmusica.com/axenda/eventdetail/31348/-/festa-da-presentacion-pista-extra-da-veiga.html",
                 "dates": [
                     "2026-11-27"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.2529021221925385",
+                    "42.34248747464327"
+                ]
+            },
+            "properties": {
+                "name": "21º Cantos de Taberna A Pobra de Trives",
+                "location": "A Pobra de Trives",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31310/-/21-cantos-de-taberna-a-pobra-de-trives.html",
+                "dates": [
+                    "2026-11-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.394501514733934",
+                    "43.3727083656575"
+                ]
+            },
+            "properties": {
+                "name": "21º Ciclo de Coros Galegos",
+                "location": "A Coruña",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31089/-/21-ciclo-de-coros-galegos.html",
+                "dates": [
+                    "2026-11-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.191505373534294",
+                    "43.50248221823565"
+                ]
+            },
+            "properties": {
+                "name": "De Vacas",
+                "location": "Narón",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31358/-/de-vacas.html",
+                "dates": [
+                    "2026-11-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.129526282028431",
+                    "37.99326911585161"
+                ]
+            },
+            "properties": {
+                "name": "Boyanka Kostova",
+                "location": "Murcia (España)",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31159/-/boyanka-kostova.html",
+                "dates": [
+                    "2026-11-28"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.884235776478786",
+                    "42.647789115597185"
+                ]
+            },
+            "properties": {
+                "name": "De Ninghures",
+                "location": "Boiro",
+                "link": "https://www.gzmusica.com/axenda/eventdetail/31255/-/de-ninghures.html",
+                "dates": [
+                    "2026-11-28"
                 ]
             }
         }
